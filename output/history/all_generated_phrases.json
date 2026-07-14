@@ -1,0 +1,725 @@
+{
+  "phrases": [
+    {
+      "english": "Joy, like sunshine, warms the heart.",
+      "russian": "Радость, как солнце, греет душу.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315650"
+    },
+    {
+      "english": "Every day, a new beginning.",
+      "russian": "Каждый день, новое начало.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315659"
+    },
+    {
+      "english": "Kindness, a simple, beautiful gift.",
+      "russian": "Доброта, простой, прекрасный дар.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315660"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "russian": "Верь в себя, всегда.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315662"
+    },
+    {
+      "english": "Gratitude, the sweetest music.",
+      "russian": "Благодарность, сладчайшая музыка.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315663"
+    },
+    {
+      "english": "Peace begins with a smile.",
+      "russian": "Мир начинается с улыбки.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315665"
+    },
+    {
+      "english": "Your dreams, your path.",
+      "russian": "Твои мечты, твой путь.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315666"
+    },
+    {
+      "english": "Courage, the first step forward.",
+      "russian": "Смелость, первый шаг вперёд.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315669"
+    },
+    {
+      "english": "Love, a gentle, strong current.",
+      "russian": "Любовь, нежный, сильный ток.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315670"
+    },
+    {
+      "english": "Hope, a tiny spark, can grow.",
+      "russian": "Надежда, искорка, растёт.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315672"
+    },
+    {
+      "english": "Wisdom, earned with time.",
+      "russian": "Мудрость, приходит со временем.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315673"
+    },
+    {
+      "english": "Forgiveness, sets the spirit free.",
+      "russian": "Прощение, освобождает дух.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315674"
+    },
+    {
+      "english": "Truth, a guiding star.",
+      "russian": "Правда, путеводная звезда.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315676"
+    },
+    {
+      "english": "Patience, a quiet strength.",
+      "russian": "Терпение, тихая сила.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315677"
+    },
+    {
+      "english": "Authenticity, your true color.",
+      "russian": "Искренность, твой настоящий цвет.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315678"
+    },
+    {
+      "english": "Generosity, enriches the giver.",
+      "russian": "Щедрость, обогащает дающего.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315680"
+    },
+    {
+      "english": "Laughter, the best medicine.",
+      "russian": "Смех, лучшее лекарство.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315685"
+    },
+    {
+      "english": "Effort, leads to reward.",
+      "russian": "Усилия, ведут к награде.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315687"
+    },
+    {
+      "english": "Harmony, a balanced life.",
+      "russian": "Гармония, сбалансированная жизнь.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315688"
+    },
+    {
+      "english": "Wisdom comes, from trying.",
+      "russian": "Мудрость приходит, от попыток.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315689"
+    },
+    {
+      "english": "Simplicity, pure elegance.",
+      "russian": "Простота, чистая элегантность.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315690"
+    },
+    {
+      "english": "Kindness, spreads like ripples.",
+      "russian": "Доброта, расходится волнами.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315692"
+    },
+    {
+      "english": "Strength, found within.",
+      "russian": "Сила, находится внутри.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315693"
+    },
+    {
+      "english": "Passion, ignites the soul.",
+      "russian": "Страсть, зажигает душу.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315694"
+    },
+    {
+      "english": "Curiosity, unlocks doors.",
+      "russian": "Любопытство, открывает двери.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315695"
+    },
+    {
+      "english": "Trust, a foundation built slowly.",
+      "russian": "Доверие, строится медленно.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315696"
+    },
+    {
+      "english": "Adventure, the spice of life.",
+      "russian": "Приключение, пряность жизни.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315697"
+    },
+    {
+      "english": "Serenity, a quiet mind.",
+      "russian": "Безмятежность, спокойный разум.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315698"
+    },
+    {
+      "english": "Growth, always possible.",
+      "russian": "Рост, всегда возможен.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315699"
+    },
+    {
+      "english": "Connection, a shared moment.",
+      "russian": "Связь, общий момент.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315700"
+    },
+    {
+      "english": "Respect, earns respect.",
+      "russian": "Уважение, порождает уважение.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315701"
+    },
+    {
+      "english": "Freedom, to be yourself.",
+      "russian": "Свобода, быть собой.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315703"
+    },
+    {
+      "english": "Authenticity, your unique light.",
+      "russian": "Подлинность, твой уникальный свет.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315704"
+    },
+    {
+      "english": "Empathy, walks in another's shoes.",
+      "russian": "Сочувствие, понимает другого.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315705"
+    },
+    {
+      "english": "Clarity, a clear path ahead.",
+      "russian": "Ясность, ясный путь впереди.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315706"
+    },
+    {
+      "english": "Resilience, bounces back.",
+      "russian": "Устойчивость, возвращается сильнее.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315707"
+    },
+    {
+      "english": "Inspiration, strikes unexpectedly.",
+      "russian": "Вдохновение, приходит внезапно.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315708"
+    },
+    {
+      "english": "Appreciation, makes things shine.",
+      "russian": "Признательность, заставляет сиять.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315709"
+    },
+    {
+      "english": "Vitality, a full life.",
+      "russian": "Жизненная сила, полная жизнь.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315710"
+    },
+    {
+      "english": "Understanding, bridges divides.",
+      "russian": "Понимание, соединяет людей.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315711"
+    },
+    {
+      "english": "Radiance, from a happy heart.",
+      "russian": "Сияние, от счастливого сердца.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315712"
+    },
+    {
+      "english": "Harmony, creates balance.",
+      "russian": "Согласие, создает баланс.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315714"
+    },
+    {
+      "english": "Be kind, it echoes.",
+      "russian": "Будь добрым, это отзовётся.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315715"
+    },
+    {
+      "english": "Joy is a choice, choose it.",
+      "russian": "Радость - выбор, выбирай её.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315716"
+    },
+    {
+      "english": "Grow daily, not just yearly.",
+      "russian": "Расти каждый день, не год.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315717"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "russian": "Слушай больше, говори меньше.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315721"
+    },
+    {
+      "english": "Learn from past, live now.",
+      "russian": "Учись у прошлого, живи сейчас.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315722"
+    },
+    {
+      "english": "Every day, a new start.",
+      "russian": "Каждый день, новый старт.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315723"
+    },
+    {
+      "english": "Believe in good things.",
+      "russian": "Верь в хорошее.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315724"
+    },
+    {
+      "english": "Peace begins with you.",
+      "russian": "Мир начинается с тебя.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315725"
+    },
+    {
+      "english": "Love generously, live fully.",
+      "russian": "Люби щедро, живи полно.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315726"
+    },
+    {
+      "english": "Small steps, big journey.",
+      "russian": "Маленькие шаги, большой путь.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315727"
+    },
+    {
+      "english": "Be present, be happy.",
+      "russian": "Будь здесь, будь счастлив.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315728"
+    },
+    {
+      "english": "Inspire others, find your light.",
+      "russian": "Вдохновляй других, найди свет.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315730"
+    },
+    {
+      "english": "Gratitude, a simple treasure.",
+      "russian": "Благодарность, простая ценность.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315731"
+    },
+    {
+      "english": "Forgive easily, let go.",
+      "russian": "Прощай легко, отпускай.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315732"
+    },
+    {
+      "english": "Hope fuels the soul.",
+      "russian": "Надежда питает душу.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315733"
+    },
+    {
+      "english": "Embrace change, it's life.",
+      "russian": "Прими перемены, это жизнь.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315734"
+    },
+    {
+      "english": "Give freely, receive more.",
+      "russian": "Давай щедро, получи больше.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315735"
+    },
+    {
+      "english": "Your smile, a gift.",
+      "russian": "Твоя улыбка, подарок.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315736"
+    },
+    {
+      "english": "Stay curious, stay vibrant.",
+      "russian": "Оставайся любопытным, живым.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315737"
+    },
+    {
+      "english": "Seek truth, find peace.",
+      "russian": "Ищи правду, найди покой.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315738"
+    },
+    {
+      "english": "Believe you can, you will.",
+      "russian": "Верь, что можешь, и сможешь.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315739"
+    },
+    {
+      "english": "Kind words heal wounds.",
+      "russian": "Добрые слова лечат раны.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315740"
+    },
+    {
+      "english": "Adventure awaits, go find it.",
+      "russian": "Приключения ждут, иди ищи.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315741"
+    },
+    {
+      "english": "Simplicity is elegance.",
+      "russian": "Простота - это изящество.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315743"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "russian": "Сосредоточься на решениях, не проблемах.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315744"
+    },
+    {
+      "english": "Be the light, shine bright.",
+      "russian": "Будь светом, сияй ярко.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315747"
+    },
+    {
+      "english": "Share your gifts with world.",
+      "russian": "Делись дарами с миром.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315748"
+    },
+    {
+      "english": "Life's a dance, enjoy rhythm.",
+      "russian": "Жизнь - танец, почувствуй ритм.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315750"
+    },
+    {
+      "english": "Stay positive, stay strong.",
+      "russian": "Оставайся позитивным, сильным.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315751"
+    },
+    {
+      "english": "Create your own sunshine.",
+      "russian": "Создавай своё солнце.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315752"
+    },
+    {
+      "english": "Find beauty everywhere.",
+      "russian": "Находи красоту везде.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315753"
+    },
+    {
+      "english": "Your dreams matter, pursue them.",
+      "russian": "Твои мечты важны, гонись за ними.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315754"
+    },
+    {
+      "english": "Be the change you seek.",
+      "russian": "Будь тем изменением, что ищешь.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315755"
+    },
+    {
+      "english": "A thankful heart is happy.",
+      "russian": "Благодарное сердце счастливо.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315756"
+    },
+    {
+      "english": "Embrace your uniqueness, it's power.",
+      "russian": "Прими свою уникальность, это сила.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315757"
+    },
+    {
+      "english": "Let kindness lead your way.",
+      "russian": "Пусть доброта ведёт тебя.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315760"
+    },
+    {
+      "english": "Every moment is a gift.",
+      "russian": "Каждый момент - подарок.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315761"
+    },
+    {
+      "english": "Stay open to possibilities.",
+      "russian": "Оставайся открытым возможностям.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315762"
+    },
+    {
+      "english": "Your effort creates your future.",
+      "russian": "Твои усилия создают будущее.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315764"
+    },
+    {
+      "english": "Find joy in the simple things.",
+      "russian": "Находи радость в простом.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315765"
+    },
+    {
+      "english": "Live with purpose, live with passion.",
+      "russian": "Живи с целью, живи со страстью.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315766"
+    },
+    {
+      "english": "Be kind, it echoes.",
+      "russian": "Будь добрым, это отзовётся.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315767"
+    },
+    {
+      "english": "Joy is a choice, choose it.",
+      "russian": "Радость - выбор, выбирай её.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315768"
+    },
+    {
+      "english": "Grow daily, not just yearly.",
+      "russian": "Расти каждый день, не год.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315769"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "russian": "Слушай больше, говори меньше.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315770"
+    },
+    {
+      "english": "Learn from past, live now.",
+      "russian": "Учись у прошлого, живи сейчас.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315771"
+    },
+    {
+      "english": "Every day, a new start.",
+      "russian": "Каждый день, новый старт.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315772"
+    },
+    {
+      "english": "Believe in good things.",
+      "russian": "Верь в хорошее.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315773"
+    },
+    {
+      "english": "Peace begins with you.",
+      "russian": "Мир начинается с тебя.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315774"
+    },
+    {
+      "english": "Love generously, live fully.",
+      "russian": "Люби щедро, живи полно.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315775"
+    },
+    {
+      "english": "Small steps, big journey.",
+      "russian": "Маленькие шаги, большой путь.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315776"
+    },
+    {
+      "english": "Be present, be happy.",
+      "russian": "Будь здесь, будь счастлив.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315777"
+    },
+    {
+      "english": "Inspire others, find your light.",
+      "russian": "Вдохновляй других, найди свет.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315778"
+    },
+    {
+      "english": "Gratitude, a simple treasure.",
+      "russian": "Благодарность, простая ценность.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315779"
+    },
+    {
+      "english": "Forgive easily, let go.",
+      "russian": "Прощай легко, отпускай.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315780"
+    },
+    {
+      "english": "Hope fuels the soul.",
+      "russian": "Надежда питает душу.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315781"
+    },
+    {
+      "english": "Embrace change, it's life.",
+      "russian": "Прими перемены, это жизнь.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315782"
+    },
+    {
+      "english": "Give freely, receive more.",
+      "russian": "Давай щедро, получи больше.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315783"
+    },
+    {
+      "english": "Your smile, a gift.",
+      "russian": "Твоя улыбка, подарок.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315784"
+    },
+    {
+      "english": "Stay curious, stay vibrant.",
+      "russian": "Оставайся любопытным, живым.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315785"
+    },
+    {
+      "english": "Seek truth, find peace.",
+      "russian": "Ищи правду, найди покой.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315786"
+    },
+    {
+      "english": "Believe you can, you will.",
+      "russian": "Верь, что можешь, и сможешь.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315787"
+    },
+    {
+      "english": "Kind words heal wounds.",
+      "russian": "Добрые слова лечат раны.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315788"
+    },
+    {
+      "english": "Adventure awaits, go find it.",
+      "russian": "Приключения ждут, иди ищи.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315789"
+    },
+    {
+      "english": "Simplicity is elegance.",
+      "russian": "Простота - это изящество.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315790"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "russian": "Сосредоточься на решениях, не проблемах.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315791"
+    },
+    {
+      "english": "Be the light, shine bright.",
+      "russian": "Будь светом, сияй ярко.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315792"
+    },
+    {
+      "english": "Share your gifts with world.",
+      "russian": "Делись дарами с миром.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315795"
+    },
+    {
+      "english": "Life's a dance, enjoy rhythm.",
+      "russian": "Жизнь - танец, почувствуй ритм.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315796"
+    },
+    {
+      "english": "Stay positive, stay strong.",
+      "russian": "Оставайся позитивным, сильным.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315797"
+    },
+    {
+      "english": "Create your own sunshine.",
+      "russian": "Создавай своё солнце.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315798"
+    },
+    {
+      "english": "Find beauty everywhere.",
+      "russian": "Находи красоту везде.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315799"
+    },
+    {
+      "english": "Your dreams matter, pursue them.",
+      "russian": "Твои мечты важны, гонись за ними.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315800"
+    },
+    {
+      "english": "Be the change you seek.",
+      "russian": "Будь тем изменением, что ищешь.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315801"
+    },
+    {
+      "english": "A thankful heart is happy.",
+      "russian": "Благодарное сердце счастливо.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315802"
+    },
+    {
+      "english": "Embrace your uniqueness, it's power.",
+      "russian": "Прими свою уникальность, это сила.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315803"
+    },
+    {
+      "english": "Let kindness lead your way.",
+      "russian": "Пусть доброта ведёт тебя.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315804"
+    },
+    {
+      "english": "Every moment is a gift.",
+      "russian": "Каждый момент - подарок.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-14T04:29:12.315807"
+    }
+  ],
+  "last_updated": "2026-07-14T04:29:12.315808"
+}
