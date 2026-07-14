@@ -1,4 +1,4 @@
-name: Velocity Spanish - Daily Long-Form Upload
+name: Velocity Russian - Daily Long-Form Upload
 
 on:
   schedule:
@@ -43,7 +43,7 @@ jobs:
       - name: 📦 Install deps
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg fonts-noto-cjk fonts-noto-cjk-extra fonts-noto-color-emoji
+          sudo apt-get install -y ffmpeg fonts-dejavu-core fonts-liberation fonts-noto-color-emoji
           sudo fc-cache -fv
           python -m pip install --upgrade pip
           pip install -r requirements.txt
