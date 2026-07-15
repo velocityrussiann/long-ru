@@ -18,7 +18,7 @@ SCENIC_STYLES = [
 ]
 
 
-def generate_scenic_image(category_english: str, category_russian: str, output_path: str):
+def generate_scenic_image(category_english: str, category_Russian: str, output_path: str):
     if POLLINATIONS_API_KEY:
         for attempt in range(3):
             style = random.choice(SCENIC_STYLES)
@@ -27,8 +27,8 @@ def generate_scenic_image(category_english: str, category_russian: str, output_p
                 f"{style}. "
                 f"16:9 landscape 1920x1080 exact. High contrast, vibrant, click-worthy. "
                 f"Important: The image MUST contain the following text rendered in bold clear font: "
-                f"At top: '120 RUSSIAN PHRASES'. In center: '{category_english}'. "
-                f"At bottom: 'VELOCITY RUSSIAN'. Also: '10 MINUTE LESSON' badge."
+                f"At top: '120 Russian PHRASES'. In center: '{category_english}'. "
+                f"At bottom: 'VELOCITY Russian'. Also: '10 MINUTE LESSON' badge."
             )
             try:
                 resp = requests.post("https://gen.pollinations.ai/v1/images/generations", json={
@@ -90,7 +90,7 @@ def generate_scenic_image(category_english: str, category_russian: str, output_p
     f_sub = load_font(en_fonts, 55)
     f_brand = load_font(en_fonts, 45)
 
-    draw.text((960, 180), "120 RUSSIAN PHRASES", fill=(255, 210, 0), font=f_big, anchor="mm")
+    draw.text((960, 180), "120 Russian PHRASES", fill=(255, 210, 0), font=f_big, anchor="mm")
 
     cat_text = category_english
     bb = draw.textbbox((0, 0), cat_text, font=f_cat)
@@ -102,7 +102,7 @@ def generate_scenic_image(category_english: str, category_russian: str, output_p
     draw.rounded_rectangle([(960 - 200, 580), (960 + 200, 670)], radius=15, fill=(0, 0, 0, 180))
     draw.text((960, 625), "10 MINUTE LESSON", fill=(255, 210, 0), font=f_sub, anchor="mm")
 
-    brand_text = "VELOCITY RUSSIAN"
+    brand_text = "VELOCITY Russian"
     bb = draw.textbbox((0, 0), brand_text, font=f_brand)
     draw.text(((1920 - (bb[2] - bb[0])) // 2, 950), brand_text, fill=(200, 200, 200), font=f_brand)
 
