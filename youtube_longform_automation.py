@@ -42,7 +42,7 @@ TARGET_PHRASES = 120
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
     "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
+    "Self Improvement", "Благодарностьe", "Friendship", "Hope", "Creativity",
     "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
     "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
@@ -56,7 +56,7 @@ CATEGORIES_Russian = {
     "Wisdom": "Мудрость",
     "Happiness": "Счастье",
     "Self Improvement": "Самосовершенствование",
-    "Gratitude": "Благодарность",
+    "Благодарностьe": "Благодарность",
     "Friendship": "Дружба",
     "Hope": "Надежда",
     "Creativity": "Творчество",
@@ -365,7 +365,7 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
             {"english": "Grow through what you go through.", "Russian": "Расти через то, через что проходишь.", "pronunciation": "ras-ti che-rez to, che-rez chto pro-kho-dish'."},
             {"english": "Invest in yourself daily.", "Russian": "Инвестируй в себя ежедневно.", "pronunciation": "in-ves-ti-ruy v se-bya ye-zhe-dnev-no."},
         ],
-        "Gratitude": [
+        "Благодарностьe": [
             {"english": "Thank you for everything.", "Russian": "Спасибо за всё.", "pronunciation": "spa-si-bo za vsyo."},
             {"english": "I appreciate your help.", "Russian": "Я ценю твою помощь.", "pronunciation": "ya tse-nyu tvo-yu po-moshch'."},
             {"english": "Grateful for this moment.", "Russian": "Благодарен за этот момент.", "pronunciation": "bla-go-da-ren za e-tot mo-ment."},
