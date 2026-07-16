@@ -1439,7 +1439,727 @@
       "russian": "Каждый день, шанс на веселье.",
       "category": "Happiness",
       "generated_at": "2026-07-15T03:59:03.404989"
+    },
+    {
+      "english": "Smile more, it's free.",
+      "Russian": "Больше улыбайся, это бесплатно.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135160"
+    },
+    {
+      "english": "Good day, starts with good thoughts.",
+      "Russian": "Хороший день, начинается с хороших мыслей.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135169"
+    },
+    {
+      "english": "Little wins, make big smiles.",
+      "Russian": "Маленькие победы, вызывают большие улыбки.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135171"
+    },
+    {
+      "english": "Sunshine, always helps.",
+      "Russian": "Солнечный свет, всегда помогает.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135173"
+    },
+    {
+      "english": "Sing loud, feel happy.",
+      "Russian": "Пой громко, почувствуй счастье.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135174"
+    },
+    {
+      "english": "Share joy, it grows.",
+      "Russian": "Делись радостью, она растёт.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135175"
+    },
+    {
+      "english": "Laugh often, live better.",
+      "Russian": "Смейся часто, живи лучше.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135177"
+    },
+    {
+      "english": "This moment, is pure bliss.",
+      "Russian": "Этот момент, это чистое блаженство.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135180"
+    },
+    {
+      "english": "Good news, makes my day.",
+      "Russian": "Хорошие новости, делают мой день.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135182"
+    },
+    {
+      "english": "Feeling alive, and bright.",
+      "Russian": "Чувствую себя живым, и ярким.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135183"
+    },
+    {
+      "english": "Be kind, feel good.",
+      "Russian": "Будь добрым, чувствуй себя хорошо.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135184"
+    },
+    {
+      "english": "Great day, great mood.",
+      "Russian": "Отличный день, отличное настроение.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135185"
+    },
+    {
+      "english": "A little dance, helps a lot.",
+      "Russian": "Немного танца, очень помогает.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135190"
+    },
+    {
+      "english": "Wonderful feeling, today.",
+      "Russian": "Чудесное чувство, сегодня.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135192"
+    },
+    {
+      "english": "My heart, is full of joy.",
+      "Russian": "Моё сердце, полно радости.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135193"
+    },
+    {
+      "english": "This song, makes me happy.",
+      "Russian": "Эта песня, делает меня счастливым.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135194"
+    },
+    {
+      "english": "Such a good, vibe here.",
+      "Russian": "Такая хорошая, атмосфера здесь.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135195"
+    },
+    {
+      "english": "Life is beautiful, really.",
+      "Russian": "Жизнь прекрасна, правда.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135196"
+    },
+    {
+      "english": "Feeling light, and breezy.",
+      "Russian": "Чувствую себя лёгким, и воздушным.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135198"
+    },
+    {
+      "english": "A good book, is pure joy.",
+      "Russian": "Хорошая книга, это чистая радость.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135199"
+    },
+    {
+      "english": "Enjoy the little, things.",
+      "Russian": "Наслаждайся мелочами, жизни.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135200"
+    },
+    {
+      "english": "My spirit, feels free.",
+      "Russian": "Мой дух, чувствует себя свободным.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135201"
+    },
+    {
+      "english": "This is, a happy moment.",
+      "Russian": "Это, счастливый момент.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135202"
+    },
+    {
+      "english": "A warm hug, feels amazing.",
+      "Russian": "Теплое объятие, ощущается потрясающе.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135203"
+    },
+    {
+      "english": "Today is bright, and hopeful.",
+      "Russian": "Сегодня светло, и полно надежды.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135206"
+    },
+    {
+      "english": "Dancing through, life's ups.",
+      "Russian": "Танцуй через, взлёты жизни.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135207"
+    },
+    {
+      "english": "Simple pleasures, bring great joy.",
+      "Russian": "Простые удовольствия, приносят большую радость.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135208"
+    },
+    {
+      "english": "Feeling good, about everything.",
+      "Russian": "Чувствую себя хорошо, по всем фронтам.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135209"
+    },
+    {
+      "english": "A good laugh, is healing.",
+      "Russian": "Хороший смех, это исцеление.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135210"
+    },
+    {
+      "english": "This energy, is amazing.",
+      "Russian": "Эта энергия, потрясающая.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135212"
+    },
+    {
+      "english": "A full heart, is happy.",
+      "Russian": "Полное сердце, это счастье.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135213"
+    },
+    {
+      "english": "Let's celebrate, good times.",
+      "Russian": "Давай отпразднуем, хорошие времена.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135214"
+    },
+    {
+      "english": "Joyful thoughts, create joy.",
+      "Russian": "Радостные мысли, создают радость.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135215"
+    },
+    {
+      "english": "Every day, holds wonder.",
+      "Russian": "Каждый день, содержит чудо.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135216"
+    },
+    {
+      "english": "A warm drink, feels cozy.",
+      "Russian": "Теплый напиток, ощущается уютно.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135217"
+    },
+    {
+      "english": "This feeling, is wonderful.",
+      "Russian": "Это чувство, чудесное.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135218"
+    },
+    {
+      "english": "Gratitude, brings delight.",
+      "Russian": "Благодарность, приносит восторг.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135219"
+    },
+    {
+      "english": "Feeling great, thanks to you.",
+      "Russian": "Чувствую себя отлично, благодаря тебе.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135220"
+    },
+    {
+      "english": "Positive vibes, only.",
+      "Russian": "Только позитивные, вибрации.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135221"
+    },
+    {
+      "english": "Life's good, today.",
+      "Russian": "Жизнь хороша, сегодня.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135222"
+    },
+    {
+      "english": "Pure happiness, is simple.",
+      "Russian": "Чистое счастье, это просто.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135223"
+    },
+    {
+      "english": "Sun is shining, spirit is happy.",
+      "Russian": "Солнце светит, душа радуется.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135225"
+    },
+    {
+      "english": "Good music, good mood.",
+      "Russian": "Хорошая музыка, хорошее настроение.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135226"
+    },
+    {
+      "english": "Laugh loud, live fully.",
+      "Russian": "Смейся громко, живи полно.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135227"
+    },
+    {
+      "english": "Small joys, make life sweet.",
+      "Russian": "Маленькие радости, делают жизнь сладкой.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135228"
+    },
+    {
+      "english": "Coffee brewed, day is bright.",
+      "Russian": "Кофе сварен, день светлый.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135229"
+    },
+    {
+      "english": "Sharing smiles, warms the heart.",
+      "Russian": "Делиться улыбками, греет душу.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135231"
+    },
+    {
+      "english": "Fresh air, happy thoughts.",
+      "Russian": "Свежий воздух, мысли радостные.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135232"
+    },
+    {
+      "english": "Dance like no one, is watching.",
+      "Russian": "Танцуй, как будто никто не смотрит.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135233"
+    },
+    {
+      "english": "Book opened, new adventure.",
+      "Russian": "Книга открыта, новое приключение.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135234"
+    },
+    {
+      "english": "Sing along, to your favorite song.",
+      "Russian": "Подпевай, любимой песне.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135235"
+    },
+    {
+      "english": "Little wins, big smiles.",
+      "Russian": "Маленькие победы, большие улыбки.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135236"
+    },
+    {
+      "english": "Kind words, create joy.",
+      "Russian": "Добрые слова, создают радость.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135237"
+    },
+    {
+      "english": "Warm hug, makes everything better.",
+      "Russian": "Тёплые объятия, делают всё лучше.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135239"
+    },
+    {
+      "english": "Nature's beauty, fills the soul.",
+      "Russian": "Красота природы, наполняет душу.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135240"
+    },
+    {
+      "english": "Sweet treat, happy day.",
+      "Russian": "Сладкое угощение, счастливый день.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135241"
+    },
+    {
+      "english": "Friends together, laughter flows.",
+      "Russian": "Друзья вместе, смех льётся.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135244"
+    },
+    {
+      "english": "Dreaming big, feels amazing.",
+      "Russian": "Мечтать по-крупному, здорово.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135245"
+    },
+    {
+      "english": "Sky is blue, mood is high.",
+      "Russian": "Небо голубое, настроение на высоте.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135246"
+    },
+    {
+      "english": "A good deed, feels so right.",
+      "Russian": "Доброе дело, ощущается правильно.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135247"
+    },
+    {
+      "english": "Warm sunlight, on my face.",
+      "Russian": "Тёплый солнечный свет, на лице.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135248"
+    },
+    {
+      "english": "Simple pleasures, bring much joy.",
+      "Russian": "Простые удовольствия, приносят много радости.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135249"
+    },
+    {
+      "english": "Gratitude flows, all day long.",
+      "Russian": "Благодарность течёт, весь день.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135251"
+    },
+    {
+      "english": "A walk outside, clears the mind.",
+      "Russian": "Прогулка на свежем воздухе, проясняет ум.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135252"
+    },
+    {
+      "english": "Sweet dreams, sweet morning.",
+      "Russian": "Сладкие сны, сладкое утро.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135253"
+    },
+    {
+      "english": "Feeling hopeful, and light.",
+      "Russian": "Чувствую себя, с надеждой и легко.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135254"
+    },
+    {
+      "english": "Art inspires, spirit lifts.",
+      "Russian": "Искусство вдохновляет, дух поднимается.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135255"
+    },
+    {
+      "english": "Warm beverage, cozy feelings.",
+      "Russian": "Горячий напиток, уютные чувства.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135256"
+    },
+    {
+      "english": "Listen to laughter, it's healing.",
+      "Russian": "Слушай смех, он исцеляет.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135257"
+    },
+    {
+      "english": "Sunbeam on the window, nice.",
+      "Russian": "Солнечный луч в окне, приятно.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135259"
+    },
+    {
+      "english": "Doing what you love, pure bliss.",
+      "Russian": "Делать то, что любишь, чистое блаженство.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135260"
+    },
+    {
+      "english": "A good story, makes my day.",
+      "Russian": "Хорошая история, делает мой день.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135261"
+    },
+    {
+      "english": "Feeling energized, ready to go.",
+      "Russian": "Чувствую себя, полным энергии.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135262"
+    },
+    {
+      "english": "Kindness spreads, like wildfire.",
+      "Russian": "Доброта распространяется, как лесной пожар.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135263"
+    },
+    {
+      "english": "Warm thoughts, bring happy smiles.",
+      "Russian": "Тёплые мысли, вызывают счастливые улыбки.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135264"
+    },
+    {
+      "english": "A quiet moment, a full heart.",
+      "Russian": "Тихий момент, полное сердце.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135267"
+    },
+    {
+      "english": "This song, makes me dance.",
+      "Russian": "Эта песня, заставляет меня танцевать.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135268"
+    },
+    {
+      "english": "Sunflowers turn, to the sun.",
+      "Russian": "Подсолнухи поворачиваются, к солнцу.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135269"
+    },
+    {
+      "english": "Brewing joy, one cup now.",
+      "Russian": "Варя радость, по одной чашке.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135270"
+    },
+    {
+      "english": "Breathe deep, smile wider.",
+      "Russian": "Дыши глубже, улыбайся шире.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135272"
+    },
+    {
+      "english": "Sun is shining, spirit is happy.",
+      "Russian": "Солнце светит, душа радуется.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135273"
+    },
+    {
+      "english": "Good music, good mood.",
+      "Russian": "Хорошая музыка, хорошее настроение.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135274"
+    },
+    {
+      "english": "Laugh loud, live fully.",
+      "Russian": "Смейся громко, живи полно.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135275"
+    },
+    {
+      "english": "Small joys, make life sweet.",
+      "Russian": "Маленькие радости, делают жизнь сладкой.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135276"
+    },
+    {
+      "english": "Coffee brewed, day is bright.",
+      "Russian": "Кофе сварен, день светлый.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135277"
+    },
+    {
+      "english": "Sharing smiles, warms the heart.",
+      "Russian": "Делиться улыбками, греет душу.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135279"
+    },
+    {
+      "english": "Fresh air, happy thoughts.",
+      "Russian": "Свежий воздух, мысли радостные.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135280"
+    },
+    {
+      "english": "Dance like no one, is watching.",
+      "Russian": "Танцуй, как будто никто не смотрит.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135295"
+    },
+    {
+      "english": "Book opened, new adventure.",
+      "Russian": "Книга открыта, новое приключение.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135303"
+    },
+    {
+      "english": "Sing along, to your favorite song.",
+      "Russian": "Подпевай, любимой песне.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135304"
+    },
+    {
+      "english": "Little wins, big smiles.",
+      "Russian": "Маленькие победы, большие улыбки.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135305"
+    },
+    {
+      "english": "Kind words, create joy.",
+      "Russian": "Добрые слова, создают радость.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135306"
+    },
+    {
+      "english": "Warm hug, makes everything better.",
+      "Russian": "Тёплые объятия, делают всё лучше.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135308"
+    },
+    {
+      "english": "Nature's beauty, fills the soul.",
+      "Russian": "Красота природы, наполняет душу.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135309"
+    },
+    {
+      "english": "Sweet treat, happy day.",
+      "Russian": "Сладкое угощение, счастливый день.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135310"
+    },
+    {
+      "english": "Friends together, laughter flows.",
+      "Russian": "Друзья вместе, смех льётся.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135311"
+    },
+    {
+      "english": "Dreaming big, feels amazing.",
+      "Russian": "Мечтать по-крупному, здорово.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135312"
+    },
+    {
+      "english": "Sky is blue, mood is high.",
+      "Russian": "Небо голубое, настроение на высоте.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135313"
+    },
+    {
+      "english": "A good deed, feels so right.",
+      "Russian": "Доброе дело, ощущается правильно.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135314"
+    },
+    {
+      "english": "Warm sunlight, on my face.",
+      "Russian": "Тёплый солнечный свет, на лице.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135333"
+    },
+    {
+      "english": "Simple pleasures, bring much joy.",
+      "Russian": "Простые удовольствия, приносят много радости.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135334"
+    },
+    {
+      "english": "Gratitude flows, all day long.",
+      "Russian": "Благодарность течёт, весь день.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135335"
+    },
+    {
+      "english": "A walk outside, clears the mind.",
+      "Russian": "Прогулка на свежем воздухе, проясняет ум.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135336"
+    },
+    {
+      "english": "Sweet dreams, sweet morning.",
+      "Russian": "Сладкие сны, сладкое утро.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135337"
+    },
+    {
+      "english": "Feeling hopeful, and light.",
+      "Russian": "Чувствую себя, с надеждой и легко.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135338"
+    },
+    {
+      "english": "Art inspires, spirit lifts.",
+      "Russian": "Искусство вдохновляет, дух поднимается.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135340"
+    },
+    {
+      "english": "Warm beverage, cozy feelings.",
+      "Russian": "Горячий напиток, уютные чувства.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135341"
+    },
+    {
+      "english": "Listen to laughter, it's healing.",
+      "Russian": "Слушай смех, он исцеляет.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135342"
+    },
+    {
+      "english": "Sunbeam on the window, nice.",
+      "Russian": "Солнечный луч в окне, приятно.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135343"
+    },
+    {
+      "english": "Doing what you love, pure bliss.",
+      "Russian": "Делать то, что любишь, чистое блаженство.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135344"
+    },
+    {
+      "english": "A good story, makes my day.",
+      "Russian": "Хорошая история, делает мой день.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135345"
+    },
+    {
+      "english": "Feeling energized, ready to go.",
+      "Russian": "Чувствую себя, полным энергии.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135346"
+    },
+    {
+      "english": "Kindness spreads, like wildfire.",
+      "Russian": "Доброта распространяется, как лесной пожар.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135347"
+    },
+    {
+      "english": "Warm thoughts, bring happy smiles.",
+      "Russian": "Тёплые мысли, вызывают счастливые улыбки.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135349"
+    },
+    {
+      "english": "A quiet moment, a full heart.",
+      "Russian": "Тихий момент, полное сердце.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135350"
+    },
+    {
+      "english": "This song, makes me dance.",
+      "Russian": "Эта песня, заставляет меня танцевать.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135351"
+    },
+    {
+      "english": "Sunflowers turn, to the sun.",
+      "Russian": "Подсолнухи поворачиваются, к солнцу.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135353"
+    },
+    {
+      "english": "Brewing joy, one cup now.",
+      "Russian": "Варя радость, по одной чашке.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135354"
+    },
+    {
+      "english": "Breathe deep, smile wider.",
+      "Russian": "Дыши глубже, улыбайся шире.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135355"
+    },
+    {
+      "english": "Sun is shining, spirit is happy.",
+      "Russian": "Солнце светит, душа радуется.",
+      "category": "Joy",
+      "generated_at": "2026-07-16T04:10:11.135356"
     }
   ],
-  "last_updated": "2026-07-15T03:59:03.404991"
+  "last_updated": "2026-07-16T04:10:11.135359"
 }
