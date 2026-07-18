@@ -2879,7 +2879,727 @@
       "Russian": "Чувствую себя энергичным, живым!",
       "category": "Joy",
       "generated_at": "2026-07-17T04:07:45.913022"
+    },
+    {
+      "english": "Learn something new, daily.",
+      "Russian": "Учись новому, каждый день.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729441"
+    },
+    {
+      "english": "A quiet mind, is a powerful mind.",
+      "Russian": "Тихий ум, сильный ум.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729453"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "Russian": "Терпение, добродетель.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729455"
+    },
+    {
+      "english": "Kindness, costs nothing.",
+      "Russian": "Доброта, ничего не стоит.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729456"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "Russian": "Прощение, освобождает.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729458"
+    },
+    {
+      "english": "Your actions, speak louder.",
+      "Russian": "Твои поступки, громче слов.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729459"
+    },
+    {
+      "english": "Truth, is often simple.",
+      "Russian": "Правда, часто проста.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729460"
+    },
+    {
+      "english": "Silence, can be golden.",
+      "Russian": "Молчание, бывает золотым.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729463"
+    },
+    {
+      "english": "Trust, your intuition.",
+      "Russian": "Доверяй, своей интуиции.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729465"
+    },
+    {
+      "english": "Be present, in the moment.",
+      "Russian": "Будь здесь, и сейчас.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729466"
+    },
+    {
+      "english": "Wisdom, comes with age.",
+      "Russian": "Мудрость, приходит с годами.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729468"
+    },
+    {
+      "english": "Simplicity, is beautiful.",
+      "Russian": "Простота, прекрасна.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729469"
+    },
+    {
+      "english": "Understanding, takes time.",
+      "Russian": "Понимание, требует времени.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729470"
+    },
+    {
+      "english": "Courage, is facing fears.",
+      "Russian": "Смелость, это страх.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729472"
+    },
+    {
+      "english": "Empathy, connects us all.",
+      "Russian": "Сочувствие, объединяет.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729473"
+    },
+    {
+      "english": "Humility, is true strength.",
+      "Russian": "Смирение, настоящая сила.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729474"
+    },
+    {
+      "english": "Gratitude, opens doors.",
+      "Russian": "Благодарность, открывает двери.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729475"
+    },
+    {
+      "english": "Honesty, is the best policy.",
+      "Russian": "Честность, лучшая политика.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729476"
+    },
+    {
+      "english": "Balance, is key.",
+      "Russian": "Баланс, это главное.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729477"
+    },
+    {
+      "english": "Focus, on what matters.",
+      "Russian": "Сосредоточься, на важном.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729478"
+    },
+    {
+      "english": "Adaptability, is survival.",
+      "Russian": "Гибкость, это выживание.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729479"
+    },
+    {
+      "english": "Perseverance, wins.",
+      "Russian": "Настойчивость, побеждает.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729480"
+    },
+    {
+      "english": "Acceptance, brings peace.",
+      "Russian": "Принятие, приносит мир.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729481"
+    },
+    {
+      "english": "Creativity, flows freely.",
+      "Russian": "Креативность, течет свободно.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729482"
+    },
+    {
+      "english": "Curiosity, sparks growth.",
+      "Russian": "Любопытство, вызывает рост.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729483"
+    },
+    {
+      "english": "Doubt, can be useful.",
+      "Russian": "Сомнение, может быть полезным.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729487"
+    },
+    {
+      "english": "Vulnerability, is strength.",
+      "Russian": "Уязвимость, это сила.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729488"
+    },
+    {
+      "english": "Self-awareness, is wisdom.",
+      "Russian": "Самосознание, это мудрость.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729489"
+    },
+    {
+      "english": "Reflection, brings clarity.",
+      "Russian": "Размышление, дает ясность.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729490"
+    },
+    {
+      "english": "Authenticity, shines through.",
+      "Russian": "Подлинность, сияет.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729491"
+    },
+    {
+      "english": "Discipline, builds character.",
+      "Russian": "Дисциплина, строит характер.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729492"
+    },
+    {
+      "english": "Gratitude, for small things.",
+      "Russian": "Благодарность, за мелочи.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729493"
+    },
+    {
+      "english": "Companionship, is precious.",
+      "Russian": "Дружба, очень ценна.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729495"
+    },
+    {
+      "english": "Effort, yields reward.",
+      "Russian": "Усилия, приносят плоды.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729496"
+    },
+    {
+      "english": "Connection, is vital.",
+      "Russian": "Связь, очень важна.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729497"
+    },
+    {
+      "english": "Belief, moves mountains.",
+      "Russian": "Вера, двигает горы.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729498"
+    },
+    {
+      "english": "Be kind, always unexpected.",
+      "Russian": "Будь добрым, всегда неожиданно.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729499"
+    },
+    {
+      "english": "Learn daily, grow daily.",
+      "Russian": "Учись каждый день, расти каждый день.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729500"
+    },
+    {
+      "english": "Observe everything, say little.",
+      "Russian": "Наблюдай всё, говори мало.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729501"
+    },
+    {
+      "english": "Be curious, explore more.",
+      "Russian": "Будь любопытным, исследуй больше.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729502"
+    },
+    {
+      "english": "Truth hides, in silence.",
+      "Russian": "Правда прячется, в тишине.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729504"
+    },
+    {
+      "english": "Help often, without reason.",
+      "Russian": "Помогай часто, без причины.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729506"
+    },
+    {
+      "english": "Mistakes teach, us lessons.",
+      "Russian": "Ошибки учат, нас урокам.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729507"
+    },
+    {
+      "english": "Patience wins, everything.",
+      "Russian": "Терпение побеждает, всё.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729509"
+    },
+    {
+      "english": "Wisdom comes, with age.",
+      "Russian": "Мудрость приходит, с возрастом.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729510"
+    },
+    {
+      "english": "Silence speaks, volumes.",
+      "Russian": "Молчание говорит, многое.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729511"
+    },
+    {
+      "english": "Understand deeply, judge lightly.",
+      "Russian": "Понимай глубоко, суди легко.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729512"
+    },
+    {
+      "english": "Forgive quickly, forget easily.",
+      "Russian": "Прощай быстро, забывай легко.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729513"
+    },
+    {
+      "english": "Empathy connects, us all.",
+      "Russian": "Сочувствие связывает, нас всех.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729514"
+    },
+    {
+      "english": "Be present, fully.",
+      "Russian": "Будь здесь, полностью.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729515"
+    },
+    {
+      "english": "Change happens, constantly.",
+      "Russian": "Изменения происходят, постоянно.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729516"
+    },
+    {
+      "english": "Humility is, strength.",
+      "Russian": "Смирение есть, сила.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729518"
+    },
+    {
+      "english": "Gratitude is, a gift.",
+      "Russian": "Благодарность это, подарок.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729519"
+    },
+    {
+      "english": "Truth is, often simple.",
+      "Russian": "Правда есть, часто простая.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729520"
+    },
+    {
+      "english": "Fear fades, with action.",
+      "Russian": "Страх уходит, с действием.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729521"
+    },
+    {
+      "english": "Perfection, is an illusion.",
+      "Russian": "Совершенство, это иллюзия.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729522"
+    },
+    {
+      "english": "Compromise builds, bridges.",
+      "Russian": "Компромисс строит, мосты.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729523"
+    },
+    {
+      "english": "Laughter is, medicine.",
+      "Russian": "Смех это, лекарство.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729526"
+    },
+    {
+      "english": "Patience, is power.",
+      "Russian": "Терпение, это сила.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729527"
+    },
+    {
+      "english": "Kindness echoes, forever.",
+      "Russian": "Доброта отзывается, навечно.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729528"
+    },
+    {
+      "english": "Seek understanding, not victory.",
+      "Russian": "Ищи понимание, не победу.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729529"
+    },
+    {
+      "english": "Small kindnesses, bloom.",
+      "Russian": "Маленькие добрые дела, цветут.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729530"
+    },
+    {
+      "english": "Your mind, is a garden.",
+      "Russian": "Твой разум, это сад.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729531"
+    },
+    {
+      "english": "Listen to your, inner voice.",
+      "Russian": "Слушай свой, внутренний голос.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729533"
+    },
+    {
+      "english": "Every moment, matters.",
+      "Russian": "Каждый момент, имеет значение.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729534"
+    },
+    {
+      "english": "Be gentle, with yourself.",
+      "Russian": "Будь нежен, с собой.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729535"
+    },
+    {
+      "english": "Simplicity is, elegance.",
+      "Russian": "Простота это, элегантность.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729536"
+    },
+    {
+      "english": "Action speaks, louder.",
+      "Russian": "Действие говорит, громче.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729537"
+    },
+    {
+      "english": "Hope fuels, persistence.",
+      "Russian": "Надежда питает, упорство.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729538"
+    },
+    {
+      "english": "True wealth, is peace.",
+      "Russian": "Истинное богатство, это мир.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729539"
+    },
+    {
+      "english": "Embrace the unknown, boldly.",
+      "Russian": "Прими неизвестное, смело.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729541"
+    },
+    {
+      "english": "Be kind, always unexpected.",
+      "Russian": "Будь добрым, всегда неожиданно.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729542"
+    },
+    {
+      "english": "Learn daily, grow daily.",
+      "Russian": "Учись каждый день, расти каждый день.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729543"
+    },
+    {
+      "english": "Observe everything, say little.",
+      "Russian": "Наблюдай всё, говори мало.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729544"
+    },
+    {
+      "english": "Be curious, explore more.",
+      "Russian": "Будь любопытным, исследуй больше.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729545"
+    },
+    {
+      "english": "Truth hides, in silence.",
+      "Russian": "Правда прячется, в тишине.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729546"
+    },
+    {
+      "english": "Help often, without reason.",
+      "Russian": "Помогай часто, без причины.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729547"
+    },
+    {
+      "english": "Mistakes teach, us lessons.",
+      "Russian": "Ошибки учат, нас урокам.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729549"
+    },
+    {
+      "english": "Patience wins, everything.",
+      "Russian": "Терпение побеждает, всё.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729550"
+    },
+    {
+      "english": "Wisdom comes, with age.",
+      "Russian": "Мудрость приходит, с возрастом.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729551"
+    },
+    {
+      "english": "Silence speaks, volumes.",
+      "Russian": "Молчание говорит, многое.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729552"
+    },
+    {
+      "english": "Understand deeply, judge lightly.",
+      "Russian": "Понимай глубоко, суди легко.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729553"
+    },
+    {
+      "english": "Forgive quickly, forget easily.",
+      "Russian": "Прощай быстро, забывай легко.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729554"
+    },
+    {
+      "english": "Empathy connects, us all.",
+      "Russian": "Сочувствие связывает, нас всех.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729555"
+    },
+    {
+      "english": "Be present, fully.",
+      "Russian": "Будь здесь, полностью.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729557"
+    },
+    {
+      "english": "Change happens, constantly.",
+      "Russian": "Изменения происходят, постоянно.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729558"
+    },
+    {
+      "english": "Humility is, strength.",
+      "Russian": "Смирение есть, сила.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729559"
+    },
+    {
+      "english": "Gratitude is, a gift.",
+      "Russian": "Благодарность это, подарок.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729560"
+    },
+    {
+      "english": "Truth is, often simple.",
+      "Russian": "Правда есть, часто простая.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729561"
+    },
+    {
+      "english": "Fear fades, with action.",
+      "Russian": "Страх уходит, с действием.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729564"
+    },
+    {
+      "english": "Perfection, is an illusion.",
+      "Russian": "Совершенство, это иллюзия.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729565"
+    },
+    {
+      "english": "Compromise builds, bridges.",
+      "Russian": "Компромисс строит, мосты.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729566"
+    },
+    {
+      "english": "Laughter is, medicine.",
+      "Russian": "Смех это, лекарство.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729567"
+    },
+    {
+      "english": "Patience, is power.",
+      "Russian": "Терпение, это сила.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729568"
+    },
+    {
+      "english": "Kindness echoes, forever.",
+      "Russian": "Доброта отзывается, навечно.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729569"
+    },
+    {
+      "english": "Seek understanding, not victory.",
+      "Russian": "Ищи понимание, не победу.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729571"
+    },
+    {
+      "english": "Small kindnesses, bloom.",
+      "Russian": "Маленькие добрые дела, цветут.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729572"
+    },
+    {
+      "english": "Your mind, is a garden.",
+      "Russian": "Твой разум, это сад.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729573"
+    },
+    {
+      "english": "Listen to your, inner voice.",
+      "Russian": "Слушай свой, внутренний голос.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729574"
+    },
+    {
+      "english": "Every moment, matters.",
+      "Russian": "Каждый момент, имеет значение.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729575"
+    },
+    {
+      "english": "Be gentle, with yourself.",
+      "Russian": "Будь нежен, с собой.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729576"
+    },
+    {
+      "english": "Simplicity is, elegance.",
+      "Russian": "Простота это, элегантность.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729577"
+    },
+    {
+      "english": "Action speaks, louder.",
+      "Russian": "Действие говорит, громче.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729578"
+    },
+    {
+      "english": "Hope fuels, persistence.",
+      "Russian": "Надежда питает, упорство.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729579"
+    },
+    {
+      "english": "True wealth, is peace.",
+      "Russian": "Истинное богатство, это мир.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729581"
+    },
+    {
+      "english": "Embrace the unknown, boldly.",
+      "Russian": "Прими неизвестное, смело.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729582"
+    },
+    {
+      "english": "Be kind, always unexpected.",
+      "Russian": "Будь добрым, всегда неожиданно.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729583"
+    },
+    {
+      "english": "Learn daily, grow daily.",
+      "Russian": "Учись каждый день, расти каждый день.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729584"
+    },
+    {
+      "english": "Observe everything, say little.",
+      "Russian": "Наблюдай всё, говори мало.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729585"
+    },
+    {
+      "english": "Be curious, explore more.",
+      "Russian": "Будь любопытным, исследуй больше.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729586"
+    },
+    {
+      "english": "Truth hides, in silence.",
+      "Russian": "Правда прячется, в тишине.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729588"
+    },
+    {
+      "english": "Help often, without reason.",
+      "Russian": "Помогай часто, без причины.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729589"
+    },
+    {
+      "english": "Mistakes teach, us lessons.",
+      "Russian": "Ошибки учат, нас урокам.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729590"
+    },
+    {
+      "english": "Patience wins, everything.",
+      "Russian": "Терпение побеждает, всё.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729592"
+    },
+    {
+      "english": "Wisdom comes, with age.",
+      "Russian": "Мудрость приходит, с возрастом.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729593"
+    },
+    {
+      "english": "Silence speaks, volumes.",
+      "Russian": "Молчание говорит, многое.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729595"
+    },
+    {
+      "english": "Understand deeply, judge lightly.",
+      "Russian": "Понимай глубоко, суди легко.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729596"
+    },
+    {
+      "english": "Forgive quickly, forget easily.",
+      "Russian": "Прощай быстро, забывай легко.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729597"
+    },
+    {
+      "english": "Empathy connects, us all.",
+      "Russian": "Сочувствие связывает, нас всех.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729598"
+    },
+    {
+      "english": "Be present, fully.",
+      "Russian": "Будь здесь, полностью.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-18T03:56:18.729645"
     }
   ],
-  "last_updated": "2026-07-17T04:07:45.913023"
+  "last_updated": "2026-07-18T03:56:18.729649"
 }
