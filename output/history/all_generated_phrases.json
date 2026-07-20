@@ -4319,7 +4319,727 @@
       "Russian": "Твоё видение, взлетает.",
       "category": "Creativity",
       "generated_at": "2026-07-19T04:22:23.440171"
+    },
+    {
+      "english": "Let it go, friend.",
+      "Russian": "Отпусти, друг.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496129"
+    },
+    {
+      "english": "Water under, the bridge.",
+      "Russian": "Было и прошло.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496138"
+    },
+    {
+      "english": "No hard feelings, okay?",
+      "Russian": "Без обид, хорошо?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496140"
+    },
+    {
+      "english": "It's all good, really.",
+      "Russian": "Всё в порядке, правда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496142"
+    },
+    {
+      "english": "Forget the past, live now.",
+      "Russian": "Забудь прошлое, живи сейчас.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496143"
+    },
+    {
+      "english": "Peace to you, always.",
+      "Russian": "Мир тебе, всегда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496144"
+    },
+    {
+      "english": "Let's move on, shall we?",
+      "Russian": "Давай идти дальше, да?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496146"
+    },
+    {
+      "english": "It wasn't your fault.",
+      "Russian": "Это не твоя вина.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496148"
+    },
+    {
+      "english": "We all make mistakes.",
+      "Russian": "Все мы совершаем ошибки.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496150"
+    },
+    {
+      "english": "Don't dwell on it.",
+      "Russian": "Не зацикливайся на этом.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496151"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "Russian": "Я прощаю тебя, искренне.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496153"
+    },
+    {
+      "english": "Let's start fresh, okay?",
+      "Russian": "Начнём с чистого листа, ладно?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496154"
+    },
+    {
+      "english": "No more anger, please.",
+      "Russian": "Больше никакого гнева, пожалуйста.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496155"
+    },
+    {
+      "english": "May you find peace.",
+      "Russian": "Пусть ты найдёшь покой.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496156"
+    },
+    {
+      "english": "It's forgotten now.",
+      "Russian": "Это забыто теперь.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496157"
+    },
+    {
+      "english": "Let's clear the air.",
+      "Russian": "Давай проясним ситуацию.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496159"
+    },
+    {
+      "english": "No grudges held, none.",
+      "Russian": "Никакой злобы, никакой.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496160"
+    },
+    {
+      "english": "Consider it done.",
+      "Russian": "Считай, что сделано.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496161"
+    },
+    {
+      "english": "All is forgiven, move on.",
+      "Russian": "Всё прощено, двигайся дальше.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496191"
+    },
+    {
+      "english": "Let love conquer all.",
+      "Russian": "Пусть любовь победит всё.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496192"
+    },
+    {
+      "english": "Tomorrow is a new day.",
+      "Russian": "Завтра новый день.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496194"
+    },
+    {
+      "english": "We're good now, right?",
+      "Russian": "Мы в порядке теперь, да?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496195"
+    },
+    {
+      "english": "Shake hands, be friends.",
+      "Russian": "Пожмём руки, будем друзьями.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496196"
+    },
+    {
+      "english": "That chapter is closed.",
+      "Russian": "Та глава закрыта.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496197"
+    },
+    {
+      "english": "Let go of the hurt.",
+      "Russian": "Отпусти боль.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496198"
+    },
+    {
+      "english": "No more bad blood.",
+      "Russian": "Больше никакой вражды.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496199"
+    },
+    {
+      "english": "Time to heal, my friend.",
+      "Russian": "Время лечиться, мой друг.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496200"
+    },
+    {
+      "english": "We understand each other.",
+      "Russian": "Мы понимаем друг друга.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496201"
+    },
+    {
+      "english": "Let bygones, be bygones.",
+      "Russian": "Пусть прошлое останется в прошлом.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496202"
+    },
+    {
+      "english": "This is the end, of that.",
+      "Russian": "Это конец, тому.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496203"
+    },
+    {
+      "english": "I release you now.",
+      "Russian": "Я освобождаю тебя сейчас.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496204"
+    },
+    {
+      "english": "A clean slate, for us.",
+      "Russian": "Чистый лист, для нас.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496205"
+    },
+    {
+      "english": "No need to regret.",
+      "Russian": "Нет смысла жалеть.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496206"
+    },
+    {
+      "english": "Let's find common ground.",
+      "Russian": "Давай найдём общий язык.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496207"
+    },
+    {
+      "english": "It's all forgotten, okay?",
+      "Russian": "Всё забыто, ладно?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496208"
+    },
+    {
+      "english": "May you be happy.",
+      "Russian": "Пусть ты будешь счастлив.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496209"
+    },
+    {
+      "english": "Forgive and forget, my dear.",
+      "Russian": "Прости и забудь, дорогой.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496210"
+    },
+    {
+      "english": "No hard feelings, ever.",
+      "Russian": "Никакой обиды, никогда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496211"
+    },
+    {
+      "english": "Let's rebuild, together.",
+      "Russian": "Давай восстановим, вместе.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496212"
+    },
+    {
+      "english": "This is closure, for sure.",
+      "Russian": "Это завершение, точно.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496213"
+    },
+    {
+      "english": "Let it go, friend.",
+      "Russian": "Отпусти, друг.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496214"
+    },
+    {
+      "english": "Water under, the bridge.",
+      "Russian": "Было и прошло.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496217"
+    },
+    {
+      "english": "No hard feelings, okay?",
+      "Russian": "Без обид, хорошо?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496221"
+    },
+    {
+      "english": "It's all good, really.",
+      "Russian": "Всё в порядке, правда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496222"
+    },
+    {
+      "english": "Forget the past, live now.",
+      "Russian": "Забудь прошлое, живи сейчас.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496223"
+    },
+    {
+      "english": "Peace to you, always.",
+      "Russian": "Мир тебе, всегда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496225"
+    },
+    {
+      "english": "Let's move on, shall we?",
+      "Russian": "Давай идти дальше, да?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496226"
+    },
+    {
+      "english": "It wasn't your fault.",
+      "Russian": "Это не твоя вина.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496227"
+    },
+    {
+      "english": "We all make mistakes.",
+      "Russian": "Все мы совершаем ошибки.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496228"
+    },
+    {
+      "english": "Don't dwell on it.",
+      "Russian": "Не зацикливайся на этом.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496229"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "Russian": "Я прощаю тебя, искренне.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496230"
+    },
+    {
+      "english": "Let's start fresh, okay?",
+      "Russian": "Начнём с чистого листа, ладно?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496231"
+    },
+    {
+      "english": "No more anger, please.",
+      "Russian": "Больше никакого гнева, пожалуйста.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496232"
+    },
+    {
+      "english": "May you find peace.",
+      "Russian": "Пусть ты найдёшь покой.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496233"
+    },
+    {
+      "english": "It's forgotten now.",
+      "Russian": "Это забыто теперь.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496234"
+    },
+    {
+      "english": "Let's clear the air.",
+      "Russian": "Давай проясним ситуацию.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496236"
+    },
+    {
+      "english": "No grudges held, none.",
+      "Russian": "Никакой злобы, никакой.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496237"
+    },
+    {
+      "english": "Consider it done.",
+      "Russian": "Считай, что сделано.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496238"
+    },
+    {
+      "english": "All is forgiven, move on.",
+      "Russian": "Всё прощено, двигайся дальше.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496239"
+    },
+    {
+      "english": "Let love conquer all.",
+      "Russian": "Пусть любовь победит всё.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496240"
+    },
+    {
+      "english": "Tomorrow is a new day.",
+      "Russian": "Завтра новый день.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496241"
+    },
+    {
+      "english": "We're good now, right?",
+      "Russian": "Мы в порядке теперь, да?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496242"
+    },
+    {
+      "english": "Shake hands, be friends.",
+      "Russian": "Пожмём руки, будем друзьями.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496243"
+    },
+    {
+      "english": "That chapter is closed.",
+      "Russian": "Та глава закрыта.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496244"
+    },
+    {
+      "english": "Let go of the hurt.",
+      "Russian": "Отпусти боль.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496246"
+    },
+    {
+      "english": "No more bad blood.",
+      "Russian": "Больше никакой вражды.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496247"
+    },
+    {
+      "english": "Time to heal, my friend.",
+      "Russian": "Время лечиться, мой друг.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496248"
+    },
+    {
+      "english": "We understand each other.",
+      "Russian": "Мы понимаем друг друга.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496249"
+    },
+    {
+      "english": "Let bygones, be bygones.",
+      "Russian": "Пусть прошлое останется в прошлом.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496250"
+    },
+    {
+      "english": "This is the end, of that.",
+      "Russian": "Это конец, тому.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496251"
+    },
+    {
+      "english": "I release you now.",
+      "Russian": "Я освобождаю тебя сейчас.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496252"
+    },
+    {
+      "english": "A clean slate, for us.",
+      "Russian": "Чистый лист, для нас.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496253"
+    },
+    {
+      "english": "No need to regret.",
+      "Russian": "Нет смысла жалеть.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496254"
+    },
+    {
+      "english": "Let's find common ground.",
+      "Russian": "Давай найдём общий язык.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496255"
+    },
+    {
+      "english": "It's all forgotten, okay?",
+      "Russian": "Всё забыто, ладно?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496256"
+    },
+    {
+      "english": "May you be happy.",
+      "Russian": "Пусть ты будешь счастлив.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496257"
+    },
+    {
+      "english": "Forgive and forget, my dear.",
+      "Russian": "Прости и забудь, дорогой.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496258"
+    },
+    {
+      "english": "No hard feelings, ever.",
+      "Russian": "Никакой обиды, никогда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496259"
+    },
+    {
+      "english": "Let's rebuild, together.",
+      "Russian": "Давай восстановим, вместе.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496260"
+    },
+    {
+      "english": "This is closure, for sure.",
+      "Russian": "Это завершение, точно.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496261"
+    },
+    {
+      "english": "Let it go, friend.",
+      "Russian": "Отпусти, друг.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496262"
+    },
+    {
+      "english": "Water under, the bridge.",
+      "Russian": "Было и прошло.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496263"
+    },
+    {
+      "english": "No hard feelings, okay?",
+      "Russian": "Без обид, хорошо?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496264"
+    },
+    {
+      "english": "It's all good, really.",
+      "Russian": "Всё в порядке, правда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496265"
+    },
+    {
+      "english": "Forget the past, live now.",
+      "Russian": "Забудь прошлое, живи сейчас.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496266"
+    },
+    {
+      "english": "Peace to you, always.",
+      "Russian": "Мир тебе, всегда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496267"
+    },
+    {
+      "english": "Let's move on, shall we?",
+      "Russian": "Давай идти дальше, да?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496268"
+    },
+    {
+      "english": "It wasn't your fault.",
+      "Russian": "Это не твоя вина.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496269"
+    },
+    {
+      "english": "We all make mistakes.",
+      "Russian": "Все мы совершаем ошибки.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496270"
+    },
+    {
+      "english": "Don't dwell on it.",
+      "Russian": "Не зацикливайся на этом.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496271"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "Russian": "Я прощаю тебя, искренне.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496272"
+    },
+    {
+      "english": "Let's start fresh, okay?",
+      "Russian": "Начнём с чистого листа, ладно?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496273"
+    },
+    {
+      "english": "No more anger, please.",
+      "Russian": "Больше никакого гнева, пожалуйста.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496276"
+    },
+    {
+      "english": "May you find peace.",
+      "Russian": "Пусть ты найдёшь покой.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496277"
+    },
+    {
+      "english": "It's forgotten now.",
+      "Russian": "Это забыто теперь.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496278"
+    },
+    {
+      "english": "Let's clear the air.",
+      "Russian": "Давай проясним ситуацию.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496279"
+    },
+    {
+      "english": "No grudges held, none.",
+      "Russian": "Никакой злобы, никакой.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496280"
+    },
+    {
+      "english": "Consider it done.",
+      "Russian": "Считай, что сделано.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496281"
+    },
+    {
+      "english": "All is forgiven, move on.",
+      "Russian": "Всё прощено, двигайся дальше.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496282"
+    },
+    {
+      "english": "Let love conquer all.",
+      "Russian": "Пусть любовь победит всё.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496283"
+    },
+    {
+      "english": "Tomorrow is a new day.",
+      "Russian": "Завтра новый день.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496283"
+    },
+    {
+      "english": "We're good now, right?",
+      "Russian": "Мы в порядке теперь, да?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496284"
+    },
+    {
+      "english": "Shake hands, be friends.",
+      "Russian": "Пожмём руки, будем друзьями.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496285"
+    },
+    {
+      "english": "That chapter is closed.",
+      "Russian": "Та глава закрыта.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496286"
+    },
+    {
+      "english": "Let go of the hurt.",
+      "Russian": "Отпусти боль.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496287"
+    },
+    {
+      "english": "No more bad blood.",
+      "Russian": "Больше никакой вражды.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496288"
+    },
+    {
+      "english": "Time to heal, my friend.",
+      "Russian": "Время лечиться, мой друг.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496289"
+    },
+    {
+      "english": "We understand each other.",
+      "Russian": "Мы понимаем друг друга.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496290"
+    },
+    {
+      "english": "Let bygones, be bygones.",
+      "Russian": "Пусть прошлое останется в прошлом.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496291"
+    },
+    {
+      "english": "This is the end, of that.",
+      "Russian": "Это конец, тому.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496292"
+    },
+    {
+      "english": "I release you now.",
+      "Russian": "Я освобождаю тебя сейчас.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496293"
+    },
+    {
+      "english": "A clean slate, for us.",
+      "Russian": "Чистый лист, для нас.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496294"
+    },
+    {
+      "english": "No need to regret.",
+      "Russian": "Нет смысла жалеть.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496295"
+    },
+    {
+      "english": "Let's find common ground.",
+      "Russian": "Давай найдём общий язык.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496296"
+    },
+    {
+      "english": "It's all forgotten, okay?",
+      "Russian": "Всё забыто, ладно?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496297"
+    },
+    {
+      "english": "May you be happy.",
+      "Russian": "Пусть ты будешь счастлив.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496298"
+    },
+    {
+      "english": "Forgive and forget, my dear.",
+      "Russian": "Прости и забудь, дорогой.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496299"
+    },
+    {
+      "english": "No hard feelings, ever.",
+      "Russian": "Никакой обиды, никогда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496300"
+    },
+    {
+      "english": "Let's rebuild, together.",
+      "Russian": "Давай восстановим, вместе.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496301"
+    },
+    {
+      "english": "This is closure, for sure.",
+      "Russian": "Это завершение, точно.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-20T04:36:50.496302"
     }
   ],
-  "last_updated": "2026-07-19T04:22:23.440172"
+  "last_updated": "2026-07-20T04:36:50.496304"
 }
