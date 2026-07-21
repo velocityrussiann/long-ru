@@ -5039,7 +5039,727 @@
       "Russian": "Это завершение, точно.",
       "category": "Forgiveness",
       "generated_at": "2026-07-20T04:36:50.496302"
+    },
+    {
+      "english": "Slow and steady wins.",
+      "Russian": "Тише едешь, дальше будешь.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082926"
+    },
+    {
+      "english": "Give it time, it will bloom.",
+      "Russian": "Дай время, оно расцветёт.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082936"
+    },
+    {
+      "english": "Don't rush the process.",
+      "Russian": "Не торопи процесс.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082938"
+    },
+    {
+      "english": "Good things take a while.",
+      "Russian": "Хорошее требует времени.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082940"
+    },
+    {
+      "english": "Patience, grasshopper, grow.",
+      "Russian": "Терпение, друг, вырастает.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082941"
+    },
+    {
+      "english": "Let it unfold, naturally.",
+      "Russian": "Пусть раскроется, естественно.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082942"
+    },
+    {
+      "english": "Hold on, it's coming.",
+      "Russian": "Потерпи, оно идёт.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082944"
+    },
+    {
+      "english": "The wait is worth it.",
+      "Russian": "Ожидание того стоит.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082947"
+    },
+    {
+      "english": "Little by little, we get there.",
+      "Russian": "Понемногу, мы придём.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082948"
+    },
+    {
+      "english": "Be patient, my friend.",
+      "Russian": "Будь терпелив, друг мой.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082950"
+    },
+    {
+      "english": "It needs more time.",
+      "Russian": "Ему нужно больше времени.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082951"
+    },
+    {
+      "english": "Don't lose hope, just wait.",
+      "Russian": "Не теряй надежду, жди.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082952"
+    },
+    {
+      "english": "We will get there, eventually.",
+      "Russian": "Мы доберёмся, в итоге.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082953"
+    },
+    {
+      "english": "Let patience be your guide.",
+      "Russian": "Пусть терпение будет компасом.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082955"
+    },
+    {
+      "english": "The result will be great.",
+      "Russian": "Результат будет великим.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082956"
+    },
+    {
+      "english": "Just a little longer, okay?",
+      "Russian": "Ещё чуть-чуть, ладно?",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082957"
+    },
+    {
+      "english": "Rome wasn't built fast.",
+      "Russian": "Рим не сразу построили.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082958"
+    },
+    {
+      "english": "Keep calm and wait.",
+      "Russian": "Сохраняй спокойствие и жди.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082959"
+    },
+    {
+      "english": "This requires careful waiting.",
+      "Russian": "Это требует осторожного ожидания.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082960"
+    },
+    {
+      "english": "We are on the right path.",
+      "Russian": "Мы на верном пути.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082961"
+    },
+    {
+      "english": "The seeds will sprout.",
+      "Russian": "Семена прорастут.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082962"
+    },
+    {
+      "english": "We're almost there, soon.",
+      "Russian": "Мы почти там, скоро.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082965"
+    },
+    {
+      "english": "Let nature take its course.",
+      "Russian": "Дай природе идти своим путём.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082966"
+    },
+    {
+      "english": "This will mature over time.",
+      "Russian": "Это созреет со временем.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082967"
+    },
+    {
+      "english": "Don't give up now.",
+      "Russian": "Не сдавайся сейчас.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082968"
+    },
+    {
+      "english": "The reward is coming.",
+      "Russian": "Награда идёт.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082970"
+    },
+    {
+      "english": "Let it breathe, then act.",
+      "Russian": "Дай вздохнуть, потом действуй.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082971"
+    },
+    {
+      "english": "Time will make it right.",
+      "Russian": "Время исправит всё.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082972"
+    },
+    {
+      "english": "We just need to wait.",
+      "Russian": "Нам просто нужно ждать.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082973"
+    },
+    {
+      "english": "A little more patience, please.",
+      "Russian": "Ещё немного терпения, пожалуйста.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082974"
+    },
+    {
+      "english": "This needs gentle progress.",
+      "Russian": "Это требует медленного прогресса.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082975"
+    },
+    {
+      "english": "Watch it grow, slowly.",
+      "Russian": "Смотри, как растёт, медленно.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082976"
+    },
+    {
+      "english": "Let the dust settle down.",
+      "Russian": "Дай пыли осесть.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082977"
+    },
+    {
+      "english": "It's a marathon, not sprint.",
+      "Russian": "Это марафон, не спринт.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082978"
+    },
+    {
+      "english": "The best things ripen slowly.",
+      "Russian": "Лучшее созревает медленно.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082979"
+    },
+    {
+      "english": "We're building, brick by brick.",
+      "Russian": "Строим, кирпич за кирпичом.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082980"
+    },
+    {
+      "english": "Let things find their rhythm.",
+      "Russian": "Пусть вещи найдут свой ритм.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082981"
+    },
+    {
+      "english": "Wait for the right moment.",
+      "Russian": "Жди нужного момента.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082982"
+    },
+    {
+      "english": "The end will be worth it.",
+      "Russian": "Конец будет стоить того.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082983"
+    },
+    {
+      "english": "Breathe, and keep going.",
+      "Russian": "Дыши, и продолжай.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082984"
+    },
+    {
+      "english": "Slow and steady wins.",
+      "Russian": "Тише едешь, дальше будешь.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082985"
+    },
+    {
+      "english": "Give it time, it will bloom.",
+      "Russian": "Дай время, оно расцветёт.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082987"
+    },
+    {
+      "english": "Don't rush the process.",
+      "Russian": "Не торопи процесс.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082988"
+    },
+    {
+      "english": "Good things take a while.",
+      "Russian": "Хорошее требует времени.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082989"
+    },
+    {
+      "english": "Patience, grasshopper, grow.",
+      "Russian": "Терпение, друг, вырастает.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082993"
+    },
+    {
+      "english": "Let it unfold, naturally.",
+      "Russian": "Пусть раскроется, естественно.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082994"
+    },
+    {
+      "english": "Hold on, it's coming.",
+      "Russian": "Потерпи, оно идёт.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082996"
+    },
+    {
+      "english": "The wait is worth it.",
+      "Russian": "Ожидание того стоит.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082997"
+    },
+    {
+      "english": "Little by little, we get there.",
+      "Russian": "Понемногу, мы придём.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082998"
+    },
+    {
+      "english": "Be patient, my friend.",
+      "Russian": "Будь терпелив, друг мой.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.082999"
+    },
+    {
+      "english": "It needs more time.",
+      "Russian": "Ему нужно больше времени.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083000"
+    },
+    {
+      "english": "Don't lose hope, just wait.",
+      "Russian": "Не теряй надежду, жди.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083002"
+    },
+    {
+      "english": "We will get there, eventually.",
+      "Russian": "Мы доберёмся, в итоге.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083003"
+    },
+    {
+      "english": "Let patience be your guide.",
+      "Russian": "Пусть терпение будет компасом.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083004"
+    },
+    {
+      "english": "The result will be great.",
+      "Russian": "Результат будет великим.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083005"
+    },
+    {
+      "english": "Just a little longer, okay?",
+      "Russian": "Ещё чуть-чуть, ладно?",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083006"
+    },
+    {
+      "english": "Rome wasn't built fast.",
+      "Russian": "Рим не сразу построили.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083007"
+    },
+    {
+      "english": "Keep calm and wait.",
+      "Russian": "Сохраняй спокойствие и жди.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083008"
+    },
+    {
+      "english": "This requires careful waiting.",
+      "Russian": "Это требует осторожного ожидания.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083009"
+    },
+    {
+      "english": "We are on the right path.",
+      "Russian": "Мы на верном пути.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083010"
+    },
+    {
+      "english": "The seeds will sprout.",
+      "Russian": "Семена прорастут.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083012"
+    },
+    {
+      "english": "We're almost there, soon.",
+      "Russian": "Мы почти там, скоро.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083013"
+    },
+    {
+      "english": "Let nature take its course.",
+      "Russian": "Дай природе идти своим путём.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083014"
+    },
+    {
+      "english": "This will mature over time.",
+      "Russian": "Это созреет со временем.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083015"
+    },
+    {
+      "english": "Don't give up now.",
+      "Russian": "Не сдавайся сейчас.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083016"
+    },
+    {
+      "english": "The reward is coming.",
+      "Russian": "Награда идёт.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083017"
+    },
+    {
+      "english": "Let it breathe, then act.",
+      "Russian": "Дай вздохнуть, потом действуй.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083018"
+    },
+    {
+      "english": "Time will make it right.",
+      "Russian": "Время исправит всё.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083019"
+    },
+    {
+      "english": "We just need to wait.",
+      "Russian": "Нам просто нужно ждать.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083020"
+    },
+    {
+      "english": "A little more patience, please.",
+      "Russian": "Ещё немного терпения, пожалуйста.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083022"
+    },
+    {
+      "english": "This needs gentle progress.",
+      "Russian": "Это требует медленного прогресса.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083023"
+    },
+    {
+      "english": "Watch it grow, slowly.",
+      "Russian": "Смотри, как растёт, медленно.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083024"
+    },
+    {
+      "english": "Let the dust settle down.",
+      "Russian": "Дай пыли осесть.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083025"
+    },
+    {
+      "english": "It's a marathon, not sprint.",
+      "Russian": "Это марафон, не спринт.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083026"
+    },
+    {
+      "english": "The best things ripen slowly.",
+      "Russian": "Лучшее созревает медленно.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083027"
+    },
+    {
+      "english": "We're building, brick by brick.",
+      "Russian": "Строим, кирпич за кирпичом.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083030"
+    },
+    {
+      "english": "Let things find their rhythm.",
+      "Russian": "Пусть вещи найдут свой ритм.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083031"
+    },
+    {
+      "english": "Wait for the right moment.",
+      "Russian": "Жди нужного момента.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083032"
+    },
+    {
+      "english": "The end will be worth it.",
+      "Russian": "Конец будет стоить того.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083033"
+    },
+    {
+      "english": "Breathe, and keep going.",
+      "Russian": "Дыши, и продолжай.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083034"
+    },
+    {
+      "english": "Slow and steady wins.",
+      "Russian": "Тише едешь, дальше будешь.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083035"
+    },
+    {
+      "english": "Give it time, it will bloom.",
+      "Russian": "Дай время, оно расцветёт.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083036"
+    },
+    {
+      "english": "Don't rush the process.",
+      "Russian": "Не торопи процесс.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083037"
+    },
+    {
+      "english": "Good things take a while.",
+      "Russian": "Хорошее требует времени.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083039"
+    },
+    {
+      "english": "Patience, grasshopper, grow.",
+      "Russian": "Терпение, друг, вырастает.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083040"
+    },
+    {
+      "english": "Let it unfold, naturally.",
+      "Russian": "Пусть раскроется, естественно.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083041"
+    },
+    {
+      "english": "Hold on, it's coming.",
+      "Russian": "Потерпи, оно идёт.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083042"
+    },
+    {
+      "english": "The wait is worth it.",
+      "Russian": "Ожидание того стоит.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083043"
+    },
+    {
+      "english": "Little by little, we get there.",
+      "Russian": "Понемногу, мы придём.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083044"
+    },
+    {
+      "english": "Be patient, my friend.",
+      "Russian": "Будь терпелив, друг мой.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083045"
+    },
+    {
+      "english": "It needs more time.",
+      "Russian": "Ему нужно больше времени.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083046"
+    },
+    {
+      "english": "Don't lose hope, just wait.",
+      "Russian": "Не теряй надежду, жди.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083047"
+    },
+    {
+      "english": "We will get there, eventually.",
+      "Russian": "Мы доберёмся, в итоге.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083049"
+    },
+    {
+      "english": "Let patience be your guide.",
+      "Russian": "Пусть терпение будет компасом.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083050"
+    },
+    {
+      "english": "The result will be great.",
+      "Russian": "Результат будет великим.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083051"
+    },
+    {
+      "english": "Just a little longer, okay?",
+      "Russian": "Ещё чуть-чуть, ладно?",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083052"
+    },
+    {
+      "english": "Rome wasn't built fast.",
+      "Russian": "Рим не сразу построили.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083053"
+    },
+    {
+      "english": "Keep calm and wait.",
+      "Russian": "Сохраняй спокойствие и жди.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083054"
+    },
+    {
+      "english": "This requires careful waiting.",
+      "Russian": "Это требует осторожного ожидания.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083055"
+    },
+    {
+      "english": "We are on the right path.",
+      "Russian": "Мы на верном пути.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083056"
+    },
+    {
+      "english": "The seeds will sprout.",
+      "Russian": "Семена прорастут.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083057"
+    },
+    {
+      "english": "We're almost there, soon.",
+      "Russian": "Мы почти там, скоро.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083058"
+    },
+    {
+      "english": "Let nature take its course.",
+      "Russian": "Дай природе идти своим путём.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083059"
+    },
+    {
+      "english": "This will mature over time.",
+      "Russian": "Это созреет со временем.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083060"
+    },
+    {
+      "english": "Don't give up now.",
+      "Russian": "Не сдавайся сейчас.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083061"
+    },
+    {
+      "english": "The reward is coming.",
+      "Russian": "Награда идёт.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083062"
+    },
+    {
+      "english": "Let it breathe, then act.",
+      "Russian": "Дай вздохнуть, потом действуй.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083063"
+    },
+    {
+      "english": "Time will make it right.",
+      "Russian": "Время исправит всё.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083083"
+    },
+    {
+      "english": "We just need to wait.",
+      "Russian": "Нам просто нужно ждать.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083084"
+    },
+    {
+      "english": "A little more patience, please.",
+      "Russian": "Ещё немного терпения, пожалуйста.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083085"
+    },
+    {
+      "english": "This needs gentle progress.",
+      "Russian": "Это требует медленного прогресса.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083086"
+    },
+    {
+      "english": "Watch it grow, slowly.",
+      "Russian": "Смотри, как растёт, медленно.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083087"
+    },
+    {
+      "english": "Let the dust settle down.",
+      "Russian": "Дай пыли осесть.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083088"
+    },
+    {
+      "english": "It's a marathon, not sprint.",
+      "Russian": "Это марафон, не спринт.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083089"
+    },
+    {
+      "english": "The best things ripen slowly.",
+      "Russian": "Лучшее созревает медленно.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083090"
+    },
+    {
+      "english": "We're building, brick by brick.",
+      "Russian": "Строим, кирпич за кирпичом.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083091"
+    },
+    {
+      "english": "Let things find their rhythm.",
+      "Russian": "Пусть вещи найдут свой ритм.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083092"
+    },
+    {
+      "english": "Wait for the right moment.",
+      "Russian": "Жди нужного момента.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083093"
+    },
+    {
+      "english": "The end will be worth it.",
+      "Russian": "Конец будет стоить того.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083094"
+    },
+    {
+      "english": "Breathe, and keep going.",
+      "Russian": "Дыши, и продолжай.",
+      "category": "Patience",
+      "generated_at": "2026-07-21T04:16:40.083095"
     }
   ],
-  "last_updated": "2026-07-20T04:36:50.496304"
+  "last_updated": "2026-07-21T04:16:40.083097"
 }
