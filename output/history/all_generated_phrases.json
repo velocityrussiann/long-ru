@@ -7199,7 +7199,727 @@
       "Russian": "Принимай свою силу, полностью.",
       "category": "Courage",
       "generated_at": "2026-07-23T04:16:25.082668"
+    },
+    {
+      "english": "Take that first, step.",
+      "Russian": "Сделай первый, шаг.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227898"
+    },
+    {
+      "english": "Your voice, matters.",
+      "Russian": "Твой голос, важен.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227909"
+    },
+    {
+      "english": "Try something, new.",
+      "Russian": "Попробуй что-то, новое.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227911"
+    },
+    {
+      "english": "Don't be afraid, to ask.",
+      "Russian": "Не бойся, спросить.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227912"
+    },
+    {
+      "english": "Begin, today.",
+      "Russian": "Начни, сегодня.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227913"
+    },
+    {
+      "english": "Stand up, for good.",
+      "Russian": "Встань за добро, крепко.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227915"
+    },
+    {
+      "english": "Open your, heart.",
+      "Russian": "Открой своё, сердце.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227916"
+    },
+    {
+      "english": "Let your actions, speak.",
+      "Russian": "Пусть твои дела, говорят.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227919"
+    },
+    {
+      "english": "Be bold, be kind.",
+      "Russian": "Будь смелым, будь добрым.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227923"
+    },
+    {
+      "english": "Face the unknown, with hope.",
+      "Russian": "Встречай неизвестное, с надеждой.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227925"
+    },
+    {
+      "english": "Share your ideas, freely.",
+      "Russian": "Делись идеями, свободно.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227926"
+    },
+    {
+      "english": "Try again, tomorrow.",
+      "Russian": "Попробуй снова, завтра.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227927"
+    },
+    {
+      "english": "Trust your, instincts.",
+      "Russian": "Доверяй своим, инстинктам.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227928"
+    },
+    {
+      "english": "Step out of, your comfort.",
+      "Russian": "Выйди из зоны, комфорта.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227930"
+    },
+    {
+      "english": "Believe in the, good.",
+      "Russian": "Верь в хорошее, всегда.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227931"
+    },
+    {
+      "english": "Make a choice, now.",
+      "Russian": "Сделай выбор, сейчас.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227932"
+    },
+    {
+      "english": "Follow your, passion.",
+      "Russian": "Следуй своей, страсти.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227933"
+    },
+    {
+      "english": "Don't dwell, on failure.",
+      "Russian": "Не зацикливайся, на провале.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227934"
+    },
+    {
+      "english": "Speak softly, but carry, conviction.",
+      "Russian": "Говори тихо, но с убеждением.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227935"
+    },
+    {
+      "english": "Embrace the challenge, head on.",
+      "Russian": "Прими вызов, прямо.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227936"
+    },
+    {
+      "english": "Your spirit, is strong.",
+      "Russian": "Твой дух, силён.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227937"
+    },
+    {
+      "english": "Offer help, freely.",
+      "Russian": "Предлагай помощь, безвозмездно.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227938"
+    },
+    {
+      "english": "Create your, own luck.",
+      "Russian": "Создавай свою, удачу.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227939"
+    },
+    {
+      "english": "Stand by, your principles.",
+      "Russian": "Стой за свои, принципы.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227940"
+    },
+    {
+      "english": "Learn and, grow.",
+      "Russian": "Учись и, расти.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227941"
+    },
+    {
+      "english": "Be present, truly.",
+      "Russian": "Будь здесь, по-настоящему.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227942"
+    },
+    {
+      "english": "Take a leap, of faith.",
+      "Russian": "Сделай прыжок, веры.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227943"
+    },
+    {
+      "english": "Your ideas, can change, things.",
+      "Russian": "Твои идеи, могут изменить, мир.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227946"
+    },
+    {
+      "english": "Be brave, enough to fail.",
+      "Russian": "Будь смелым, достаточно, чтобы ошибиться.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227947"
+    },
+    {
+      "english": "Reach for, the stars.",
+      "Russian": "Тянись к, звёздам.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227948"
+    },
+    {
+      "english": "Defend what, you love.",
+      "Russian": "Защищай то, что любишь.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227949"
+    },
+    {
+      "english": "Embrace, discomfort.",
+      "Russian": "Прими, дискомфорт.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227950"
+    },
+    {
+      "english": "Show your, true colors.",
+      "Russian": "Покажи свои, истинные цвета.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227951"
+    },
+    {
+      "english": "Take decisive, action.",
+      "Russian": "Действуй решительно.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227952"
+    },
+    {
+      "english": "Never regret, trying.",
+      "Russian": "Никогда не жалей, о попытках.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227953"
+    },
+    {
+      "english": "Take that first, step.",
+      "Russian": "Сделай первый, шаг.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227954"
+    },
+    {
+      "english": "Your voice, matters.",
+      "Russian": "Твой голос, важен.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227956"
+    },
+    {
+      "english": "Try something, new.",
+      "Russian": "Попробуй что-то, новое.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227957"
+    },
+    {
+      "english": "Don't be afraid, to ask.",
+      "Russian": "Не бойся, спросить.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227958"
+    },
+    {
+      "english": "Begin, today.",
+      "Russian": "Начни, сегодня.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227961"
+    },
+    {
+      "english": "Stand up, for good.",
+      "Russian": "Встань за добро, крепко.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227962"
+    },
+    {
+      "english": "Open your, heart.",
+      "Russian": "Открой своё, сердце.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227963"
+    },
+    {
+      "english": "Let your actions, speak.",
+      "Russian": "Пусть твои дела, говорят.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227964"
+    },
+    {
+      "english": "Be bold, be kind.",
+      "Russian": "Будь смелым, будь добрым.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227965"
+    },
+    {
+      "english": "Face the unknown, with hope.",
+      "Russian": "Встречай неизвестное, с надеждой.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227966"
+    },
+    {
+      "english": "Share your ideas, freely.",
+      "Russian": "Делись идеями, свободно.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227969"
+    },
+    {
+      "english": "Try again, tomorrow.",
+      "Russian": "Попробуй снова, завтра.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227970"
+    },
+    {
+      "english": "Trust your, instincts.",
+      "Russian": "Доверяй своим, инстинктам.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227971"
+    },
+    {
+      "english": "Step out of, your comfort.",
+      "Russian": "Выйди из зоны, комфорта.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227972"
+    },
+    {
+      "english": "Believe in the, good.",
+      "Russian": "Верь в хорошее, всегда.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227973"
+    },
+    {
+      "english": "Make a choice, now.",
+      "Russian": "Сделай выбор, сейчас.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227974"
+    },
+    {
+      "english": "Follow your, passion.",
+      "Russian": "Следуй своей, страсти.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227975"
+    },
+    {
+      "english": "Don't dwell, on failure.",
+      "Russian": "Не зацикливайся, на провале.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227976"
+    },
+    {
+      "english": "Speak softly, but carry, conviction.",
+      "Russian": "Говори тихо, но с убеждением.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227977"
+    },
+    {
+      "english": "Embrace the challenge, head on.",
+      "Russian": "Прими вызов, прямо.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227979"
+    },
+    {
+      "english": "Your spirit, is strong.",
+      "Russian": "Твой дух, силён.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227980"
+    },
+    {
+      "english": "Offer help, freely.",
+      "Russian": "Предлагай помощь, безвозмездно.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227981"
+    },
+    {
+      "english": "Create your, own luck.",
+      "Russian": "Создавай свою, удачу.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227982"
+    },
+    {
+      "english": "Stand by, your principles.",
+      "Russian": "Стой за свои, принципы.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227983"
+    },
+    {
+      "english": "Learn and, grow.",
+      "Russian": "Учись и, расти.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227984"
+    },
+    {
+      "english": "Be present, truly.",
+      "Russian": "Будь здесь, по-настоящему.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227985"
+    },
+    {
+      "english": "Take a leap, of faith.",
+      "Russian": "Сделай прыжок, веры.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227986"
+    },
+    {
+      "english": "Your ideas, can change, things.",
+      "Russian": "Твои идеи, могут изменить, мир.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227987"
+    },
+    {
+      "english": "Be brave, enough to fail.",
+      "Russian": "Будь смелым, достаточно, чтобы ошибиться.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227988"
+    },
+    {
+      "english": "Reach for, the stars.",
+      "Russian": "Тянись к, звёздам.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227989"
+    },
+    {
+      "english": "Defend what, you love.",
+      "Russian": "Защищай то, что любишь.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227991"
+    },
+    {
+      "english": "Embrace, discomfort.",
+      "Russian": "Прими, дискомфорт.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227992"
+    },
+    {
+      "english": "Show your, true colors.",
+      "Russian": "Покажи свои, истинные цвета.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227993"
+    },
+    {
+      "english": "Take decisive, action.",
+      "Russian": "Действуй решительно.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227994"
+    },
+    {
+      "english": "Never regret, trying.",
+      "Russian": "Никогда не жалей, о попытках.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227995"
+    },
+    {
+      "english": "Take that first, step.",
+      "Russian": "Сделай первый, шаг.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227996"
+    },
+    {
+      "english": "Your voice, matters.",
+      "Russian": "Твой голос, важен.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.227999"
+    },
+    {
+      "english": "Try something, new.",
+      "Russian": "Попробуй что-то, новое.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228000"
+    },
+    {
+      "english": "Don't be afraid, to ask.",
+      "Russian": "Не бойся, спросить.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228001"
+    },
+    {
+      "english": "Begin, today.",
+      "Russian": "Начни, сегодня.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228002"
+    },
+    {
+      "english": "Stand up, for good.",
+      "Russian": "Встань за добро, крепко.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228003"
+    },
+    {
+      "english": "Open your, heart.",
+      "Russian": "Открой своё, сердце.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228004"
+    },
+    {
+      "english": "Let your actions, speak.",
+      "Russian": "Пусть твои дела, говорят.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228005"
+    },
+    {
+      "english": "Be bold, be kind.",
+      "Russian": "Будь смелым, будь добрым.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228006"
+    },
+    {
+      "english": "Face the unknown, with hope.",
+      "Russian": "Встречай неизвестное, с надеждой.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228008"
+    },
+    {
+      "english": "Share your ideas, freely.",
+      "Russian": "Делись идеями, свободно.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228009"
+    },
+    {
+      "english": "Try again, tomorrow.",
+      "Russian": "Попробуй снова, завтра.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228010"
+    },
+    {
+      "english": "Trust your, instincts.",
+      "Russian": "Доверяй своим, инстинктам.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228011"
+    },
+    {
+      "english": "Step out of, your comfort.",
+      "Russian": "Выйди из зоны, комфорта.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228012"
+    },
+    {
+      "english": "Believe in the, good.",
+      "Russian": "Верь в хорошее, всегда.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228013"
+    },
+    {
+      "english": "Make a choice, now.",
+      "Russian": "Сделай выбор, сейчас.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228026"
+    },
+    {
+      "english": "Follow your, passion.",
+      "Russian": "Следуй своей, страсти.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228027"
+    },
+    {
+      "english": "Don't dwell, on failure.",
+      "Russian": "Не зацикливайся, на провале.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228028"
+    },
+    {
+      "english": "Speak softly, but carry, conviction.",
+      "Russian": "Говори тихо, но с убеждением.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228029"
+    },
+    {
+      "english": "Embrace the challenge, head on.",
+      "Russian": "Прими вызов, прямо.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228031"
+    },
+    {
+      "english": "Your spirit, is strong.",
+      "Russian": "Твой дух, силён.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228033"
+    },
+    {
+      "english": "Offer help, freely.",
+      "Russian": "Предлагай помощь, безвозмездно.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228035"
+    },
+    {
+      "english": "Create your, own luck.",
+      "Russian": "Создавай свою, удачу.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228036"
+    },
+    {
+      "english": "Stand by, your principles.",
+      "Russian": "Стой за свои, принципы.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228037"
+    },
+    {
+      "english": "Learn and, grow.",
+      "Russian": "Учись и, расти.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228038"
+    },
+    {
+      "english": "Be present, truly.",
+      "Russian": "Будь здесь, по-настоящему.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228039"
+    },
+    {
+      "english": "Take a leap, of faith.",
+      "Russian": "Сделай прыжок, веры.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228040"
+    },
+    {
+      "english": "Your ideas, can change, things.",
+      "Russian": "Твои идеи, могут изменить, мир.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228041"
+    },
+    {
+      "english": "Be brave, enough to fail.",
+      "Russian": "Будь смелым, достаточно, чтобы ошибиться.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228042"
+    },
+    {
+      "english": "Reach for, the stars.",
+      "Russian": "Тянись к, звёздам.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228043"
+    },
+    {
+      "english": "Defend what, you love.",
+      "Russian": "Защищай то, что любишь.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228044"
+    },
+    {
+      "english": "Embrace, discomfort.",
+      "Russian": "Прими, дискомфорт.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228046"
+    },
+    {
+      "english": "Show your, true colors.",
+      "Russian": "Покажи свои, истинные цвета.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228047"
+    },
+    {
+      "english": "Take decisive, action.",
+      "Russian": "Действуй решительно.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228049"
+    },
+    {
+      "english": "Never regret, trying.",
+      "Russian": "Никогда не жалей, о попытках.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228050"
+    },
+    {
+      "english": "Take that first, step.",
+      "Russian": "Сделай первый, шаг.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228052"
+    },
+    {
+      "english": "Your voice, matters.",
+      "Russian": "Твой голос, важен.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228053"
+    },
+    {
+      "english": "Try something, new.",
+      "Russian": "Попробуй что-то, новое.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228054"
+    },
+    {
+      "english": "Don't be afraid, to ask.",
+      "Russian": "Не бойся, спросить.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228055"
+    },
+    {
+      "english": "Begin, today.",
+      "Russian": "Начни, сегодня.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228056"
+    },
+    {
+      "english": "Stand up, for good.",
+      "Russian": "Встань за добро, крепко.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228057"
+    },
+    {
+      "english": "Open your, heart.",
+      "Russian": "Открой своё, сердце.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228058"
+    },
+    {
+      "english": "Let your actions, speak.",
+      "Russian": "Пусть твои дела, говорят.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228059"
+    },
+    {
+      "english": "Be bold, be kind.",
+      "Russian": "Будь смелым, будь добрым.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228060"
+    },
+    {
+      "english": "Face the unknown, with hope.",
+      "Russian": "Встречай неизвестное, с надеждой.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228061"
+    },
+    {
+      "english": "Share your ideas, freely.",
+      "Russian": "Делись идеями, свободно.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228062"
+    },
+    {
+      "english": "Try again, tomorrow.",
+      "Russian": "Попробуй снова, завтра.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228063"
+    },
+    {
+      "english": "Trust your, instincts.",
+      "Russian": "Доверяй своим, инстинктам.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228064"
+    },
+    {
+      "english": "Step out of, your comfort.",
+      "Russian": "Выйди из зоны, комфорта.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228065"
+    },
+    {
+      "english": "Believe in the, good.",
+      "Russian": "Верь в хорошее, всегда.",
+      "category": "Courage",
+      "generated_at": "2026-07-24T04:16:01.228066"
     }
   ],
-  "last_updated": "2026-07-23T04:16:25.082670"
+  "last_updated": "2026-07-24T04:16:01.228068"
 }
