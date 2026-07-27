@@ -8639,7 +8639,727 @@
       "Russian": "Моё сердце, бьётся быстрее, для тебя.",
       "category": "Mindfulness",
       "generated_at": "2026-07-26T04:27:41.566100"
+    },
+    {
+      "english": "You're my bright idea, today.",
+      "Russian": "Ты моя, светлая мысль, сегодня.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770587"
+    },
+    {
+      "english": "My path, found you, finally.",
+      "Russian": "Мой путь, нашёл тебя, наконец.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770598"
+    },
+    {
+      "english": "This feeling, is like, sunshine.",
+      "Russian": "Это чувство, как, солнышко.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770600"
+    },
+    {
+      "english": "You're the quiet, gentle start.",
+      "Russian": "Ты тихое, нежное начало.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770601"
+    },
+    {
+      "english": "My spirit, sings, your name.",
+      "Russian": "Мой дух, поёт, твоё имя.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770603"
+    },
+    {
+      "english": "This bond, is like, strong roots.",
+      "Russian": "Эта связь, как, крепкие корни.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770604"
+    },
+    {
+      "english": "You are, my calm harbor.",
+      "Russian": "Ты мой, тихий порт.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770605"
+    },
+    {
+      "english": "My thoughts, bloom, for you.",
+      "Russian": "Мои мысли, цветут, для тебя.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770608"
+    },
+    {
+      "english": "This moment, is a sweet whisper.",
+      "Russian": "Этот момент, сладкий шёпот.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770610"
+    },
+    {
+      "english": "Your kindness, is a soft breeze.",
+      "Russian": "Твоя доброта, как, лёгкий бриз.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770612"
+    },
+    {
+      "english": "You are, my steady ground.",
+      "Russian": "Ты моя, твёрдая почва.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770613"
+    },
+    {
+      "english": "My joy, found its way, to you.",
+      "Russian": "Моя радость, нашла дорогу, к тебе.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770614"
+    },
+    {
+      "english": "This warmth, feels like, home fire.",
+      "Russian": "Это тепло, как, домашний очаг.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770615"
+    },
+    {
+      "english": "You are, my quiet wonder.",
+      "Russian": "Ты моё, тихое чудо.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770617"
+    },
+    {
+      "english": "This journey, began, with you.",
+      "Russian": "Это путешествие, началось, с тобой.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770618"
+    },
+    {
+      "english": "You are, my clear sky.",
+      "Russian": "Ты моё, чистое небо.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770619"
+    },
+    {
+      "english": "My peace, lives, with you.",
+      "Russian": "Мой мир, живёт, с тобой.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770620"
+    },
+    {
+      "english": "Your presence, is a gentle gift.",
+      "Russian": "Твоё присутствие, нежный подарок.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770622"
+    },
+    {
+      "english": "You are, my calm anchor.",
+      "Russian": "Ты мой, спокойный якорь.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770626"
+    },
+    {
+      "english": "My gratitude, shines, for you.",
+      "Russian": "Моя благодарность, сияет, для тебя.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770627"
+    },
+    {
+      "english": "This feeling, is like, warm tea.",
+      "Russian": "Это чувство, как, тёплый чай.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770628"
+    },
+    {
+      "english": "You are, my steady light.",
+      "Russian": "Ты мой, ровный свет.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770629"
+    },
+    {
+      "english": "My best days, started, with you.",
+      "Russian": "Мои лучшие дни, начались, с тобой.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770631"
+    },
+    {
+      "english": "This connection, is a sweet song.",
+      "Russian": "Эта связь, сладкая песня.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770632"
+    },
+    {
+      "english": "You are, my silent strength.",
+      "Russian": "Ты моя, тихая сила.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770633"
+    },
+    {
+      "english": "My world, feels right, now.",
+      "Russian": "Мой мир, чувствует себя правильно, сейчас.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770634"
+    },
+    {
+      "english": "This moment, is a soft landing.",
+      "Russian": "Этот момент, мягкая посадка.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770635"
+    },
+    {
+      "english": "Your smile, is a bright bloom.",
+      "Russian": "Твоя улыбка, яркий цветок.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770636"
+    },
+    {
+      "english": "You are, my easy breath.",
+      "Russian": "Ты мой, лёгкий вдох.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770637"
+    },
+    {
+      "english": "My heart, beats, in rhythm, with you.",
+      "Russian": "Моё сердце, бьётся, в ритме, с тобой.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770638"
+    },
+    {
+      "english": "This feeling, is a warm hug.",
+      "Russian": "Это чувство, тёплые объятия.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770639"
+    },
+    {
+      "english": "You are, my gentle sunrise.",
+      "Russian": "Ты моё, нежное утро.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770641"
+    },
+    {
+      "english": "My best hopes, you carry.",
+      "Russian": "Мои лучшие надежды, ты несёшь.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770642"
+    },
+    {
+      "english": "This moment, feels so sweet.",
+      "Russian": "Этот момент, такой сладкий.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770643"
+    },
+    {
+      "english": "You are, my peaceful dream.",
+      "Russian": "Ты мой, мирный сон.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770644"
+    },
+    {
+      "english": "My gratitude, grows, for you.",
+      "Russian": "Моя благодарность, растёт, для тебя.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770645"
+    },
+    {
+      "english": "This connection, is pure gold.",
+      "Russian": "Эта связь, чистое золото.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770646"
+    },
+    {
+      "english": "You are, my calming whisper.",
+      "Russian": "Ты мой, успокаивающий шёпот.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770647"
+    },
+    {
+      "english": "You're my bright idea, today.",
+      "Russian": "Ты моя, светлая мысль, сегодня.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770648"
+    },
+    {
+      "english": "My path, found you, finally.",
+      "Russian": "Мой путь, нашёл тебя, наконец.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770650"
+    },
+    {
+      "english": "This feeling, is like, sunshine.",
+      "Russian": "Это чувство, как, солнышко.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770651"
+    },
+    {
+      "english": "You're the quiet, gentle start.",
+      "Russian": "Ты тихое, нежное начало.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770652"
+    },
+    {
+      "english": "My spirit, sings, your name.",
+      "Russian": "Мой дух, поёт, твоё имя.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770653"
+    },
+    {
+      "english": "This bond, is like, strong roots.",
+      "Russian": "Эта связь, как, крепкие корни.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770655"
+    },
+    {
+      "english": "You are, my calm harbor.",
+      "Russian": "Ты мой, тихий порт.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770656"
+    },
+    {
+      "english": "My thoughts, bloom, for you.",
+      "Russian": "Мои мысли, цветут, для тебя.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770657"
+    },
+    {
+      "english": "This moment, is a sweet whisper.",
+      "Russian": "Этот момент, сладкий шёпот.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770658"
+    },
+    {
+      "english": "Your kindness, is a soft breeze.",
+      "Russian": "Твоя доброта, как, лёгкий бриз.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770659"
+    },
+    {
+      "english": "You are, my steady ground.",
+      "Russian": "Ты моя, твёрдая почва.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770660"
+    },
+    {
+      "english": "My joy, found its way, to you.",
+      "Russian": "Моя радость, нашла дорогу, к тебе.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770661"
+    },
+    {
+      "english": "This warmth, feels like, home fire.",
+      "Russian": "Это тепло, как, домашний очаг.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770663"
+    },
+    {
+      "english": "You are, my quiet wonder.",
+      "Russian": "Ты моё, тихое чудо.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770664"
+    },
+    {
+      "english": "This journey, began, with you.",
+      "Russian": "Это путешествие, началось, с тобой.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770665"
+    },
+    {
+      "english": "You are, my clear sky.",
+      "Russian": "Ты моё, чистое небо.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770666"
+    },
+    {
+      "english": "My peace, lives, with you.",
+      "Russian": "Мой мир, живёт, с тобой.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770667"
+    },
+    {
+      "english": "Your presence, is a gentle gift.",
+      "Russian": "Твоё присутствие, нежный подарок.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770668"
+    },
+    {
+      "english": "You are, my calm anchor.",
+      "Russian": "Ты мой, спокойный якорь.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770669"
+    },
+    {
+      "english": "My gratitude, shines, for you.",
+      "Russian": "Моя благодарность, сияет, для тебя.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770670"
+    },
+    {
+      "english": "This feeling, is like, warm tea.",
+      "Russian": "Это чувство, как, тёплый чай.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770671"
+    },
+    {
+      "english": "You are, my steady light.",
+      "Russian": "Ты мой, ровный свет.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770673"
+    },
+    {
+      "english": "My best days, started, with you.",
+      "Russian": "Мои лучшие дни, начались, с тобой.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770674"
+    },
+    {
+      "english": "This connection, is a sweet song.",
+      "Russian": "Эта связь, сладкая песня.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770675"
+    },
+    {
+      "english": "You are, my silent strength.",
+      "Russian": "Ты моя, тихая сила.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770676"
+    },
+    {
+      "english": "My world, feels right, now.",
+      "Russian": "Мой мир, чувствует себя правильно, сейчас.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770677"
+    },
+    {
+      "english": "This moment, is a soft landing.",
+      "Russian": "Этот момент, мягкая посадка.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770678"
+    },
+    {
+      "english": "Your smile, is a bright bloom.",
+      "Russian": "Твоя улыбка, яркий цветок.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770679"
+    },
+    {
+      "english": "You are, my easy breath.",
+      "Russian": "Ты мой, лёгкий вдох.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770681"
+    },
+    {
+      "english": "My heart, beats, in rhythm, with you.",
+      "Russian": "Моё сердце, бьётся, в ритме, с тобой.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770682"
+    },
+    {
+      "english": "This feeling, is a warm hug.",
+      "Russian": "Это чувство, тёплые объятия.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770683"
+    },
+    {
+      "english": "You are, my gentle sunrise.",
+      "Russian": "Ты моё, нежное утро.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770684"
+    },
+    {
+      "english": "My best hopes, you carry.",
+      "Russian": "Мои лучшие надежды, ты несёшь.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770685"
+    },
+    {
+      "english": "This moment, feels so sweet.",
+      "Russian": "Этот момент, такой сладкий.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770686"
+    },
+    {
+      "english": "You are, my peaceful dream.",
+      "Russian": "Ты мой, мирный сон.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770687"
+    },
+    {
+      "english": "My gratitude, grows, for you.",
+      "Russian": "Моя благодарность, растёт, для тебя.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770688"
+    },
+    {
+      "english": "This connection, is pure gold.",
+      "Russian": "Эта связь, чистое золото.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770689"
+    },
+    {
+      "english": "You are, my calming whisper.",
+      "Russian": "Ты мой, успокаивающий шёпот.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770690"
+    },
+    {
+      "english": "You're my bright idea, today.",
+      "Russian": "Ты моя, светлая мысль, сегодня.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770692"
+    },
+    {
+      "english": "My path, found you, finally.",
+      "Russian": "Мой путь, нашёл тебя, наконец.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770693"
+    },
+    {
+      "english": "This feeling, is like, sunshine.",
+      "Russian": "Это чувство, как, солнышко.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770694"
+    },
+    {
+      "english": "You're the quiet, gentle start.",
+      "Russian": "Ты тихое, нежное начало.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770695"
+    },
+    {
+      "english": "My spirit, sings, your name.",
+      "Russian": "Мой дух, поёт, твоё имя.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770696"
+    },
+    {
+      "english": "This bond, is like, strong roots.",
+      "Russian": "Эта связь, как, крепкие корни.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770699"
+    },
+    {
+      "english": "You are, my calm harbor.",
+      "Russian": "Ты мой, тихий порт.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770700"
+    },
+    {
+      "english": "My thoughts, bloom, for you.",
+      "Russian": "Мои мысли, цветут, для тебя.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770701"
+    },
+    {
+      "english": "This moment, is a sweet whisper.",
+      "Russian": "Этот момент, сладкий шёпот.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770703"
+    },
+    {
+      "english": "Your kindness, is a soft breeze.",
+      "Russian": "Твоя доброта, как, лёгкий бриз.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770704"
+    },
+    {
+      "english": "You are, my steady ground.",
+      "Russian": "Ты моя, твёрдая почва.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770705"
+    },
+    {
+      "english": "My joy, found its way, to you.",
+      "Russian": "Моя радость, нашла дорогу, к тебе.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770706"
+    },
+    {
+      "english": "This warmth, feels like, home fire.",
+      "Russian": "Это тепло, как, домашний очаг.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770707"
+    },
+    {
+      "english": "You are, my quiet wonder.",
+      "Russian": "Ты моё, тихое чудо.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770708"
+    },
+    {
+      "english": "This journey, began, with you.",
+      "Russian": "Это путешествие, началось, с тобой.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770709"
+    },
+    {
+      "english": "You are, my clear sky.",
+      "Russian": "Ты моё, чистое небо.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770710"
+    },
+    {
+      "english": "My peace, lives, with you.",
+      "Russian": "Мой мир, живёт, с тобой.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770711"
+    },
+    {
+      "english": "Your presence, is a gentle gift.",
+      "Russian": "Твоё присутствие, нежный подарок.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770712"
+    },
+    {
+      "english": "You are, my calm anchor.",
+      "Russian": "Ты мой, спокойный якорь.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770713"
+    },
+    {
+      "english": "My gratitude, shines, for you.",
+      "Russian": "Моя благодарность, сияет, для тебя.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770714"
+    },
+    {
+      "english": "This feeling, is like, warm tea.",
+      "Russian": "Это чувство, как, тёплый чай.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770716"
+    },
+    {
+      "english": "You are, my steady light.",
+      "Russian": "Ты мой, ровный свет.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770717"
+    },
+    {
+      "english": "My best days, started, with you.",
+      "Russian": "Мои лучшие дни, начались, с тобой.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770718"
+    },
+    {
+      "english": "This connection, is a sweet song.",
+      "Russian": "Эта связь, сладкая песня.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770719"
+    },
+    {
+      "english": "You are, my silent strength.",
+      "Russian": "Ты моя, тихая сила.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770720"
+    },
+    {
+      "english": "My world, feels right, now.",
+      "Russian": "Мой мир, чувствует себя правильно, сейчас.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770721"
+    },
+    {
+      "english": "This moment, is a soft landing.",
+      "Russian": "Этот момент, мягкая посадка.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770722"
+    },
+    {
+      "english": "Your smile, is a bright bloom.",
+      "Russian": "Твоя улыбка, яркий цветок.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770723"
+    },
+    {
+      "english": "You are, my easy breath.",
+      "Russian": "Ты мой, лёгкий вдох.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770724"
+    },
+    {
+      "english": "My heart, beats, in rhythm, with you.",
+      "Russian": "Моё сердце, бьётся, в ритме, с тобой.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770725"
+    },
+    {
+      "english": "This feeling, is a warm hug.",
+      "Russian": "Это чувство, тёплые объятия.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770726"
+    },
+    {
+      "english": "You are, my gentle sunrise.",
+      "Russian": "Ты моё, нежное утро.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770727"
+    },
+    {
+      "english": "My best hopes, you carry.",
+      "Russian": "Мои лучшие надежды, ты несёшь.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770729"
+    },
+    {
+      "english": "This moment, feels so sweet.",
+      "Russian": "Этот момент, такой сладкий.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770730"
+    },
+    {
+      "english": "You are, my peaceful dream.",
+      "Russian": "Ты мой, мирный сон.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770731"
+    },
+    {
+      "english": "My gratitude, grows, for you.",
+      "Russian": "Моя благодарность, растёт, для тебя.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770732"
+    },
+    {
+      "english": "This connection, is pure gold.",
+      "Russian": "Эта связь, чистое золото.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770733"
+    },
+    {
+      "english": "You are, my calming whisper.",
+      "Russian": "Ты мой, успокаивающий шёпот.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770748"
+    },
+    {
+      "english": "You're my bright idea, today.",
+      "Russian": "Ты моя, светлая мысль, сегодня.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770749"
+    },
+    {
+      "english": "My path, found you, finally.",
+      "Russian": "Мой путь, нашёл тебя, наконец.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770752"
+    },
+    {
+      "english": "This feeling, is like, sunshine.",
+      "Russian": "Это чувство, как, солнышко.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770753"
+    },
+    {
+      "english": "You're the quiet, gentle start.",
+      "Russian": "Ты тихое, нежное начало.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770754"
+    },
+    {
+      "english": "My spirit, sings, your name.",
+      "Russian": "Мой дух, поёт, твоё имя.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770755"
+    },
+    {
+      "english": "This bond, is like, strong roots.",
+      "Russian": "Эта связь, как, крепкие корни.",
+      "category": "Благодарностьe",
+      "generated_at": "2026-07-27T04:37:28.770756"
     }
   ],
-  "last_updated": "2026-07-26T04:27:41.566103"
+  "last_updated": "2026-07-27T04:37:28.770758"
 }
