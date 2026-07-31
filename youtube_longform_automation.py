@@ -42,21 +42,21 @@ TARGET_PHRASES = 120
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
     "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Благодарностьe", "Friendship", "Hope", "Creativity",
+    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
     "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
     "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
 ]
 
 # Russian translations for display
-CATEGORIES_Russian = {
+CATEGORIES_RUSSIAN = {
     "Motivation": "Мотивация",
     "Love": "Любовь",
     "Success": "Успех",
     "Wisdom": "Мудрость",
     "Happiness": "Счастье",
     "Self Improvement": "Самосовершенствование",
-    "Благодарностьe": "Благодарность",
+    "Gratitude": "Благодарность",
     "Friendship": "Дружба",
     "Hope": "Надежда",
     "Creativity": "Творчество",
@@ -79,7 +79,7 @@ CATEGORIES_Russian = {
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
-Russian_VOICE = "ru-RU-SvetlanaNeural"
+RUSSIAN_VOICE = "ru-RU-SvetlanaNeural"
 
 # Phrase history file (NEVER delete this!)
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
@@ -182,7 +182,7 @@ def add_phrases_to_history(phrases, category):
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
-            "Russian": phrase["Russian"],
+            "russian": phrase["russian"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
@@ -206,7 +206,7 @@ def calculate_phrases_needed(target_minutes: int) -> int:
 def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
     """Generate unique bilingual phrases for long-form video"""
 
-    category_Russian = CATEGORIES_Russian[category_english]
+    category_russian = CATEGORIES_RUSSIAN[category_english]
 
     history = load_phrase_history()
     used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
@@ -259,7 +259,7 @@ For each phrase:
 3. Pronunciation guide (phonetic spelling for English speakers)
 
 Return as JSON array:
-[{{"english": "...", "Russian": "...", "pronunciation": "..."}}]
+[{{"english": "...", "russian": "...", "pronunciation": "..."}}]
 
 IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
 
@@ -327,140 +327,140 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
     all_fallbacks = {
         "Motivation": [
-            {"english": "Believe in yourself.", "Russian": "Верь в себя.", "pronunciation": "ver' v sebya."},
-            {"english": "You are capable of amazing things.", "Russian": "Ты способен на удивительные вещи.", "pronunciation": "ty spo-so-ben na u-di-vi-tel'-ny-ye ve-shchi."},
-            {"english": "Dream big, start small.", "Russian": "Мечтай о большом, начинай с малого.", "pronunciation": "mech-tay o bol'-shom, na-chi-nay s ma-lo-vo."},
-            {"english": "Your future is created by your actions.", "Russian": "Твоё будущее создаётся твоими действиями.", "pronunciation": "tvo-yo bu-du-she-ye soz-da-yot-sya tvo-i-mi dey-stvi-ya-mi."},
-            {"english": "Never give up on your dreams.", "Russian": "Никогда не сдавайся.", "pronunciation": "ni-ko-gda ne sda-vay-sya."},
-            {"english": "Small steps lead to big changes.", "Russian": "Маленькие шаги ведут к большим переменам.", "pronunciation": "ma-len'-ki-ye sha-gi ve-dut k bol'-shim pe-re-me-nam."},
-            {"english": "You are stronger than you think.", "Russian": "Ты сильнее, чем думаешь.", "pronunciation": "ty sil'-ne-ye, chem du-ma-yesh'."},
+            {"english": "Believe in yourself.", "russian": "Верь в себя.", "pronunciation": "ver' v sebya."},
+            {"english": "You are capable of amazing things.", "russian": "Ты способен на удивительные вещи.", "pronunciation": "ty spo-so-ben na u-di-vi-tel'-ny-ye ve-shchi."},
+            {"english": "Dream big, start small.", "russian": "Мечтай о большом, начинай с малого.", "pronunciation": "mech-tay o bol'-shom, na-chi-nay s ma-lo-vo."},
+            {"english": "Your future is created by your actions.", "russian": "Твоё будущее создаётся твоими действиями.", "pronunciation": "tvo-yo bu-du-she-ye soz-da-yot-sya tvo-i-mi dey-stvi-ya-mi."},
+            {"english": "Never give up on your dreams.", "russian": "Никогда не сдавайся.", "pronunciation": "ni-ko-gda ne sda-vay-sya."},
+            {"english": "Small steps lead to big changes.", "russian": "Маленькие шаги ведут к большим переменам.", "pronunciation": "ma-len'-ki-ye sha-gi ve-dut k bol'-shim pe-re-me-nam."},
+            {"english": "You are stronger than you think.", "russian": "Ты сильнее, чем думаешь.", "pronunciation": "ty sil'-ne-ye, chem du-ma-yesh'."},
         ],
         "Love": [
-            {"english": "Love yourself first.", "Russian": "Сначала полюби себя.", "pronunciation": "sna-cha-la po-lyu-bi se-bya."},
-            {"english": "Love makes everything possible.", "Russian": "Любовь делает всё возможным.", "pronunciation": "lyu-bov' de-la-yet vsyo voz-mozh-nym."},
-            {"english": "My heart beats for you.", "Russian": "Моё сердце бьётся для тебя.", "pronunciation": "mo-yo ser-dtse b'yot-sya dlya te-bya."},
-            {"english": "You are my everything.", "Russian": "Ты моё всё.", "pronunciation": "ty mo-yo vsyo."},
-            {"english": "Together forever, hand in hand.", "Russian": "Вместе навсегда, рука об руку.", "pronunciation": "vmes-te na-vse-gda, ru-ka ob ru-ku."},
+            {"english": "Love yourself first.", "russian": "Сначала полюби себя.", "pronunciation": "sna-cha-la po-lyu-bi se-bya."},
+            {"english": "Love makes everything possible.", "russian": "Любовь делает всё возможным.", "pronunciation": "lyu-bov' de-la-yet vsyo voz-mozh-nym."},
+            {"english": "My heart beats for you.", "russian": "Моё сердце бьётся для тебя.", "pronunciation": "mo-yo ser-dtse b'yot-sya dlya te-bya."},
+            {"english": "You are my everything.", "russian": "Ты моё всё.", "pronunciation": "ty mo-yo vsyo."},
+            {"english": "Together forever, hand in hand.", "russian": "Вместе навсегда, рука об руку.", "pronunciation": "vmes-te na-vse-gda, ru-ka ob ru-ku."},
         ],
         "Success": [
-            {"english": "Success comes from hard work.", "Russian": "Успех приходит через труд.", "pronunciation": "us-pekh pri-kho-dit che-rez trud."},
-            {"english": "Keep going, you're getting there.", "Russian": "Продолжай, ты почти у цели.", "pronunciation": "pro-dol-zhay, ty poch-ti u tse-li."},
-            {"english": "Winners never quit.", "Russian": "Победители не сдаются.", "pronunciation": "po-be-di-te-li ne sda-yut-sya."},
-            {"english": "Your effort will pay off.", "Russian": "Твои усилия окупятся.", "pronunciation": "tvo-i u-si-li-ya o-ku-pyat-sya."},
+            {"english": "Success comes from hard work.", "russian": "Успех приходит через труд.", "pronunciation": "us-pekh pri-kho-dit che-rez trud."},
+            {"english": "Keep going, you're getting there.", "russian": "Продолжай, ты почти у цели.", "pronunciation": "pro-dol-zhay, ty poch-ti u tse-li."},
+            {"english": "Winners never quit.", "russian": "Победители не сдаются.", "pronunciation": "po-be-di-te-li ne sda-yut-sya."},
+            {"english": "Your effort will pay off.", "russian": "Твои усилия окупятся.", "pronunciation": "tvo-i u-si-li-ya o-ku-pyat-sya."},
         ],
         "Wisdom": [
-            {"english": "Knowledge is power.", "Russian": "Знание — сила.", "pronunciation": "zna-ni-ye — si-la."},
-            {"english": "Learn from yesterday, live for today.", "Russian": "Учись у вчерашнего, живи сегодня.", "pronunciation": "u-chis' u vche-rash-ne-go, zhi-vi se-go-dnya."},
-            {"english": "Think before you act.", "Russian": "Семь раз отмерь, один раз отрежь.", "pronunciation": "sem' raz ot-mer', o-din raz ot-rezh'."},
-            {"english": "Experience is the best teacher.", "Russian": "Опыт — лучший учитель.", "pronunciation": "o-pyt — luch-shiy u-chi-tel'."},
+            {"english": "Knowledge is power.", "russian": "Знание — сила.", "pronunciation": "zna-ni-ye — si-la."},
+            {"english": "Learn from yesterday, live for today.", "russian": "Учись у вчерашнего, живи сегодня.", "pronunciation": "u-chis' u vche-rash-ne-go, zhi-vi se-go-dnya."},
+            {"english": "Think before you act.", "russian": "Семь раз отмерь, один раз отрежь.", "pronunciation": "sem' raz ot-mer', o-din raz ot-rezh'."},
+            {"english": "Experience is the best teacher.", "russian": "Опыт — лучший учитель.", "pronunciation": "o-pyt — luch-shiy u-chi-tel'."},
         ],
         "Happiness": [
-            {"english": "Happiness is a choice.", "Russian": "Счастье — это выбор.", "pronunciation": "schast'-ye — e-to vy-bor."},
-            {"english": "Find joy in the little things.", "Russian": "Находи радость в мелочах.", "pronunciation": "na-kho-di ra-dost' v me-lo-chakh."},
-            {"english": "Smile, it makes others happy.", "Russian": "Улыбайся, это радует других.", "pronunciation": "u-ly-bay-sya, e-to ra-du-yet dru-gikh."},
-            {"english": "Today is a gift.", "Russian": "Сегодня — подарок.", "pronunciation": "se-go-dnya — po-da-rok."},
+            {"english": "Happiness is a choice.", "russian": "Счастье — это выбор.", "pronunciation": "schast'-ye — e-to vy-bor."},
+            {"english": "Find joy in the little things.", "russian": "Находи радость в мелочах.", "pronunciation": "na-kho-di ra-dost' v me-lo-chakh."},
+            {"english": "Smile, it makes others happy.", "russian": "Улыбайся, это радует других.", "pronunciation": "u-ly-bay-sya, e-to ra-du-yet dru-gikh."},
+            {"english": "Today is a gift.", "russian": "Сегодня — подарок.", "pronunciation": "se-go-dnya — po-da-rok."},
         ],
         "Self Improvement": [
-            {"english": "Be better than yesterday.", "Russian": "Будь лучше, чем вчера.", "pronunciation": "bud' luch-she, chem vche-ra."},
-            {"english": "Grow through what you go through.", "Russian": "Расти через то, через что проходишь.", "pronunciation": "ras-ti che-rez to, che-rez chto pro-kho-dish'."},
-            {"english": "Invest in yourself daily.", "Russian": "Инвестируй в себя ежедневно.", "pronunciation": "in-ves-ti-ruy v se-bya ye-zhe-dnev-no."},
+            {"english": "Be better than yesterday.", "russian": "Будь лучше, чем вчера.", "pronunciation": "bud' luch-she, chem vche-ra."},
+            {"english": "Grow through what you go through.", "russian": "Расти через то, через что проходишь.", "pronunciation": "ras-ti che-rez to, che-rez chto pro-kho-dish'."},
+            {"english": "Invest in yourself daily.", "russian": "Инвестируй в себя ежедневно.", "pronunciation": "in-ves-ti-ruy v se-bya ye-zhe-dnev-no."},
         ],
-        "Благодарностьe": [
-            {"english": "Thank you for everything.", "Russian": "Спасибо за всё.", "pronunciation": "spa-si-bo za vsyo."},
-            {"english": "I appreciate your help.", "Russian": "Я ценю твою помощь.", "pronunciation": "ya tse-nyu tvo-yu po-moshch'."},
-            {"english": "Grateful for this moment.", "Russian": "Благодарен за этот момент.", "pronunciation": "bla-go-da-ren za e-tot mo-ment."},
+        "Gratitude": [
+            {"english": "Thank you for everything.", "russian": "Спасибо за всё.", "pronunciation": "spa-si-bo za vsyo."},
+            {"english": "I appreciate your help.", "russian": "Я ценю твою помощь.", "pronunciation": "ya tse-nyu tvo-yu po-moshch'."},
+            {"english": "Grateful for this moment.", "russian": "Благодарен за этот момент.", "pronunciation": "bla-go-da-ren za e-tot mo-ment."},
         ],
         "Friendship": [
-            {"english": "Friends forever, no matter what.", "Russian": "Друзья навсегда, несмотря ни на что.", "pronunciation": "druz'-ya na-vse-gda, ne-smot-rya ni na chto."},
-            {"english": "You are my best friend.", "Russian": "Ты мой лучший друг.", "pronunciation": "ty moy luch-shiy drug."},
-            {"english": "True friends stick together.", "Russian": "Настоящие друзья всегда вместе.", "pronunciation": "na-sto-ya-shchi-ye druz'-ya vse-gda vmes-te."},
+            {"english": "Friends forever, no matter what.", "russian": "Друзья навсегда, несмотря ни на что.", "pronunciation": "druz'-ya na-vse-gda, ne-smot-rya ni na chto."},
+            {"english": "You are my best friend.", "russian": "Ты мой лучший друг.", "pronunciation": "ty moy luch-shiy drug."},
+            {"english": "True friends stick together.", "russian": "Настоящие друзья всегда вместе.", "pronunciation": "na-sto-ya-shchi-ye druz'-ya vse-gda vmes-te."},
         ],
         "Hope": [
-            {"english": "There is always hope.", "Russian": "Надежда есть всегда.", "pronunciation": "na-dezh-da yest' vse-gda."},
-            {"english": "Better days are coming.", "Russian": "Лучшие дни впереди.", "pronunciation": "luch-shi-ye dni vpe-re-di."},
-            {"english": "Keep faith, keep going.", "Russian": "Сохраняй веру, продолжай.", "pronunciation": "so-khran-yay ve-ru, pro-dol-zhay."},
+            {"english": "There is always hope.", "russian": "Надежда есть всегда.", "pronunciation": "na-dezh-da yest' vse-gda."},
+            {"english": "Better days are coming.", "russian": "Лучшие дни впереди.", "pronunciation": "luch-shi-ye dni vpe-re-di."},
+            {"english": "Keep faith, keep going.", "russian": "Сохраняй веру, продолжай.", "pronunciation": "so-khran-yay ve-ru, pro-dol-zhay."},
         ],
         "Creativity": [
-            {"english": "Create something beautiful today.", "Russian": "Создай что-то прекрасное сегодня.", "pronunciation": "soz-day chto-to pre-kras-no-ye se-go-dnya."},
-            {"english": "Your imagination is unlimited.", "Russian": "Твоё воображение безгранично.", "pronunciation": "tvo-yo vo-o-bra-zhe-ni-ye bez-gra-nich-no."},
-            {"english": "Art comes from the heart.", "Russian": "Искусство идёт от сердца.", "pronunciation": "is-kus-stvo i-dyot ot serd-tsa."},
-            {"english": "Express yourself freely.", "Russian": "Выражай себя свободно.", "pronunciation": "vy-ra-zhay se-bya svo-bod-no."},
-            {"english": "Innovation starts with curiosity.", "Russian": "Инновации начинаются с любопытства.", "pronunciation": "in-no-va-tsii na-chi-na-yut-sya s lyu-bo-pyt-stva."},
+            {"english": "Create something beautiful today.", "russian": "Создай что-то прекрасное сегодня.", "pronunciation": "soz-day chto-to pre-kras-no-ye se-go-dnya."},
+            {"english": "Your imagination is unlimited.", "russian": "Твоё воображение безгранично.", "pronunciation": "tvo-yo vo-o-bra-zhe-ni-ye bez-gra-nich-no."},
+            {"english": "Art comes from the heart.", "russian": "Искусство идёт от сердца.", "pronunciation": "is-kus-stvo i-dyot ot serd-tsa."},
+            {"english": "Express yourself freely.", "russian": "Выражай себя свободно.", "pronunciation": "vy-ra-zhay se-bya svo-bod-no."},
+            {"english": "Innovation starts with curiosity.", "russian": "Инновации начинаются с любопытства.", "pronunciation": "in-no-va-tsii na-chi-na-yut-sya s lyu-bo-pyt-stva."},
         ],
         "Inner Peace": [
-            {"english": "Find peace within yourself.", "Russian": "Найди покой внутри себя.", "pronunciation": "nay-di po-koy vnu-tri se-bya."},
-            {"english": "Breathe, relax, let go.", "Russian": "Дыши, расслабься, отпусти.", "pronunciation": "dy-shi, ras-lab'-sya, ot-pus-ti."},
-            {"english": "Calm mind, happy heart.", "Russian": "Спокойный ум, счастливое сердце.", "pronunciation": "spo-koy-nyy um, schast-li-vo-ye ser-dtse."},
+            {"english": "Find peace within yourself.", "russian": "Найди покой внутри себя.", "pronunciation": "nay-di po-koy vnu-tri se-bya."},
+            {"english": "Breathe, relax, let go.", "russian": "Дыши, расслабься, отпусти.", "pronunciation": "dy-shi, ras-lab'-sya, ot-pus-ti."},
+            {"english": "Calm mind, happy heart.", "russian": "Спокойный ум, счастливое сердце.", "pronunciation": "spo-koy-nyy um, schast-li-vo-ye ser-dtse."},
         ],
         "Confidence": [
-            {"english": "You are enough, just as you are.", "Russian": "Ты достаточен, такой, какой ты есть.", "pronunciation": "ty do-sta-to-chen, ta-koy, ka-koy ty yest'."},
-            {"english": "Stand tall, speak up.", "Russian": "Держись прямо, говори громко.", "pronunciation": "der-zhis' prya-mo, go-vo-ri grom-ko."},
-            {"english": "Believe in your abilities.", "Russian": "Верь в свои способности.", "pronunciation": "ver' v svo-i spo-sob-nos-ti."},
+            {"english": "You are enough, just as you are.", "russian": "Ты достаточен, такой, какой ты есть.", "pronunciation": "ty do-sta-to-chen, ta-koy, ka-koy ty yest'."},
+            {"english": "Stand tall, speak up.", "russian": "Держись прямо, говори громко.", "pronunciation": "der-zhis' prya-mo, go-vo-ri grom-ko."},
+            {"english": "Believe in your abilities.", "russian": "Верь в свои способности.", "pronunciation": "ver' v svo-i spo-sob-nos-ti."},
         ],
         "Perseverance": [
-            {"english": "Never give up, keep pushing.", "Russian": "Никогда не сдавайся, продолжай.", "pronunciation": "ni-ko-gda ne sda-vay-sya, pro-dol-zhay."},
-            {"english": "Storms make trees take deeper roots.", "Russian": "Бури заставляют деревья пускать корни глубже.", "pronunciation": "bu-ri zas-tav-lya-yut de-rev'-ya pus-kat' kor-ni glub-zhe."},
-            {"english": "Patience and persistence win.", "Russian": "Терпение и настойчивость побеждают.", "pronunciation": "ter-pe-ni-ye i na-stoy-chi-vost' po-be-zhda-yut."},
+            {"english": "Never give up, keep pushing.", "russian": "Никогда не сдавайся, продолжай.", "pronunciation": "ni-ko-gda ne sda-vay-sya, pro-dol-zhay."},
+            {"english": "Storms make trees take deeper roots.", "russian": "Бури заставляют деревья пускать корни глубже.", "pronunciation": "bu-ri zas-tav-lya-yut de-rev'-ya pus-kat' kor-ni glub-zhe."},
+            {"english": "Patience and persistence win.", "russian": "Терпение и настойчивость побеждают.", "pronunciation": "ter-pe-ni-ye i na-stoy-chi-vost' po-be-zhda-yut."},
         ],
         "Inspiration": [
-            {"english": "Let your light shine bright.", "Russian": "Пусть твой свет сияет ярко.", "pronunciation": "pust' tvoy svet si-ya-yet yar-ko."},
-            {"english": "Inspire others by your actions.", "Russian": "Вдохновляй других своими действиями.", "pronunciation": "vdokh-nov-lyay dru-gikh svo-i-mi dey-stvi-ya-mi."},
-            {"english": "Be the change you want to see.", "Russian": "Будь тем изменением, которое хочешь видеть.", "pronunciation": "bud' tem iz-me-ne-ni-yem, ko-to-ro-ye kho-chesh' vi-det'."},
+            {"english": "Let your light shine bright.", "russian": "Пусть твой свет сияет ярко.", "pronunciation": "pust' tvoy svet si-ya-yet yar-ko."},
+            {"english": "Inspire others by your actions.", "russian": "Вдохновляй других своими действиями.", "pronunciation": "vdokh-nov-lyay dru-gikh svo-i-mi dey-stvi-ya-mi."},
+            {"english": "Be the change you want to see.", "russian": "Будь тем изменением, которое хочешь видеть.", "pronunciation": "bud' tem iz-me-ne-ni-yem, ko-to-ro-ye kho-chesh' vi-det'."},
         ],
         "Positive Life": [
-            {"english": "Choose positivity every day.", "Russian": "Выбирай позитив каждый день.", "pronunciation": "vy-bi-ray po-zi-tiv kazh-dyy den'."},
-            {"english": "Good vibes only.", "Russian": "Только хорошие вибрации.", "pronunciation": "tol'-ko kho-ro-shi-ye vi-bra-tsii."},
-            {"english": "Life is what you make it.", "Russian": "Жизнь — это то, что ты из неё делаешь.", "pronunciation": "zhizn' — e-to to, chto ty iz ne-yo de-la-yesh'."},
+            {"english": "Choose positivity every day.", "russian": "Выбирай позитив каждый день.", "pronunciation": "vy-bi-ray po-zi-tiv kazh-dyy den'."},
+            {"english": "Good vibes only.", "russian": "Только хорошие вибрации.", "pronunciation": "tol'-ko kho-ro-shi-ye vi-bra-tsii."},
+            {"english": "Life is what you make it.", "russian": "Жизнь — это то, что ты из неё делаешь.", "pronunciation": "zhizn' — e-to to, chto ty iz ne-yo de-la-yesh'."},
         ],
         "Courage": [
-            {"english": "Be brave, take the first step.", "Russian": "Будь смелым, сделай первый шаг.", "pronunciation": "bud' sme-lym, sde-lay per-vyy shag."},
-            {"english": "Courage is not the absence of fear.", "Russian": "Смелость — это не отсутствие страха.", "pronunciation": "sme-lost' — e-to ne ot-sut-stvi-ye stra-kha."},
-            {"english": "Face your fears head on.", "Russian": "Смотри страху в глаза.", "pronunciation": "smot-ri stra-khu v gla-za."},
+            {"english": "Be brave, take the first step.", "russian": "Будь смелым, сделай первый шаг.", "pronunciation": "bud' sme-lym, sde-lay per-vyy shag."},
+            {"english": "Courage is not the absence of fear.", "russian": "Смелость — это не отсутствие страха.", "pronunciation": "sme-lost' — e-to ne ot-sut-stvi-ye stra-kha."},
+            {"english": "Face your fears head on.", "russian": "Смотри страху в глаза.", "pronunciation": "smot-ri stra-khu v gla-za."},
         ],
         "Kindness": [
-            {"english": "Be kind to everyone you meet.", "Russian": "Будь добр ко всем, кого встречаешь.", "pronunciation": "bud' dobr ko vsem, ko-go vstre-cha-yesh'."},
-            {"english": "Kindness costs nothing, means everything.", "Russian": "Доброта ничего не стоит, но значит всё.", "pronunciation": "dob-ro-ta ni-che-go ne sto-it, no zna-chit vsyo."},
-            {"english": "Spread kindness wherever you go.", "Russian": "Дари доброту везде, где бываешь.", "pronunciation": "da-ri dob-ro-tu vez-de, gde by-va-yesh'."},
+            {"english": "Be kind to everyone you meet.", "russian": "Будь добр ко всем, кого встречаешь.", "pronunciation": "bud' dobr ko vsem, ko-go vstre-cha-yesh'."},
+            {"english": "Kindness costs nothing, means everything.", "russian": "Доброта ничего не стоит, но значит всё.", "pronunciation": "dob-ro-ta ni-che-go ne sto-it, no zna-chit vsyo."},
+            {"english": "Spread kindness wherever you go.", "russian": "Дари доброту везде, где бываешь.", "pronunciation": "da-ri dob-ro-tu vez-de, gde by-va-yesh'."},
         ],
         "Patience": [
-            {"english": "Good things take time.", "Russian": "Хорошие вещи требуют времени.", "pronunciation": "kho-ro-shi-ye ve-shchi tre-bu-yut vre-me-ni."},
-            {"english": "Wait patiently, trust the process.", "Russian": "Жди терпеливо, доверяй процессу.", "pronunciation": "zhdi ter-pe-li-vo, do-ve-ryay pro-tses-su."},
-            {"english": "Rome wasn't built in a day.", "Russian": "Москва не сразу строилась.", "pronunciation": "mos-kva ne sra-zu stro-i-las'."},
+            {"english": "Good things take time.", "russian": "Хорошие вещи требуют времени.", "pronunciation": "kho-ro-shi-ye ve-shchi tre-bu-yut vre-me-ni."},
+            {"english": "Wait patiently, trust the process.", "russian": "Жди терпеливо, доверяй процессу.", "pronunciation": "zhdi ter-pe-li-vo, do-ve-ryay pro-tses-su."},
+            {"english": "Rome wasn't built in a day.", "russian": "Москва не сразу строилась.", "pronunciation": "mos-kva ne sra-zu stro-i-las'."},
         ],
         "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "Russian": "Прости и освободи себя.", "pronunciation": "pros-ti i os-vo-bo-di se-bya."},
-            {"english": "Let go of grudges, find peace.", "Russian": "Отпусти обиды, найди покой.", "pronunciation": "ot-pus-ti o-bi-dy, nay-di po-koy."},
-            {"english": "Forgiveness is a gift to yourself.", "Russian": "Прощение — это подарок себе.", "pronunciation": "pro-shche-ni-ye — e-to po-da-rok se-be."},
+            {"english": "Forgive and set yourself free.", "russian": "Прости и освободи себя.", "pronunciation": "pros-ti i os-vo-bo-di se-bya."},
+            {"english": "Let go of grudges, find peace.", "russian": "Отпусти обиды, найди покой.", "pronunciation": "ot-pus-ti o-bi-dy, nay-di po-koy."},
+            {"english": "Forgiveness is a gift to yourself.", "russian": "Прощение — это подарок себе.", "pronunciation": "pro-shche-ni-ye — e-to po-da-rok se-be."},
         ],
         "Strength": [
-            {"english": "You are stronger than you know.", "Russian": "Ты сильнее, чем знаешь.", "pronunciation": "ty sil'-ne-ye, chem zna-yesh'."},
-            {"english": "Inner strength comes from within.", "Russian": "Внутренняя сила приходит изнутри.", "pronunciation": "vnu-tren-nyaya si-la pri-kho-dit iz-nu-tri."},
-            {"english": "Challenges make you stronger.", "Russian": "Испытания делают тебя сильнее.", "pronunciation": "is-py-ta-ni-ya de-la-yut te-bya sil'-ne-ye."},
+            {"english": "You are stronger than you know.", "russian": "Ты сильнее, чем знаешь.", "pronunciation": "ty sil'-ne-ye, chem zna-yesh'."},
+            {"english": "Inner strength comes from within.", "russian": "Внутренняя сила приходит изнутри.", "pronunciation": "vnu-tren-nyaya si-la pri-kho-dit iz-nu-tri."},
+            {"english": "Challenges make you stronger.", "russian": "Испытания делают тебя сильнее.", "pronunciation": "is-py-ta-ni-ya de-la-yut te-bya sil'-ne-ye."},
         ],
         "Joy": [
-            {"english": "Find joy in every moment.", "Russian": "Находи радость в каждом моменте.", "pronunciation": "na-kho-di ra-dost' v kazh-dom mo-men-te."},
-            {"english": "Joy is contagious, spread it.", "Russian": "Радость заразительна, делитесь ею.", "pronunciation": "ra-dost' za-ra-zi-tel'-na, de-li-tes' ye-yu."},
-            {"english": "Dance like nobody's watching.", "Russian": "Танцуй, как будто никто не видит.", "pronunciation": "tan-tsuy, kak bud-to ni-kto ne vi-dit."},
+            {"english": "Find joy in every moment.", "russian": "Находи радость в каждом моменте.", "pronunciation": "na-kho-di ra-dost' v kazh-dom mo-men-te."},
+            {"english": "Joy is contagious, spread it.", "russian": "Радость заразительна, делитесь ею.", "pronunciation": "ra-dost' za-ra-zi-tel'-na, de-li-tes' ye-yu."},
+            {"english": "Dance like nobody's watching.", "russian": "Танцуй, как будто никто не видит.", "pronunciation": "tan-tsuy, kak bud-to ni-kto ne vi-dit."},
         ],
         "Balance": [
-            {"english": "Find balance in your life.", "Russian": "Найди баланс в своей жизни.", "pronunciation": "nay-di ba-lans v svo-yey zhiz-ni."},
-            {"english": "Work hard, rest well.", "Russian": "Работай усердно, отдыхай хорошо.", "pronunciation": "ra-bo-tay u-ser-dno, ot-dy-khay kho-ro-sho."},
-            {"english": "Too much of anything is not good.", "Russian": "Всё хорошо в меру.", "pronunciation": "vsyo kho-ro-sho v me-ru."},
+            {"english": "Find balance in your life.", "russian": "Найди баланс в своей жизни.", "pronunciation": "nay-di ba-lans v svo-yey zhiz-ni."},
+            {"english": "Work hard, rest well.", "russian": "Работай усердно, отдыхай хорошо.", "pronunciation": "ra-bo-tay u-ser-dno, ot-dy-khay kho-ro-sho."},
+            {"english": "Too much of anything is not good.", "russian": "Всё хорошо в меру.", "pronunciation": "vsyo kho-ro-sho v me-ru."},
         ],
         "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "Russian": "Рост происходит вне зоны комфорта.", "pronunciation": "rost pro-is-kho-dit vne zo-ny kom-for-ta."},
-            {"english": "Embrace change, grow stronger.", "Russian": "Принимай изменения, становись сильнее.", "pronunciation": "pri-ni-may iz-me-ne-ni-ya, sta-no-vis' sil'-ne-ye."},
-            {"english": "Every challenge is a chance to grow.", "Russian": "Каждое испытание — шанс вырасти.", "pronunciation": "kazh-do-ye is-py-ta-ni-ye — shans vy-ras-ti."},
+            {"english": "Growth happens outside your comfort zone.", "russian": "Рост происходит вне зоны комфорта.", "pronunciation": "rost pro-is-kho-dit vne zo-ny kom-for-ta."},
+            {"english": "Embrace change, grow stronger.", "russian": "Принимай изменения, становись сильнее.", "pronunciation": "pri-ni-may iz-me-ne-ni-ya, sta-no-vis' sil'-ne-ye."},
+            {"english": "Every challenge is a chance to grow.", "russian": "Каждое испытание — шанс вырасти.", "pronunciation": "kazh-do-ye is-py-ta-ni-ye — shans vy-ras-ti."},
         ],
         "Purpose": [
-            {"english": "Find your purpose, follow it.", "Russian": "Найди свою цель, следуй за ней.", "pronunciation": "nay-di svo-yu tsel', sle-duy za ney."},
-            {"english": "Your life has meaning.", "Russian": "Твоя жизнь имеет смысл.", "pronunciation": "tvo-ya zhizn' i-me-yet smysl."},
-            {"english": "Live with intention, not accident.", "Russian": "Живи осознанно, а не случайно.", "pronunciation": "zhi-vi o-soz-nan-no, a ne slu-chay-no."},
+            {"english": "Find your purpose, follow it.", "russian": "Найди свою цель, следуй за ней.", "pronunciation": "nay-di svo-yu tsel', sle-duy za ney."},
+            {"english": "Your life has meaning.", "russian": "Твоя жизнь имеет смысл.", "pronunciation": "tvo-ya zhizn' i-me-yet smysl."},
+            {"english": "Live with intention, not accident.", "russian": "Живи осознанно, а не случайно.", "pronunciation": "zhi-vi o-soz-nan-no, a ne slu-chay-no."},
         ],
         "Mindfulness": [
-            {"english": "Be present in this moment.", "Russian": "Будь в настоящем моменте.", "pronunciation": "bud' v na-sto-yash-chem mo-men-te."},
-            {"english": "Breathe deeply, stay grounded.", "Russian": "Дыши глубоко, оставайся на земле.", "pronunciation": "dy-shi glu-bo-ko, os-ta-vay-sya na zem-le."},
-            {"english": "Notice the little things around you.", "Russian": "Замечай мелочи вокруг тебя.", "pronunciation": "za-me-chay me-lo-chi vo-krug te-bya."},
+            {"english": "Be present in this moment.", "russian": "Будь в настоящем моменте.", "pronunciation": "bud' v na-sto-yash-chem mo-men-te."},
+            {"english": "Breathe deeply, stay grounded.", "russian": "Дыши глубоко, оставайся на земле.", "pronunciation": "dy-shi glu-bo-ko, os-ta-vay-sya na zem-le."},
+            {"english": "Notice the little things around you.", "russian": "Замечай мелочи вокруг тебя.", "pronunciation": "za-me-chay me-lo-chi vo-krug te-bya."},
         ],
     }
 
@@ -509,7 +509,7 @@ def generate_all_audio(phrases: list, output_dir: str):
 
     for i, phrase in enumerate(phrases):
         english_file = output_dir / f"english_{i}.mp3"
-        Russian_file = output_dir / f"Russian_{i}.mp3"
+        russian_file = output_dir / f"russian_{i}.mp3"
         combined_file = output_dir / f"combined_{i}.mp3"
 
         if (i + 1) % 20 == 0:
@@ -522,14 +522,14 @@ def generate_all_audio(phrases: list, output_dir: str):
             subprocess.run(cmd, capture_output=True)
 
         # Generate Russian audio
-        ru_success = asyncio.run(generate_single_audio(phrase["Russian"], Russian_VOICE, str(Russian_file)))
+        ru_success = asyncio.run(generate_single_audio(phrase["russian"], RUSSIAN_VOICE, str(russian_file)))
         if not ru_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(Russian_file)]
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(russian_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        ru_duration = get_audio_duration(str(Russian_file))
+        ru_duration = get_audio_duration(str(russian_file))
 
         # Add pause between English and Russian
         pause_between = 0.5
@@ -539,7 +539,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(Russian_file),
+            "-i", str(russian_file),
             "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
@@ -551,7 +551,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             concat_file = output_dir / f"concat_{i}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{Russian_file.as_posix()}'\n")
+                f.write(f"file '{russian_file.as_posix()}'\n")
 
             cmd = [
                 "ffmpeg", "-y",
@@ -569,7 +569,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "Russian": str(Russian_file),
+            "russian": str(russian_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
@@ -663,7 +663,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
 
-    Russian_font_paths = [
+    russian_font_paths = [
         "C:/Windows/Fonts/segoeuib.ttf",
         "C:/Windows/Fonts/arialbd.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
@@ -680,12 +680,12 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     # Refined font sizes
     font_category = load_font(english_font_paths, 42)
     font_english = load_font(english_font_paths, 68)
-    font_Russian = load_font(Russian_font_paths, 82)
-    font_pronunciation = load_font(Russian_font_paths, 48)
+    font_russian = load_font(russian_font_paths, 82)
+    font_pronunciation = load_font(russian_font_paths, 48)
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    Russian = phrase_data.get("Russian", "")
+    russian = phrase_data.get("russian", "")
     pronunciation = phrase_data.get("pronunciation", "")
 
     def wrap_text(text, font, max_width):
@@ -739,7 +739,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_total_h = len(en_lines) * en_line_h
     
     # 2. Russian Box
-    ru_lines = wrap_text(Russian, font_Russian, VIDEO_WIDTH - 300)
+    ru_lines = wrap_text(russian, font_russian, VIDEO_WIDTH - 300)
     ru_line_h = 100
     ru_total_h = len(ru_lines) * ru_line_h
     
@@ -776,7 +776,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     )
     for i, line in enumerate(ru_lines):
         draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * ru_line_h) + ru_line_h // 2), 
-                  line, fill=(255, 255, 255), font=font_Russian, anchor="mm")
+                  line, fill=(255, 255, 255), font=font_russian, anchor="mm")
 
     y_cursor += ru_box_h + (GAP // 2)
 
@@ -794,7 +794,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
                   line, fill=(70, 45, 25), font=font_pronunciation, anchor="mm")
 
     # Branding (Bottom Right)
-    brand_text = "VELOCITY Russian"
+    brand_text = "VELOCITY RUSSIAN"
     brand_bbox = draw.textbbox((0, 0), brand_text, font=font_branding)
     brand_w = brand_bbox[2] - brand_bbox[0]
     draw.text((VIDEO_WIDTH - brand_w - 60, VIDEO_HEIGHT - 80), brand_text, 
@@ -810,7 +810,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
 # ============== THUMBNAIL GENERATION ==============
 
-def generate_thumbnail(category_english: str, category_Russian: str, output_path: str):
+def generate_thumbnail(category_english: str, category_russian: str, output_path: str):
     """Generate a modern, high-impact thumbnail - Lingexa Inspired"""
     try:
         from PIL import Image, ImageDraw, ImageFont
@@ -825,7 +825,7 @@ def generate_thumbnail(category_english: str, category_Russian: str, output_path
 
     # Load fonts
     english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"]
-    Russian_font_paths = ["C:/Windows/Fonts/arialbd.ttf"]
+    russian_font_paths = ["C:/Windows/Fonts/arialbd.ttf"]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
@@ -834,12 +834,12 @@ def generate_thumbnail(category_english: str, category_Russian: str, output_path
         return ImageFont.load_default()
 
     font_huge = load_font(english_font_paths, 130)
-    font_main = load_font(Russian_font_paths, 110)
+    font_main = load_font(russian_font_paths, 110)
     font_sub = load_font(english_font_paths, 60)
     font_badge = load_font(english_font_paths, 45)
 
     # Big Impact Title (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 220), "MASTER Russian", fill=(45, 35, 65), font=font_huge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 220), "MASTER RUSSIAN", fill=(45, 35, 65), font=font_huge, anchor="mm")
     
     # Category Badge (Lingexa Dark Purple)
     cat_text = category_english.upper()
@@ -852,7 +852,7 @@ def generate_thumbnail(category_english: str, category_Russian: str, output_path
     draw.text((VIDEO_WIDTH // 2, 365), cat_text, fill=(255, 255, 255), font=font_sub, anchor="mm")
 
     # Russian Translation (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 530), category_Russian, fill=(45, 35, 65), font=font_main, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 530), category_russian, fill=(45, 35, 65), font=font_main, anchor="mm")
 
     # Features / Call to Action (Lingexa Peach)
     cta_text = "60 ESSENTIAL PHRASES"
@@ -864,7 +864,7 @@ def generate_thumbnail(category_english: str, category_Russian: str, output_path
 
     # Bottom Branding (Dark Purple Bar)
     draw.rectangle([(0, VIDEO_HEIGHT - 100), (VIDEO_WIDTH, VIDEO_HEIGHT)], fill=(45, 35, 65, 255))
-    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY Russian", fill=(255, 255, 255), font=font_badge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY RUSSIAN", fill=(255, 255, 255), font=font_badge, anchor="mm")
 
     img = img.convert('RGB')
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
@@ -899,13 +899,13 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_Russian: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_russian: str, phrases: list, duration_minutes: float, output_dir: str):
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
     
     # Generate viral title variations
     titles = [
-        f"Learn Russian in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_Russian})",
-        f"60 Russian Phrases for {category_english} | Speak Russian Like a Native! ({category_Russian})",
+        f"Learn Russian in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_russian})",
+        f"60 Russian Phrases for {category_english} | Speak Russian Like a Native! ({category_russian})",
         f"Master Russian {category_english} | 60 Essential Russian Phrases with Pronunciation | Velocity Russian",
         f"Russian Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
         f"Speak Russian Fluently | {category_english} Phrases | English + Russian + Pronunciation",
@@ -914,7 +914,7 @@ def generate_title_description(category_english: str, category_Russian: str, phr
     # Generate comprehensive description
     description = f"""🇷🇺 Learn Russian with Velocity Russian! 🇷🇺
 
-In this video, you'll learn 60 essential Russian phrases about {category_english} ({category_Russian}).
+In this video, you'll learn 60 essential Russian phrases about {category_english} ({category_russian}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
@@ -943,7 +943,7 @@ Perfect for beginners and intermediate learners!
     for i, phrase in enumerate(phrases, 1):
         description += f"""
 {i}. {phrase['english']}
-   Russian: {phrase['Russian']}
+   Russian: {phrase['russian']}
    Pronunciation: {phrase['pronunciation']}
 """
 
@@ -966,7 +966,7 @@ Perfect for beginners and intermediate learners!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
-📱 FOLLOW VELOCITY Russian:
+📱 FOLLOW VELOCITY RUSSIAN:
 [Add your social media links here]
 
 🎵 MUSIC:
@@ -1033,7 +1033,7 @@ Perfect for beginners and intermediate learners!
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_Russian": category_Russian,
+        "category_russian": category_russian,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1117,7 +1117,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
 
     print(f"\n{'='*80}")
-    print(f"LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_Russian[category_english]})")
+    print(f"LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_RUSSIAN[category_english]})")
     print(f"Target Phrases: {phrases_count}")
     print(f"{'='*80}\n")
 
@@ -1130,7 +1130,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases = generate_phrases_for_longform(category_english, phrases_count)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} -> {phrase['Russian']}")
+        print(f"  {i}. {phrase['english']} -> {phrase['russian']}")
 
     print(f"\n[info] Total phrases: {len(phrases)}")
 
@@ -1158,10 +1158,10 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
                 print(f"  gpt-image-2 thumbnail saved")
             else:
                 print(f"  gpt-image-2 failed, using built-in")
-                generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+                generate_thumbnail(category_english, CATEGORIES_RUSSIAN[category_english], str(thumbnail_path))
         except Exception as e:
             print(f"  Thumbnail error: {e}, using built-in")
-            generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+            generate_thumbnail(category_english, CATEGORIES_RUSSIAN[category_english], str(thumbnail_path))
     video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"
     print(f"\n[4/6] Generating audio for {len(phrases)} phrases...")
     audio_files = generate_all_audio(phrases, str(video_dir))
@@ -1194,7 +1194,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
     title_meta = generate_title_description(
         category_english,
-        CATEGORIES_Russian[category_english],
+        CATEGORIES_RUSSIAN[category_english],
         phrases,
         total_duration / 60,
         str(video_dir)
@@ -1208,7 +1208,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
         "description": title_meta.get("description", ""),
         "tags": ["Learn Russian", "Russian Phrases", "Russian", category_english, "Velocity Russian"],
         "category_english": category_english,
-        "category_Russian": CATEGORIES_Russian[category_english],
+        "category_russian": CATEGORIES_RUSSIAN[category_english],
         "phrases_count": len(phrases),
         "duration_seconds": total_duration,
         "duration_minutes": total_duration / 60,
@@ -1264,7 +1264,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print(" VELOCITY Russian - YOUTUBE LONG-FORM AUTOMATION ")
+    print(" VELOCITY RUSSIAN - YOUTUBE LONG-FORM AUTOMATION ")
     print("="*80)
     print("\nFEATURES:")
     print("  16:9 format (1920x1080) for YouTube long-form")
@@ -1276,7 +1276,7 @@ if __name__ == "__main__":
     print("  NEVER repeats phrases (permanent history tracking)")
     print(f"\nAVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
-        print(f"   {i:2d}. {cat} ({CATEGORIES_Russian[cat]})")
+        print(f"   {i:2d}. {cat} ({CATEGORIES_RUSSIAN[cat]})")
     print(f"\nVIDEO SPECIFICATIONS:")
     print(f"  Resolution: {VIDEO_WIDTH}x{VIDEO_HEIGHT} (16:9)")
     print(f"  Frame Rate: {FPS} FPS")
