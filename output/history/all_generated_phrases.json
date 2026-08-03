@@ -12239,7 +12239,727 @@
       "russian": "Пусть твой дух, сияет.",
       "category": "Joy",
       "generated_at": "2026-08-02T04:27:30.559404"
+    },
+    {
+      "english": "Just keep trying, okay?",
+      "russian": "Просто пробуй, хорошо?",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130598"
+    },
+    {
+      "english": "Almost there, don't stop.",
+      "russian": "Почти там, не останавливайся.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130608"
+    },
+    {
+      "english": "That's the right way!",
+      "russian": "Это правильный путь!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130610"
+    },
+    {
+      "english": "You're learning fast, wow!",
+      "russian": "Ты учишься быстро, вау!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130612"
+    },
+    {
+      "english": "Good job, keep going.",
+      "russian": "Молодец, продолжай.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130613"
+    },
+    {
+      "english": "See? It's not so hard.",
+      "russian": "Видишь? Это не так сложно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130614"
+    },
+    {
+      "english": "Nailed it, perfectly!",
+      "russian": "Получилось, идеально!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130615"
+    },
+    {
+      "english": "That's how you say it.",
+      "russian": "Вот как это говорится.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130618"
+    },
+    {
+      "english": "You sound so natural.",
+      "russian": "Ты звучишь очень естественно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130620"
+    },
+    {
+      "english": "Little by little, you'll know.",
+      "russian": "Понемногу, ты будешь знать.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130621"
+    },
+    {
+      "english": "This is great progress, yes.",
+      "russian": "Это отличный прогресс, да.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130623"
+    },
+    {
+      "english": "You're making it work.",
+      "russian": "У тебя получается.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130624"
+    },
+    {
+      "english": "Don't be shy, speak up.",
+      "russian": "Не стесняйся, говори.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130625"
+    },
+    {
+      "english": "Listen, and repeat now.",
+      "russian": "Слушай, и повторяй сейчас.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130626"
+    },
+    {
+      "english": "You understand, finally!",
+      "russian": "Ты понял, наконец-то!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130627"
+    },
+    {
+      "english": "Just breathe, and go.",
+      "russian": "Просто дыши, и говори.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130628"
+    },
+    {
+      "english": "That's the key phrase.",
+      "russian": "Это ключевая фраза.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130630"
+    },
+    {
+      "english": "One step at a time.",
+      "russian": "Шаг за шагом.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130631"
+    },
+    {
+      "english": "You're on the right track.",
+      "russian": "Ты на верном пути.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130632"
+    },
+    {
+      "english": "Good pronunciation, friend.",
+      "russian": "Хорошее произношение, друг.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130633"
+    },
+    {
+      "english": "You're catching on, nice!",
+      "russian": "Ты схватываешь, здорово!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130637"
+    },
+    {
+      "english": "Try it yourself now.",
+      "russian": "Попробуй сам сейчас.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130638"
+    },
+    {
+      "english": "That sounds so right.",
+      "russian": "Это звучит очень правильно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130639"
+    },
+    {
+      "english": "You're doing great work.",
+      "russian": "Ты отлично справляешься.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130640"
+    },
+    {
+      "english": "Just a little more effort.",
+      "russian": "Еще немного усилий.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130641"
+    },
+    {
+      "english": "You're getting closer, yes.",
+      "russian": "Ты приближаешься, да.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130642"
+    },
+    {
+      "english": "This is your moment.",
+      "russian": "Это твой момент.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130643"
+    },
+    {
+      "english": "Speak it, confidently.",
+      "russian": "Говори это, уверенно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130644"
+    },
+    {
+      "english": "You're a natural learner.",
+      "russian": "Ты прирожденный ученик.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130645"
+    },
+    {
+      "english": "That's the correct word.",
+      "russian": "Это правильное слово.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130646"
+    },
+    {
+      "english": "You're almost fluent, wow.",
+      "russian": "Ты почти говоришь свободно, вау.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130647"
+    },
+    {
+      "english": "Keep that energy up.",
+      "russian": "Поддерживай эту энергию.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130648"
+    },
+    {
+      "english": "You're connecting the dots.",
+      "russian": "Ты находишь связь.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130649"
+    },
+    {
+      "english": "Yes! You got it right.",
+      "russian": "Да! Ты понял правильно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130650"
+    },
+    {
+      "english": "This is important, listen.",
+      "russian": "Это важно, слушай.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130652"
+    },
+    {
+      "english": "You're truly progressing.",
+      "russian": "Ты действительно прогрессируешь.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130653"
+    },
+    {
+      "english": "Don't give up, ever.",
+      "russian": "Не сдавайся, никогда.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130654"
+    },
+    {
+      "english": "You're unlocking new skills.",
+      "russian": "Ты открываешь новые навыки.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130655"
+    },
+    {
+      "english": "Just keep trying, okay?",
+      "russian": "Просто пробуй, хорошо?",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130656"
+    },
+    {
+      "english": "Almost there, don't stop.",
+      "russian": "Почти там, не останавливайся.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130657"
+    },
+    {
+      "english": "That's the right way!",
+      "russian": "Это правильный путь!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130659"
+    },
+    {
+      "english": "You're learning fast, wow!",
+      "russian": "Ты учишься быстро, вау!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130660"
+    },
+    {
+      "english": "Good job, keep going.",
+      "russian": "Молодец, продолжай.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130661"
+    },
+    {
+      "english": "See? It's not so hard.",
+      "russian": "Видишь? Это не так сложно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130662"
+    },
+    {
+      "english": "Nailed it, perfectly!",
+      "russian": "Получилось, идеально!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130663"
+    },
+    {
+      "english": "That's how you say it.",
+      "russian": "Вот как это говорится.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130664"
+    },
+    {
+      "english": "You sound so natural.",
+      "russian": "Ты звучишь очень естественно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130666"
+    },
+    {
+      "english": "Little by little, you'll know.",
+      "russian": "Понемногу, ты будешь знать.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130667"
+    },
+    {
+      "english": "This is great progress, yes.",
+      "russian": "Это отличный прогресс, да.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130668"
+    },
+    {
+      "english": "You're making it work.",
+      "russian": "У тебя получается.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130669"
+    },
+    {
+      "english": "Don't be shy, speak up.",
+      "russian": "Не стесняйся, говори.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130671"
+    },
+    {
+      "english": "Listen, and repeat now.",
+      "russian": "Слушай, и повторяй сейчас.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130673"
+    },
+    {
+      "english": "You understand, finally!",
+      "russian": "Ты понял, наконец-то!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130674"
+    },
+    {
+      "english": "Just breathe, and go.",
+      "russian": "Просто дыши, и говори.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130676"
+    },
+    {
+      "english": "That's the key phrase.",
+      "russian": "Это ключевая фраза.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130677"
+    },
+    {
+      "english": "One step at a time.",
+      "russian": "Шаг за шагом.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130678"
+    },
+    {
+      "english": "You're on the right track.",
+      "russian": "Ты на верном пути.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130679"
+    },
+    {
+      "english": "Good pronunciation, friend.",
+      "russian": "Хорошее произношение, друг.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130680"
+    },
+    {
+      "english": "You're catching on, nice!",
+      "russian": "Ты схватываешь, здорово!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130681"
+    },
+    {
+      "english": "Try it yourself now.",
+      "russian": "Попробуй сам сейчас.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130682"
+    },
+    {
+      "english": "That sounds so right.",
+      "russian": "Это звучит очень правильно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130683"
+    },
+    {
+      "english": "You're doing great work.",
+      "russian": "Ты отлично справляешься.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130685"
+    },
+    {
+      "english": "Just a little more effort.",
+      "russian": "Еще немного усилий.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130686"
+    },
+    {
+      "english": "You're getting closer, yes.",
+      "russian": "Ты приближаешься, да.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130687"
+    },
+    {
+      "english": "This is your moment.",
+      "russian": "Это твой момент.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130688"
+    },
+    {
+      "english": "Speak it, confidently.",
+      "russian": "Говори это, уверенно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130689"
+    },
+    {
+      "english": "You're a natural learner.",
+      "russian": "Ты прирожденный ученик.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130690"
+    },
+    {
+      "english": "That's the correct word.",
+      "russian": "Это правильное слово.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130691"
+    },
+    {
+      "english": "You're almost fluent, wow.",
+      "russian": "Ты почти говоришь свободно, вау.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130692"
+    },
+    {
+      "english": "Keep that energy up.",
+      "russian": "Поддерживай эту энергию.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130693"
+    },
+    {
+      "english": "You're connecting the dots.",
+      "russian": "Ты находишь связь.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130696"
+    },
+    {
+      "english": "Yes! You got it right.",
+      "russian": "Да! Ты понял правильно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130697"
+    },
+    {
+      "english": "This is important, listen.",
+      "russian": "Это важно, слушай.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130698"
+    },
+    {
+      "english": "You're truly progressing.",
+      "russian": "Ты действительно прогрессируешь.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130699"
+    },
+    {
+      "english": "Don't give up, ever.",
+      "russian": "Не сдавайся, никогда.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130700"
+    },
+    {
+      "english": "You're unlocking new skills.",
+      "russian": "Ты открываешь новые навыки.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130702"
+    },
+    {
+      "english": "Just keep trying, okay?",
+      "russian": "Просто пробуй, хорошо?",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130726"
+    },
+    {
+      "english": "Almost there, don't stop.",
+      "russian": "Почти там, не останавливайся.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130729"
+    },
+    {
+      "english": "That's the right way!",
+      "russian": "Это правильный путь!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130731"
+    },
+    {
+      "english": "You're learning fast, wow!",
+      "russian": "Ты учишься быстро, вау!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130734"
+    },
+    {
+      "english": "Good job, keep going.",
+      "russian": "Молодец, продолжай.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130736"
+    },
+    {
+      "english": "See? It's not so hard.",
+      "russian": "Видишь? Это не так сложно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130738"
+    },
+    {
+      "english": "Nailed it, perfectly!",
+      "russian": "Получилось, идеально!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130744"
+    },
+    {
+      "english": "That's how you say it.",
+      "russian": "Вот как это говорится.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130747"
+    },
+    {
+      "english": "You sound so natural.",
+      "russian": "Ты звучишь очень естественно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130750"
+    },
+    {
+      "english": "Little by little, you'll know.",
+      "russian": "Понемногу, ты будешь знать.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130752"
+    },
+    {
+      "english": "This is great progress, yes.",
+      "russian": "Это отличный прогресс, да.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130754"
+    },
+    {
+      "english": "You're making it work.",
+      "russian": "У тебя получается.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130755"
+    },
+    {
+      "english": "Don't be shy, speak up.",
+      "russian": "Не стесняйся, говори.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130757"
+    },
+    {
+      "english": "Listen, and repeat now.",
+      "russian": "Слушай, и повторяй сейчас.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130758"
+    },
+    {
+      "english": "You understand, finally!",
+      "russian": "Ты понял, наконец-то!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130759"
+    },
+    {
+      "english": "Just breathe, and go.",
+      "russian": "Просто дыши, и говори.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130760"
+    },
+    {
+      "english": "That's the key phrase.",
+      "russian": "Это ключевая фраза.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130761"
+    },
+    {
+      "english": "One step at a time.",
+      "russian": "Шаг за шагом.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130762"
+    },
+    {
+      "english": "You're on the right track.",
+      "russian": "Ты на верном пути.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130763"
+    },
+    {
+      "english": "Good pronunciation, friend.",
+      "russian": "Хорошее произношение, друг.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130765"
+    },
+    {
+      "english": "You're catching on, nice!",
+      "russian": "Ты схватываешь, здорово!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130766"
+    },
+    {
+      "english": "Try it yourself now.",
+      "russian": "Попробуй сам сейчас.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130767"
+    },
+    {
+      "english": "That sounds so right.",
+      "russian": "Это звучит очень правильно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130768"
+    },
+    {
+      "english": "You're doing great work.",
+      "russian": "Ты отлично справляешься.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130769"
+    },
+    {
+      "english": "Just a little more effort.",
+      "russian": "Еще немного усилий.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130770"
+    },
+    {
+      "english": "You're getting closer, yes.",
+      "russian": "Ты приближаешься, да.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130771"
+    },
+    {
+      "english": "This is your moment.",
+      "russian": "Это твой момент.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130772"
+    },
+    {
+      "english": "Speak it, confidently.",
+      "russian": "Говори это, уверенно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130774"
+    },
+    {
+      "english": "You're a natural learner.",
+      "russian": "Ты прирожденный ученик.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130775"
+    },
+    {
+      "english": "That's the correct word.",
+      "russian": "Это правильное слово.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130776"
+    },
+    {
+      "english": "You're almost fluent, wow.",
+      "russian": "Ты почти говоришь свободно, вау.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130777"
+    },
+    {
+      "english": "Keep that energy up.",
+      "russian": "Поддерживай эту энергию.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130778"
+    },
+    {
+      "english": "You're connecting the dots.",
+      "russian": "Ты находишь связь.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130779"
+    },
+    {
+      "english": "Yes! You got it right.",
+      "russian": "Да! Ты понял правильно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130780"
+    },
+    {
+      "english": "This is important, listen.",
+      "russian": "Это важно, слушай.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130781"
+    },
+    {
+      "english": "You're truly progressing.",
+      "russian": "Ты действительно прогрессируешь.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130782"
+    },
+    {
+      "english": "Don't give up, ever.",
+      "russian": "Не сдавайся, никогда.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130783"
+    },
+    {
+      "english": "You're unlocking new skills.",
+      "russian": "Ты открываешь новые навыки.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130784"
+    },
+    {
+      "english": "Just keep trying, okay?",
+      "russian": "Просто пробуй, хорошо?",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130787"
+    },
+    {
+      "english": "Almost there, don't stop.",
+      "russian": "Почти там, не останавливайся.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130788"
+    },
+    {
+      "english": "That's the right way!",
+      "russian": "Это правильный путь!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130790"
+    },
+    {
+      "english": "You're learning fast, wow!",
+      "russian": "Ты учишься быстро, вау!",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130791"
+    },
+    {
+      "english": "Good job, keep going.",
+      "russian": "Молодец, продолжай.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130792"
+    },
+    {
+      "english": "See? It's not so hard.",
+      "russian": "Видишь? Это не так сложно.",
+      "category": "Success",
+      "generated_at": "2026-08-03T04:32:00.130793"
     }
   ],
-  "last_updated": "2026-08-02T04:27:30.559407"
+  "last_updated": "2026-08-03T04:32:00.130795"
 }
