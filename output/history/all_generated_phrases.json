@@ -12959,7 +12959,727 @@
       "russian": "Видишь? Это не так сложно.",
       "category": "Success",
       "generated_at": "2026-08-03T04:32:00.130793"
+    },
+    {
+      "english": "Hello, my friend. How are you?",
+      "russian": "Привет, друг. Как дела?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250154"
+    },
+    {
+      "english": "We are good friends, yes?",
+      "russian": "Мы хорошие друзья, да?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250164"
+    },
+    {
+      "english": "Let's be friends, okay?",
+      "russian": "Будем друзьями, ладно?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250166"
+    },
+    {
+      "english": "Thank you for your help.",
+      "russian": "Спасибо за твою помощь.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250168"
+    },
+    {
+      "english": "You are a good person.",
+      "russian": "Ты хороший человек.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250169"
+    },
+    {
+      "english": "I like spending time with you.",
+      "russian": "Мне нравится проводить время с тобой.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250170"
+    },
+    {
+      "english": "This is a true friendship.",
+      "russian": "Это настоящая дружба.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250172"
+    },
+    {
+      "english": "Let's have fun together.",
+      "russian": "Давай повеселимся вместе.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250174"
+    },
+    {
+      "english": "You are my best friend.",
+      "russian": "Ты мой лучший друг.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250176"
+    },
+    {
+      "english": "I can trust you.",
+      "russian": "Я могу тебе доверять.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250177"
+    },
+    {
+      "english": "Let's celebrate this moment.",
+      "russian": "Отметим этот момент.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250179"
+    },
+    {
+      "english": "Always remember me.",
+      "russian": "Всегда помни меня.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250180"
+    },
+    {
+      "english": "We will be friends forever.",
+      "russian": "Мы будем друзьями навсегда.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250181"
+    },
+    {
+      "english": "You make me happy.",
+      "russian": "Ты делаешь меня счастливым.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250182"
+    },
+    {
+      "english": "What are your plans?",
+      "russian": "Какие у тебя планы?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250183"
+    },
+    {
+      "english": "Let's go somewhere.",
+      "russian": "Пойдём куда-нибудь.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250184"
+    },
+    {
+      "english": "It's nice to see you.",
+      "russian": "Приятно тебя видеть.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250185"
+    },
+    {
+      "english": "Tell me everything.",
+      "russian": "Расскажи мне всё.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250186"
+    },
+    {
+      "english": "We share many things.",
+      "russian": "Мы многое разделяем.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250187"
+    },
+    {
+      "english": "Your friendship is important.",
+      "russian": "Твоя дружба важна.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250189"
+    },
+    {
+      "english": "Let's make a toast.",
+      "russian": "Давай поднимем тост.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250190"
+    },
+    {
+      "english": "You are always welcome.",
+      "russian": "Ты всегда желанный гость.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250192"
+    },
+    {
+      "english": "Let's stay in touch.",
+      "russian": "Давай останемся на связи.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250196"
+    },
+    {
+      "english": "I miss our talks.",
+      "russian": "Я скучаю по нашим разговорам.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250197"
+    },
+    {
+      "english": "You are a true friend.",
+      "russian": "Ты настоящий друг.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250198"
+    },
+    {
+      "english": "Let's make new memories.",
+      "russian": "Давай создадим новые воспоминания.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250199"
+    },
+    {
+      "english": "What's new with you?",
+      "russian": "Что у тебя нового?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250200"
+    },
+    {
+      "english": "Always be yourself.",
+      "russian": "Всегда будь собой.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250201"
+    },
+    {
+      "english": "I value our friendship.",
+      "russian": "Я ценю нашу дружбу.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250203"
+    },
+    {
+      "english": "Let's do something fun.",
+      "russian": "Сделаем что-нибудь весёлое.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250204"
+    },
+    {
+      "english": "You are a great friend.",
+      "russian": "Ты отличный друг.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250205"
+    },
+    {
+      "english": "Let's keep exploring.",
+      "russian": "Будем дальше исследовать.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250206"
+    },
+    {
+      "english": "We have a special bond.",
+      "russian": "У нас особая связь.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250207"
+    },
+    {
+      "english": "Thanks for being there.",
+      "russian": "Спасибо, что ты рядом.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250208"
+    },
+    {
+      "english": "Let's have some tea.",
+      "russian": "Давай выпьем чаю.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250209"
+    },
+    {
+      "english": "You are always welcome here.",
+      "russian": "Тебе здесь всегда рады.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250210"
+    },
+    {
+      "english": "This is a great day.",
+      "russian": "Это отличный день.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250211"
+    },
+    {
+      "english": "Let's share our dreams.",
+      "russian": "Давай поделимся мечтами.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250212"
+    },
+    {
+      "english": "Friendship is a gift.",
+      "russian": "Дружба — это подарок.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250213"
+    },
+    {
+      "english": "Hello, my friend. How are you?",
+      "russian": "Привет, друг. Как дела?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250214"
+    },
+    {
+      "english": "We are good friends, yes?",
+      "russian": "Мы хорошие друзья, да?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250215"
+    },
+    {
+      "english": "Let's be friends, okay?",
+      "russian": "Будем друзьями, ладно?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250216"
+    },
+    {
+      "english": "Thank you for your help.",
+      "russian": "Спасибо за твою помощь.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250218"
+    },
+    {
+      "english": "You are a good person.",
+      "russian": "Ты хороший человек.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250221"
+    },
+    {
+      "english": "I like spending time with you.",
+      "russian": "Мне нравится проводить время с тобой.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250222"
+    },
+    {
+      "english": "This is a true friendship.",
+      "russian": "Это настоящая дружба.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250223"
+    },
+    {
+      "english": "Let's have fun together.",
+      "russian": "Давай повеселимся вместе.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250224"
+    },
+    {
+      "english": "You are my best friend.",
+      "russian": "Ты мой лучший друг.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250225"
+    },
+    {
+      "english": "I can trust you.",
+      "russian": "Я могу тебе доверять.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250226"
+    },
+    {
+      "english": "Let's celebrate this moment.",
+      "russian": "Отметим этот момент.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250227"
+    },
+    {
+      "english": "Always remember me.",
+      "russian": "Всегда помни меня.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250228"
+    },
+    {
+      "english": "We will be friends forever.",
+      "russian": "Мы будем друзьями навсегда.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250230"
+    },
+    {
+      "english": "You make me happy.",
+      "russian": "Ты делаешь меня счастливым.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250231"
+    },
+    {
+      "english": "What are your plans?",
+      "russian": "Какие у тебя планы?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250232"
+    },
+    {
+      "english": "Let's go somewhere.",
+      "russian": "Пойдём куда-нибудь.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250233"
+    },
+    {
+      "english": "It's nice to see you.",
+      "russian": "Приятно тебя видеть.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250234"
+    },
+    {
+      "english": "Tell me everything.",
+      "russian": "Расскажи мне всё.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250235"
+    },
+    {
+      "english": "We share many things.",
+      "russian": "Мы многое разделяем.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250236"
+    },
+    {
+      "english": "Your friendship is important.",
+      "russian": "Твоя дружба важна.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250237"
+    },
+    {
+      "english": "Let's make a toast.",
+      "russian": "Давай поднимем тост.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250238"
+    },
+    {
+      "english": "You are always welcome.",
+      "russian": "Ты всегда желанный гость.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250239"
+    },
+    {
+      "english": "Let's stay in touch.",
+      "russian": "Давай останемся на связи.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250240"
+    },
+    {
+      "english": "I miss our talks.",
+      "russian": "Я скучаю по нашим разговорам.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250241"
+    },
+    {
+      "english": "You are a true friend.",
+      "russian": "Ты настоящий друг.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250242"
+    },
+    {
+      "english": "Let's make new memories.",
+      "russian": "Давай создадим новые воспоминания.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250244"
+    },
+    {
+      "english": "What's new with you?",
+      "russian": "Что у тебя нового?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250245"
+    },
+    {
+      "english": "Always be yourself.",
+      "russian": "Всегда будь собой.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250246"
+    },
+    {
+      "english": "I value our friendship.",
+      "russian": "Я ценю нашу дружбу.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250247"
+    },
+    {
+      "english": "Let's do something fun.",
+      "russian": "Сделаем что-нибудь весёлое.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250248"
+    },
+    {
+      "english": "You are a great friend.",
+      "russian": "Ты отличный друг.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250249"
+    },
+    {
+      "english": "Let's keep exploring.",
+      "russian": "Будем дальше исследовать.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250250"
+    },
+    {
+      "english": "We have a special bond.",
+      "russian": "У нас особая связь.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250251"
+    },
+    {
+      "english": "Thanks for being there.",
+      "russian": "Спасибо, что ты рядом.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250252"
+    },
+    {
+      "english": "Let's have some tea.",
+      "russian": "Давай выпьем чаю.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250253"
+    },
+    {
+      "english": "You are always welcome here.",
+      "russian": "Тебе здесь всегда рады.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250256"
+    },
+    {
+      "english": "This is a great day.",
+      "russian": "Это отличный день.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250257"
+    },
+    {
+      "english": "Let's share our dreams.",
+      "russian": "Давай поделимся мечтами.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250258"
+    },
+    {
+      "english": "Friendship is a gift.",
+      "russian": "Дружба — это подарок.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250259"
+    },
+    {
+      "english": "Hello, my friend. How are you?",
+      "russian": "Привет, друг. Как дела?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250261"
+    },
+    {
+      "english": "We are good friends, yes?",
+      "russian": "Мы хорошие друзья, да?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250262"
+    },
+    {
+      "english": "Let's be friends, okay?",
+      "russian": "Будем друзьями, ладно?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250263"
+    },
+    {
+      "english": "Thank you for your help.",
+      "russian": "Спасибо за твою помощь.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250264"
+    },
+    {
+      "english": "You are a good person.",
+      "russian": "Ты хороший человек.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250265"
+    },
+    {
+      "english": "I like spending time with you.",
+      "russian": "Мне нравится проводить время с тобой.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250266"
+    },
+    {
+      "english": "This is a true friendship.",
+      "russian": "Это настоящая дружба.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250267"
+    },
+    {
+      "english": "Let's have fun together.",
+      "russian": "Давай повеселимся вместе.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250270"
+    },
+    {
+      "english": "You are my best friend.",
+      "russian": "Ты мой лучший друг.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250271"
+    },
+    {
+      "english": "I can trust you.",
+      "russian": "Я могу тебе доверять.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250272"
+    },
+    {
+      "english": "Let's celebrate this moment.",
+      "russian": "Отметим этот момент.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250273"
+    },
+    {
+      "english": "Always remember me.",
+      "russian": "Всегда помни меня.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250275"
+    },
+    {
+      "english": "We will be friends forever.",
+      "russian": "Мы будем друзьями навсегда.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250276"
+    },
+    {
+      "english": "You make me happy.",
+      "russian": "Ты делаешь меня счастливым.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250277"
+    },
+    {
+      "english": "What are your plans?",
+      "russian": "Какие у тебя планы?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250278"
+    },
+    {
+      "english": "Let's go somewhere.",
+      "russian": "Пойдём куда-нибудь.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250279"
+    },
+    {
+      "english": "It's nice to see you.",
+      "russian": "Приятно тебя видеть.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250281"
+    },
+    {
+      "english": "Tell me everything.",
+      "russian": "Расскажи мне всё.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250282"
+    },
+    {
+      "english": "We share many things.",
+      "russian": "Мы многое разделяем.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250283"
+    },
+    {
+      "english": "Your friendship is important.",
+      "russian": "Твоя дружба важна.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250284"
+    },
+    {
+      "english": "Let's make a toast.",
+      "russian": "Давай поднимем тост.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250285"
+    },
+    {
+      "english": "You are always welcome.",
+      "russian": "Ты всегда желанный гость.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250286"
+    },
+    {
+      "english": "Let's stay in touch.",
+      "russian": "Давай останемся на связи.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250287"
+    },
+    {
+      "english": "I miss our talks.",
+      "russian": "Я скучаю по нашим разговорам.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250288"
+    },
+    {
+      "english": "You are a true friend.",
+      "russian": "Ты настоящий друг.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250289"
+    },
+    {
+      "english": "Let's make new memories.",
+      "russian": "Давай создадим новые воспоминания.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250290"
+    },
+    {
+      "english": "What's new with you?",
+      "russian": "Что у тебя нового?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250291"
+    },
+    {
+      "english": "Always be yourself.",
+      "russian": "Всегда будь собой.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250292"
+    },
+    {
+      "english": "I value our friendship.",
+      "russian": "Я ценю нашу дружбу.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250295"
+    },
+    {
+      "english": "Let's do something fun.",
+      "russian": "Сделаем что-нибудь весёлое.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250296"
+    },
+    {
+      "english": "You are a great friend.",
+      "russian": "Ты отличный друг.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250297"
+    },
+    {
+      "english": "Let's keep exploring.",
+      "russian": "Будем дальше исследовать.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250298"
+    },
+    {
+      "english": "We have a special bond.",
+      "russian": "У нас особая связь.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250299"
+    },
+    {
+      "english": "Thanks for being there.",
+      "russian": "Спасибо, что ты рядом.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250302"
+    },
+    {
+      "english": "Let's have some tea.",
+      "russian": "Давай выпьем чаю.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250303"
+    },
+    {
+      "english": "You are always welcome here.",
+      "russian": "Тебе здесь всегда рады.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250305"
+    },
+    {
+      "english": "This is a great day.",
+      "russian": "Это отличный день.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250306"
+    },
+    {
+      "english": "Let's share our dreams.",
+      "russian": "Давай поделимся мечтами.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250307"
+    },
+    {
+      "english": "Friendship is a gift.",
+      "russian": "Дружба — это подарок.",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250308"
+    },
+    {
+      "english": "Hello, my friend. How are you?",
+      "russian": "Привет, друг. Как дела?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250309"
+    },
+    {
+      "english": "We are good friends, yes?",
+      "russian": "Мы хорошие друзья, да?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250310"
+    },
+    {
+      "english": "Let's be friends, okay?",
+      "russian": "Будем друзьями, ладно?",
+      "category": "Friendship",
+      "generated_at": "2026-08-04T04:15:26.250311"
     }
   ],
-  "last_updated": "2026-08-03T04:32:00.130795"
+  "last_updated": "2026-08-04T04:15:26.250313"
 }
