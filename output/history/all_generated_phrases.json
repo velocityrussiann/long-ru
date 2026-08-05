@@ -13679,7 +13679,727 @@
       "russian": "Будем друзьями, ладно?",
       "category": "Friendship",
       "generated_at": "2026-08-04T04:15:26.250311"
+    },
+    {
+      "english": "Not 'yes', but 'exactly'.",
+      "russian": "Не 'да', а 'точно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206909"
+    },
+    {
+      "english": "This is not 'good', it's 'super'.",
+      "russian": "Это не 'хорошо', это 'супер'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206920"
+    },
+    {
+      "english": "Say 'how much', not 'how many'.",
+      "russian": "Говори 'сколько', а не 'сколько штук'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206922"
+    },
+    {
+      "english": "It's 'very interesting', not 'much interesting'.",
+      "russian": "Это 'очень интересно', не 'много интересно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206923"
+    },
+    {
+      "english": "We learn 'every day', not 'each day'.",
+      "russian": "Учимся 'каждый день', не 'каждый день'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206925"
+    },
+    {
+      "english": "This is 'my fault', not 'my mistake'.",
+      "russian": "Это 'моя вина', а не 'моя ошибка'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206926"
+    },
+    {
+      "english": "Not 'I want to', but 'I would like'.",
+      "russian": "Не 'я хочу', а 'я хотел бы'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206927"
+    },
+    {
+      "english": "Use 'what's this', not 'which is this'.",
+      "russian": "Используй 'что это', а не 'какое это'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206930"
+    },
+    {
+      "english": "It's 'a little bit', not 'a bit'.",
+      "russian": "Это 'немножко', а не 'кусочек'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206932"
+    },
+    {
+      "english": "We are 'here now', not 'here at present'.",
+      "russian": "Мы 'здесь сейчас', а не 'здесь в настоящем'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206933"
+    },
+    {
+      "english": "Say 'thank you', not 'thanks much'.",
+      "russian": "Скажи 'спасибо', а не 'спасибо много'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206934"
+    },
+    {
+      "english": "This is 'so cool', not 'so much cool'.",
+      "russian": "Это 'так круто', не 'так много круто'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206936"
+    },
+    {
+      "english": "We say 'yes, please', not 'yes, if you want'.",
+      "russian": "Мы говорим 'да, пожалуйста', а не 'да, если хочешь'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206937"
+    },
+    {
+      "english": "It's 'a little bit cold', not 'little cold'.",
+      "russian": "Это 'немного холодно', а не 'мало холодно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206938"
+    },
+    {
+      "english": "We ask 'how to do', not 'how to make'.",
+      "russian": "Спрашиваем 'как сделать', а не 'как сделать'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206940"
+    },
+    {
+      "english": "This is 'my idea', not 'my thought'.",
+      "russian": "Это 'моя идея', а не 'моя мысль'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206941"
+    },
+    {
+      "english": "Say 'I understand', not 'I get it'.",
+      "russian": "Скажи 'я понимаю', а не 'я понял'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206942"
+    },
+    {
+      "english": "It's 'too late', not 'much late'.",
+      "russian": "Это 'слишком поздно', не 'много поздно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206943"
+    },
+    {
+      "english": "We do 'something new', not 'something new thing'.",
+      "russian": "Мы делаем 'что-то новое', а не 'что-то новую вещь'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206944"
+    },
+    {
+      "english": "This is 'really good', not 'real good'.",
+      "russian": "Это 'действительно хорошо', а не 'реально хорошо'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206945"
+    },
+    {
+      "english": "Say 'good luck', not 'fortune good'.",
+      "russian": "Скажи 'удачи', а не 'удача хорошая'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206946"
+    },
+    {
+      "english": "It's 'a bit difficult', not 'a little difficult'.",
+      "russian": "Это 'немного сложно', а не 'мало сложно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206948"
+    },
+    {
+      "english": "We have 'a lot of fun', not 'much fun'.",
+      "russian": "Мы 'очень веселимся', а не 'много веселья'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206949"
+    },
+    {
+      "english": "This is 'my pleasure', not 'my joy'.",
+      "russian": "Это 'моё удовольствие', а не 'моя радость'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206950"
+    },
+    {
+      "english": "Say 'of course', not 'for sure'.",
+      "russian": "Скажи 'конечно', а не 'точно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206951"
+    },
+    {
+      "english": "It's 'all yours', not 'all for you'.",
+      "russian": "Это 'всё твоё', а не 'всё для тебя'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206952"
+    },
+    {
+      "english": "We feel 'much better', not 'more better'.",
+      "russian": "Мы чувствуем себя 'намного лучше', не 'более лучше'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206953"
+    },
+    {
+      "english": "This is 'my favorite', not 'my most liked'.",
+      "russian": "Это 'мой любимый', а не 'мой самый понравившийся'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206954"
+    },
+    {
+      "english": "Say 'it depends', not 'it is depending'.",
+      "russian": "Скажи 'это зависит', а не 'это зависящее'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206956"
+    },
+    {
+      "english": "It's 'just in case', not 'only in case'.",
+      "russian": "Это 'на всякий случай', а не 'только на случай'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206957"
+    },
+    {
+      "english": "We are 'on time', not 'in time'.",
+      "russian": "Мы 'вовремя', а не 'в время'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206958"
+    },
+    {
+      "english": "This is 'a big deal', not 'a much deal'.",
+      "russian": "Это 'большое дело', а не 'много дела'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206959"
+    },
+    {
+      "english": "Say 'you too', not 'you also'.",
+      "russian": "Скажи 'тебе тоже', а не 'ты также'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206960"
+    },
+    {
+      "english": "It's 'getting dark', not 'it becomes dark'.",
+      "russian": "Темнеет, а не 'становится темно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206961"
+    },
+    {
+      "english": "We need 'some water', not 'a water'.",
+      "russian": "Нам нужна 'вода', а не 'одна вода'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206962"
+    },
+    {
+      "english": "This is 'my turn', not 'my time'.",
+      "russian": "Это 'моя очередь', а не 'моё время'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206963"
+    },
+    {
+      "english": "Say 'never mind', not 'don't worry about it'.",
+      "russian": "Скажи 'ничего', а не 'не беспокойся об этом'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206964"
+    },
+    {
+      "english": "It's 'so kind of you', not 'so nice of you'.",
+      "russian": "Это 'так мило с твоей стороны', не 'так приятно с твоей стороны'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206966"
+    },
+    {
+      "english": "We should 'take a break', not 'do a break'.",
+      "russian": "Нам стоит 'сделать перерыв', а не 'делать перерыв'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206967"
+    },
+    {
+      "english": "This is 'a real shame', not 'a true shame'.",
+      "russian": "Это 'настоящий стыд', а не 'истинный стыд'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206968"
+    },
+    {
+      "english": "Say 'what a pity', not 'how pity'.",
+      "russian": "Скажи 'как жаль', а не 'как стыд'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206968"
+    },
+    {
+      "english": "Not 'I am agree', say 'I agree'.",
+      "russian": "Не 'Я согласен', а 'Я согласен'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206970"
+    },
+    {
+      "english": "It's not 'I have 20 years', it's 'I am 20'.",
+      "russian": "Не 'Я имею 20 лет', а 'Мне 20 лет'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206971"
+    },
+    {
+      "english": "Don't say 'make photo', say 'take photo'.",
+      "russian": "Не говори 'делать фото', скажи 'сделать фото'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206972"
+    },
+    {
+      "english": "Not 'I am interesting', but 'I am interested'.",
+      "russian": "Не 'Я интересный', а 'Мне интересно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206973"
+    },
+    {
+      "english": "Forget 'speak Russian well', use 'speak Russian fluently'.",
+      "russian": "Забудь 'говорить по-русски хорошо', используй 'говорить по-русски свободно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206975"
+    },
+    {
+      "english": "It's 'How is your family?', not 'How many family?'.",
+      "russian": "Правильно 'Как твоя семья?', а не 'Сколько семья?'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206976"
+    },
+    {
+      "english": "Not 'I am come', say 'I came' or 'I come'.",
+      "russian": "Не 'Я прихожу', а 'Я пришёл' или 'Я прихожу'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206977"
+    },
+    {
+      "english": "No 'to do a mistake', just 'to make a mistake'.",
+      "russian": "Нет 'делать ошибку', просто 'сделать ошибку'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206978"
+    },
+    {
+      "english": "Don't say 'very big', say 'huge' or 'enormous'.",
+      "russian": "Не говори 'очень большой', скажи 'огромный'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206979"
+    },
+    {
+      "english": "It's 'What time is it?', not 'What hour is it?'.",
+      "russian": "Говорим 'Который час?', а не 'Сколько час?'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206980"
+    },
+    {
+      "english": "Not 'I am bored', say 'I am bored'.",
+      "russian": "Не 'Я скучаю', а 'Мне скучно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206981"
+    },
+    {
+      "english": "Forget 'I want to know', use 'I would like to know'.",
+      "russian": "Забудь 'Я хочу знать', скажи 'Я хотел бы знать'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206982"
+    },
+    {
+      "english": "No 'to look the time', just 'to check the time'.",
+      "russian": "Нет 'смотреть время', просто 'проверить время'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206983"
+    },
+    {
+      "english": "It's 'How was your day?', not 'How was your good day?'.",
+      "russian": "Спрашивай 'Как прошёл день?', а не 'Как прошёл твой хороший день?'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206984"
+    },
+    {
+      "english": "Don't say 'too much cold', say 'very cold'.",
+      "russian": "Не говори 'слишком холодно', скажи 'очень холодно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206985"
+    },
+    {
+      "english": "Not 'I am hungry', say 'I am hungry'.",
+      "russian": "Не 'Я голодный', а 'Я хочу есть'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206987"
+    },
+    {
+      "english": "Forget 'to do a question', use 'to ask a question'.",
+      "russian": "Забудь 'делать вопрос', скажи 'задать вопрос'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206988"
+    },
+    {
+      "english": "No 'to travel by car', just 'to travel by car'.",
+      "russian": "Нет 'путешествовать машиной', просто 'путешествовать на машине'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206989"
+    },
+    {
+      "english": "It's 'Have a good trip!', not 'Make a good trip!'.",
+      "russian": "Говори 'Хорошей поездки!', а не 'Сделай хорошей поездки!'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206990"
+    },
+    {
+      "english": "Don't say 'I am understand', say 'I understand'.",
+      "russian": "Не говори 'Я понимаю', а 'Я понимаю'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206991"
+    },
+    {
+      "english": "Not 'to make a mistake', but 'to make a mistake'.",
+      "russian": "Не 'делать ошибку', а 'совершить ошибку'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206992"
+    },
+    {
+      "english": "Forget 'to do shopping', use 'to go shopping'.",
+      "russian": "Забудь 'делать покупки', скажи 'ходить за покупками'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206993"
+    },
+    {
+      "english": "No 'to call to someone', just 'to call someone'.",
+      "russian": "Нет 'звонить кому-то', просто 'позвонить кому-то'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206994"
+    },
+    {
+      "english": "It's 'What's your name?', not 'How you call?'.",
+      "russian": "Спрашивай 'Как тебя зовут?', а не 'Как ты зовёшь?'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206996"
+    },
+    {
+      "english": "Don't say 'I have a thirst', say 'I am thirsty'.",
+      "russian": "Не говори 'У меня жажда', скажи 'Я хочу пить'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206997"
+    },
+    {
+      "english": "Not 'to do exercise', but 'to do exercise'.",
+      "russian": "Не 'делать упражнение', а 'заниматься спортом'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206998"
+    },
+    {
+      "english": "Forget 'to do homework', use 'to do homework'.",
+      "russian": "Забудь 'делать домашнее задание', скажи 'выполнять домашнее задание'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.206999"
+    },
+    {
+      "english": "No 'to do the dishes', just 'to do the dishes'.",
+      "russian": "Нет 'делать посуду', просто 'мыть посуду'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207000"
+    },
+    {
+      "english": "It's 'Have a nice day!', not 'Make a nice day!'.",
+      "russian": "Говори 'Хорошего дня!', а не 'Сделай хороший день!'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207001"
+    },
+    {
+      "english": "Don't say 'too much hot', say 'very hot'.",
+      "russian": "Не говори 'слишком жарко', скажи 'очень жарко'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207002"
+    },
+    {
+      "english": "Not 'I am sleepy', but 'I am sleepy'.",
+      "russian": "Не 'Я сонный', а 'Я хочу спать'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207003"
+    },
+    {
+      "english": "Forget 'to do a favor', use 'to do a favor'.",
+      "russian": "Забудь 'делать одолжение', скажи 'оказать услугу'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207004"
+    },
+    {
+      "english": "No 'to do a party', just 'to have a party'.",
+      "russian": "Нет 'делать вечеринку', просто 'устроить вечеринку'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207005"
+    },
+    {
+      "english": "It's 'How do you feel?', not 'How you feel?'.",
+      "russian": "Спрашивай 'Как ты себя чувствуешь?', а не 'Как ты чувствуешь?'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207006"
+    },
+    {
+      "english": "Don't say 'to make a question', say 'to ask a question'.",
+      "russian": "Не говори 'делать вопрос', скажи 'задать вопрос'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207007"
+    },
+    {
+      "english": "Not 'to do a call', but 'to make a call'.",
+      "russian": "Не 'делать звонок', а 'совершить звонок'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207008"
+    },
+    {
+      "english": "Forget 'to do a photo', use 'to take a photo'.",
+      "russian": "Забудь 'делать фото', скажи 'сделать фотографию'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207009"
+    },
+    {
+      "english": "No 'to do a journey', just 'to take a journey'.",
+      "russian": "Нет 'делать путешествие', просто 'отправиться в путешествие'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207011"
+    },
+    {
+      "english": "It's 'to buy a ticket', not 'to do a ticket'.",
+      "russian": "Говорим 'купить билет', а не 'сделать билет'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207012"
+    },
+    {
+      "english": "Don't say 'I am exciting', say 'I am excited'.",
+      "russian": "Не говори 'Я волнующий', а 'Я взволнован'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207013"
+    },
+    {
+      "english": "Not 'I am agree', say 'I agree'.",
+      "russian": "Не 'Я согласен', а 'Я согласен'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207014"
+    },
+    {
+      "english": "It's not 'I have 20 years', it's 'I am 20'.",
+      "russian": "Не 'Я имею 20 лет', а 'Мне 20 лет'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207015"
+    },
+    {
+      "english": "Don't say 'make photo', say 'take photo'.",
+      "russian": "Не говори 'делать фото', скажи 'сделать фото'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207016"
+    },
+    {
+      "english": "Not 'I am interesting', but 'I am interested'.",
+      "russian": "Не 'Я интересный', а 'Мне интересно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207018"
+    },
+    {
+      "english": "Forget 'speak Russian well', use 'speak Russian fluently'.",
+      "russian": "Забудь 'говорить по-русски хорошо', используй 'говорить по-русски свободно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207019"
+    },
+    {
+      "english": "It's 'How is your family?', not 'How many family?'.",
+      "russian": "Правильно 'Как твоя семья?', а не 'Сколько семья?'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207020"
+    },
+    {
+      "english": "Not 'I am come', say 'I came' or 'I come'.",
+      "russian": "Не 'Я прихожу', а 'Я пришёл' или 'Я прихожу'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207021"
+    },
+    {
+      "english": "No 'to do a mistake', just 'to make a mistake'.",
+      "russian": "Нет 'делать ошибку', просто 'сделать ошибку'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207022"
+    },
+    {
+      "english": "Don't say 'very big', say 'huge' or 'enormous'.",
+      "russian": "Не говори 'очень большой', скажи 'огромный'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207023"
+    },
+    {
+      "english": "It's 'What time is it?', not 'What hour is it?'.",
+      "russian": "Говорим 'Который час?', а не 'Сколько час?'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207024"
+    },
+    {
+      "english": "Not 'I am bored', say 'I am bored'.",
+      "russian": "Не 'Я скучаю', а 'Мне скучно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207025"
+    },
+    {
+      "english": "Forget 'I want to know', use 'I would like to know'.",
+      "russian": "Забудь 'Я хочу знать', скажи 'Я хотел бы знать'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207027"
+    },
+    {
+      "english": "No 'to look the time', just 'to check the time'.",
+      "russian": "Нет 'смотреть время', просто 'проверить время'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207028"
+    },
+    {
+      "english": "It's 'How was your day?', not 'How was your good day?'.",
+      "russian": "Спрашивай 'Как прошёл день?', а не 'Как прошёл твой хороший день?'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207029"
+    },
+    {
+      "english": "Don't say 'too much cold', say 'very cold'.",
+      "russian": "Не говори 'слишком холодно', скажи 'очень холодно'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207030"
+    },
+    {
+      "english": "Not 'I am hungry', say 'I am hungry'.",
+      "russian": "Не 'Я голодный', а 'Я хочу есть'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207031"
+    },
+    {
+      "english": "Forget 'to do a question', use 'to ask a question'.",
+      "russian": "Забудь 'делать вопрос', скажи 'задать вопрос'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207032"
+    },
+    {
+      "english": "No 'to travel by car', just 'to travel by car'.",
+      "russian": "Нет 'путешествовать машиной', просто 'путешествовать на машине'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207034"
+    },
+    {
+      "english": "It's 'Have a good trip!', not 'Make a good trip!'.",
+      "russian": "Говори 'Хорошей поездки!', а не 'Сделай хорошей поездки!'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207035"
+    },
+    {
+      "english": "Don't say 'I am understand', say 'I understand'.",
+      "russian": "Не говори 'Я понимаю', а 'Я понимаю'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207036"
+    },
+    {
+      "english": "Not 'to make a mistake', but 'to make a mistake'.",
+      "russian": "Не 'делать ошибку', а 'совершить ошибку'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207037"
+    },
+    {
+      "english": "Forget 'to do shopping', use 'to go shopping'.",
+      "russian": "Забудь 'делать покупки', скажи 'ходить за покупками'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207038"
+    },
+    {
+      "english": "No 'to call to someone', just 'to call someone'.",
+      "russian": "Нет 'звонить кому-то', просто 'позвонить кому-то'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207039"
+    },
+    {
+      "english": "It's 'What's your name?', not 'How you call?'.",
+      "russian": "Спрашивай 'Как тебя зовут?', а не 'Как ты зовёшь?'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207040"
+    },
+    {
+      "english": "Don't say 'I have a thirst', say 'I am thirsty'.",
+      "russian": "Не говори 'У меня жажда', скажи 'Я хочу пить'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207041"
+    },
+    {
+      "english": "Not 'to do exercise', but 'to do exercise'.",
+      "russian": "Не 'делать упражнение', а 'заниматься спортом'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207042"
+    },
+    {
+      "english": "Forget 'to do homework', use 'to do homework'.",
+      "russian": "Забудь 'делать домашнее задание', скажи 'выполнять домашнее задание'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207043"
+    },
+    {
+      "english": "No 'to do the dishes', just 'to do the dishes'.",
+      "russian": "Нет 'делать посуду', просто 'мыть посуду'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207044"
+    },
+    {
+      "english": "It's 'Have a nice day!', not 'Make a nice day!'.",
+      "russian": "Говори 'Хорошего дня!', а не 'Сделай хороший день!'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207045"
+    },
+    {
+      "english": "Don't say 'too much hot', say 'very hot'.",
+      "russian": "Не говори 'слишком жарко', скажи 'очень жарко'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207046"
+    },
+    {
+      "english": "Not 'I am sleepy', but 'I am sleepy'.",
+      "russian": "Не 'Я сонный', а 'Я хочу спать'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207047"
+    },
+    {
+      "english": "Forget 'to do a favor', use 'to do a favor'.",
+      "russian": "Забудь 'делать одолжение', скажи 'оказать услугу'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207048"
+    },
+    {
+      "english": "No 'to do a party', just 'to have a party'.",
+      "russian": "Нет 'делать вечеринку', просто 'устроить вечеринку'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207049"
+    },
+    {
+      "english": "It's 'How do you feel?', not 'How you feel?'.",
+      "russian": "Спрашивай 'Как ты себя чувствуешь?', а не 'Как ты чувствуешь?'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207051"
+    },
+    {
+      "english": "Don't say 'to make a question', say 'to ask a question'.",
+      "russian": "Не говори 'делать вопрос', скажи 'задать вопрос'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207052"
+    },
+    {
+      "english": "Not 'to do a call', but 'to make a call'.",
+      "russian": "Не 'делать звонок', а 'совершить звонок'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207053"
+    },
+    {
+      "english": "Forget 'to do a photo', use 'to take a photo'.",
+      "russian": "Забудь 'делать фото', скажи 'сделать фотографию'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207054"
+    },
+    {
+      "english": "No 'to do a journey', just 'to take a journey'.",
+      "russian": "Нет 'делать путешествие', просто 'отправиться в путешествие'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207055"
+    },
+    {
+      "english": "It's 'to buy a ticket', not 'to do a ticket'.",
+      "russian": "Говорим 'купить билет', а не 'сделать билет'.",
+      "category": "Success",
+      "generated_at": "2026-08-05T04:11:48.207056"
     }
   ],
-  "last_updated": "2026-08-04T04:15:26.250313"
+  "last_updated": "2026-08-05T04:11:48.207057"
 }
