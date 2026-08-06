@@ -14399,7 +14399,727 @@
       "russian": "Говорим 'купить билет', а не 'сделать билет'.",
       "category": "Success",
       "generated_at": "2026-08-05T04:11:48.207056"
+    },
+    {
+      "english": "New day, new chances.",
+      "russian": "Новый день, новые шансы.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832497"
+    },
+    {
+      "english": "Dreams take flight, slowly.",
+      "russian": "Мечты летят, медленно.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832508"
+    },
+    {
+      "english": "Tomorrow holds new possibilities.",
+      "russian": "Завтра - новые возможности.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832510"
+    },
+    {
+      "english": "Every effort counts, truly.",
+      "russian": "Каждое усилие важно, правда.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832511"
+    },
+    {
+      "english": "Find joy in small moments.",
+      "russian": "Находи радость в мелочах.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832513"
+    },
+    {
+      "english": "Your strength shines through.",
+      "russian": "Твоя сила сияет.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832514"
+    },
+    {
+      "english": "Hope blooms in the heart.",
+      "russian": "Надежда цветет в сердце.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832515"
+    },
+    {
+      "english": "Embrace each new beginning.",
+      "russian": "Прими каждое начало.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832518"
+    },
+    {
+      "english": "A bright future awaits you.",
+      "russian": "Светлое будущее ждет тебя.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832520"
+    },
+    {
+      "english": "Let peace guide your actions.",
+      "russian": "Пусть мир ведет твои дела.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832521"
+    },
+    {
+      "english": "Courage grows with every step.",
+      "russian": "Смелость растет с каждым шагом.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832523"
+    },
+    {
+      "english": "Keep a smile, even then.",
+      "russian": "Улыбайся, даже тогда.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832524"
+    },
+    {
+      "english": "You are capable of much.",
+      "russian": "Ты многое можешь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832525"
+    },
+    {
+      "english": "Good things will come, surely.",
+      "russian": "Хорошее придет, точно.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832526"
+    },
+    {
+      "english": "Faith can move mountains.",
+      "russian": "Вера двигает горы.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832527"
+    },
+    {
+      "english": "Every challenge makes you stronger.",
+      "russian": "Каждое испытание делает сильнее.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832529"
+    },
+    {
+      "english": "Embrace the journey, not just end.",
+      "russian": "Прими путь, а не только конец.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832530"
+    },
+    {
+      "english": "Kindness always returns, eventually.",
+      "russian": "Доброта всегда возвращается, в итоге.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832531"
+    },
+    {
+      "english": "There's always a silver lining.",
+      "russian": "Всегда есть светлая сторона.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832532"
+    },
+    {
+      "english": "Grow through what you go through.",
+      "russian": "Расти через то, что проходишь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832534"
+    },
+    {
+      "english": "Believe in the good around us.",
+      "russian": "Верь в добро вокруг.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832535"
+    },
+    {
+      "english": "Small steps lead to big wins.",
+      "russian": "Маленькие шаги к большим победам.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832536"
+    },
+    {
+      "english": "Your efforts will be rewarded.",
+      "russian": "Твои усилия окупятся.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832537"
+    },
+    {
+      "english": "The dawn always follows night.",
+      "russian": "Рассвет всегда после ночи.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832538"
+    },
+    {
+      "english": "May your heart be full.",
+      "russian": "Пусть сердце твое будет полно.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832539"
+    },
+    {
+      "english": "Hope is a powerful thing.",
+      "russian": "Надежда – сильная вещь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832540"
+    },
+    {
+      "english": "Keep that spark alive.",
+      "russian": "Поддерживай искру.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832541"
+    },
+    {
+      "english": "You are stronger than you know.",
+      "russian": "Ты сильнее, чем думаешь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832542"
+    },
+    {
+      "english": "Look for the good in people.",
+      "russian": "Ищи хорошее в людях.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832543"
+    },
+    {
+      "english": "A moment of joy can change all.",
+      "russian": "Мгновение радости меняет все.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832544"
+    },
+    {
+      "english": "Believe in a brighter tomorrow.",
+      "russian": "Верь в светлое завтра.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832545"
+    },
+    {
+      "english": "Let your spirit be free.",
+      "russian": "Пусть душа будет свободна.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832547"
+    },
+    {
+      "english": "New day, new chances.",
+      "russian": "Новый день, новые шансы.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832548"
+    },
+    {
+      "english": "Dreams take flight, slowly.",
+      "russian": "Мечты летят, медленно.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832549"
+    },
+    {
+      "english": "Tomorrow holds new possibilities.",
+      "russian": "Завтра - новые возможности.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832550"
+    },
+    {
+      "english": "Every effort counts, truly.",
+      "russian": "Каждое усилие важно, правда.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832552"
+    },
+    {
+      "english": "Find joy in small moments.",
+      "russian": "Находи радость в мелочах.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832553"
+    },
+    {
+      "english": "Your strength shines through.",
+      "russian": "Твоя сила сияет.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832554"
+    },
+    {
+      "english": "Hope blooms in the heart.",
+      "russian": "Надежда цветет в сердце.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832555"
+    },
+    {
+      "english": "Embrace each new beginning.",
+      "russian": "Прими каждое начало.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832556"
+    },
+    {
+      "english": "A bright future awaits you.",
+      "russian": "Светлое будущее ждет тебя.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832557"
+    },
+    {
+      "english": "Let peace guide your actions.",
+      "russian": "Пусть мир ведет твои дела.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832558"
+    },
+    {
+      "english": "Courage grows with every step.",
+      "russian": "Смелость растет с каждым шагом.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832560"
+    },
+    {
+      "english": "Keep a smile, even then.",
+      "russian": "Улыбайся, даже тогда.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832561"
+    },
+    {
+      "english": "You are capable of much.",
+      "russian": "Ты многое можешь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832562"
+    },
+    {
+      "english": "Good things will come, surely.",
+      "russian": "Хорошее придет, точно.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832563"
+    },
+    {
+      "english": "Faith can move mountains.",
+      "russian": "Вера двигает горы.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832564"
+    },
+    {
+      "english": "Every challenge makes you stronger.",
+      "russian": "Каждое испытание делает сильнее.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832565"
+    },
+    {
+      "english": "Embrace the journey, not just end.",
+      "russian": "Прими путь, а не только конец.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832566"
+    },
+    {
+      "english": "Kindness always returns, eventually.",
+      "russian": "Доброта всегда возвращается, в итоге.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832567"
+    },
+    {
+      "english": "There's always a silver lining.",
+      "russian": "Всегда есть светлая сторона.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832568"
+    },
+    {
+      "english": "Grow through what you go through.",
+      "russian": "Расти через то, что проходишь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832569"
+    },
+    {
+      "english": "Believe in the good around us.",
+      "russian": "Верь в добро вокруг.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832570"
+    },
+    {
+      "english": "Small steps lead to big wins.",
+      "russian": "Маленькие шаги к большим победам.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832572"
+    },
+    {
+      "english": "Your efforts will be rewarded.",
+      "russian": "Твои усилия окупятся.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832573"
+    },
+    {
+      "english": "The dawn always follows night.",
+      "russian": "Рассвет всегда после ночи.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832574"
+    },
+    {
+      "english": "May your heart be full.",
+      "russian": "Пусть сердце твое будет полно.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832575"
+    },
+    {
+      "english": "Hope is a powerful thing.",
+      "russian": "Надежда – сильная вещь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832576"
+    },
+    {
+      "english": "Keep that spark alive.",
+      "russian": "Поддерживай искру.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832577"
+    },
+    {
+      "english": "You are stronger than you know.",
+      "russian": "Ты сильнее, чем думаешь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832578"
+    },
+    {
+      "english": "Look for the good in people.",
+      "russian": "Ищи хорошее в людях.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832579"
+    },
+    {
+      "english": "A moment of joy can change all.",
+      "russian": "Мгновение радости меняет все.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832580"
+    },
+    {
+      "english": "Believe in a brighter tomorrow.",
+      "russian": "Верь в светлое завтра.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832581"
+    },
+    {
+      "english": "Let your spirit be free.",
+      "russian": "Пусть душа будет свободна.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832582"
+    },
+    {
+      "english": "New day, new chances.",
+      "russian": "Новый день, новые шансы.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832584"
+    },
+    {
+      "english": "Dreams take flight, slowly.",
+      "russian": "Мечты летят, медленно.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832585"
+    },
+    {
+      "english": "Tomorrow holds new possibilities.",
+      "russian": "Завтра - новые возможности.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832586"
+    },
+    {
+      "english": "Every effort counts, truly.",
+      "russian": "Каждое усилие важно, правда.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832587"
+    },
+    {
+      "english": "Find joy in small moments.",
+      "russian": "Находи радость в мелочах.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832588"
+    },
+    {
+      "english": "Your strength shines through.",
+      "russian": "Твоя сила сияет.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832589"
+    },
+    {
+      "english": "Hope blooms in the heart.",
+      "russian": "Надежда цветет в сердце.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832590"
+    },
+    {
+      "english": "Embrace each new beginning.",
+      "russian": "Прими каждое начало.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832592"
+    },
+    {
+      "english": "A bright future awaits you.",
+      "russian": "Светлое будущее ждет тебя.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832593"
+    },
+    {
+      "english": "Let peace guide your actions.",
+      "russian": "Пусть мир ведет твои дела.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832594"
+    },
+    {
+      "english": "Courage grows with every step.",
+      "russian": "Смелость растет с каждым шагом.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832595"
+    },
+    {
+      "english": "Keep a smile, even then.",
+      "russian": "Улыбайся, даже тогда.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832596"
+    },
+    {
+      "english": "You are capable of much.",
+      "russian": "Ты многое можешь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832597"
+    },
+    {
+      "english": "Good things will come, surely.",
+      "russian": "Хорошее придет, точно.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832598"
+    },
+    {
+      "english": "Faith can move mountains.",
+      "russian": "Вера двигает горы.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832599"
+    },
+    {
+      "english": "Every challenge makes you stronger.",
+      "russian": "Каждое испытание делает сильнее.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832601"
+    },
+    {
+      "english": "Embrace the journey, not just end.",
+      "russian": "Прими путь, а не только конец.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832602"
+    },
+    {
+      "english": "Kindness always returns, eventually.",
+      "russian": "Доброта всегда возвращается, в итоге.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832603"
+    },
+    {
+      "english": "There's always a silver lining.",
+      "russian": "Всегда есть светлая сторона.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832604"
+    },
+    {
+      "english": "Grow through what you go through.",
+      "russian": "Расти через то, что проходишь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832605"
+    },
+    {
+      "english": "Believe in the good around us.",
+      "russian": "Верь в добро вокруг.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832606"
+    },
+    {
+      "english": "Small steps lead to big wins.",
+      "russian": "Маленькие шаги к большим победам.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832607"
+    },
+    {
+      "english": "Your efforts will be rewarded.",
+      "russian": "Твои усилия окупятся.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832608"
+    },
+    {
+      "english": "The dawn always follows night.",
+      "russian": "Рассвет всегда после ночи.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832609"
+    },
+    {
+      "english": "May your heart be full.",
+      "russian": "Пусть сердце твое будет полно.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832610"
+    },
+    {
+      "english": "Hope is a powerful thing.",
+      "russian": "Надежда – сильная вещь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832612"
+    },
+    {
+      "english": "Keep that spark alive.",
+      "russian": "Поддерживай искру.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832613"
+    },
+    {
+      "english": "You are stronger than you know.",
+      "russian": "Ты сильнее, чем думаешь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832614"
+    },
+    {
+      "english": "Look for the good in people.",
+      "russian": "Ищи хорошее в людях.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832615"
+    },
+    {
+      "english": "A moment of joy can change all.",
+      "russian": "Мгновение радости меняет все.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832616"
+    },
+    {
+      "english": "Believe in a brighter tomorrow.",
+      "russian": "Верь в светлое завтра.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832617"
+    },
+    {
+      "english": "Let your spirit be free.",
+      "russian": "Пусть душа будет свободна.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832618"
+    },
+    {
+      "english": "New day, new chances.",
+      "russian": "Новый день, новые шансы.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832619"
+    },
+    {
+      "english": "Dreams take flight, slowly.",
+      "russian": "Мечты летят, медленно.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832620"
+    },
+    {
+      "english": "Tomorrow holds new possibilities.",
+      "russian": "Завтра - новые возможности.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832621"
+    },
+    {
+      "english": "Every effort counts, truly.",
+      "russian": "Каждое усилие важно, правда.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832623"
+    },
+    {
+      "english": "Find joy in small moments.",
+      "russian": "Находи радость в мелочах.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832624"
+    },
+    {
+      "english": "Your strength shines through.",
+      "russian": "Твоя сила сияет.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832625"
+    },
+    {
+      "english": "Hope blooms in the heart.",
+      "russian": "Надежда цветет в сердце.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832626"
+    },
+    {
+      "english": "Embrace each new beginning.",
+      "russian": "Прими каждое начало.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832627"
+    },
+    {
+      "english": "A bright future awaits you.",
+      "russian": "Светлое будущее ждет тебя.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832629"
+    },
+    {
+      "english": "Let peace guide your actions.",
+      "russian": "Пусть мир ведет твои дела.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832630"
+    },
+    {
+      "english": "Courage grows with every step.",
+      "russian": "Смелость растет с каждым шагом.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832631"
+    },
+    {
+      "english": "Keep a smile, even then.",
+      "russian": "Улыбайся, даже тогда.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832632"
+    },
+    {
+      "english": "You are capable of much.",
+      "russian": "Ты многое можешь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832633"
+    },
+    {
+      "english": "Good things will come, surely.",
+      "russian": "Хорошее придет, точно.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832634"
+    },
+    {
+      "english": "Faith can move mountains.",
+      "russian": "Вера двигает горы.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832635"
+    },
+    {
+      "english": "Every challenge makes you stronger.",
+      "russian": "Каждое испытание делает сильнее.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832660"
+    },
+    {
+      "english": "Embrace the journey, not just end.",
+      "russian": "Прими путь, а не только конец.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832664"
+    },
+    {
+      "english": "Kindness always returns, eventually.",
+      "russian": "Доброта всегда возвращается, в итоге.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832667"
+    },
+    {
+      "english": "There's always a silver lining.",
+      "russian": "Всегда есть светлая сторона.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832669"
+    },
+    {
+      "english": "Grow through what you go through.",
+      "russian": "Расти через то, что проходишь.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832672"
+    },
+    {
+      "english": "Believe in the good around us.",
+      "russian": "Верь в добро вокруг.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832674"
+    },
+    {
+      "english": "Small steps lead to big wins.",
+      "russian": "Маленькие шаги к большим победам.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832676"
+    },
+    {
+      "english": "Your efforts will be rewarded.",
+      "russian": "Твои усилия окупятся.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832678"
+    },
+    {
+      "english": "The dawn always follows night.",
+      "russian": "Рассвет всегда после ночи.",
+      "category": "Hope",
+      "generated_at": "2026-08-06T04:15:10.832680"
     }
   ],
-  "last_updated": "2026-08-05T04:11:48.207057"
+  "last_updated": "2026-08-06T04:15:10.832683"
 }
