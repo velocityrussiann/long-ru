@@ -15839,7 +15839,727 @@
       "russian": "Моё солнышко, в пасмурный, день.",
       "category": "Love",
       "generated_at": "2026-08-09T03:03:12.244099"
+    },
+    {
+      "english": "Speak slow, I learn, fast.",
+      "russian": "Говорите медленно, я учусь быстро.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349129"
+    },
+    {
+      "english": "This word, is hard, for me.",
+      "russian": "Это слово, для меня, трудное.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349162"
+    },
+    {
+      "english": "Can you, repeat, please?",
+      "russian": "Можете, повторить, пожалуйста?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349166"
+    },
+    {
+      "english": "I understand, almost, everything.",
+      "russian": "Я понимаю, почти, всё.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349169"
+    },
+    {
+      "english": "Your accent, is nice, to hear.",
+      "russian": "Ваш акцент, приятно, слушать.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349171"
+    },
+    {
+      "english": "This grammar, is tricky, yes?",
+      "russian": "Эта грамматика, хитрая, да?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349174"
+    },
+    {
+      "english": "I am trying, my best, really.",
+      "russian": "Я стараюсь, изо всех сил, правда.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349177"
+    },
+    {
+      "english": "That sounds, very, Russian.",
+      "russian": "Это звучит, очень, по-русски.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349182"
+    },
+    {
+      "english": "I need, more, practice.",
+      "russian": "Мне нужно, больше, практики.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349184"
+    },
+    {
+      "english": "Don't worry, I am learning.",
+      "russian": "Не волнуйтесь, я учусь.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349186"
+    },
+    {
+      "english": "This is, my goal, today.",
+      "russian": "Это моя, цель, сегодня.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349187"
+    },
+    {
+      "english": "You speak, very, clearly.",
+      "russian": "Вы говорите, очень, четко.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349188"
+    },
+    {
+      "english": "My Russian, is growing, slowly.",
+      "russian": "Мой русский, растет, медленно.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349190"
+    },
+    {
+      "english": "What does, this mean?",
+      "russian": "Что это, значит?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349191"
+    },
+    {
+      "english": "I want, to sound, natural.",
+      "russian": "Я хочу, звучать, естественно.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349192"
+    },
+    {
+      "english": "You are, a good, teacher.",
+      "russian": "Вы хороший, учитель.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349193"
+    },
+    {
+      "english": "This phrase, is useful, thank you.",
+      "russian": "Эта фраза, полезная, спасибо.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349195"
+    },
+    {
+      "english": "I forget, sometimes, the words.",
+      "russian": "Я забываю, иногда, слова.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349196"
+    },
+    {
+      "english": "Let's try, again, okay?",
+      "russian": "Давайте попробуем, снова, хорошо?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349197"
+    },
+    {
+      "english": "This is, so, exciting!",
+      "russian": "Это так, увлекательно!",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349199"
+    },
+    {
+      "english": "I love, Russian, culture.",
+      "russian": "Я люблю, русскую, культуру.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349200"
+    },
+    {
+      "english": "My goal, is fluency.",
+      "russian": "Моя цель, беглость.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349201"
+    },
+    {
+      "english": "I'm making, progress, slowly.",
+      "russian": "Я делаю, прогресс, медленно.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349203"
+    },
+    {
+      "english": "Keep talking, please.",
+      "russian": "Продолжайте говорить, пожалуйста.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349204"
+    },
+    {
+      "english": "That's, a good, phrase.",
+      "russian": "Это, хорошая, фраза.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349205"
+    },
+    {
+      "english": "I will, remember, this.",
+      "russian": "Я запомню, это.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349206"
+    },
+    {
+      "english": "Learning Russian, is fun.",
+      "russian": "Учить русский, весело.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349207"
+    },
+    {
+      "english": "Can you, explain, that?",
+      "russian": "Можете, объяснить, это?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349208"
+    },
+    {
+      "english": "I'm feeling, more, confident.",
+      "russian": "Я чувствую, себя, увереннее.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349209"
+    },
+    {
+      "english": "This lesson, is perfect.",
+      "russian": "Этот урок, идеален.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349210"
+    },
+    {
+      "english": "I like, your, style.",
+      "russian": "Мне нравится, ваш, стиль.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349211"
+    },
+    {
+      "english": "Practice makes, perfect, right?",
+      "russian": "Практика, ведет, к совершенству, верно?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349212"
+    },
+    {
+      "english": "This is, getting, easier.",
+      "russian": "Это становится, легче.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349213"
+    },
+    {
+      "english": "I can, do, this.",
+      "russian": "Я могу, это, сделать.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349215"
+    },
+    {
+      "english": "Your pronunciation, is clear.",
+      "russian": "Ваше произношение, четкое.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349216"
+    },
+    {
+      "english": "I'm not, afraid, anymore.",
+      "russian": "Я больше, не боюсь.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349217"
+    },
+    {
+      "english": "Russian words, are beautiful.",
+      "russian": "Русские слова, красивые.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349218"
+    },
+    {
+      "english": "This is, a good, start.",
+      "russian": "Это хорошее, начало.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349219"
+    },
+    {
+      "english": "I'm feeling, proud, today.",
+      "russian": "Я горжусь, сегодня.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349220"
+    },
+    {
+      "english": "Speak slow, I learn, fast.",
+      "russian": "Говорите медленно, я учусь быстро.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349222"
+    },
+    {
+      "english": "This word, is hard, for me.",
+      "russian": "Это слово, для меня, трудное.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349223"
+    },
+    {
+      "english": "Can you, repeat, please?",
+      "russian": "Можете, повторить, пожалуйста?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349225"
+    },
+    {
+      "english": "I understand, almost, everything.",
+      "russian": "Я понимаю, почти, всё.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349226"
+    },
+    {
+      "english": "Your accent, is nice, to hear.",
+      "russian": "Ваш акцент, приятно, слушать.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349227"
+    },
+    {
+      "english": "This grammar, is tricky, yes?",
+      "russian": "Эта грамматика, хитрая, да?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349229"
+    },
+    {
+      "english": "I am trying, my best, really.",
+      "russian": "Я стараюсь, изо всех сил, правда.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349230"
+    },
+    {
+      "english": "That sounds, very, Russian.",
+      "russian": "Это звучит, очень, по-русски.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349231"
+    },
+    {
+      "english": "I need, more, practice.",
+      "russian": "Мне нужно, больше, практики.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349232"
+    },
+    {
+      "english": "Don't worry, I am learning.",
+      "russian": "Не волнуйтесь, я учусь.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349233"
+    },
+    {
+      "english": "This is, my goal, today.",
+      "russian": "Это моя, цель, сегодня.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349235"
+    },
+    {
+      "english": "You speak, very, clearly.",
+      "russian": "Вы говорите, очень, четко.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349236"
+    },
+    {
+      "english": "My Russian, is growing, slowly.",
+      "russian": "Мой русский, растет, медленно.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349237"
+    },
+    {
+      "english": "What does, this mean?",
+      "russian": "Что это, значит?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349239"
+    },
+    {
+      "english": "I want, to sound, natural.",
+      "russian": "Я хочу, звучать, естественно.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349240"
+    },
+    {
+      "english": "You are, a good, teacher.",
+      "russian": "Вы хороший, учитель.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349241"
+    },
+    {
+      "english": "This phrase, is useful, thank you.",
+      "russian": "Эта фраза, полезная, спасибо.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349242"
+    },
+    {
+      "english": "I forget, sometimes, the words.",
+      "russian": "Я забываю, иногда, слова.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349243"
+    },
+    {
+      "english": "Let's try, again, okay?",
+      "russian": "Давайте попробуем, снова, хорошо?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349244"
+    },
+    {
+      "english": "This is, so, exciting!",
+      "russian": "Это так, увлекательно!",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349246"
+    },
+    {
+      "english": "I love, Russian, culture.",
+      "russian": "Я люблю, русскую, культуру.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349247"
+    },
+    {
+      "english": "My goal, is fluency.",
+      "russian": "Моя цель, беглость.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349248"
+    },
+    {
+      "english": "I'm making, progress, slowly.",
+      "russian": "Я делаю, прогресс, медленно.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349249"
+    },
+    {
+      "english": "Keep talking, please.",
+      "russian": "Продолжайте говорить, пожалуйста.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349250"
+    },
+    {
+      "english": "That's, a good, phrase.",
+      "russian": "Это, хорошая, фраза.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349252"
+    },
+    {
+      "english": "I will, remember, this.",
+      "russian": "Я запомню, это.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349253"
+    },
+    {
+      "english": "Learning Russian, is fun.",
+      "russian": "Учить русский, весело.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349255"
+    },
+    {
+      "english": "Can you, explain, that?",
+      "russian": "Можете, объяснить, это?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349256"
+    },
+    {
+      "english": "I'm feeling, more, confident.",
+      "russian": "Я чувствую, себя, увереннее.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349257"
+    },
+    {
+      "english": "This lesson, is perfect.",
+      "russian": "Этот урок, идеален.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349258"
+    },
+    {
+      "english": "I like, your, style.",
+      "russian": "Мне нравится, ваш, стиль.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349259"
+    },
+    {
+      "english": "Practice makes, perfect, right?",
+      "russian": "Практика, ведет, к совершенству, верно?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349260"
+    },
+    {
+      "english": "This is, getting, easier.",
+      "russian": "Это становится, легче.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349261"
+    },
+    {
+      "english": "I can, do, this.",
+      "russian": "Я могу, это, сделать.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349263"
+    },
+    {
+      "english": "Your pronunciation, is clear.",
+      "russian": "Ваше произношение, четкое.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349264"
+    },
+    {
+      "english": "I'm not, afraid, anymore.",
+      "russian": "Я больше, не боюсь.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349265"
+    },
+    {
+      "english": "Russian words, are beautiful.",
+      "russian": "Русские слова, красивые.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349266"
+    },
+    {
+      "english": "This is, a good, start.",
+      "russian": "Это хорошее, начало.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349267"
+    },
+    {
+      "english": "I'm feeling, proud, today.",
+      "russian": "Я горжусь, сегодня.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349268"
+    },
+    {
+      "english": "Speak slow, I learn, fast.",
+      "russian": "Говорите медленно, я учусь быстро.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349269"
+    },
+    {
+      "english": "This word, is hard, for me.",
+      "russian": "Это слово, для меня, трудное.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349271"
+    },
+    {
+      "english": "Can you, repeat, please?",
+      "russian": "Можете, повторить, пожалуйста?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349272"
+    },
+    {
+      "english": "I understand, almost, everything.",
+      "russian": "Я понимаю, почти, всё.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349273"
+    },
+    {
+      "english": "Your accent, is nice, to hear.",
+      "russian": "Ваш акцент, приятно, слушать.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349274"
+    },
+    {
+      "english": "This grammar, is tricky, yes?",
+      "russian": "Эта грамматика, хитрая, да?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349275"
+    },
+    {
+      "english": "I am trying, my best, really.",
+      "russian": "Я стараюсь, изо всех сил, правда.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349277"
+    },
+    {
+      "english": "That sounds, very, Russian.",
+      "russian": "Это звучит, очень, по-русски.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349278"
+    },
+    {
+      "english": "I need, more, practice.",
+      "russian": "Мне нужно, больше, практики.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349279"
+    },
+    {
+      "english": "Don't worry, I am learning.",
+      "russian": "Не волнуйтесь, я учусь.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349280"
+    },
+    {
+      "english": "This is, my goal, today.",
+      "russian": "Это моя, цель, сегодня.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349281"
+    },
+    {
+      "english": "You speak, very, clearly.",
+      "russian": "Вы говорите, очень, четко.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349282"
+    },
+    {
+      "english": "My Russian, is growing, slowly.",
+      "russian": "Мой русский, растет, медленно.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349283"
+    },
+    {
+      "english": "What does, this mean?",
+      "russian": "Что это, значит?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349285"
+    },
+    {
+      "english": "I want, to sound, natural.",
+      "russian": "Я хочу, звучать, естественно.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349286"
+    },
+    {
+      "english": "You are, a good, teacher.",
+      "russian": "Вы хороший, учитель.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349287"
+    },
+    {
+      "english": "This phrase, is useful, thank you.",
+      "russian": "Эта фраза, полезная, спасибо.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349288"
+    },
+    {
+      "english": "I forget, sometimes, the words.",
+      "russian": "Я забываю, иногда, слова.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349290"
+    },
+    {
+      "english": "Let's try, again, okay?",
+      "russian": "Давайте попробуем, снова, хорошо?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349291"
+    },
+    {
+      "english": "This is, so, exciting!",
+      "russian": "Это так, увлекательно!",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349292"
+    },
+    {
+      "english": "I love, Russian, culture.",
+      "russian": "Я люблю, русскую, культуру.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349293"
+    },
+    {
+      "english": "My goal, is fluency.",
+      "russian": "Моя цель, беглость.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349294"
+    },
+    {
+      "english": "I'm making, progress, slowly.",
+      "russian": "Я делаю, прогресс, медленно.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349295"
+    },
+    {
+      "english": "Keep talking, please.",
+      "russian": "Продолжайте говорить, пожалуйста.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349296"
+    },
+    {
+      "english": "That's, a good, phrase.",
+      "russian": "Это, хорошая, фраза.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349297"
+    },
+    {
+      "english": "I will, remember, this.",
+      "russian": "Я запомню, это.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349299"
+    },
+    {
+      "english": "Learning Russian, is fun.",
+      "russian": "Учить русский, весело.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349300"
+    },
+    {
+      "english": "Can you, explain, that?",
+      "russian": "Можете, объяснить, это?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349301"
+    },
+    {
+      "english": "I'm feeling, more, confident.",
+      "russian": "Я чувствую, себя, увереннее.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349302"
+    },
+    {
+      "english": "This lesson, is perfect.",
+      "russian": "Этот урок, идеален.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349303"
+    },
+    {
+      "english": "I like, your, style.",
+      "russian": "Мне нравится, ваш, стиль.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349305"
+    },
+    {
+      "english": "Practice makes, perfect, right?",
+      "russian": "Практика, ведет, к совершенству, верно?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349306"
+    },
+    {
+      "english": "This is, getting, easier.",
+      "russian": "Это становится, легче.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349307"
+    },
+    {
+      "english": "I can, do, this.",
+      "russian": "Я могу, это, сделать.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349308"
+    },
+    {
+      "english": "Your pronunciation, is clear.",
+      "russian": "Ваше произношение, четкое.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349309"
+    },
+    {
+      "english": "I'm not, afraid, anymore.",
+      "russian": "Я больше, не боюсь.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349310"
+    },
+    {
+      "english": "Russian words, are beautiful.",
+      "russian": "Русские слова, красивые.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349312"
+    },
+    {
+      "english": "This is, a good, start.",
+      "russian": "Это хорошее, начало.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349313"
+    },
+    {
+      "english": "I'm feeling, proud, today.",
+      "russian": "Я горжусь, сегодня.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349314"
+    },
+    {
+      "english": "Speak slow, I learn, fast.",
+      "russian": "Говорите медленно, я учусь быстро.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349315"
+    },
+    {
+      "english": "This word, is hard, for me.",
+      "russian": "Это слово, для меня, трудное.",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349316"
+    },
+    {
+      "english": "Can you, repeat, please?",
+      "russian": "Можете, повторить, пожалуйста?",
+      "category": "Confidence",
+      "generated_at": "2026-08-10T03:12:44.349317"
     }
   ],
-  "last_updated": "2026-08-09T03:03:12.244101"
+  "last_updated": "2026-08-10T03:12:44.349319"
 }
