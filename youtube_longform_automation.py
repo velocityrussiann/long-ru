@@ -913,6 +913,9 @@ def generate_title_description(category_english: str, category_russian: str, phr
         f"Speak Russian Fluently | {category_english} Phrases | English + Russian + Pronunciation",
     ]
 
+    # YouTube title limit is 100 chars - truncate any overlong title safely
+    titles = [t if len(t) <= 100 else (t[:97] + "...") for t in titles]
+
     # Generate comprehensive description
     description = f"""🇷🇺 Learn Russian with Velocity Russian! 🇷🇺
 
