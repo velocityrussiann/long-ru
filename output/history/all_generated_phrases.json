@@ -18941,7 +18941,217 @@
       "russian": "Прощающий дух, свободен.",
       "category": "Forgiveness",
       "generated_at": "2026-08-14T03:25:14.012670"
+    },
+    {
+      "english": "Be nice, always.",
+      "russian": "Будь добрым, всегда.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619828"
+    },
+    {
+      "english": "Help a stranger.",
+      "russian": "Помоги незнакомцу.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619843"
+    },
+    {
+      "english": "Offer a kind word.",
+      "russian": "Предложи доброе слово.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619845"
+    },
+    {
+      "english": "Be patient, please.",
+      "russian": "Будь терпелив, пожалуйста.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619847"
+    },
+    {
+      "english": "Lend a hand.",
+      "russian": "Протяни руку помощи.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619849"
+    },
+    {
+      "english": "Show some empathy.",
+      "russian": "Прояви сочувствие.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619850"
+    },
+    {
+      "english": "Be understanding.",
+      "russian": "Будь понимающим.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619852"
+    },
+    {
+      "english": "A little goes, a long way.",
+      "russian": "Малое многое значит.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619856"
+    },
+    {
+      "english": "Spread some cheer.",
+      "russian": "Развесели кого-нибудь.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619858"
+    },
+    {
+      "english": "Be a good friend.",
+      "russian": "Будь хорошим другом.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619860"
+    },
+    {
+      "english": "Say thank you.",
+      "russian": "Скажи спасибо.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619862"
+    },
+    {
+      "english": "Compliment someone.",
+      "russian": "Сделай комплимент.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619876"
+    },
+    {
+      "english": "Forgive a small mistake.",
+      "russian": "Прости маленькую ошибку.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619878"
+    },
+    {
+      "english": "Be gentle.",
+      "russian": "Будь мягким.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619879"
+    },
+    {
+      "english": "Practice compassion.",
+      "russian": "Практикуй сострадание.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619881"
+    },
+    {
+      "english": "Offer comfort.",
+      "russian": "Предложи утешение.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619882"
+    },
+    {
+      "english": "Be thankful.",
+      "russian": "Будь благодарен.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619883"
+    },
+    {
+      "english": "Share your joy.",
+      "russian": "Делись своей радостью.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619885"
+    },
+    {
+      "english": "Be a good listener.",
+      "russian": "Будь хорошим слушателем.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619886"
+    },
+    {
+      "english": "Inspire others.",
+      "russian": "Вдохновляй других.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619888"
+    },
+    {
+      "english": "Make someone happy.",
+      "russian": "Сделай кого-то счастливым.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619889"
+    },
+    {
+      "english": "Show respect.",
+      "russian": "Прояви уважение.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619890"
+    },
+    {
+      "english": "Offer encouragement.",
+      "russian": "Предложи поддержку.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619891"
+    },
+    {
+      "english": "Be helpful.",
+      "russian": "Будь полезным.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619892"
+    },
+    {
+      "english": "Cheer someone up.",
+      "russian": "Подбодри кого-нибудь.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619893"
+    },
+    {
+      "english": "Act with kindness.",
+      "russian": "Действуй с добротой.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619894"
+    },
+    {
+      "english": "Be a light.",
+      "russian": "Будь светом.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619896"
+    },
+    {
+      "english": "Spread goodness.",
+      "russian": "Распространяй добро.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619897"
+    },
+    {
+      "english": "Be a good soul.",
+      "russian": "Будь хорошей душой.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619898"
+    },
+    {
+      "english": "Value others.",
+      "russian": "Цени других.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619899"
+    },
+    {
+      "english": "Do a good deed.",
+      "russian": "Сделай доброе дело.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619900"
+    },
+    {
+      "english": "Show appreciation.",
+      "russian": "Прояви признательность.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619901"
+    },
+    {
+      "english": "Offer a warm greeting.",
+      "russian": "Предложи тёплый привет.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619903"
+    },
+    {
+      "english": "Be a source of comfort.",
+      "russian": "Будь источником утешения.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619904"
+    },
+    {
+      "english": "Your kindness matters.",
+      "russian": "Твоя доброта важна.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T02:21:49.619905"
     }
   ],
-  "last_updated": "2026-08-14T03:25:14.012705"
+  "last_updated": "2026-08-16T02:21:49.619946"
 }
