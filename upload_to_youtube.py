@@ -40,7 +40,7 @@ def compress_thumbnail(img_path, max_size=2097152):
 
 
 
-def ensure_playlist(youtube, title="Velocity Russian - Russian Phrases", description="All Russian phrases videos in one playlist. Learn Russian with Velocity Russian!"):
+def ensure_playlist(youtube, title="Learn Russian Phrases for Beginners | Velocity Russian", description="All Russian phrases videos in one playlist. Learn Russian with Velocity Russian!"):
     """Find an existing playlist by title or create a new one. Returns playlist_id."""
     try:
         req = youtube.playlists().list(part="snippet", mine=True, maxResults=50)
