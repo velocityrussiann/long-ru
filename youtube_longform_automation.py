@@ -78,7 +78,7 @@ CATEGORIES_RUSSIAN = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 RUSSIAN_VOICE = "ru-RU-SvetlanaNeural"
 
 # Phrase history file (NEVER delete this!)
