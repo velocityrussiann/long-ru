@@ -26345,7 +26345,283 @@
       "russian": "Твоё присутствие, приносит радость.",
       "category": "Happiness",
       "generated_at": "2026-09-24T05:55:06.419442"
+    },
+    {
+      "english": "This small gift, means a lot.",
+      "russian": "Этот маленький подарок, значит многое.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.825974"
+    },
+    {
+      "english": "I appreciate, this gesture.",
+      "russian": "Я ценю, этот жест.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.825986"
+    },
+    {
+      "english": "You made, my day better.",
+      "russian": "Вы сделали, мой день лучше.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.825988"
+    },
+    {
+      "english": "Such kindness, is rare.",
+      "russian": "Такая доброта, редка.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.825990"
+    },
+    {
+      "english": "I'm so thankful, for you.",
+      "russian": "Я так благодарен, вам.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.825992"
+    },
+    {
+      "english": "I'm touched, by your words.",
+      "russian": "Ваши слова, тронули меня.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.825993"
+    },
+    {
+      "english": "This thoughtful act, is great.",
+      "russian": "Этот продуманный поступок, великолепен.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.825995"
+    },
+    {
+      "english": "Your support, means everything.",
+      "russian": "Ваша поддержка, значит всё.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.825999"
+    },
+    {
+      "english": "I'm so grateful, truly.",
+      "russian": "Я так признателен, честно.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826001"
+    },
+    {
+      "english": "This is, incredibly kind.",
+      "russian": "Это, невероятно мило.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826003"
+    },
+    {
+      "english": "I feel very lucky, today.",
+      "russian": "Я чувствую себя очень счастливым, сегодня.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826004"
+    },
+    {
+      "english": "This is, a great honor.",
+      "russian": "Это, большая честь.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826006"
+    },
+    {
+      "english": "I appreciate, your effort.",
+      "russian": "Я ценю, ваши усилия.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826007"
+    },
+    {
+      "english": "Your advice, was perfect.",
+      "russian": "Ваш совет, был идеален.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826009"
+    },
+    {
+      "english": "This moment, I cherish.",
+      "russian": "Этот момент, я ценю.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826010"
+    },
+    {
+      "english": "What a thoughtful, suggestion!",
+      "russian": "Какое продуманное, предложение!",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826011"
+    },
+    {
+      "english": "Thank you, for your time.",
+      "russian": "Спасибо, за ваше время.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826013"
+    },
+    {
+      "english": "I'm so happy, you are here.",
+      "russian": "Я так рад, что вы здесь.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826014"
+    },
+    {
+      "english": "Your understanding, is valued.",
+      "russian": "Ваше понимание, ценится.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826015"
+    },
+    {
+      "english": "This kind gesture, warms me.",
+      "russian": "Этот добрый жест, согревает меня.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826016"
+    },
+    {
+      "english": "I'm grateful, for this chance.",
+      "russian": "Я благодарен, за этот шанс.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826018"
+    },
+    {
+      "english": "Your smile, is infectious.",
+      "russian": "Ваша улыбка, заразительна.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826019"
+    },
+    {
+      "english": "What a wonderful, opportunity!",
+      "russian": "Какая чудесная, возможность!",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826020"
+    },
+    {
+      "english": "Thank you, for believing in me.",
+      "russian": "Спасибо, что верите в меня.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826022"
+    },
+    {
+      "english": "This attention, is noticed.",
+      "russian": "Это внимание, замечено.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826023"
+    },
+    {
+      "english": "I'm indebted, to your kindness.",
+      "russian": "Я обязан, вашей доброте.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826024"
+    },
+    {
+      "english": "This thoughtful gesture, touched me.",
+      "russian": "Этот продуманный жест, тронул меня.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826025"
+    },
+    {
+      "english": "Thank you, for the memory.",
+      "russian": "Спасибо, за воспоминание.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826027"
+    },
+    {
+      "english": "Your welcome, felt warm.",
+      "russian": "Ваше приветствие, было тёплым.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826028"
+    },
+    {
+      "english": "This is, simply wonderful.",
+      "russian": "Это, просто чудесно.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826029"
+    },
+    {
+      "english": "I appreciate, your honesty.",
+      "russian": "Я ценю, вашу честность.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826030"
+    },
+    {
+      "english": "I really appreciate this, a lot.",
+      "russian": "Я очень ценю это, очень.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826056"
+    },
+    {
+      "english": "This is super helpful, thank you.",
+      "russian": "Это очень полезно, спасибо.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826058"
+    },
+    {
+      "english": "So kind of you, to do that.",
+      "russian": "Так любезно с твоей стороны, это сделать.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826060"
+    },
+    {
+      "english": "I owe you one, for sure.",
+      "russian": "Я тебе кое-чем обязан, точно.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826061"
+    },
+    {
+      "english": "What a thoughtful gesture, wow.",
+      "russian": "Какой продуманный жест, вау.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826063"
+    },
+    {
+      "english": "This is exactly what I needed.",
+      "russian": "Это именно то, что мне было нужно.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826064"
+    },
+    {
+      "english": "Your effort is noticed, and valued.",
+      "russian": "Твои усилия замечены, и ценятся.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826065"
+    },
+    {
+      "english": "I'm so grateful for your support.",
+      "russian": "Я так благодарен за твою поддержку.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826067"
+    },
+    {
+      "english": "A big thank you, from my heart.",
+      "russian": "Большое спасибо, от всего сердца.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826068"
+    },
+    {
+      "english": "This is incredibly generous, thank you.",
+      "russian": "Это невероятно щедро, спасибо.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826070"
+    },
+    {
+      "english": "Your kindness is amazing, thank you.",
+      "russian": "Твоя доброта удивительна, спасибо.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826071"
+    },
+    {
+      "english": "I'm so lucky to know you.",
+      "russian": "Мне так повезло тебя знать.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826072"
+    },
+    {
+      "english": "This is fantastic, thank you so much.",
+      "russian": "Это фантастика, огромное спасибо.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826074"
+    },
+    {
+      "english": "You've been a great help, honestly.",
+      "russian": "Ты очень помог, честно.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826075"
+    },
+    {
+      "english": "Thanks for your patience, it's noted.",
+      "russian": "Спасибо за терпение, это учтено.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-25T05:56:11.826076"
     }
   ],
-  "last_updated": "2026-09-24T05:55:06.419472"
+  "last_updated": "2026-09-25T05:56:11.826079"
 }
