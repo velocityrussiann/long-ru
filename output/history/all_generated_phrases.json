@@ -29651,7 +29651,727 @@
       "russian": "Осмелься мечтать, о больших мечтах.",
       "category": "Courage",
       "generated_at": "2026-10-13T07:26:57.800525"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "russian": "Учись немного, каждый день.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056053"
+    },
+    {
+      "english": "Small steps, build progress.",
+      "russian": "Маленькие шаги, строят прогресс.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056063"
+    },
+    {
+      "english": "Help others, help yourself.",
+      "russian": "Помогай другим, поможешь себе.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056065"
+    },
+    {
+      "english": "Believe in your, own path.",
+      "russian": "Верь в свой, собственный путь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056066"
+    },
+    {
+      "english": "Stay curious, always learning.",
+      "russian": "Оставайся любопытным, учись всегда.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056067"
+    },
+    {
+      "english": "A good habit, changes life.",
+      "russian": "Хорошая привычка, меняет жизнь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056068"
+    },
+    {
+      "english": "Read a page, expand mind.",
+      "russian": "Читай страницу, расширяй разум.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056070"
+    },
+    {
+      "english": "Your thoughts, shape your world.",
+      "russian": "Твои мысли, формируют мир.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056073"
+    },
+    {
+      "english": "Practice makes, perfect progress.",
+      "russian": "Практика даёт, лучший результат.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056075"
+    },
+    {
+      "english": "Celebrate small, wins often.",
+      "russian": "Празднуй малое, часто побеждай.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056076"
+    },
+    {
+      "english": "Stay calm, under pressure.",
+      "russian": "Оставайся спокоен, под давлением.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056077"
+    },
+    {
+      "english": "Silence can be, a strong answer.",
+      "russian": "Тишина может быть, сильным ответом.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056078"
+    },
+    {
+      "english": "Seek understanding, not just agreement.",
+      "russian": "Ищи понимание, не только согласие.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056080"
+    },
+    {
+      "english": "Rest is earned, not a luxury.",
+      "russian": "Отдых заслужен, не роскошь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056081"
+    },
+    {
+      "english": "Simplify your life, feel lighter.",
+      "russian": "Упрощай жизнь, чувствуй лёгкость.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056082"
+    },
+    {
+      "english": "Express gratitude, daily.",
+      "russian": "Выражай благодарность, ежедневно.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056083"
+    },
+    {
+      "english": "Share your knowledge, it grows.",
+      "russian": "Делись знаниями, они растут.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056084"
+    },
+    {
+      "english": "Be honest, with your intentions.",
+      "russian": "Будь честен, со своими намерениями.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056085"
+    },
+    {
+      "english": "Adapt to change, like water.",
+      "russian": "Меняйся с изменениями, как вода.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056086"
+    },
+    {
+      "english": "Seek solutions, not problems.",
+      "russian": "Ищи решения, не проблемы.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056087"
+    },
+    {
+      "english": "Trust your instincts, they're wise.",
+      "russian": "Доверяй интуиции, она мудра.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056088"
+    },
+    {
+      "english": "Slow down, enjoy the ride.",
+      "russian": "Замедлись, наслаждайся поездкой.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056090"
+    },
+    {
+      "english": "Focus on what, you control.",
+      "russian": "Сосредоточься на том, что, контролируешь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056091"
+    },
+    {
+      "english": "Build strong, connections.",
+      "russian": "Строй крепкие, связи.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056092"
+    },
+    {
+      "english": "Ask for help, it's strength.",
+      "russian": "Проси о помощи, это сила.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056093"
+    },
+    {
+      "english": "Learn from elders, respect them.",
+      "russian": "Учись у старших, уважай их.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056094"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "russian": "Учись немного, каждый день.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056095"
+    },
+    {
+      "english": "Small steps, build progress.",
+      "russian": "Маленькие шаги, строят прогресс.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056096"
+    },
+    {
+      "english": "Help others, help yourself.",
+      "russian": "Помогай другим, поможешь себе.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056097"
+    },
+    {
+      "english": "Believe in your, own path.",
+      "russian": "Верь в свой, собственный путь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056099"
+    },
+    {
+      "english": "Stay curious, always learning.",
+      "russian": "Оставайся любопытным, учись всегда.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056100"
+    },
+    {
+      "english": "A good habit, changes life.",
+      "russian": "Хорошая привычка, меняет жизнь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056101"
+    },
+    {
+      "english": "Read a page, expand mind.",
+      "russian": "Читай страницу, расширяй разум.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056102"
+    },
+    {
+      "english": "Your thoughts, shape your world.",
+      "russian": "Твои мысли, формируют мир.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056103"
+    },
+    {
+      "english": "Practice makes, perfect progress.",
+      "russian": "Практика даёт, лучший результат.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056104"
+    },
+    {
+      "english": "Celebrate small, wins often.",
+      "russian": "Празднуй малое, часто побеждай.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056106"
+    },
+    {
+      "english": "Stay calm, under pressure.",
+      "russian": "Оставайся спокоен, под давлением.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056107"
+    },
+    {
+      "english": "Silence can be, a strong answer.",
+      "russian": "Тишина может быть, сильным ответом.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056108"
+    },
+    {
+      "english": "Seek understanding, not just agreement.",
+      "russian": "Ищи понимание, не только согласие.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056109"
+    },
+    {
+      "english": "Rest is earned, not a luxury.",
+      "russian": "Отдых заслужен, не роскошь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056110"
+    },
+    {
+      "english": "Simplify your life, feel lighter.",
+      "russian": "Упрощай жизнь, чувствуй лёгкость.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056111"
+    },
+    {
+      "english": "Express gratitude, daily.",
+      "russian": "Выражай благодарность, ежедневно.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056112"
+    },
+    {
+      "english": "Share your knowledge, it grows.",
+      "russian": "Делись знаниями, они растут.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056113"
+    },
+    {
+      "english": "Be honest, with your intentions.",
+      "russian": "Будь честен, со своими намерениями.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056115"
+    },
+    {
+      "english": "Adapt to change, like water.",
+      "russian": "Меняйся с изменениями, как вода.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056116"
+    },
+    {
+      "english": "Seek solutions, not problems.",
+      "russian": "Ищи решения, не проблемы.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056117"
+    },
+    {
+      "english": "Trust your instincts, they're wise.",
+      "russian": "Доверяй интуиции, она мудра.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056118"
+    },
+    {
+      "english": "Slow down, enjoy the ride.",
+      "russian": "Замедлись, наслаждайся поездкой.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056119"
+    },
+    {
+      "english": "Focus on what, you control.",
+      "russian": "Сосредоточься на том, что, контролируешь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056120"
+    },
+    {
+      "english": "Build strong, connections.",
+      "russian": "Строй крепкие, связи.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056121"
+    },
+    {
+      "english": "Ask for help, it's strength.",
+      "russian": "Проси о помощи, это сила.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056122"
+    },
+    {
+      "english": "Learn from elders, respect them.",
+      "russian": "Учись у старших, уважай их.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056123"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "russian": "Учись немного, каждый день.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056125"
+    },
+    {
+      "english": "Small steps, build progress.",
+      "russian": "Маленькие шаги, строят прогресс.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056126"
+    },
+    {
+      "english": "Help others, help yourself.",
+      "russian": "Помогай другим, поможешь себе.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056127"
+    },
+    {
+      "english": "Believe in your, own path.",
+      "russian": "Верь в свой, собственный путь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056128"
+    },
+    {
+      "english": "Stay curious, always learning.",
+      "russian": "Оставайся любопытным, учись всегда.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056129"
+    },
+    {
+      "english": "A good habit, changes life.",
+      "russian": "Хорошая привычка, меняет жизнь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056130"
+    },
+    {
+      "english": "Read a page, expand mind.",
+      "russian": "Читай страницу, расширяй разум.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056131"
+    },
+    {
+      "english": "Your thoughts, shape your world.",
+      "russian": "Твои мысли, формируют мир.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056132"
+    },
+    {
+      "english": "Practice makes, perfect progress.",
+      "russian": "Практика даёт, лучший результат.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056133"
+    },
+    {
+      "english": "Celebrate small, wins often.",
+      "russian": "Празднуй малое, часто побеждай.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056135"
+    },
+    {
+      "english": "Stay calm, under pressure.",
+      "russian": "Оставайся спокоен, под давлением.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056136"
+    },
+    {
+      "english": "Silence can be, a strong answer.",
+      "russian": "Тишина может быть, сильным ответом.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056137"
+    },
+    {
+      "english": "Seek understanding, not just agreement.",
+      "russian": "Ищи понимание, не только согласие.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056138"
+    },
+    {
+      "english": "Rest is earned, not a luxury.",
+      "russian": "Отдых заслужен, не роскошь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056139"
+    },
+    {
+      "english": "Simplify your life, feel lighter.",
+      "russian": "Упрощай жизнь, чувствуй лёгкость.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056140"
+    },
+    {
+      "english": "Express gratitude, daily.",
+      "russian": "Выражай благодарность, ежедневно.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056141"
+    },
+    {
+      "english": "Share your knowledge, it grows.",
+      "russian": "Делись знаниями, они растут.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056142"
+    },
+    {
+      "english": "Be honest, with your intentions.",
+      "russian": "Будь честен, со своими намерениями.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056143"
+    },
+    {
+      "english": "Adapt to change, like water.",
+      "russian": "Меняйся с изменениями, как вода.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056144"
+    },
+    {
+      "english": "Seek solutions, not problems.",
+      "russian": "Ищи решения, не проблемы.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056145"
+    },
+    {
+      "english": "Trust your instincts, they're wise.",
+      "russian": "Доверяй интуиции, она мудра.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056146"
+    },
+    {
+      "english": "Slow down, enjoy the ride.",
+      "russian": "Замедлись, наслаждайся поездкой.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056147"
+    },
+    {
+      "english": "Focus on what, you control.",
+      "russian": "Сосредоточься на том, что, контролируешь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056149"
+    },
+    {
+      "english": "Build strong, connections.",
+      "russian": "Строй крепкие, связи.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056150"
+    },
+    {
+      "english": "Ask for help, it's strength.",
+      "russian": "Проси о помощи, это сила.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056151"
+    },
+    {
+      "english": "Learn from elders, respect them.",
+      "russian": "Учись у старших, уважай их.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056152"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "russian": "Учись немного, каждый день.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056153"
+    },
+    {
+      "english": "Small steps, build progress.",
+      "russian": "Маленькие шаги, строят прогресс.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056154"
+    },
+    {
+      "english": "Help others, help yourself.",
+      "russian": "Помогай другим, поможешь себе.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056155"
+    },
+    {
+      "english": "Believe in your, own path.",
+      "russian": "Верь в свой, собственный путь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056156"
+    },
+    {
+      "english": "Stay curious, always learning.",
+      "russian": "Оставайся любопытным, учись всегда.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056157"
+    },
+    {
+      "english": "A good habit, changes life.",
+      "russian": "Хорошая привычка, меняет жизнь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056158"
+    },
+    {
+      "english": "Read a page, expand mind.",
+      "russian": "Читай страницу, расширяй разум.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056159"
+    },
+    {
+      "english": "Your thoughts, shape your world.",
+      "russian": "Твои мысли, формируют мир.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056160"
+    },
+    {
+      "english": "Practice makes, perfect progress.",
+      "russian": "Практика даёт, лучший результат.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056162"
+    },
+    {
+      "english": "Celebrate small, wins often.",
+      "russian": "Празднуй малое, часто побеждай.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056163"
+    },
+    {
+      "english": "Stay calm, under pressure.",
+      "russian": "Оставайся спокоен, под давлением.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056164"
+    },
+    {
+      "english": "Silence can be, a strong answer.",
+      "russian": "Тишина может быть, сильным ответом.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056165"
+    },
+    {
+      "english": "Seek understanding, not just agreement.",
+      "russian": "Ищи понимание, не только согласие.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056166"
+    },
+    {
+      "english": "Rest is earned, not a luxury.",
+      "russian": "Отдых заслужен, не роскошь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056167"
+    },
+    {
+      "english": "Simplify your life, feel lighter.",
+      "russian": "Упрощай жизнь, чувствуй лёгкость.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056168"
+    },
+    {
+      "english": "Express gratitude, daily.",
+      "russian": "Выражай благодарность, ежедневно.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056169"
+    },
+    {
+      "english": "Share your knowledge, it grows.",
+      "russian": "Делись знаниями, они растут.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056170"
+    },
+    {
+      "english": "Be honest, with your intentions.",
+      "russian": "Будь честен, со своими намерениями.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056171"
+    },
+    {
+      "english": "Adapt to change, like water.",
+      "russian": "Меняйся с изменениями, как вода.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056172"
+    },
+    {
+      "english": "Seek solutions, not problems.",
+      "russian": "Ищи решения, не проблемы.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056174"
+    },
+    {
+      "english": "Trust your instincts, they're wise.",
+      "russian": "Доверяй интуиции, она мудра.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056175"
+    },
+    {
+      "english": "Slow down, enjoy the ride.",
+      "russian": "Замедлись, наслаждайся поездкой.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056176"
+    },
+    {
+      "english": "Focus on what, you control.",
+      "russian": "Сосредоточься на том, что, контролируешь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056177"
+    },
+    {
+      "english": "Build strong, connections.",
+      "russian": "Строй крепкие, связи.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056178"
+    },
+    {
+      "english": "Ask for help, it's strength.",
+      "russian": "Проси о помощи, это сила.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056179"
+    },
+    {
+      "english": "Learn from elders, respect them.",
+      "russian": "Учись у старших, уважай их.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056180"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "russian": "Учись немного, каждый день.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056181"
+    },
+    {
+      "english": "Small steps, build progress.",
+      "russian": "Маленькие шаги, строят прогресс.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056182"
+    },
+    {
+      "english": "Help others, help yourself.",
+      "russian": "Помогай другим, поможешь себе.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056183"
+    },
+    {
+      "english": "Believe in your, own path.",
+      "russian": "Верь в свой, собственный путь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056184"
+    },
+    {
+      "english": "Stay curious, always learning.",
+      "russian": "Оставайся любопытным, учись всегда.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056185"
+    },
+    {
+      "english": "A good habit, changes life.",
+      "russian": "Хорошая привычка, меняет жизнь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056186"
+    },
+    {
+      "english": "Read a page, expand mind.",
+      "russian": "Читай страницу, расширяй разум.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056187"
+    },
+    {
+      "english": "Your thoughts, shape your world.",
+      "russian": "Твои мысли, формируют мир.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056188"
+    },
+    {
+      "english": "Practice makes, perfect progress.",
+      "russian": "Практика даёт, лучший результат.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056189"
+    },
+    {
+      "english": "Celebrate small, wins often.",
+      "russian": "Празднуй малое, часто побеждай.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056190"
+    },
+    {
+      "english": "Stay calm, under pressure.",
+      "russian": "Оставайся спокоен, под давлением.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056191"
+    },
+    {
+      "english": "Silence can be, a strong answer.",
+      "russian": "Тишина может быть, сильным ответом.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056193"
+    },
+    {
+      "english": "Seek understanding, not just agreement.",
+      "russian": "Ищи понимание, не только согласие.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056194"
+    },
+    {
+      "english": "Rest is earned, not a luxury.",
+      "russian": "Отдых заслужен, не роскошь.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056207"
+    },
+    {
+      "english": "Simplify your life, feel lighter.",
+      "russian": "Упрощай жизнь, чувствуй лёгкость.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056208"
+    },
+    {
+      "english": "Express gratitude, daily.",
+      "russian": "Выражай благодарность, ежедневно.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-14T05:54:13.056210"
     }
   ],
-  "last_updated": "2026-10-13T07:26:57.800527"
+  "last_updated": "2026-10-14T05:54:13.056212"
 }
