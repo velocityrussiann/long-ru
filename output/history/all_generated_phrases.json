@@ -5123,7 +5123,727 @@
       "russian": "Делись радостью, умножь счастье.",
       "category": "Motivation",
       "generated_at": "2026-07-14T09:53:02.005208"
+    },
+    {
+      "english": "Hello, may I have a menu, please?",
+      "russian": "Здравствуйте, можно меню, пожалуйста?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808498"
+    },
+    {
+      "english": "We'd like to order now.",
+      "russian": "Мы готовы сделать заказ.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808512"
+    },
+    {
+      "english": "What do you recommend?",
+      "russian": "Что вы посоветуете?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808514"
+    },
+    {
+      "english": "I'll have the soup, please.",
+      "russian": "Я буду суп, пожалуйста.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808517"
+    },
+    {
+      "english": "One coffee, to go.",
+      "russian": "Один кофе, с собой.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808519"
+    },
+    {
+      "english": "Is it spicy?",
+      "russian": "Это острое?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808520"
+    },
+    {
+      "english": "It's delicious!",
+      "russian": "Очень вкусно!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808522"
+    },
+    {
+      "english": "Can I get the bill, please?",
+      "russian": "Можно счёт, пожалуйста?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808527"
+    },
+    {
+      "english": "Everything was great, thanks.",
+      "russian": "Всё было отлично, спасибо.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808530"
+    },
+    {
+      "english": "We need another chair.",
+      "russian": "Нам нужен ещё один стул.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808532"
+    },
+    {
+      "english": "Excuse me, waiter!",
+      "russian": "Извините, официант!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808533"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "russian": "У вас есть вегетарианские блюда?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808535"
+    },
+    {
+      "english": "Just water, thank you.",
+      "russian": "Только воду, спасибо.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808537"
+    },
+    {
+      "english": "How much is this?",
+      "russian": "Сколько это стоит?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808539"
+    },
+    {
+      "english": "I'm not hungry.",
+      "russian": "Я не голоден.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808542"
+    },
+    {
+      "english": "Can I have some bread?",
+      "russian": "Можно хлеба?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808544"
+    },
+    {
+      "english": "We'll share this dish.",
+      "russian": "Мы разделим это блюдо.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808545"
+    },
+    {
+      "english": "I'm allergic to nuts.",
+      "russian": "У меня аллергия на орехи.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808547"
+    },
+    {
+      "english": "Could you warm this up?",
+      "russian": "Можете это подогреть?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808549"
+    },
+    {
+      "english": "Is service included?",
+      "russian": "Обслуживание включено?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808550"
+    },
+    {
+      "english": "I'll take the salad.",
+      "russian": "Я возьму салат.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808552"
+    },
+    {
+      "english": "Do you have Wi-Fi?",
+      "russian": "У вас есть Wi-Fi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808553"
+    },
+    {
+      "english": "Where is the restroom?",
+      "russian": "Где туалет?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808555"
+    },
+    {
+      "english": "This is too salty.",
+      "russian": "Это слишком солёное.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808557"
+    },
+    {
+      "english": "A table for two, please.",
+      "russian": "Столик на двоих, пожалуйста.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808558"
+    },
+    {
+      "english": "I'd like some tea.",
+      "russian": "Я бы хотел чай.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808560"
+    },
+    {
+      "english": "Can we pay separately?",
+      "russian": "Можем заплатить раздельно?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808561"
+    },
+    {
+      "english": "It's too cold in here.",
+      "russian": "Здесь слишком холодно.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808563"
+    },
+    {
+      "english": "I need a doggy bag.",
+      "russian": "Мне нужна упаковка с собой.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808564"
+    },
+    {
+      "english": "Enjoy your meal!",
+      "russian": "Приятного аппетита!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808566"
+    },
+    {
+      "english": "What's the special today?",
+      "russian": "Какое сегодня спецпредложение?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808568"
+    },
+    {
+      "english": "Could you tell me, what's this dish?",
+      "russian": "Подскажите, пожалуйста, что это за блюдо?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808570"
+    },
+    {
+      "english": "Is this dish very popular?",
+      "russian": "Это блюдо очень популярное?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808572"
+    },
+    {
+      "english": "What's good here, besides recommendations?",
+      "russian": "Что здесь хорошо, кроме рекомендаций?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808574"
+    },
+    {
+      "english": "How is this prepared?",
+      "russian": "Как это готовится?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808576"
+    },
+    {
+      "english": "Can I get a side of vegetables?",
+      "russian": "Можно мне гарнир из овощей?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808578"
+    },
+    {
+      "english": "What kind of fish do you have?",
+      "russian": "Какая у вас рыба?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808580"
+    },
+    {
+      "english": "Is there a children's menu?",
+      "russian": "Есть детское меню?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808582"
+    },
+    {
+      "english": "Can I try a little bit first?",
+      "russian": "Можно попробовать немного сначала?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808584"
+    },
+    {
+      "english": "What's the soup of the day?",
+      "russian": "Какой суп сегодня?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808585"
+    },
+    {
+      "english": "Is this a local specialty?",
+      "russian": "Это местный деликатес?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808591"
+    },
+    {
+      "english": "What goes well with this?",
+      "russian": "Что хорошо сочетается с этим?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808593"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "russian": "У вас есть безглютеновые варианты?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808595"
+    },
+    {
+      "english": "Could I have some more bread, please?",
+      "russian": "Можно, пожалуйста, ещё хлеба?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808597"
+    },
+    {
+      "english": "What's the dessert like?",
+      "russian": "Какой десерт?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808599"
+    },
+    {
+      "english": "Is it possible to have less salt?",
+      "russian": "Можно поменьше соли?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808601"
+    },
+    {
+      "english": "How long will it take?",
+      "russian": "Сколько времени это займёт?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808603"
+    },
+    {
+      "english": "Can I see the wine list?",
+      "russian": "Можно посмотреть винную карту?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808605"
+    },
+    {
+      "english": "What do you suggest for drinks?",
+      "russian": "Что посоветуете выпить?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808607"
+    },
+    {
+      "english": "Is this dish spicy?",
+      "russian": "Это блюдо острое?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808608"
+    },
+    {
+      "english": "Can I get a different sauce?",
+      "russian": "Можно другой соус?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808610"
+    },
+    {
+      "english": "What's the price for this?",
+      "russian": "Сколько стоит это?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808611"
+    },
+    {
+      "english": "Are there any daily specials?",
+      "russian": "Есть какие-нибудь дневные акции?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808613"
+    },
+    {
+      "english": "Could you make it less sweet?",
+      "russian": "Можно сделать менее сладким?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808614"
+    },
+    {
+      "english": "I'd like something light, please.",
+      "russian": "Мне что-нибудь лёгкое, пожалуйста.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808617"
+    },
+    {
+      "english": "What's your signature dish?",
+      "russian": "Какое ваше фирменное блюдо?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808619"
+    },
+    {
+      "english": "Is it possible to get a doggy bag?",
+      "russian": "Можно взять с собой?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808621"
+    },
+    {
+      "english": "How do you spell that?",
+      "russian": "Как это пишется?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808622"
+    },
+    {
+      "english": "Can we sit by the window?",
+      "russian": "Можно сесть у окна?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808624"
+    },
+    {
+      "english": "You can do this, order with confidence.",
+      "russian": "Ты справишься, заказывай уверенно.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808626"
+    },
+    {
+      "english": "Don't be shy, ask questions.",
+      "russian": "Не стесняйся, задавай вопросы.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808628"
+    },
+    {
+      "english": "Every attempt is progress, keep trying.",
+      "russian": "Каждая попытка – прогресс, пробуй дальше.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808630"
+    },
+    {
+      "english": "You're learning fast, great job!",
+      "russian": "Ты быстро учишься, молодец!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808632"
+    },
+    {
+      "english": "It's okay to make mistakes, learn from them.",
+      "russian": "Ошибаться нормально, учись на них.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808634"
+    },
+    {
+      "english": "Be brave, try new things.",
+      "russian": "Будь смелым, пробуй новое.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808636"
+    },
+    {
+      "english": "Your pronunciation is improving, nice!",
+      "russian": "Твоё произношение улучшается, здорово!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808638"
+    },
+    {
+      "english": "You've got this, order like a pro.",
+      "russian": "Ты сможешь, заказывай как профи.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808640"
+    },
+    {
+      "english": "Communication is key, speak up.",
+      "russian": "Общение – главное, говори смелее.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808642"
+    },
+    {
+      "english": "Embrace the challenge, enjoy the process.",
+      "russian": "Прими вызов, наслаждайся процессом.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808644"
+    },
+    {
+      "english": "Listen carefully, understand fully.",
+      "russian": "Слушай внимательно, понимай до конца.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808645"
+    },
+    {
+      "english": "Practice makes perfect, keep speaking.",
+      "russian": "Практика ведет к совершенству, говори.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808647"
+    },
+    {
+      "english": "You are doing great, truly amazing.",
+      "russian": "Ты молодец, просто потрясающе.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808651"
+    },
+    {
+      "english": "Don't give up, persistence pays off.",
+      "russian": "Не сдавайся, настойчивость вознаграждается.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808652"
+    },
+    {
+      "english": "Trust your instincts, you know best.",
+      "russian": "Доверяй интуиции, ты знаешь лучше.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808654"
+    },
+    {
+      "english": "A small step forward, is still progress.",
+      "russian": "Маленький шаг вперед – это тоже прогресс.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808656"
+    },
+    {
+      "english": "You're getting closer, keep going.",
+      "russian": "Ты становишься ближе, продолжай.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808657"
+    },
+    {
+      "english": "Believe in yourself, you can handle it.",
+      "russian": "Верь в себя, ты справишься.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808659"
+    },
+    {
+      "english": "Every word counts, be precise.",
+      "russian": "Каждое слово важно, будь точен.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808661"
+    },
+    {
+      "english": "You are capable, don't doubt yourself.",
+      "russian": "Ты способный, не сомневайся.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808664"
+    },
+    {
+      "english": "This experience is valuable, embrace it.",
+      "russian": "Этот опыт ценен, прими его.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808666"
+    },
+    {
+      "english": "You are making good progress, keep it up.",
+      "russian": "Ты хорошо прогрессируешь, так держать.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808668"
+    },
+    {
+      "english": "Be patient, understanding takes time.",
+      "russian": "Будь терпелив, понимание требует времени.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808669"
+    },
+    {
+      "english": "Your effort is showing, well done.",
+      "russian": "Твои старания видны, хорошо.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808671"
+    },
+    {
+      "english": "Explore the menu, discover new tastes.",
+      "russian": "Изучай меню, открывай новые вкусы.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808674"
+    },
+    {
+      "english": "You are learning, that's the main thing.",
+      "russian": "Ты учишься, это главное.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808676"
+    },
+    {
+      "english": "Don't be afraid to sound different.",
+      "russian": "Не бойся звучать иначе.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808678"
+    },
+    {
+      "english": "This is a learning curve, enjoy it.",
+      "russian": "Это кривая обучения, наслаждайся.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808679"
+    },
+    {
+      "english": "You will master this, with practice.",
+      "russian": "Ты освоишь это, с практикой.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808681"
+    },
+    {
+      "english": "Your confidence will grow, keep trying.",
+      "russian": "Твоя уверенность будет расти, пробуй.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808682"
+    },
+    {
+      "english": "This flavor, I really like it.",
+      "russian": "Этот вкус, он мне очень нравится.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808684"
+    },
+    {
+      "english": "It reminds me, of home cooking.",
+      "russian": "Это напоминает мне, домашнюю еду.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808686"
+    },
+    {
+      "english": "Honestly, I'm quite full now.",
+      "russian": "Честно говоря, я уже сыт(а).",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808687"
+    },
+    {
+      "english": "I waited a bit, but it's fine.",
+      "russian": "Я немного подождал(а), но ничего.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808689"
+    },
+    {
+      "english": "This is better, than I expected.",
+      "russian": "Это лучше, чем я ожидал(а).",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808691"
+    },
+    {
+      "english": "I'm surprised, how delicious this is.",
+      "russian": "Удивлён(а), насколько это вкусно.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808693"
+    },
+    {
+      "english": "The service was very attentive.",
+      "russian": "Обслуживание было очень внимательным.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808695"
+    },
+    {
+      "english": "I'm glad, we chose this place.",
+      "russian": "Я рад(а), что мы выбрали это место.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808697"
+    },
+    {
+      "english": "It's worth the wait, I think.",
+      "russian": "Это стоило ожидания, мне кажется.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808699"
+    },
+    {
+      "english": "The atmosphere, it's very cozy.",
+      "russian": "Атмосфера, здесь очень уютно.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808701"
+    },
+    {
+      "english": "I feel very relaxed here.",
+      "russian": "Я чувствую себя очень расслабленно.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808702"
+    },
+    {
+      "english": "This dish, it truly satisfies.",
+      "russian": "Это блюдо, оно по-настоящему насыщает.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808704"
+    },
+    {
+      "english": "It's a real treat, for the senses.",
+      "russian": "Это настоящее наслаждение, для чувств.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808706"
+    },
+    {
+      "english": "I'm taking my time, to enjoy.",
+      "russian": "Я никуда не тороплюсь, чтобы насладиться.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808708"
+    },
+    {
+      "english": "This ingredient, is quite unique.",
+      "russian": "Этот ингредиент, довольно необычный.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808709"
+    },
+    {
+      "english": "I'm reflecting, on the flavors.",
+      "russian": "Я размышляю, о вкусах.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808711"
+    },
+    {
+      "english": "A moment of pure pleasure.",
+      "russian": "Момент чистого удовольствия.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808714"
+    },
+    {
+      "english": "It exceeded my expectations.",
+      "russian": "Это превзошло мои ожидания.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808716"
+    },
+    {
+      "english": "I could eat this, every day.",
+      "russian": "Я мог(ла) бы есть это, каждый день.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808718"
+    },
+    {
+      "english": "It’s a culinary masterpiece.",
+      "russian": "Это кулинарный шедевр.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808720"
+    },
+    {
+      "english": "I appreciate the effort, put into this.",
+      "russian": "Я ценю усилия, вложенные в это.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808723"
+    },
+    {
+      "english": "This is truly satisfying, my cravings.",
+      "russian": "Это по-настоящему утоляет, мои желания.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808725"
+    },
+    {
+      "english": "I'm feeling quite content.",
+      "russian": "Я чувствую себя очень довольным(ой).",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808726"
+    },
+    {
+      "english": "This experience, is quite memorable.",
+      "russian": "Этот опыт, довольно запоминающийся.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808728"
+    },
+    {
+      "english": "I savoring every bite.",
+      "russian": "Я наслаждаюсь каждым кусочком.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808729"
+    },
+    {
+      "english": "It's good to be patient sometimes.",
+      "russian": "Иногда полезно быть терпеливым.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808731"
+    },
+    {
+      "english": "This food, really warms the soul.",
+      "russian": "Эта еда, по-настоящему греет душу.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808733"
+    },
+    {
+      "english": "I'm grateful, for this delicious meal.",
+      "russian": "Я благодарен(на), за эту вкусную еду.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808736"
+    },
+    {
+      "english": "This brings back, happy memories.",
+      "russian": "Это возвращает, приятные воспоминания.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808738"
+    },
+    {
+      "english": "Excuse me, can I get the check?",
+      "russian": "Простите, можно счёт?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808739"
+    },
+    {
+      "english": "Could you recommend something, please?",
+      "russian": "Можете что-нибудь посоветовать, пожалуйста?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-17T05:23:32.808742"
     }
   ],
-  "last_updated": "2026-07-14T09:53:02.005208"
+  "last_updated": "2026-10-17T05:23:32.808743"
 }
