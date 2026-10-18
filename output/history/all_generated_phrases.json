@@ -5843,7 +5843,727 @@
       "russian": "Можете что-нибудь посоветовать, пожалуйста?",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-10-17T05:23:32.808742"
+    },
+    {
+      "english": "Don't give up, keep trying.",
+      "russian": "Не сдавайся, продолжай пробовать.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623662"
+    },
+    {
+      "english": "Persistence pays off, eventually.",
+      "russian": "Упорство окупится, в конце концов.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623676"
+    },
+    {
+      "english": "Just one more effort, you've got this.",
+      "russian": "Ещё одно усилие, ты справишься.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623680"
+    },
+    {
+      "english": "Keep pushing forward, little by little.",
+      "russian": "Двигайся вперёд, понемногу.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623684"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "russian": "Сосредоточься на прогрессе, не на совершенстве.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623687"
+    },
+    {
+      "english": "Embrace the struggle, it makes you stronger.",
+      "russian": "Прими борьбу, она делает тебя сильнее.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623690"
+    },
+    {
+      "english": "It's a marathon, not a sprint.",
+      "russian": "Это марафон, а не спринт.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623693"
+    },
+    {
+      "english": "Every small win, counts a lot.",
+      "russian": "Каждая маленькая победа, очень важна.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623698"
+    },
+    {
+      "english": "Keep that goal in sight.",
+      "russian": "Держи цель в поле зрения.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623702"
+    },
+    {
+      "english": "Don't get discouraged, stay determined.",
+      "russian": "Не отчаивайся, оставайся решительным.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623720"
+    },
+    {
+      "english": "Digging deep, for that breakthrough.",
+      "russian": "Копай глубже, ради прорыва.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623724"
+    },
+    {
+      "english": "The journey is long, but rewarding.",
+      "russian": "Путь долгий, но стоящий.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623727"
+    },
+    {
+      "english": "Keep trying different approaches.",
+      "russian": "Пробуй разные подходы.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623730"
+    },
+    {
+      "english": "You're closer than you think.",
+      "russian": "Ты ближе, чем думаешь.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623736"
+    },
+    {
+      "english": "Push past your limits.",
+      "russian": "Преодолей свои пределы.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623739"
+    },
+    {
+      "english": "Consistency is key, remember that.",
+      "russian": "Постоянство - ключ, помни это.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623742"
+    },
+    {
+      "english": "Don't stop until you're proud.",
+      "russian": "Не останавливайся, пока не будешь гордиться.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623745"
+    },
+    {
+      "english": "Keep your eyes on the prize.",
+      "russian": "Держи глаза на призе.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623748"
+    },
+    {
+      "english": "One step at a time, you'll get there.",
+      "russian": "Шаг за шагом, ты доберёшься.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623751"
+    },
+    {
+      "english": "Keep learning, keep growing.",
+      "russian": "Продолжай учиться, продолжай расти.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623754"
+    },
+    {
+      "english": "This challenge, is just a test.",
+      "russian": "Это испытание, всего лишь проверка.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623757"
+    },
+    {
+      "english": "Don't quit, when it gets tough.",
+      "russian": "Не сдавайся, когда станет трудно.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623760"
+    },
+    {
+      "english": "Keep your spirit high.",
+      "russian": "Поддерживай свой дух.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623762"
+    },
+    {
+      "english": "Build momentum, with each action.",
+      "russian": "Набирай обороты, каждым действием.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623765"
+    },
+    {
+      "english": "Stay focused, on your objective.",
+      "russian": "Оставайся сосредоточенным, на своей цели.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623769"
+    },
+    {
+      "english": "The effort is worth it.",
+      "russian": "Усилия того стоят.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623772"
+    },
+    {
+      "english": "Keep practicing, it becomes natural.",
+      "russian": "Продолжай практиковаться, это станет естественно.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623775"
+    },
+    {
+      "english": "Overcome obstacles, with determination.",
+      "russian": "Преодолевай препятствия, с решимостью.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623778"
+    },
+    {
+      "english": "You have the strength within.",
+      "russian": "В тебе есть сила.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623780"
+    },
+    {
+      "english": "What helps you keep going?",
+      "russian": "Что помогает тебе продолжать?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623783"
+    },
+    {
+      "english": "How do you deal with setbacks?",
+      "russian": "Как ты справляешься с неудачами?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623786"
+    },
+    {
+      "english": "What's your secret for motivation?",
+      "russian": "В чём твой секрет мотивации?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623789"
+    },
+    {
+      "english": "Can you share some advice?",
+      "russian": "Можешь дать какой-нибудь совет?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623792"
+    },
+    {
+      "english": "What if I feel stuck?",
+      "russian": "Что делать, если я чувствую себя в тупике?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623794"
+    },
+    {
+      "english": "How do you stay inspired?",
+      "russian": "Как ты остаёшься вдохновлённым?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623797"
+    },
+    {
+      "english": "Do you ever doubt yourself?",
+      "russian": "Ты когда-нибудь сомневаешься в себе?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623799"
+    },
+    {
+      "english": "What helps you regain focus?",
+      "russian": "Что помогает тебе снова сосредоточиться?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623802"
+    },
+    {
+      "english": "How do you celebrate small wins?",
+      "russian": "Как ты отмечаешь маленькие победы?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623805"
+    },
+    {
+      "english": "Tell me about a challenge you overcame.",
+      "russian": "Расскажи о трудности, которую ты преодолел.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623808"
+    },
+    {
+      "english": "What keeps you going when it's hard?",
+      "russian": "Что заставляет тебя идти вперёд, когда трудно?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623810"
+    },
+    {
+      "english": "Is it okay to ask for help?",
+      "russian": "Нормально ли просить о помощи?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623813"
+    },
+    {
+      "english": "What if I lose my way?",
+      "russian": "Что, если я собьюсь с пути?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623817"
+    },
+    {
+      "english": "How do you find encouragement?",
+      "russian": "Как ты находишь поддержку?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623820"
+    },
+    {
+      "english": "What's your perspective on failure?",
+      "russian": "Каков твой взгляд на провал?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623823"
+    },
+    {
+      "english": "Do you think it gets easier?",
+      "russian": "Думаешь, становится легче?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623826"
+    },
+    {
+      "english": "What's the best advice you've received?",
+      "russian": "Какой лучший совет ты получал?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623829"
+    },
+    {
+      "english": "How do you bounce back?",
+      "russian": "Как ты приходишь в себя?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623831"
+    },
+    {
+      "english": "What are you learning right now?",
+      "russian": "Чему ты учишься прямо сейчас?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623834"
+    },
+    {
+      "english": "Can you explain that again?",
+      "russian": "Можешь объяснить ещё раз?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623836"
+    },
+    {
+      "english": "What's your strategy for difficult tasks?",
+      "russian": "Какова твоя стратегия для сложных задач?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623841"
+    },
+    {
+      "english": "How do you manage your energy?",
+      "russian": "Как ты управляешь своей энергией?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623844"
+    },
+    {
+      "english": "What inspires your next step?",
+      "russian": "Что вдохновляет твой следующий шаг?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623847"
+    },
+    {
+      "english": "Do you believe in second chances?",
+      "russian": "Ты веришь во второй шанс?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623849"
+    },
+    {
+      "english": "What keeps you hopeful?",
+      "russian": "Что поддерживает твою надежду?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623852"
+    },
+    {
+      "english": "How do you find your rhythm?",
+      "russian": "Как ты находишь свой ритм?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623854"
+    },
+    {
+      "english": "What are you working towards?",
+      "russian": "К чему ты стремишься?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623859"
+    },
+    {
+      "english": "Can we discuss this further?",
+      "russian": "Можем ли мы это обсудить подробнее?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623861"
+    },
+    {
+      "english": "What makes you keep trying?",
+      "russian": "Почему ты продолжаешь пытаться?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623863"
+    },
+    {
+      "english": "Push through, it's nearly done.",
+      "russian": "Продолжай, почти готово.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623867"
+    },
+    {
+      "english": "Your progress, is very noticeable.",
+      "russian": "Твой прогресс, очень заметен.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623870"
+    },
+    {
+      "english": "Believe in your journey.",
+      "russian": "Верь в свой путь.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623872"
+    },
+    {
+      "english": "You are getting stronger, with each attempt.",
+      "russian": "Ты становишься сильнее, с каждой попыткой.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623875"
+    },
+    {
+      "english": "Don't give up, on yourself.",
+      "russian": "Не сдавайся, на себя.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623878"
+    },
+    {
+      "english": "Keep that positive energy.",
+      "russian": "Сохраняй ту позитивную энергию.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623881"
+    },
+    {
+      "english": "You've got this, keep going.",
+      "russian": "Ты справишься, продолжай.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623884"
+    },
+    {
+      "english": "Embrace the struggle, it's learning.",
+      "russian": "Прими борьбу, это обучение.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623887"
+    },
+    {
+      "english": "Every effort, counts towards success.",
+      "russian": "Каждое усилие, засчитывается к успеху.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623890"
+    },
+    {
+      "english": "Stay dedicated, to your goals.",
+      "russian": "Оставайся преданным, своим целям.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623893"
+    },
+    {
+      "english": "Your resilience, is impressive.",
+      "russian": "Твоя стойкость, впечатляет.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623896"
+    },
+    {
+      "english": "You're doing great, keep it up.",
+      "russian": "Ты отлично справляешься, продолжай.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623899"
+    },
+    {
+      "english": "The finish line, is closer now.",
+      "russian": "Финишная черта, ближе сейчас.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623902"
+    },
+    {
+      "english": "Don't lose heart, at this stage.",
+      "russian": "Не теряй надежды, на этом этапе.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623906"
+    },
+    {
+      "english": "You possess, inner fortitude.",
+      "russian": "Ты обладаешь, внутренней силой.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623909"
+    },
+    {
+      "english": "This moment, requires your best.",
+      "russian": "Этот момент, требует твоего лучшего.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623912"
+    },
+    {
+      "english": "Your determination, is inspiring.",
+      "russian": "Твоя решимость, вдохновляет.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623915"
+    },
+    {
+      "english": "You are building, something great.",
+      "russian": "Ты строишь, что-то великое.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623918"
+    },
+    {
+      "english": "Dig deep, find that strength.",
+      "russian": "Копай глубоко, найди ту силу.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623921"
+    },
+    {
+      "english": "The reward, awaits your effort.",
+      "russian": "Награда, ждет твоих усилий.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623924"
+    },
+    {
+      "english": "Stay strong, and carry on.",
+      "russian": "Оставайся сильным, и продолжай.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623927"
+    },
+    {
+      "english": "You can endure, this difficulty.",
+      "russian": "Ты можешь выдержать, эту трудность.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623929"
+    },
+    {
+      "english": "Your spirit, will not be broken.",
+      "russian": "Твой дух, не будет сломлен.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623932"
+    },
+    {
+      "english": "Embrace the process, enjoy the growth.",
+      "russian": "Прими процесс, наслаждайся ростом.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623935"
+    },
+    {
+      "english": "You're almost there, don't stop now.",
+      "russian": "Ты почти там, не останавливайся сейчас.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623939"
+    },
+    {
+      "english": "Success is built, on dedication.",
+      "russian": "Успех строится, на преданности.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623941"
+    },
+    {
+      "english": "Sometimes, I just need a moment.",
+      "russian": "Иногда, мне просто нужна минутка.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623944"
+    },
+    {
+      "english": "My feelings, are very real right now.",
+      "russian": "Мои чувства, сейчас очень реальны.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623947"
+    },
+    {
+      "english": "This path, has tested me deeply.",
+      "russian": "Этот путь, испытал меня глубоко.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623949"
+    },
+    {
+      "english": "Patience, is truly a virtue.",
+      "russian": "Терпение, это действительно добродетель.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623954"
+    },
+    {
+      "english": "I’m learning to accept the slowness.",
+      "russian": "Я учусь принимать эту медлительность.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623958"
+    },
+    {
+      "english": "My inner voice, says keep going.",
+      "russian": "Мой внутренний голос, говорит продолжать.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623962"
+    },
+    {
+      "english": "It’s okay, to feel overwhelmed.",
+      "russian": "Это нормально, чувствовать себя подавленным.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623965"
+    },
+    {
+      "english": "I reflect, on how far I’ve come.",
+      "russian": "Я размышляю, как далеко я зашёл.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623969"
+    },
+    {
+      "english": "Honesty, with myself is key.",
+      "russian": "Честность, с собой — это ключ.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623972"
+    },
+    {
+      "english": "I’m allowing myself, to be human.",
+      "russian": "Я позволяю себе, быть человеком.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623975"
+    },
+    {
+      "english": "Growth, happens outside comfort zones.",
+      "russian": "Рост, происходит вне зоны комфорта.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623978"
+    },
+    {
+      "english": "My perspective, is shifting slowly.",
+      "russian": "Моя точка зрения, медленно меняется.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623981"
+    },
+    {
+      "english": "I feel progress, even if small.",
+      "russian": "Я чувствую прогресс, даже если он мал.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623984"
+    },
+    {
+      "english": "This struggle, teaches me humility.",
+      "russian": "Эта борьба, учит меня смирению.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623987"
+    },
+    {
+      "english": "I trust the timing, of my life.",
+      "russian": "Я доверяю времени, своей жизни.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623990"
+    },
+    {
+      "english": "My patience, is being tested.",
+      "russian": "Моё терпение, подвергается испытанию.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623993"
+    },
+    {
+      "english": "I embrace, the uncertainty.",
+      "russian": "Я принимаю, неопределённость.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.623997"
+    },
+    {
+      "english": "Authenticity, is my goal.",
+      "russian": "Аутентичность, — моя цель.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624000"
+    },
+    {
+      "english": "This requires, deep introspection.",
+      "russian": "Это требует, глубокого самоанализа.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624003"
+    },
+    {
+      "english": "My heart, feels the strain.",
+      "russian": "Моё сердце, чувствует напряжение.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624006"
+    },
+    {
+      "english": "I’m finding peace, in the process.",
+      "russian": "Я нахожу мир, в процессе.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624009"
+    },
+    {
+      "english": "What emotions, arise now?",
+      "russian": "Какие эмоции, возникают сейчас?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624012"
+    },
+    {
+      "english": "I breathe, and refocus.",
+      "russian": "Я дышу, и перефокусируюсь.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624014"
+    },
+    {
+      "english": "This moment, calls for understanding.",
+      "russian": "Этот момент, требует понимания.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624017"
+    },
+    {
+      "english": "My spirit, needs nurturing.",
+      "russian": "Моему духу, нужно забота.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624020"
+    },
+    {
+      "english": "I honor, my limitations.",
+      "russian": "Я уважаю, свои ограничения.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624023"
+    },
+    {
+      "english": "True strength, is in vulnerability.",
+      "russian": "Настоящая сила, в уязвимости.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624025"
+    },
+    {
+      "english": "This journey, is deeply personal.",
+      "russian": "Этот путь, очень личный.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624030"
+    },
+    {
+      "english": "Keep trying, even when it's tough.",
+      "russian": "Продолжай стараться, даже когда трудно.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624033"
+    },
+    {
+      "english": "Don't give up, just try again.",
+      "russian": "Не сдавайся, просто попробуй снова.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624037"
+    },
+    {
+      "english": "Little by little, progress happens.",
+      "russian": "Понемногу, прогресс случается.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624041"
+    },
+    {
+      "english": "What's the plan for tomorrow?",
+      "russian": "Какой план на завтра?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624044"
+    },
+    {
+      "english": "Let's break it down into smaller tasks.",
+      "russian": "Давай разобьём на мелкие задачи.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624047"
+    },
+    {
+      "english": "Just focus on the next immediate step.",
+      "russian": "Просто сосредоточься на следующем шаге.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624050"
+    },
+    {
+      "english": "We can figure this out together.",
+      "russian": "Мы сможем это решить вместе.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624053"
+    },
+    {
+      "english": "Think about what you've already learned.",
+      "russian": "Подумай, чему ты уже научился.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-18T05:31:18.624057"
     }
   ],
-  "last_updated": "2026-10-17T05:23:32.808743"
+  "last_updated": "2026-10-18T05:31:18.624059"
 }
