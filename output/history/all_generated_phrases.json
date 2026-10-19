@@ -6563,7 +6563,727 @@
       "russian": "Подумай, чему ты уже научился.",
       "category": "Perseverance",
       "generated_at": "2026-10-18T05:31:18.624057"
+    },
+    {
+      "english": "I'm so happy, right now.",
+      "russian": "Я так рад, сейчас.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885549"
+    },
+    {
+      "english": "I feel a bit tired.",
+      "russian": "Я чувствую себя немного уставшим.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885560"
+    },
+    {
+      "english": "What's wrong, with you?",
+      "russian": "Что случилось, с тобой?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885562"
+    },
+    {
+      "english": "I'm a little worried, though.",
+      "russian": "Я немного беспокоюсь, правда.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885564"
+    },
+    {
+      "english": "Don't be sad, okay?",
+      "russian": "Не грусти, ладно?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885566"
+    },
+    {
+      "english": "I'm really excited, about this.",
+      "russian": "Я очень взволнован, по этому поводу.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885568"
+    },
+    {
+      "english": "This makes me laugh, a lot.",
+      "russian": "Это меня очень смешит.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885570"
+    },
+    {
+      "english": "I'm feeling a bit down.",
+      "russian": "Мне немного грустно.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885574"
+    },
+    {
+      "english": "Are you okay, really?",
+      "russian": "Ты в порядке, правда?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885576"
+    },
+    {
+      "english": "That's so cool, I love it!",
+      "russian": "Это так круто, мне нравится!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885579"
+    },
+    {
+      "english": "I'm very surprised, honestly.",
+      "russian": "Я очень удивлён, честно.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885582"
+    },
+    {
+      "english": "It's a bit annoying, actually.",
+      "russian": "Это немного раздражает, на самом деле.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885584"
+    },
+    {
+      "english": "I feel much better now.",
+      "russian": "Мне теперь гораздо лучше.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885587"
+    },
+    {
+      "english": "He seems upset, doesn't he?",
+      "russian": "Он выглядит расстроенным, не так ли?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885589"
+    },
+    {
+      "english": "This is quite impressive, yes.",
+      "russian": "Это довольно впечатляет, да.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885591"
+    },
+    {
+      "english": "I'm a little nervous, maybe.",
+      "russian": "Я немного нервничаю, может быть.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885593"
+    },
+    {
+      "english": "She looks so proud, of course.",
+      "russian": "Она выглядит такой гордой, конечно.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885594"
+    },
+    {
+      "english": "This is very touching, truly.",
+      "russian": "Это очень трогательно, правда.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885596"
+    },
+    {
+      "english": "I'm just confused, a bit.",
+      "russian": "Я просто запутался, немного.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885597"
+    },
+    {
+      "english": "What a relief, finally!",
+      "russian": "Какое облегчение, наконец-то!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885599"
+    },
+    {
+      "english": "He seemed disappointed, sadly.",
+      "russian": "Он выглядел разочарованным, к сожалению.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885600"
+    },
+    {
+      "english": "That's really frustrating, isn't it?",
+      "russian": "Это очень расстраивает, не так ли?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885603"
+    },
+    {
+      "english": "I feel nostalgic, sometimes.",
+      "russian": "Я иногда испытываю ностальгию.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885604"
+    },
+    {
+      "english": "This is quite scary, honestly.",
+      "russian": "Это довольно страшно, честно.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885606"
+    },
+    {
+      "english": "She seems content, doesn't she?",
+      "russian": "Она выглядит довольной, не так ли?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885608"
+    },
+    {
+      "english": "I'm feeling hopeful, about that.",
+      "russian": "Я питаю надежду, по этому поводу.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885609"
+    },
+    {
+      "english": "This is rather boring, sadly.",
+      "russian": "Это довольно скучно, к сожалению.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885611"
+    },
+    {
+      "english": "He looked angry, for sure.",
+      "russian": "Он выглядел злым, точно.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885613"
+    },
+    {
+      "english": "I'm so grateful, truly.",
+      "russian": "Я так благодарен, правда.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885614"
+    },
+    {
+      "english": "How are you feeling, today?",
+      "russian": "Как ты себя чувствуешь, сегодня?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885616"
+    },
+    {
+      "english": "What's on your mind, lately?",
+      "russian": "Что у тебя на уме, в последнее время?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885618"
+    },
+    {
+      "english": "Are you alright, friend?",
+      "russian": "Ты в порядке, друг?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885620"
+    },
+    {
+      "english": "Tell me, what bothers you?",
+      "russian": "Скажи мне, что тебя тревожит?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885622"
+    },
+    {
+      "english": "Is everything okay, with you?",
+      "russian": "У тебя всё нормально?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885624"
+    },
+    {
+      "english": "Why the long face, huh?",
+      "russian": "Почему такое лицо, а?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885626"
+    },
+    {
+      "english": "What's making you happy, now?",
+      "russian": "Что тебя радует, сейчас?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885630"
+    },
+    {
+      "english": "Did something good happen, perhaps?",
+      "russian": "Что-то хорошее случилось, наверное?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885632"
+    },
+    {
+      "english": "How do you feel, about that?",
+      "russian": "Как ты относишься, к этому?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885635"
+    },
+    {
+      "english": "Can I help, somehow?",
+      "russian": "Могу я помочь, как-нибудь?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885637"
+    },
+    {
+      "english": "Are you feeling better, now?",
+      "russian": "Тебе стало лучше, сейчас?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885638"
+    },
+    {
+      "english": "What's your mood, like?",
+      "russian": "Какое у тебя настроение?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885640"
+    },
+    {
+      "english": "Don't worry, about it.",
+      "russian": "Не переживай, об этом.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885642"
+    },
+    {
+      "english": "Cheer up, it'll be fine.",
+      "russian": "Не вешай нос, всё наладится.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885644"
+    },
+    {
+      "english": "What's the big news, then?",
+      "russian": "Какие новости, тогда?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885645"
+    },
+    {
+      "english": "Did it go well, that meeting?",
+      "russian": "Встреча прошла хорошо?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885648"
+    },
+    {
+      "english": "Are you excited, for the trip?",
+      "russian": "Ты рад, поездке?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885650"
+    },
+    {
+      "english": "What are you thinking, about?",
+      "russian": "О чём ты думаешь?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885652"
+    },
+    {
+      "english": "You seem thoughtful, today.",
+      "russian": "Ты кажешься задумчивым, сегодня.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885653"
+    },
+    {
+      "english": "What sparked that smile?",
+      "russian": "Что вызвало ту улыбку?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885655"
+    },
+    {
+      "english": "Are you feeling overwhelmed, maybe?",
+      "russian": "Ты чувствуешь себя перегруженным, может быть?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885657"
+    },
+    {
+      "english": "What do you advise, me?",
+      "russian": "Что ты посоветуешь, мне?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885659"
+    },
+    {
+      "english": "How should I react, exactly?",
+      "russian": "Как мне реагировать, точно?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885660"
+    },
+    {
+      "english": "Is this a good idea, really?",
+      "russian": "Это хорошая идея, правда?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885662"
+    },
+    {
+      "english": "What's your take, on this?",
+      "russian": "Каково твоё мнение, об этом?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885664"
+    },
+    {
+      "english": "Do you understand, my point?",
+      "russian": "Ты понимаешь, мою точку зрения?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885666"
+    },
+    {
+      "english": "Is that what you meant, then?",
+      "russian": "Ты это имел в виду, тогда?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885667"
+    },
+    {
+      "english": "I need your opinion, please.",
+      "russian": "Мне нужно твоё мнение, пожалуйста.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885669"
+    },
+    {
+      "english": "Let's discuss, this matter.",
+      "russian": "Давай обсудим, этот вопрос.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885671"
+    },
+    {
+      "english": "Are we on the same page?",
+      "russian": "Мы одинаково понимаем?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885673"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "russian": "Верь в себя, всегда.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885674"
+    },
+    {
+      "english": "You can do this, easily.",
+      "russian": "Ты можешь это, легко.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885676"
+    },
+    {
+      "english": "Keep pushing forward, never stop.",
+      "russian": "Двигайся вперёд, не останавливайся.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885678"
+    },
+    {
+      "english": "Stay positive, my friend.",
+      "russian": "Оставайся позитивным, друг.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885680"
+    },
+    {
+      "english": "Your strength inspires me.",
+      "russian": "Твоя сила вдохновляет меня.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885683"
+    },
+    {
+      "english": "You've got this, totally.",
+      "russian": "У тебя получится, точно.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885685"
+    },
+    {
+      "english": "Don't doubt your abilities.",
+      "russian": "Не сомневайся в своих силах.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885686"
+    },
+    {
+      "english": "That's excellent work, really.",
+      "russian": "Это отличная работа, правда.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885688"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "russian": "Ты молодец, продолжай.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885690"
+    },
+    {
+      "english": "I'm proud of you, honestly.",
+      "russian": "Я горжусь тобой, честно.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885692"
+    },
+    {
+      "english": "What an achievement, wow!",
+      "russian": "Какое достижение, вау!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885694"
+    },
+    {
+      "english": "You inspire everyone around.",
+      "russian": "Ты вдохновляешь всех вокруг.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885695"
+    },
+    {
+      "english": "Your mindset is amazing.",
+      "russian": "Твой настрой поражает.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885697"
+    },
+    {
+      "english": "This will surely work out.",
+      "russian": "Это точно сработает.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885698"
+    },
+    {
+      "english": "Have faith in the process.",
+      "russian": "Верь в процесс.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885700"
+    },
+    {
+      "english": "You have a bright future.",
+      "russian": "У тебя светлое будущее.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885702"
+    },
+    {
+      "english": "Your determination is key.",
+      "russian": "Твоя решимость – ключ.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885703"
+    },
+    {
+      "english": "You radiate positive energy.",
+      "russian": "Ты излучаешь позитив.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885706"
+    },
+    {
+      "english": "Never give up on dreams.",
+      "russian": "Никогда не сдавайся мечтам.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885708"
+    },
+    {
+      "english": "You're capable of great things.",
+      "russian": "Ты способна на великое.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885709"
+    },
+    {
+      "english": "That's a wonderful attitude.",
+      "russian": "Это чудесное отношение.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885711"
+    },
+    {
+      "english": "Your effort is commendable.",
+      "russian": "Твои усилия похвальны.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885712"
+    },
+    {
+      "english": "Stay focused, on your goals.",
+      "russian": "Сосредоточься на целях.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885714"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "russian": "Ты сильнее, чем думаешь.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885716"
+    },
+    {
+      "english": "Everything will be alright, soon.",
+      "russian": "Всё наладится, скоро.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885718"
+    },
+    {
+      "english": "Your optimism is infectious.",
+      "russian": "Твой оптимизм заразителен.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885719"
+    },
+    {
+      "english": "Keep shining, brightly.",
+      "russian": "Продолжай сиять, ярко.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885720"
+    },
+    {
+      "english": "You're on the right path.",
+      "russian": "Ты на правильном пути.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885722"
+    },
+    {
+      "english": "Inner peace is beautiful.",
+      "russian": "Внутренний покой прекрасен.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885723"
+    },
+    {
+      "english": "I'm really thinking, deeply about this.",
+      "russian": "Я серьёзно задумался, глубоко об этом.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885726"
+    },
+    {
+      "english": "This situation, makes me ponder.",
+      "russian": "Эта ситуация, заставляет меня задуматься.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885728"
+    },
+    {
+      "english": "My true feelings, are hard to express.",
+      "russian": "Мои истинные чувства, трудно выразить.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885730"
+    },
+    {
+      "english": "Sometimes, I feel quite melancholic.",
+      "russian": "Иногда, я чувствую себя довольно меланхолично.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885732"
+    },
+    {
+      "english": "It’s important, to be honest with yourself.",
+      "russian": "Важно, быть честным с самим собой.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885734"
+    },
+    {
+      "english": "What's truly bothering, you, my friend?",
+      "russian": "Что тебя действительно беспокоит, мой друг?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885736"
+    },
+    {
+      "english": "I'm trying, to understand my emotions.",
+      "russian": "Я пытаюсь, понять свои эмоции.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885738"
+    },
+    {
+      "english": "Patience is a virtue, I know.",
+      "russian": "Терпение — это добродетель, я знаю.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885740"
+    },
+    {
+      "english": "This requires, careful consideration.",
+      "russian": "Это требует, вдумчивого рассмотрения.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885741"
+    },
+    {
+      "english": "Are you feeling, content right now?",
+      "russian": "Ты чувствуешь, себя довольным сейчас?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885743"
+    },
+    {
+      "english": "My heart feels, heavy today.",
+      "russian": "На душе у меня, тяжело сегодня.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885746"
+    },
+    {
+      "english": "I need time, to process this.",
+      "russian": "Мне нужно время, чтобы это осмыслить.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885748"
+    },
+    {
+      "english": "It’s a moment, for self-discovery.",
+      "russian": "Это момент, для самопознания.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885750"
+    },
+    {
+      "english": "I’m feeling, a bit nostalgic.",
+      "russian": "Я чувствую, лёгкую ностальгию.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885752"
+    },
+    {
+      "english": "What makes you, truly happy?",
+      "russian": "Что делает тебя, по-настоящему счастливым?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885754"
+    },
+    {
+      "english": "This feeling, is quite profound.",
+      "russian": "Это чувство, довольно глубокое.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885755"
+    },
+    {
+      "english": "I'm embracing, my vulnerability.",
+      "russian": "Я принимаю, свою уязвимость.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885757"
+    },
+    {
+      "english": "Let’s be open, about our thoughts.",
+      "russian": "Давай будем открыты, о наших мыслях.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885759"
+    },
+    {
+      "english": "Let's talk it through, calmly.",
+      "russian": "Давай обсудим, спокойно.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885761"
+    },
+    {
+      "english": "I need to vent, a little.",
+      "russian": "Мне нужно выговориться, немного.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885764"
+    },
+    {
+      "english": "Don't stress too much, okay?",
+      "russian": "Не переживай сильно, ладно?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885765"
+    },
+    {
+      "english": "Take a deep breath, relax.",
+      "russian": "Сделай глубокий вдох, расслабься.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885767"
+    },
+    {
+      "english": "It's okay, to feel this way.",
+      "russian": "Это нормально, так чувствовать.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885769"
+    },
+    {
+      "english": "What helps you, feel better?",
+      "russian": "Что помогает тебе, стать лучше?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885770"
+    },
+    {
+      "english": "Let's find a solution, together.",
+      "russian": "Давай найдём решение, вместе.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885772"
+    },
+    {
+      "english": "I understand, your frustration.",
+      "russian": "Я понимаю, твоё расстройство.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885773"
+    },
+    {
+      "english": "This situation, needs patience.",
+      "russian": "Эта ситуация, требует терпения.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885775"
+    },
+    {
+      "english": "Let's focus, on positive steps.",
+      "russian": "Давай сосредоточимся, на шагах вперёд.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885776"
+    },
+    {
+      "english": "How did that make, you feel?",
+      "russian": "Как это заставило, тебя почувствовать?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885778"
+    },
+    {
+      "english": "It's important, to communicate feelings.",
+      "russian": "Важно, сообщать о чувствах.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885780"
+    },
+    {
+      "english": "Let's forgive, and move on.",
+      "russian": "Давай простим, и пойдём дальше.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885781"
+    },
+    {
+      "english": "I'm trying, to stay hopeful.",
+      "russian": "Я стараюсь, оставаться полным надежд.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-19T05:50:36.885784"
     }
   ],
-  "last_updated": "2026-10-18T05:31:18.624059"
+  "last_updated": "2026-10-19T05:50:36.885786"
 }
