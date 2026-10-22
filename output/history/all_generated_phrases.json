@@ -8723,7 +8723,727 @@
       "russian": "Будь терпелив к другим, всегда.",
       "category": "Kindness",
       "generated_at": "2026-10-21T05:48:01.939681"
+    },
+    {
+      "english": "Please forgive me, my friend.",
+      "russian": "Прости меня, пожалуйста, друг.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963879"
+    },
+    {
+      "english": "I didn't mean it, really.",
+      "russian": "Я не хотел, правда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963891"
+    },
+    {
+      "english": "Can you forgive this mistake?",
+      "russian": "Можешь простить эту ошибку?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963895"
+    },
+    {
+      "english": "It was unintentional, I swear.",
+      "russian": "Это было нечаянно, клянусь.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963898"
+    },
+    {
+      "english": "I hope you can forgive me.",
+      "russian": "Надеюсь, ты сможешь простить.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963901"
+    },
+    {
+      "english": "Please accept my apology.",
+      "russian": "Прими мои извинения.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963903"
+    },
+    {
+      "english": "I was wrong, I admit it.",
+      "russian": "Я был неправ, признаю.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963906"
+    },
+    {
+      "english": "Let's move past this, okay?",
+      "russian": "Давай оставим это позади, хорошо?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963912"
+    },
+    {
+      "english": "I truly regret my actions.",
+      "russian": "Я искренне сожалею о поступках.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963915"
+    },
+    {
+      "english": "Can we be friends again?",
+      "russian": "Мы можем снова быть друзьями?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963918"
+    },
+    {
+      "english": "I value our friendship, forgive me.",
+      "russian": "Я ценю нашу дружбу, прости.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963921"
+    },
+    {
+      "english": "Please don't be angry with me.",
+      "russian": "Пожалуйста, не сердись на меня.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963924"
+    },
+    {
+      "english": "What can I do to fix this?",
+      "russian": "Что я могу сделать, чтобы исправить?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963926"
+    },
+    {
+      "english": "I understand if you can't.",
+      "russian": "Я пойму, если не сможешь.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963929"
+    },
+    {
+      "english": "Forgive my foolishness.",
+      "russian": "Прости мою глупость.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963932"
+    },
+    {
+      "english": "I owe you an apology.",
+      "russian": "Я должен извиниться перед тобой.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963934"
+    },
+    {
+      "english": "Let's forget this happened.",
+      "russian": "Давай забудем, что это было.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963937"
+    },
+    {
+      "english": "I sincerely apologize.",
+      "russian": "Я искренне извиняюсь.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963939"
+    },
+    {
+      "english": "Can we start over, please?",
+      "russian": "Можем начать сначала, пожалуйста?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963942"
+    },
+    {
+      "english": "Your understanding means a lot.",
+      "russian": "Твоё понимание очень много значит.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963944"
+    },
+    {
+      "english": "I hope for your forgiveness.",
+      "russian": "Я надеюсь на твоё прощение.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963947"
+    },
+    {
+      "english": "It won't happen again.",
+      "russian": "Такого больше не повторится.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963949"
+    },
+    {
+      "english": "Please, forgive my outburst.",
+      "russian": "Пожалуйста, прости мой срыв.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963952"
+    },
+    {
+      "english": "I messed up, I know.",
+      "russian": "Я всё испортил, знаю.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963955"
+    },
+    {
+      "english": "Let's clear the air.",
+      "russian": "Давай проясним ситуацию.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963957"
+    },
+    {
+      "english": "I deeply apologize for the trouble.",
+      "russian": "Глубоко извиняюсь за беспокойство.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963962"
+    },
+    {
+      "english": "Can you find it in your heart?",
+      "russian": "Можешь найти в своём сердце?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963965"
+    },
+    {
+      "english": "I'm truly sorry, sincerely.",
+      "russian": "Мне правда жаль, от души.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963970"
+    },
+    {
+      "english": "Please overlook my error.",
+      "russian": "Пожалуйста, прости мою ошибку.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963972"
+    },
+    {
+      "english": "Let's leave this behind us.",
+      "russian": "Давай оставим это позади.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963975"
+    },
+    {
+      "english": "Can we talk, please?",
+      "russian": "Мы можем поговорить, пожалуйста?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963978"
+    },
+    {
+      "english": "Did I upset you, really?",
+      "russian": "Я тебя расстроил, правда?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963981"
+    },
+    {
+      "english": "What is bothering you, tell me?",
+      "russian": "Что тебя тревожит, скажи?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963983"
+    },
+    {
+      "english": "How can I make it better?",
+      "russian": "Как я могу это исправить?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963986"
+    },
+    {
+      "english": "Is there anything I can do?",
+      "russian": "Есть что-нибудь, что я могу сделать?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963989"
+    },
+    {
+      "english": "What's on your mind, share it?",
+      "russian": "О чём ты думаешь, поделись?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963992"
+    },
+    {
+      "english": "Can you explain your feelings?",
+      "russian": "Можешь объяснить свои чувства?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963994"
+    },
+    {
+      "english": "Are you still mad at me?",
+      "russian": "Ты всё ещё злишься на меня?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.963997"
+    },
+    {
+      "english": "Let's discuss this calmly, okay?",
+      "russian": "Давай обсудим это спокойно, ладно?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964000"
+    },
+    {
+      "english": "What advice do you have for me?",
+      "russian": "Какой у тебя есть совет для меня?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964003"
+    },
+    {
+      "english": "Your perspective is important, you know?",
+      "russian": "Твоя точка зрения важна, знаешь?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964006"
+    },
+    {
+      "english": "What do you think I should do?",
+      "russian": "Как думаешь, что мне делать?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964008"
+    },
+    {
+      "english": "Can we find a solution together?",
+      "russian": "Можем ли мы найти решение вместе?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964011"
+    },
+    {
+      "english": "I'm open to hearing you out.",
+      "russian": "Я готов(а) тебя выслушать.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964013"
+    },
+    {
+      "english": "What outcome do you desire?",
+      "russian": "Какого исхода ты хочешь?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964016"
+    },
+    {
+      "english": "Can we move forward from this?",
+      "russian": "Можем ли мы двигаться дальше?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964018"
+    },
+    {
+      "english": "Tell me what would help.",
+      "russian": "Скажи, что бы помогло.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964021"
+    },
+    {
+      "english": "I value your opinion, truly.",
+      "russian": "Я ценю твоё мнение, честно.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964023"
+    },
+    {
+      "english": "Let's try to understand each other.",
+      "russian": "Давай постараемся понять друг друга.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964026"
+    },
+    {
+      "english": "What's the best way forward?",
+      "russian": "Какой лучший путь вперёд?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964029"
+    },
+    {
+      "english": "Can we bridge this gap?",
+      "russian": "Можем ли мы преодолеть этот разрыв?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964032"
+    },
+    {
+      "english": "Your thoughts on reconciliation?",
+      "russian": "Твои мысли о примирении?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964039"
+    },
+    {
+      "english": "What would a good apology look like?",
+      "russian": "Как бы выглядело хорошее извинение?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964043"
+    },
+    {
+      "english": "Are we able to move on?",
+      "russian": "Мы сможем двигаться дальше?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964045"
+    },
+    {
+      "english": "What is needed for peace?",
+      "russian": "Что нужно для мира?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964048"
+    },
+    {
+      "english": "Can you guide me on this?",
+      "russian": "Можешь направить меня в этом?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964050"
+    },
+    {
+      "english": "What can we learn from this?",
+      "russian": "Чему мы можем научиться?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964052"
+    },
+    {
+      "english": "Let's seek understanding, shall we?",
+      "russian": "Давай искать понимание, хорошо?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964055"
+    },
+    {
+      "english": "How do we repair this trust?",
+      "russian": "Как нам восстановить это доверие?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964059"
+    },
+    {
+      "english": "Believe in your strength, always.",
+      "russian": "Верь в свою силу, всегда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964062"
+    },
+    {
+      "english": "Every step forward counts, praise yourself.",
+      "russian": "Каждый шаг вперёд важен, хвали себя.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964065"
+    },
+    {
+      "english": "Focus on the positive, it grows.",
+      "russian": "Сосредоточься на позитиве, он растёт.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964068"
+    },
+    {
+      "english": "This is a learning opportunity, embrace it.",
+      "russian": "Это возможность учиться, прими её.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964071"
+    },
+    {
+      "english": "You are doing better than you think.",
+      "russian": "Ты справляешься лучше, чем думаешь.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964073"
+    },
+    {
+      "english": "Your resilience is inspiring, really.",
+      "russian": "Твоя стойкость вдохновляет, правда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964076"
+    },
+    {
+      "english": "Choose peace, choose yourself, first.",
+      "russian": "Выбирай мир, выбирай себя, сначала.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964079"
+    },
+    {
+      "english": "Tomorrow is a fresh start, remember.",
+      "russian": "Завтра новый старт, помни об этом.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964082"
+    },
+    {
+      "english": "You deserve inner peace, truly.",
+      "russian": "Ты заслуживаешь внутреннего покоя, искренне.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964085"
+    },
+    {
+      "english": "Positive thoughts create positive outcomes.",
+      "russian": "Позитивные мысли создают позитивные результаты.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964087"
+    },
+    {
+      "english": "Be kind to yourself, you're learning.",
+      "russian": "Будь добр к себе, ты учишься.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964090"
+    },
+    {
+      "english": "Your inner light shines brightly.",
+      "russian": "Твой внутренний свет сияет ярко.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964093"
+    },
+    {
+      "english": "Release the past, it's not serving you.",
+      "russian": "Освободись от прошлого, оно тебе не служит.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964096"
+    },
+    {
+      "english": "You are growing, becoming stronger.",
+      "russian": "Ты растешь, становишься сильнее.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964099"
+    },
+    {
+      "english": "Embrace the journey, with all its lessons.",
+      "russian": "Прими этот путь, со всеми его уроками.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964101"
+    },
+    {
+      "english": "Your wisdom is growing daily.",
+      "russian": "Твоя мудрость растёт с каждым днём.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964104"
+    },
+    {
+      "english": "You have the power to heal.",
+      "russian": "У тебя есть сила исцелять.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964106"
+    },
+    {
+      "english": "This moment is a gift, cherish it.",
+      "russian": "Этот момент – подарок, цени его.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964109"
+    },
+    {
+      "english": "Cultivate gratitude, it changes everything.",
+      "russian": "Культивируй благодарность, она всё меняет.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964112"
+    },
+    {
+      "english": "You are worthy of peace and happiness.",
+      "russian": "Ты достоин мира и счастья.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964114"
+    },
+    {
+      "english": "Let your heart guide you forward.",
+      "russian": "Пусть твоё сердце ведёт тебя вперёд.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964117"
+    },
+    {
+      "english": "Forgiveness starts within you.",
+      "russian": "Прощение начинается внутри тебя.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964119"
+    },
+    {
+      "english": "You are stronger than any challenge.",
+      "russian": "Ты сильнее любого вызова.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964122"
+    },
+    {
+      "english": "Believe in new beginnings, always.",
+      "russian": "Верь в новые начинания, всегда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964125"
+    },
+    {
+      "english": "Your journey is unique, embrace it.",
+      "russian": "Твой путь уникален, прими его.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964128"
+    },
+    {
+      "english": "Focus on healing, not dwelling.",
+      "russian": "Сосредоточься на исцелении, а не на зацикливании.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964130"
+    },
+    {
+      "english": "My heart needs time, you see.",
+      "russian": "Моему сердцу нужно время, понимаешь.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964133"
+    },
+    {
+      "english": "Patience, darling, it matters.",
+      "russian": "Терпение, дорогой/дорогая, это важно.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964136"
+    },
+    {
+      "english": "I'm slowly letting go, truly.",
+      "russian": "Я медленно отпускаю, честно.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964141"
+    },
+    {
+      "english": "It takes a while, you know?",
+      "russian": "Это требует времени, знаешь?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964143"
+    },
+    {
+      "english": "My feelings are complex, honestly.",
+      "russian": "Мои чувства сложные, если честно.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964146"
+    },
+    {
+      "english": "I'm trying to be open, really.",
+      "russian": "Я стараюсь быть открытым/открытой, правда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964150"
+    },
+    {
+      "english": "This is hard for me, you understand?",
+      "russian": "Мне это тяжело, понимаешь?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964153"
+    },
+    {
+      "english": "Let me feel this, please.",
+      "russian": "Позволь мне это прочувствовать, пожалуйста.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964156"
+    },
+    {
+      "english": "Healing isn't always fast, is it?",
+      "russian": "Исцеление не всегда быстрое, правда?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964158"
+    },
+    {
+      "english": "I need some space, just a bit.",
+      "russian": "Мне нужно немного пространства, только чуть-чуть.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964161"
+    },
+    {
+      "english": "My emotions are a bit tangled.",
+      "russian": "Мои эмоции немного запутаны.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964164"
+    },
+    {
+      "english": "I'm finding my way back, slowly.",
+      "russian": "Я нахожу свой путь обратно, медленно.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964167"
+    },
+    {
+      "english": "This requires reflection, deeply.",
+      "russian": "Это требует размышлений, глубоко.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964169"
+    },
+    {
+      "english": "My peace is a priority now.",
+      "russian": "Мой покой сейчас приоритет.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964172"
+    },
+    {
+      "english": "Can we just breathe for a moment?",
+      "russian": "Можем мы просто подышать немного?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964174"
+    },
+    {
+      "english": "I'm processing this, you see.",
+      "russian": "Я это осмысливаю, понимаешь.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964177"
+    },
+    {
+      "english": "It's a journey, not a race.",
+      "russian": "Это путь, а не гонка.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964180"
+    },
+    {
+      "english": "My honesty comes with vulnerability.",
+      "russian": "Моя честность идет с уязвимостью.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964183"
+    },
+    {
+      "english": "I need to be kind to myself.",
+      "russian": "Мне нужно быть добрым/доброй к себе.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964199"
+    },
+    {
+      "english": "Understanding takes time, usually.",
+      "russian": "Понимание требует времени, обычно.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964202"
+    },
+    {
+      "english": "I'm rediscovering my inner peace.",
+      "russian": "Я заново обретаю свой внутренний покой.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964205"
+    },
+    {
+      "english": "This process feels real, you know?",
+      "russian": "Этот процесс кажется настоящим, знаешь?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964207"
+    },
+    {
+      "english": "I'm letting go of resentment, slowly.",
+      "russian": "Я отпускаю обиду, медленно.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964210"
+    },
+    {
+      "english": "My heart is still healing, honestly.",
+      "russian": "Мое сердце еще лечится, честно.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964213"
+    },
+    {
+      "english": "Can we be gentle with each other?",
+      "russian": "Можем мы быть бережными друг к другу?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964215"
+    },
+    {
+      "english": "I'm choosing peace over anger.",
+      "russian": "Я выбираю мир вместо злости.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964218"
+    },
+    {
+      "english": "This requires emotional honesty, really.",
+      "russian": "Это требует эмоциональной честности, правда.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964221"
+    },
+    {
+      "english": "I'm learning to trust again, slowly.",
+      "russian": "Я учусь доверять снова, медленно.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964224"
+    },
+    {
+      "english": "My inner strength is returning.",
+      "russian": "Моя внутренняя сила возвращается.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964227"
+    },
+    {
+      "english": "Forgiveness is a personal journey.",
+      "russian": "Прощение — это личный путь.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964229"
+    },
+    {
+      "english": "Let's just forget this, okay?",
+      "russian": "Давай просто забудем это, хорошо?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964234"
+    },
+    {
+      "english": "It's fine, really, don't worry.",
+      "russian": "Всё нормально, правда, не волнуйся.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964237"
+    },
+    {
+      "english": "I forgive you, move on now.",
+      "russian": "Я прощаю тебя, иди дальше.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964240"
+    },
+    {
+      "english": "Let's start fresh, like nothing happened.",
+      "russian": "Начнём с чистого листа, как будто ничего не было.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964243"
+    },
+    {
+      "english": "No hard feelings, alright?",
+      "russian": "Без обид, ладно?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-22T05:50:37.964248"
     }
   ],
-  "last_updated": "2026-10-21T05:48:01.939683"
+  "last_updated": "2026-10-22T05:50:37.964249"
 }
