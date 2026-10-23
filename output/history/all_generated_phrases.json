@@ -9443,7 +9443,727 @@
       "russian": "Без обид, ладно?",
       "category": "Forgiveness",
       "generated_at": "2026-10-22T05:50:37.964248"
+    },
+    {
+      "english": "Yes, totally, I agree.",
+      "russian": "Да, абсолютно, согласен.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121169"
+    },
+    {
+      "english": "You're right, of course.",
+      "russian": "Вы правы, конечно.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121183"
+    },
+    {
+      "english": "Exactly, that's the point.",
+      "russian": "Точно, в этом и суть.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121187"
+    },
+    {
+      "english": "I think so too.",
+      "russian": "Я тоже так думаю.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121190"
+    },
+    {
+      "english": "That makes sense, actually.",
+      "russian": "Это разумно, на самом деле.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121193"
+    },
+    {
+      "english": "I see your point, but...",
+      "russian": "Я понимаю вашу точку зрения, но...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121196"
+    },
+    {
+      "english": "Hmm, I'm not sure.",
+      "russian": "Хм, я не уверен.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121199"
+    },
+    {
+      "english": "We see it differently.",
+      "russian": "Мы смотрим на это по-разному.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121204"
+    },
+    {
+      "english": "That's debatable, I guess.",
+      "russian": "Это спорно, я полагаю.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121208"
+    },
+    {
+      "english": "I can't agree with that.",
+      "russian": "Я не могу с этим согласиться.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121212"
+    },
+    {
+      "english": "No, I don't think so.",
+      "russian": "Нет, я так не думаю.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121215"
+    },
+    {
+      "english": "That's not quite right.",
+      "russian": "Это не совсем так.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121220"
+    },
+    {
+      "english": "I have a different opinion.",
+      "russian": "У меня другое мнение.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121223"
+    },
+    {
+      "english": "Well, maybe, but...",
+      "russian": "Ну, может быть, но...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121226"
+    },
+    {
+      "english": "It's complicated, honestly.",
+      "russian": "Честно говоря, это сложно.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121229"
+    },
+    {
+      "english": "Let me think about it.",
+      "russian": "Дайте мне подумать.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121231"
+    },
+    {
+      "english": "Fair enough, I accept.",
+      "russian": "Справедливо, я принимаю.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121234"
+    },
+    {
+      "english": "I understand your perspective.",
+      "russian": "Я понимаю вашу перспективу.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121237"
+    },
+    {
+      "english": "That's a good point.",
+      "russian": "Это хороший довод.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121240"
+    },
+    {
+      "english": "I guess we'll have to agree to disagree.",
+      "russian": "Думаю, нам придётся согласиться не соглашаться.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121243"
+    },
+    {
+      "english": "You've convinced me, actually.",
+      "russian": "Вы меня убедили, на самом деле.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121245"
+    },
+    {
+      "english": "I stand by my opinion.",
+      "russian": "Я придерживаюсь своего мнения.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121250"
+    },
+    {
+      "english": "That's not how I see it.",
+      "russian": "Я вижу это иначе.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121253"
+    },
+    {
+      "english": "I respectfully disagree.",
+      "russian": "Я с уважением не согласен.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121255"
+    },
+    {
+      "english": "Could you explain that more?",
+      "russian": "Можете объяснить подробнее?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121258"
+    },
+    {
+      "english": "I'm open to suggestions.",
+      "russian": "Я открыт для предложений.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121260"
+    },
+    {
+      "english": "I need more information.",
+      "russian": "Мне нужна дополнительная информация.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121263"
+    },
+    {
+      "english": "That's an interesting thought.",
+      "russian": "Это интересная мысль.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121266"
+    },
+    {
+      "english": "So, what do you think, really?",
+      "russian": "Ну, что думаешь, на самом деле?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121269"
+    },
+    {
+      "english": "Tell me, does this sound right?",
+      "russian": "Скажи, это звучит правильно?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121272"
+    },
+    {
+      "english": "How do you feel about this, then?",
+      "russian": "Как ты к этому относишься, тогда?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121275"
+    },
+    {
+      "english": "Is this your final verdict?",
+      "russian": "Это твой окончательный вердикт?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121277"
+    },
+    {
+      "english": "Could we explore other options?",
+      "russian": "Можем мы рассмотреть другие варианты?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121280"
+    },
+    {
+      "english": "Do you see any downsides here?",
+      "russian": "Видишь ли ты здесь какие-то минусы?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121285"
+    },
+    {
+      "english": "Let's hear your honest thoughts.",
+      "russian": "Давай услышим твои честные мысли.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121287"
+    },
+    {
+      "english": "Are you completely on board with this?",
+      "russian": "Ты полностью согласен с этим?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121290"
+    },
+    {
+      "english": "Should we reconsider this decision?",
+      "russian": "Нам стоит пересмотреть это решение?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121293"
+    },
+    {
+      "english": "Tell me, what bugs you about it?",
+      "russian": "Скажи, что тебя в этом беспокоит?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121295"
+    },
+    {
+      "english": "Is there any room for doubt?",
+      "russian": "Есть ли здесь место для сомнений?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121298"
+    },
+    {
+      "english": "What if we try it differently?",
+      "russian": "А что, если попробуем иначе?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121300"
+    },
+    {
+      "english": "Your input is crucial here.",
+      "russian": "Твой вклад здесь очень важен.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121303"
+    },
+    {
+      "english": "How about we pause and reflect?",
+      "russian": "Может, сделаем паузу и подумаем?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121305"
+    },
+    {
+      "english": "Does this proposal sit well?",
+      "russian": "Это предложение тебе подходит?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121308"
+    },
+    {
+      "english": "What's your ultimate conclusion?",
+      "russian": "Каков твой окончательный вывод?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121310"
+    },
+    {
+      "english": "Can we find common ground here?",
+      "russian": "Мы можем найти здесь общий язык?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121313"
+    },
+    {
+      "english": "Is there a better way forward?",
+      "russian": "Есть ли лучший путь вперёд?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121315"
+    },
+    {
+      "english": "What's your gut feeling about this?",
+      "russian": "Каково твоё внутреннее чутье?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121318"
+    },
+    {
+      "english": "Are we aligned on this point?",
+      "russian": "Мы сходимся в этом вопросе?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121321"
+    },
+    {
+      "english": "Could you clarify your stance?",
+      "russian": "Можешь уточнить свою позицию?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121327"
+    },
+    {
+      "english": "What are your reservations, if any?",
+      "russian": "Какие у тебя есть сомнения, если есть?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121330"
+    },
+    {
+      "english": "Let's hash this out together.",
+      "russian": "Давай обсудим это вместе.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121332"
+    },
+    {
+      "english": "Have you considered the implications?",
+      "russian": "Ты учитывал последствия?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121335"
+    },
+    {
+      "english": "What's your final say on this?",
+      "russian": "Каково твоё последнее слово?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121338"
+    },
+    {
+      "english": "Do you concur with this approach?",
+      "russian": "Ты согласен с этим подходом?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121340"
+    },
+    {
+      "english": "What alternative do you propose?",
+      "russian": "Какой альтернативу ты предлагаешь?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121343"
+    },
+    {
+      "english": "Can we reach a consensus here?",
+      "russian": "Мы можем прийти к согласию?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121345"
+    },
+    {
+      "english": "So, where do we stand now?",
+      "russian": "Итак, на каком мы сейчас этапе?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121348"
+    },
+    {
+      "english": "Don't give up, you're doing great.",
+      "russian": "Не сдавайся, ты отлично справляешься.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121351"
+    },
+    {
+      "english": "That's a fantastic idea, really.",
+      "russian": "Это отличная мысль, правда.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121354"
+    },
+    {
+      "english": "I agree, that sounds perfect.",
+      "russian": "Согласен, это звучит идеально.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121356"
+    },
+    {
+      "english": "Totally, I'm with you on this.",
+      "russian": "Полностью, я с тобой в этом.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121359"
+    },
+    {
+      "english": "Exactly, that's the spirit!",
+      "russian": "Точно, вот это настрой!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121363"
+    },
+    {
+      "english": "Yes, let's make it happen.",
+      "russian": "Да, давай сделаем это.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121366"
+    },
+    {
+      "english": "You're absolutely right, go for it.",
+      "russian": "Ты абсолютно прав(а), дерзай.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121368"
+    },
+    {
+      "english": "I love your positive attitude.",
+      "russian": "Мне нравится твоё позитивное отношение.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121371"
+    },
+    {
+      "english": "This is going to work out.",
+      "russian": "Это сработает.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121375"
+    },
+    {
+      "english": "Keep up the great work, buddy.",
+      "russian": "Продолжай в том же духе, дружище.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121378"
+    },
+    {
+      "english": "That mindset is key, truly.",
+      "russian": "Такой настрой - это главное, правда.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121381"
+    },
+    {
+      "english": "You're on the right track, yes.",
+      "russian": "Ты на правильном пути, да.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121384"
+    },
+    {
+      "english": "Hang in there, almost there.",
+      "russian": "Держись, почти у цели.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121387"
+    },
+    {
+      "english": "You're inspiring others, seriously.",
+      "russian": "Ты вдохновляешь других, серьёзно.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121390"
+    },
+    {
+      "english": "Let's tackle this together, okay?",
+      "russian": "Давай решим это вместе, хорошо?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121393"
+    },
+    {
+      "english": "I believe in your potential.",
+      "russian": "Я верю в твой потенциал.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121396"
+    },
+    {
+      "english": "That's a wise perspective, indeed.",
+      "russian": "Это мудрый взгляд, действительно.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121399"
+    },
+    {
+      "english": "We're on the same page here.",
+      "russian": "Мы здесь понимаем друг друга.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121401"
+    },
+    {
+      "english": "That's a brilliant conclusion, nice.",
+      "russian": "Отличный вывод, приятно.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121404"
+    },
+    {
+      "english": "Keep that positive momentum going.",
+      "russian": "Поддерживай этот позитивный импульс.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121407"
+    },
+    {
+      "english": "You can do anything you set your mind to.",
+      "russian": "Ты можешь всё, что задумаешь.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121411"
+    },
+    {
+      "english": "Let's stay optimistic about this.",
+      "russian": "Давай останемся оптимистичны в этом.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121414"
+    },
+    {
+      "english": "I completely agree, great job!",
+      "russian": "Полностью согласен, отличная работа!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121417"
+    },
+    {
+      "english": "That perspective really helps, thanks.",
+      "russian": "Такая точка зрения очень помогает, спасибо.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121419"
+    },
+    {
+      "english": "You're making excellent progress.",
+      "russian": "Ты добиваешься отличного прогресса.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121422"
+    },
+    {
+      "english": "That's the attitude we need.",
+      "russian": "Вот это настрой, который нам нужен.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121425"
+    },
+    {
+      "english": "This is a solid plan, agreed.",
+      "russian": "Это надёжный план, согласен.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121428"
+    },
+    {
+      "english": "Honestly, I feel the same way.",
+      "russian": "Честно говоря, я чувствую то же самое.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121430"
+    },
+    {
+      "english": "My honest thought is, we should wait.",
+      "russian": "Моя честная мысль: нам стоит подождать.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121433"
+    },
+    {
+      "english": "To be frank, I disagree slightly.",
+      "russian": "Откровенно говоря, я немного не согласен.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121436"
+    },
+    {
+      "english": "Deep down, I believe you're right.",
+      "russian": "В глубине души, я верю, ты прав.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121439"
+    },
+    {
+      "english": "My gut tells me, this is risky.",
+      "russian": "Нутро подсказывает, это рискованно.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121442"
+    },
+    {
+      "english": "With all sincerity, I have doubts.",
+      "russian": "Со всей искренностью, у меня есть сомнения.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121444"
+    },
+    {
+      "english": "Frankly, that doesn't sit well with me.",
+      "russian": "Откровенно, это мне не по душе.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121447"
+    },
+    {
+      "english": "My personal feeling is, we should proceed.",
+      "russian": "Моё личное чувство: нам следует двигаться дальше.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121450"
+    },
+    {
+      "english": "I must admit, I wasn't convinced.",
+      "russian": "Должен признать, я не был убеждён.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121454"
+    },
+    {
+      "english": "If I'm being honest, I need more time.",
+      "russian": "Если быть честным, мне нужно больше времени.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121457"
+    },
+    {
+      "english": "From my perspective, it's a bit off.",
+      "russian": "С моей точки зрения, это немного не то.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121460"
+    },
+    {
+      "english": "Truthfully, I don't see it that way.",
+      "russian": "По правде говоря, я не вижу этого так.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121464"
+    },
+    {
+      "english": "My heart tells me, this is the path.",
+      "russian": "Сердце подсказывает, это правильный путь.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121467"
+    },
+    {
+      "english": "I have to say, I disagree here.",
+      "russian": "Должен сказать, я здесь не согласен.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121471"
+    },
+    {
+      "english": "On reflection, perhaps you're right.",
+      "russian": "Поразмыслив, возможно, ты прав.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121474"
+    },
+    {
+      "english": "Honestly, I'm not feeling it yet.",
+      "russian": "Честно, я пока не чувствую этого.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121477"
+    },
+    {
+      "english": "My sincere opinion is, let's rethink.",
+      "russian": "Моё искреннее мнение: давайте переосмыслим.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121480"
+    },
+    {
+      "english": "With all due respect, I disagree.",
+      "russian": "Со всем уважением, я не согласен.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121482"
+    },
+    {
+      "english": "Looking at it honestly, it's flawed.",
+      "russian": "Глядя честно, это имеет недостатки.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121485"
+    },
+    {
+      "english": "My true feeling: patience is needed.",
+      "russian": "Моё истинное чувство: нужно терпение.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121488"
+    },
+    {
+      "english": "I feel compelled to disagree.",
+      "russian": "Я чувствую себя обязанным не согласиться.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121491"
+    },
+    {
+      "english": "Honestly, I need to process this.",
+      "russian": "Честно говоря, мне нужно это обдумать.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121493"
+    },
+    {
+      "english": "My soul says, this is the way.",
+      "russian": "Душа подсказывает, это верный путь.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121496"
+    },
+    {
+      "english": "To be completely honest, I'm hesitant.",
+      "russian": "Будучи абсолютно честным, я колеблюсь.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121499"
+    },
+    {
+      "english": "My genuine thought: let's pause here.",
+      "russian": "Моя искренняя мысль: давайте сделаем паузу.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121504"
+    },
+    {
+      "english": "I reflect, and still disagree.",
+      "russian": "Я размышляю, и всё равно не согласен.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121507"
+    },
+    {
+      "english": "My heartfelt opinion: wait a bit.",
+      "russian": "Моё от всего сердца мнение: подожди немного.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121511"
+    },
+    {
+      "english": "Frankly, I'm not feeling confident.",
+      "russian": "Откровенно, я не чувствую уверенности.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121514"
+    },
+    {
+      "english": "Honestly, this feels wrong to me.",
+      "russian": "Честно говоря, это кажется мне неправильным.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121517"
+    },
+    {
+      "english": "Sounds good, let's do it.",
+      "russian": "Звучит отлично, давай сделаем.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121520"
+    },
+    {
+      "english": "Yeah, that makes sense, buddy.",
+      "russian": "Ага, разумно, друг.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121523"
+    },
+    {
+      "english": "Totally, I thought the same thing.",
+      "russian": "Точно, я думал то же самое.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121527"
+    },
+    {
+      "english": "Could be, but maybe another way?",
+      "russian": "Может быть, но может, есть другой путь?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121530"
+    },
+    {
+      "english": "Hmm, I'm not so sure about that.",
+      "russian": "Хм, я не так уверен в этом.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121533"
+    },
+    {
+      "english": "We might have a problem here.",
+      "russian": "У нас тут может быть проблема.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121535"
+    },
+    {
+      "english": "Let's rethink this whole thing.",
+      "russian": "Давай переосмыслим всё это.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-23T05:49:04.121538"
     }
   ],
-  "last_updated": "2026-10-22T05:50:37.964249"
+  "last_updated": "2026-10-23T05:49:04.121540"
 }
