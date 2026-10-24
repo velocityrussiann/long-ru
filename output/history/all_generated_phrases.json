@@ -10163,7 +10163,727 @@
       "russian": "Давай переосмыслим всё это.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-10-23T05:49:04.121538"
+    },
+    {
+      "english": "I don't feel well, doctor.",
+      "russian": "Мне нездоровится, доктор.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884240"
+    },
+    {
+      "english": "What's wrong, friend?",
+      "russian": "Что случилось, друг?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884257"
+    },
+    {
+      "english": "I have a headache.",
+      "russian": "У меня болит голова.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884260"
+    },
+    {
+      "english": "My stomach hurts a little.",
+      "russian": "Немного болит живот.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884263"
+    },
+    {
+      "english": "I need medicine, please.",
+      "russian": "Мне нужно лекарство, пожалуйста.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884266"
+    },
+    {
+      "english": "Where is the pharmacy?",
+      "russian": "Где находится аптека?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884269"
+    },
+    {
+      "english": "Do you have this?",
+      "russian": "У вас есть это?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884272"
+    },
+    {
+      "english": "It's not helping, unfortunately.",
+      "russian": "Это не помогает, к сожалению.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884278"
+    },
+    {
+      "english": "Take two pills, twice a day.",
+      "russian": "Принимайте две таблетки, дважды в день.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884282"
+    },
+    {
+      "english": "How much is it, sir?",
+      "russian": "Сколько это стоит, сэр?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884286"
+    },
+    {
+      "english": "I need a prescription.",
+      "russian": "Мне нужен рецепт.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884289"
+    },
+    {
+      "english": "Is it strong medicine?",
+      "russian": "Это сильное лекарство?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884291"
+    },
+    {
+      "english": "I feel a bit dizzy.",
+      "russian": "У меня немного кружится голова.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884294"
+    },
+    {
+      "english": "When will I get better?",
+      "russian": "Когда мне станет лучше?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884297"
+    },
+    {
+      "english": "Just a small cough.",
+      "russian": "Небольшой кашель.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884299"
+    },
+    {
+      "english": "I have a fever.",
+      "russian": "У меня температура.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884304"
+    },
+    {
+      "english": "Can I pay by card?",
+      "russian": "Могу я заплатить картой?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884306"
+    },
+    {
+      "english": "What are the side effects?",
+      "russian": "Какие побочные эффекты?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884309"
+    },
+    {
+      "english": "It's for pain relief.",
+      "russian": "Это от боли.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884312"
+    },
+    {
+      "english": "I need a bandage.",
+      "russian": "Мне нужен бинт.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884314"
+    },
+    {
+      "english": "I think I broke it.",
+      "russian": "Кажется, я сломал(а).",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884319"
+    },
+    {
+      "english": "My throat is sore.",
+      "russian": "У меня болит горло.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884322"
+    },
+    {
+      "english": "This is urgent, doctor.",
+      "russian": "Это срочно, доктор.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884325"
+    },
+    {
+      "english": "Do you have syrup?",
+      "russian": "У вас есть сироп?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884327"
+    },
+    {
+      "english": "I feel awful today.",
+      "russian": "Мне ужасно плохо сегодня.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884330"
+    },
+    {
+      "english": "Take this, it's good.",
+      "russian": "Возьмите это, это хорошо.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884333"
+    },
+    {
+      "english": "Is there a doctor nearby?",
+      "russian": "Доктор есть поблизости?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884335"
+    },
+    {
+      "english": "I need to lie down.",
+      "russian": "Мне нужно полежать.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884338"
+    },
+    {
+      "english": "This works very fast.",
+      "russian": "Это действует очень быстро.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884340"
+    },
+    {
+      "english": "Thank you for your help.",
+      "russian": "Спасибо за помощь.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884342"
+    },
+    {
+      "english": "Can you explain this, doctor?",
+      "russian": "Вы можете это объяснить, доктор?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884347"
+    },
+    {
+      "english": "What should I do next?",
+      "russian": "Что мне делать дальше?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884350"
+    },
+    {
+      "english": "Is this the right dosage?",
+      "russian": "Это правильная дозировка?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884353"
+    },
+    {
+      "english": "How often should I take it?",
+      "russian": "Как часто мне это принимать?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884355"
+    },
+    {
+      "english": "Will this interact with my other pills?",
+      "russian": "Это повлияет на мои другие лекарства?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884358"
+    },
+    {
+      "english": "What are the instructions?",
+      "russian": "Каковы инструкции?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884361"
+    },
+    {
+      "english": "Is there a generic alternative?",
+      "russian": "Есть ли более дешевый аналог?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884363"
+    },
+    {
+      "english": "When should I feel relief?",
+      "russian": "Когда мне станет легче?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884366"
+    },
+    {
+      "english": "I have a slight allergy, maybe.",
+      "russian": "У меня, кажется, легкая аллергия.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884369"
+    },
+    {
+      "english": "Can you check my blood pressure?",
+      "russian": "Вы можете проверить мое давление?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884371"
+    },
+    {
+      "english": "I need a refill for this prescription.",
+      "russian": "Мне нужно повторить этот рецепт.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884374"
+    },
+    {
+      "english": "How long does this last?",
+      "russian": "Как долго это действует?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884377"
+    },
+    {
+      "english": "Is this suitable for children?",
+      "russian": "Это подходит для детей?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884379"
+    },
+    {
+      "english": "I have a persistent cough.",
+      "russian": "У меня постоянный кашель.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884382"
+    },
+    {
+      "english": "What dosage for an adult?",
+      "russian": "Какая дозировка для взрослого?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884384"
+    },
+    {
+      "english": "I'm experiencing some discomfort.",
+      "russian": "Я испытываю некоторый дискомфорт.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884387"
+    },
+    {
+      "english": "Can you give me something stronger?",
+      "russian": "Можете дать что-нибудь посильнее?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884389"
+    },
+    {
+      "english": "Where can I find antiseptic wipes?",
+      "russian": "Где найти антисептические салфетки?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884392"
+    },
+    {
+      "english": "Does it require refrigeration?",
+      "russian": "Ему нужно хранение в холодильнике?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884396"
+    },
+    {
+      "english": "I need something for nausea.",
+      "russian": "Мне нужно что-то от тошноты.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884399"
+    },
+    {
+      "english": "Is this a controlled substance?",
+      "russian": "Это контролируемое вещество?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884401"
+    },
+    {
+      "english": "Can you recommend an ointment?",
+      "russian": "Можете посоветовать мазь?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884404"
+    },
+    {
+      "english": "I feel quite tired lately.",
+      "russian": "Я в последнее время чувствую усталость.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884406"
+    },
+    {
+      "english": "When does the pharmacy close?",
+      "russian": "Когда закрывается аптека?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884409"
+    },
+    {
+      "english": "Are there any discounts today?",
+      "russian": "Есть ли сегодня скидки?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884411"
+    },
+    {
+      "english": "This is a mild discomfort.",
+      "russian": "Это легкий дискомфорт.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884413"
+    },
+    {
+      "english": "I need to consult a specialist.",
+      "russian": "Мне нужно проконсультироваться со специалистом.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884416"
+    },
+    {
+      "english": "Positive thoughts, healthy body.",
+      "russian": "Позитивные мысли, здоровое тело.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884419"
+    },
+    {
+      "english": "Believe in your recovery.",
+      "russian": "Верь в своё выздоровление.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884422"
+    },
+    {
+      "english": "You are getting stronger.",
+      "russian": "Ты становишься сильнее.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884424"
+    },
+    {
+      "english": "Focus on healing now.",
+      "russian": "Сосредоточься на выздоровлении.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884427"
+    },
+    {
+      "english": "Small progress is still progress.",
+      "russian": "Маленький прогресс — это прогресс.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884431"
+    },
+    {
+      "english": "Your health is a priority.",
+      "russian": "Твоё здоровье — приоритет.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884433"
+    },
+    {
+      "english": "You've got this, no doubt.",
+      "russian": "Ты справишься, без сомнений.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884436"
+    },
+    {
+      "english": "Take it one day at a time.",
+      "russian": "Живи одним днём.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884439"
+    },
+    {
+      "english": "You are capable of healing.",
+      "russian": "Ты способен(на) к исцелению.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884442"
+    },
+    {
+      "english": "Mind over matter, always.",
+      "russian": "Дух сильнее материи, всегда.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884444"
+    },
+    {
+      "english": "This is just a phase.",
+      "russian": "Это всего лишь этап.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884447"
+    },
+    {
+      "english": "Your body knows how to heal.",
+      "russian": "Твоё тело знает, как лечить.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884449"
+    },
+    {
+      "english": "Stay positive, stay hopeful.",
+      "russian": "Оставайся позитивным(ой), оставайся полным(ой) надежды.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884452"
+    },
+    {
+      "english": "You are strong, you'll recover.",
+      "russian": "Ты сильный(ая), ты поправишься.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884455"
+    },
+    {
+      "english": "This is a temporary setback.",
+      "russian": "Это временная неудача.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884457"
+    },
+    {
+      "english": "Your well-being matters most.",
+      "russian": "Твоё самочувствие — самое главное.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884460"
+    },
+    {
+      "english": "Keep up the good fight.",
+      "russian": "Продолжай бороться.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884464"
+    },
+    {
+      "english": "You're handling this well.",
+      "russian": "Ты хорошо с этим справляешься.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884467"
+    },
+    {
+      "english": "Healing takes time, be patient.",
+      "russian": "Исцелению нужно время, будь терпелив(а).",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884470"
+    },
+    {
+      "english": "You are resilient, remember that.",
+      "russian": "Ты устойчив(а), помни это.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884473"
+    },
+    {
+      "english": "Focus on what makes you better.",
+      "russian": "Сосредоточься на том, что делает тебя лучше.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884476"
+    },
+    {
+      "english": "Every day is a new chance.",
+      "russian": "Каждый день — новый шанс.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884479"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "russian": "Ты сильнее, чем думаешь.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884483"
+    },
+    {
+      "english": "Listen to your body's wisdom.",
+      "russian": "Слушай мудрость своего тела.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884486"
+    },
+    {
+      "english": "You're doing wonderfully, really.",
+      "russian": "Ты чудесно справляешься, правда.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884489"
+    },
+    {
+      "english": "This is a temporary challenge.",
+      "russian": "Это временное испытание.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884504"
+    },
+    {
+      "english": "Your positive attitude helps.",
+      "russian": "Твой позитивный настрой помогает.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884507"
+    },
+    {
+      "english": "Keep that brave spirit up!",
+      "russian": "Сохраняй этот храбрый дух!",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884509"
+    },
+    {
+      "english": "I'm really grateful, truly.",
+      "russian": "Я очень благодарен, правда.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884512"
+    },
+    {
+      "english": "This situation makes me think.",
+      "russian": "Эта ситуация заставляет задуматься.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884515"
+    },
+    {
+      "english": "I hope for the best outcome.",
+      "russian": "Надеюсь на лучший исход.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884517"
+    },
+    {
+      "english": "I feel a bit vulnerable now.",
+      "russian": "Я чувствую себя немного уязвимым сейчас.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884520"
+    },
+    {
+      "english": "Your kindness means a lot.",
+      "russian": "Ваша доброта очень много значит.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884523"
+    },
+    {
+      "english": "I'm trying to stay calm.",
+      "russian": "Я стараюсь сохранять спокойствие.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884526"
+    },
+    {
+      "english": "This requires deep reflection.",
+      "russian": "Это требует глубоких размышлений.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884528"
+    },
+    {
+      "english": "Let's be open about this.",
+      "russian": "Давайте будем откровенны насчет этого.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884531"
+    },
+    {
+      "english": "I need some time to process.",
+      "russian": "Мне нужно время, чтобы обдумать.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884536"
+    },
+    {
+      "english": "It's okay to feel uncertain.",
+      "russian": "Неплохо чувствовать себя неуверенно.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884538"
+    },
+    {
+      "english": "Your advice is very helpful.",
+      "russian": "Ваш совет очень помогает.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884544"
+    },
+    {
+      "english": "I'm thinking about the future.",
+      "russian": "Я думаю о будущем.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884547"
+    },
+    {
+      "english": "This is a learning experience.",
+      "russian": "Это опыт для обучения.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884549"
+    },
+    {
+      "english": "I value your understanding.",
+      "russian": "Я ценю ваше понимание.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884552"
+    },
+    {
+      "english": "Let's discuss it openly.",
+      "russian": "Давайте обсудим это открыто.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884557"
+    },
+    {
+      "english": "I'm reflecting on my health.",
+      "russian": "Я размышляю о своем здоровье.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884559"
+    },
+    {
+      "english": "It's good to express feelings.",
+      "russian": "Хорошо выражать чувства.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884562"
+    },
+    {
+      "english": "I'm trying to be optimistic.",
+      "russian": "Я стараюсь быть оптимистичным.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884565"
+    },
+    {
+      "english": "I feel a sense of relief.",
+      "russian": "Я чувствую облегчение.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884568"
+    },
+    {
+      "english": "I'm seeking inner peace.",
+      "russian": "Я ищу внутренний покой.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884570"
+    },
+    {
+      "english": "It's important to listen carefully.",
+      "russian": "Важно внимательно слушать.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884573"
+    },
+    {
+      "english": "I'm hopeful for recovery.",
+      "russian": "Я надеюсь на выздоровление.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884576"
+    },
+    {
+      "english": "This is quite thought-provoking.",
+      "russian": "Это весьма наводит на размышления.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884579"
+    },
+    {
+      "english": "I appreciate the genuine care.",
+      "russian": "Я ценю искреннюю заботу.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884581"
+    },
+    {
+      "english": "Let's find a positive way.",
+      "russian": "Давайте найдем позитивный путь.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884584"
+    },
+    {
+      "english": "I'm trusting the process.",
+      "russian": "Я доверяю процессу.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884586"
+    },
+    {
+      "english": "I need medicine, for a cold.",
+      "russian": "Мне нужно лекарство, от простуды.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884589"
+    },
+    {
+      "english": "What is the dosage, please?",
+      "russian": "Какая дозировка, пожалуйста?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884592"
+    },
+    {
+      "english": "Are there any side effects?",
+      "russian": "Есть ли побочные эффекты?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884595"
+    },
+    {
+      "english": "This pill is too big.",
+      "russian": "Эта таблетка слишком большая.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884597"
+    },
+    {
+      "english": "Can I have a discount?",
+      "russian": "Могу я получить скидку?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884600"
+    },
+    {
+      "english": "I forgot my prescription.",
+      "russian": "Я забыл(а) рецепт.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884603"
+    },
+    {
+      "english": "Is this medicine good for pain?",
+      "russian": "Это лекарство от боли?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884606"
+    },
+    {
+      "english": "I feel nauseous, help me.",
+      "russian": "Меня тошнит, помогите.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884608"
+    },
+    {
+      "english": "I need an antiseptic spray.",
+      "russian": "Мне нужен антисептический спрей.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-24T05:30:30.884611"
     }
   ],
-  "last_updated": "2026-10-23T05:49:04.121540"
+  "last_updated": "2026-10-24T05:30:30.884613"
 }
