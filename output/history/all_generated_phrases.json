@@ -10883,7 +10883,727 @@
       "russian": "Мне нужен антисептический спрей.",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-10-24T05:30:30.884611"
+    },
+    {
+      "english": "What are you doing, later?",
+      "russian": "Что делаешь, потом?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566220"
+    },
+    {
+      "english": "Got any plans, tonight?",
+      "russian": "Есть планы, сегодня вечером?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566236"
+    },
+    {
+      "english": "Let's hang out, sometime.",
+      "russian": "Давай встретимся, как-нибудь.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566238"
+    },
+    {
+      "english": "Are you free, this weekend?",
+      "russian": "Ты свободен, на этих выходных?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566240"
+    },
+    {
+      "english": "Maybe we could grab coffee?",
+      "russian": "Может, выпьем кофе?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566242"
+    },
+    {
+      "english": "I was thinking, we could meet.",
+      "russian": "Я думал, мы могли бы увидеться.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566244"
+    },
+    {
+      "english": "What do you say, we go out?",
+      "russian": "Что скажешь, пойдем куда-нибудь?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566245"
+    },
+    {
+      "english": "How about, a walk in the park?",
+      "russian": "Как насчет, прогулки в парке?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566249"
+    },
+    {
+      "english": "Are you up for, a movie?",
+      "russian": "Ты не против, сходить в кино?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566251"
+    },
+    {
+      "english": "Let's make a plan, soon.",
+      "russian": "Давай спланируем, скорее.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566253"
+    },
+    {
+      "english": "What are your plans, tomorrow?",
+      "russian": "Какие у тебя планы, завтра?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566255"
+    },
+    {
+      "english": "I'd love to, if you're free.",
+      "russian": "Я был бы рад, если ты свободен.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566257"
+    },
+    {
+      "english": "We should do something, fun.",
+      "russian": "Нам стоит сделать что-то, веселое.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566258"
+    },
+    {
+      "english": "When are you, available?",
+      "russian": "Когда ты, свободен?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566260"
+    },
+    {
+      "english": "Fancy a drink, later on?",
+      "russian": "Хочешь выпить, попозже?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566262"
+    },
+    {
+      "english": "We could explore, the city.",
+      "russian": "Мы могли бы исследовать, город.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566263"
+    },
+    {
+      "english": "Let's catch up, soon.",
+      "russian": "Давай встретимся, скоро.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566265"
+    },
+    {
+      "english": "What's the agenda, today?",
+      "russian": "Какие планы, на сегодня?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566268"
+    },
+    {
+      "english": "I'm free, on Friday.",
+      "russian": "Я свободен, в пятницу.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566270"
+    },
+    {
+      "english": "What are you doing, this evening?",
+      "russian": "Что делаешь, этим вечером?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566271"
+    },
+    {
+      "english": "Let's grab a bite, together.",
+      "russian": "Давай перекусим, вместе.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566273"
+    },
+    {
+      "english": "Are you busy, right now?",
+      "russian": "Ты занят, прямо сейчас?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566274"
+    },
+    {
+      "english": "We should meet, properly.",
+      "russian": "Нам стоит встретиться, как следует.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566276"
+    },
+    {
+      "english": "What's on your mind, for fun?",
+      "russian": "Что у тебя на уме, для развлечений?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566279"
+    },
+    {
+      "english": "Let's organize, something.",
+      "russian": "Давай организуем, что-нибудь.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566280"
+    },
+    {
+      "english": "Are you free, later today?",
+      "russian": "Ты свободен, сегодня позже?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566282"
+    },
+    {
+      "english": "We could go somewhere, nice.",
+      "russian": "Мы могли бы пойти куда-нибудь, приятное.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566283"
+    },
+    {
+      "english": "What's the plan, for dinner?",
+      "russian": "Какие планы, на ужин?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566285"
+    },
+    {
+      "english": "Let's make it happen, soon.",
+      "russian": "Давай сделаем это, скоро.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566287"
+    },
+    {
+      "english": "Are you free, next week?",
+      "russian": "Ты свободен, на следующей неделе?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566289"
+    },
+    {
+      "english": "What's new, with you?",
+      "russian": "Что нового, у тебя?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566291"
+    },
+    {
+      "english": "Have you heard, the news?",
+      "russian": "Ты слышал, новости?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566292"
+    },
+    {
+      "english": "Any interesting ideas, lately?",
+      "russian": "Есть интересные идеи, в последнее время?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566294"
+    },
+    {
+      "english": "What are your thoughts, on it?",
+      "russian": "Какие у тебя мысли, на этот счёт?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566296"
+    },
+    {
+      "english": "Should we discuss, this further?",
+      "russian": "Нам стоит это, обсудить подробнее?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566298"
+    },
+    {
+      "english": "What's your take, on the situation?",
+      "russian": "Каково твоё мнение, по ситуации?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566300"
+    },
+    {
+      "english": "Do you have time, to chat?",
+      "russian": "У тебя есть время, поболтать?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566302"
+    },
+    {
+      "english": "Is there anything, I can help with?",
+      "russian": "Могу чем-нибудь, помочь?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566304"
+    },
+    {
+      "english": "What's the plan, everyone?",
+      "russian": "Какой план, у всех?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566306"
+    },
+    {
+      "english": "Let's brainstorm, some ideas.",
+      "russian": "Давай набросаем, идей.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566307"
+    },
+    {
+      "english": "What do you suggest, we do?",
+      "russian": "Что ты предлагаешь, нам сделать?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566309"
+    },
+    {
+      "english": "Are you free, for a quick call?",
+      "russian": "Ты свободен, для быстрого звонка?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566311"
+    },
+    {
+      "english": "What's on your mind, today?",
+      "russian": "Что у тебя на уме, сегодня?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566313"
+    },
+    {
+      "english": "Do you want to get together, soon?",
+      "russian": "Хочешь встретиться, скоро?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566314"
+    },
+    {
+      "english": "How about we meet, somewhere quiet?",
+      "russian": "Может, встретимся, где-нибудь в тишине?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566316"
+    },
+    {
+      "english": "What's happening, around here?",
+      "russian": "Что происходит, здесь?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566318"
+    },
+    {
+      "english": "Let's compare notes, later.",
+      "russian": "Сравним впечатления, позже.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566320"
+    },
+    {
+      "english": "What's the best way, to approach this?",
+      "russian": "Как лучше всего, к этому подойти?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566322"
+    },
+    {
+      "english": "Are you interested, in joining us?",
+      "russian": "Ты заинтересован, присоединиться к нам?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566324"
+    },
+    {
+      "english": "What's the latest, on that?",
+      "russian": "Что нового, по этому поводу?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566327"
+    },
+    {
+      "english": "Let's coordinate, our schedules.",
+      "russian": "Давай согласуем, наши графики.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566328"
+    },
+    {
+      "english": "What do you feel like, doing?",
+      "russian": "Что тебе хочется, делать?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566331"
+    },
+    {
+      "english": "Any recommendations, for places?",
+      "russian": "Есть рекомендации, по местам?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566333"
+    },
+    {
+      "english": "Let's sync up, soon.",
+      "russian": "Давай свяжемся, скоро.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566335"
+    },
+    {
+      "english": "What are we thinking, for tomorrow?",
+      "russian": "Что мы думаем, на завтра?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566337"
+    },
+    {
+      "english": "Can we make it, work?",
+      "russian": "Мы сможем это, организовать?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566338"
+    },
+    {
+      "english": "Your idea, is brilliant!",
+      "russian": "Твоя идея, блестящая!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566340"
+    },
+    {
+      "english": "We can totally, do this.",
+      "russian": "Мы точно, сможем это.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566342"
+    },
+    {
+      "english": "Don't doubt, yourself.",
+      "russian": "Не сомневайся, в себе.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566344"
+    },
+    {
+      "english": "This will be, amazing.",
+      "russian": "Это будет, потрясающе.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566346"
+    },
+    {
+      "english": "Believe in, your vision.",
+      "russian": "Верь в, своё видение.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566348"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "russian": "Продолжай двигаться, вперёд.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566349"
+    },
+    {
+      "english": "Great job, on that!",
+      "russian": "Отличная работа, над этим!",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566352"
+    },
+    {
+      "english": "You've got, this handled.",
+      "russian": "Ты с этим, справишься.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566354"
+    },
+    {
+      "english": "Let's make, it count.",
+      "russian": "Давай сделаем, это важным.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566356"
+    },
+    {
+      "english": "Your effort, is noticed.",
+      "russian": "Твои усилия, замечены.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566358"
+    },
+    {
+      "english": "Stay focused, on the goal.",
+      "russian": "Оставайся сфокусированным, на цели.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566360"
+    },
+    {
+      "english": "This is, a great start.",
+      "russian": "Это, отличное начало.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566362"
+    },
+    {
+      "english": "You're capable, of more.",
+      "russian": "Ты способен, на большее.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566364"
+    },
+    {
+      "english": "Every step, matters.",
+      "russian": "Каждый шаг, имеет значение.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566365"
+    },
+    {
+      "english": "Let's aim, higher.",
+      "russian": "Давай целиться, выше.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566367"
+    },
+    {
+      "english": "Your progress, is inspiring.",
+      "russian": "Твой прогресс, вдохновляет.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566369"
+    },
+    {
+      "english": "We're on the, right track.",
+      "russian": "Мы на, правильном пути.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566371"
+    },
+    {
+      "english": "Think big, act bold.",
+      "russian": "Думай масштабно, действуй смело.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566372"
+    },
+    {
+      "english": "Your potential, is huge.",
+      "russian": "Твой потенциал, огромен.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566374"
+    },
+    {
+      "english": "Let's seize, this chance.",
+      "russian": "Давай воспользуемся, этим шансом.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566376"
+    },
+    {
+      "english": "You're doing, great work.",
+      "russian": "Ты делаешь, отличную работу.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566378"
+    },
+    {
+      "english": "Let's manifest, our goals.",
+      "russian": "Давай воплотим, наши цели.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566379"
+    },
+    {
+      "english": "Never give, up.",
+      "russian": "Никогда не сдавайся.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566381"
+    },
+    {
+      "english": "You have, my support.",
+      "russian": "У тебя, моя поддержка.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566384"
+    },
+    {
+      "english": "Let's create, something great.",
+      "russian": "Давай создадим, что-то великое.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566385"
+    },
+    {
+      "english": "Your dedication, shines through.",
+      "russian": "Твоя преданность, видна.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566388"
+    },
+    {
+      "english": "We can achieve, anything.",
+      "russian": "Мы можем достичь, всего.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566390"
+    },
+    {
+      "english": "Positive vibes, only.",
+      "russian": "Только позитивные, вибрации.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566391"
+    },
+    {
+      "english": "Let's make, memories.",
+      "russian": "Давай создадим, воспоминания.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566393"
+    },
+    {
+      "english": "How do you truly feel, about this plan?",
+      "russian": "Как ты на самом деле, относишься к этому плану?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566395"
+    },
+    {
+      "english": "Let's reflect, on our progress, honestly.",
+      "russian": "Давай честно, поразмыслим, над нашим прогрессом.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566397"
+    },
+    {
+      "english": "I need a moment, to process this.",
+      "russian": "Мне нужно мгновение, чтобы это обдумать.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566399"
+    },
+    {
+      "english": "What are your deep thoughts, on this?",
+      "russian": "Каковы твои глубокие мысли, об этом?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566400"
+    },
+    {
+      "english": "Let's be patient, with the outcome.",
+      "russian": "Будем терпеливы, с результатом.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566402"
+    },
+    {
+      "english": "This feels right, in my gut.",
+      "russian": "Это кажется правильным, нутром чувствую.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566404"
+    },
+    {
+      "english": "I'm not entirely sure, yet.",
+      "russian": "Я пока не совсем уверен(а).",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566406"
+    },
+    {
+      "english": "What doubts do you have?",
+      "russian": "Какие у тебя сомнения?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566407"
+    },
+    {
+      "english": "Let's share our true feelings.",
+      "russian": "Давай поделимся, истинными чувствами.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566409"
+    },
+    {
+      "english": "I need time, to think it over.",
+      "russian": "Мне нужно время, чтобы всё обдумать.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566411"
+    },
+    {
+      "english": "What are you hoping for, ultimately?",
+      "russian": "На что ты надеешься, в итоге?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566412"
+    },
+    {
+      "english": "This brings up, complex emotions.",
+      "russian": "Это вызывает, сложные эмоции.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566414"
+    },
+    {
+      "english": "Let's not rush, this decision.",
+      "russian": "Не будем торопиться, с этим решением.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566415"
+    },
+    {
+      "english": "My intuition, says go for it.",
+      "russian": "Моя интуиция, говорит – действуй.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566417"
+    },
+    {
+      "english": "Are you feeling hesitant, at all?",
+      "russian": "Ты чувствуешь колебания, вообще?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566419"
+    },
+    {
+      "english": "What’s beneath the surface, here?",
+      "russian": "Что здесь, лежит на поверхности?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566421"
+    },
+    {
+      "english": "This requires, sincere reflection.",
+      "russian": "Это требует, искреннего размышления.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566423"
+    },
+    {
+      "english": "I need assurance, on this.",
+      "russian": "Мне нужно заверение, в этом.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566424"
+    },
+    {
+      "english": "Let's explore, the underlying feelings.",
+      "russian": "Давай исследуем, глубинные чувства.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566426"
+    },
+    {
+      "english": "What's your inner monologue, saying?",
+      "russian": "Что говорит, твой внутренний диалог?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566428"
+    },
+    {
+      "english": "This might take, some time.",
+      "russian": "На это может уйти, некоторое время.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566430"
+    },
+    {
+      "english": "Let's be gentle, with ourselves.",
+      "russian": "Давай будем бережны, к себе.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566432"
+    },
+    {
+      "english": "What does your heart, tell you?",
+      "russian": "Что тебе говорит, твоё сердце?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566433"
+    },
+    {
+      "english": "I feel a deep connection, to this.",
+      "russian": "Я чувствую глубокую связь, с этим.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566435"
+    },
+    {
+      "english": "Let's find the common ground, emotionally.",
+      "russian": "Давай найдём, общую почву, эмоционально.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566438"
+    },
+    {
+      "english": "This warrants, a deeper look.",
+      "russian": "Это заслуживает, более глубокого взгляда.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566439"
+    },
+    {
+      "english": "Are you comfortable, with this direction?",
+      "russian": "Тебе комфортно, с этим направлением?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566441"
+    },
+    {
+      "english": "Let's trust the process, fully.",
+      "russian": "Давай полностью, доверимся процессу.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566444"
+    },
+    {
+      "english": "What's the plan, Stan?",
+      "russian": "Каков план, а?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566446"
+    },
+    {
+      "english": "Let's nail, this down.",
+      "russian": "Давай, закрепим.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566447"
+    },
+    {
+      "english": "Who's in, for coffee?",
+      "russian": "Кто хочет, кофе?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566449"
+    },
+    {
+      "english": "Meeting at five, okay?",
+      "russian": "Встреча в пять, хорошо?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566451"
+    },
+    {
+      "english": "We should reschedule, maybe.",
+      "russian": "Нам стоит, перенести, наверное.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566453"
+    },
+    {
+      "english": "My treat, this time.",
+      "russian": "Я угощаю, в этот раз.",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566454"
+    },
+    {
+      "english": "Rain check, perhaps?",
+      "russian": "Перенесём, на потом, может?",
+      "category": "Making Plans",
+      "generated_at": "2026-10-25T05:48:02.566456"
     }
   ],
-  "last_updated": "2026-10-24T05:30:30.884613"
+  "last_updated": "2026-10-25T05:48:02.566457"
 }
