@@ -11603,7 +11603,727 @@
       "russian": "Перенесём, на потом, может?",
       "category": "Making Plans",
       "generated_at": "2026-10-25T05:48:02.566456"
+    },
+    {
+      "english": "Perhaps, good news is coming.",
+      "russian": "Возможно, хорошие новости грядут.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025106"
+    },
+    {
+      "english": "Let's hope for the best.",
+      "russian": "Будем надеяться на лучшее.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025122"
+    },
+    {
+      "english": "Fingers crossed, it works out.",
+      "russian": "Держим кулачки, получится.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025126"
+    },
+    {
+      "english": "I wish you luck.",
+      "russian": "Желаю тебе удачи.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025128"
+    },
+    {
+      "english": "Everything will be fine.",
+      "russian": "Все будет хорошо.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025131"
+    },
+    {
+      "english": "There's still a chance.",
+      "russian": "Еще есть шанс.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025133"
+    },
+    {
+      "english": "Don't lose heart, friend.",
+      "russian": "Не вешай нос, друг.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025136"
+    },
+    {
+      "english": "Maybe it will get better.",
+      "russian": "Может, станет лучше.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025141"
+    },
+    {
+      "english": "Let's believe it happens.",
+      "russian": "Давай верить, что это случится.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025145"
+    },
+    {
+      "english": "A little more patience.",
+      "russian": "Еще немного терпения.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025147"
+    },
+    {
+      "english": "Things will turn around.",
+      "russian": "Обстоятельства изменятся.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025149"
+    },
+    {
+      "english": "I'm counting on a miracle.",
+      "russian": "Рассчитываю на чудо.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025151"
+    },
+    {
+      "english": "Stay optimistic, always.",
+      "russian": "Оставайся оптимистом, всегда.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025154"
+    },
+    {
+      "english": "It's not the end yet.",
+      "russian": "Это еще не конец.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025157"
+    },
+    {
+      "english": "Keep a good spirit.",
+      "russian": "Сохраняй боевой дух.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025160"
+    },
+    {
+      "english": "Tomorrow is a new day.",
+      "russian": "Завтра новый день.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025163"
+    },
+    {
+      "english": "We can still win.",
+      "russian": "Мы еще можем победить.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025165"
+    },
+    {
+      "english": "Look for the good side.",
+      "russian": "Ищи позитив.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025167"
+    },
+    {
+      "english": "May fortune favor you.",
+      "russian": "Пусть удача тебе сопутствует.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025169"
+    },
+    {
+      "english": "Don't lose that spark.",
+      "russian": "Не теряй эту искру.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025171"
+    },
+    {
+      "english": "We'll find a solution.",
+      "russian": "Мы найдем решение.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025173"
+    },
+    {
+      "english": "Good things will happen.",
+      "russian": "Хорошие вещи случатся.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025175"
+    },
+    {
+      "english": "There's always room for hope.",
+      "russian": "Всегда есть место надежде.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025177"
+    },
+    {
+      "english": "I believe in a positive outcome.",
+      "russian": "Верю в положительный исход.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025180"
+    },
+    {
+      "english": "Let's stay hopeful.",
+      "russian": "Давай оставаться в надежде.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025182"
+    },
+    {
+      "english": "A brighter future awaits.",
+      "russian": "Нас ждет более светлое будущее.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025184"
+    },
+    {
+      "english": "Keep the faith alive.",
+      "russian": "Сохраняй веру живой.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025186"
+    },
+    {
+      "english": "Maybe luck is on our side.",
+      "russian": "Может, удача на нашей стороне.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025188"
+    },
+    {
+      "english": "Things are looking up.",
+      "russian": "Дела идут в гору.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025190"
+    },
+    {
+      "english": "What's new, any updates?",
+      "russian": "Что нового, есть новости?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025193"
+    },
+    {
+      "english": "Did you hear something good?",
+      "russian": "Ты слышал что-то хорошее?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025196"
+    },
+    {
+      "english": "Any positive developments?",
+      "russian": "Есть позитивные сдвиги?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025198"
+    },
+    {
+      "english": "How is the situation looking?",
+      "russian": "Как выглядит ситуация?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025200"
+    },
+    {
+      "english": "What do you think will happen?",
+      "russian": "Что, по-твоему, произойдет?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025203"
+    },
+    {
+      "english": "Shall we expect good news soon?",
+      "russian": "Ждем хороших вестей скоро?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025205"
+    },
+    {
+      "english": "Is there any reason for optimism?",
+      "russian": "Есть повод для оптимизма?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025207"
+    },
+    {
+      "english": "Tell me, did it work out?",
+      "russian": "Скажи, получилось?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025210"
+    },
+    {
+      "english": "What's your opinion on this?",
+      "russian": "Твое мнение насчет этого?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025212"
+    },
+    {
+      "english": "Can we be hopeful about it?",
+      "russian": "Можем на это надеяться?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025214"
+    },
+    {
+      "english": "What's the latest update?",
+      "russian": "Какое последнее обновление?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025218"
+    },
+    {
+      "english": "Did you get any promising signs?",
+      "russian": "Получил многообещающие знаки?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025220"
+    },
+    {
+      "english": "How are things progressing?",
+      "russian": "Как продвигаются дела?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025222"
+    },
+    {
+      "english": "Is there a glimmer of hope?",
+      "russian": "Есть проблеск надежды?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025224"
+    },
+    {
+      "english": "What's the outlook now?",
+      "russian": "Каков прогноз теперь?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025226"
+    },
+    {
+      "english": "Did you get any good feedback?",
+      "russian": "Получил хороший отзыв?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025228"
+    },
+    {
+      "english": "What do you think our chances are?",
+      "russian": "Какие, по-твоему, у нас шансы?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025232"
+    },
+    {
+      "english": "Is there any positive news coming?",
+      "russian": "Поступают хорошие вести?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025234"
+    },
+    {
+      "english": "What's the latest development?",
+      "russian": "Какое последнее развитие?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025237"
+    },
+    {
+      "english": "Did you hear any encouraging words?",
+      "russian": "Слышал ободряющие слова?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025239"
+    },
+    {
+      "english": "How are things looking from your side?",
+      "russian": "Как обстоят дела с твоей стороны?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025241"
+    },
+    {
+      "english": "What's your prediction for tomorrow?",
+      "russian": "Твой прогноз на завтра?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025244"
+    },
+    {
+      "english": "Is there any sign of improvement?",
+      "russian": "Есть признаки улучшения?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025246"
+    },
+    {
+      "english": "Did anything change for the better?",
+      "russian": "Что-нибудь изменилось к лучшему?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025248"
+    },
+    {
+      "english": "What's the general feeling about it?",
+      "russian": "Какое общее настроение?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025250"
+    },
+    {
+      "english": "Are we closer to a solution?",
+      "russian": "Мы ближе к решению?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025252"
+    },
+    {
+      "english": "What's the latest news, then?",
+      "russian": "Какие тогда последние вести?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025256"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "russian": "Держись, всегда.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025258"
+    },
+    {
+      "english": "Tomorrow brings new chances.",
+      "russian": "Завтра новые шансы.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025260"
+    },
+    {
+      "english": "Don't give up just yet.",
+      "russian": "Не сдавайся пока.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025263"
+    },
+    {
+      "english": "Believe in yourself, truly.",
+      "russian": "Верь в себя, правда.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025265"
+    },
+    {
+      "english": "A positive thought helps.",
+      "russian": "Позитивная мысль поможет.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025267"
+    },
+    {
+      "english": "Things will get better soon.",
+      "russian": "Скоро всё наладится.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025269"
+    },
+    {
+      "english": "There is light ahead.",
+      "russian": "Впереди свет.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025271"
+    },
+    {
+      "english": "Stay optimistic, my friend.",
+      "russian": "Будь оптимистом, друг.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025273"
+    },
+    {
+      "english": "Every cloud has a silver lining.",
+      "russian": "Нет худа без добра.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025276"
+    },
+    {
+      "english": "Focus on the possibilities.",
+      "russian": "Сосредоточься на возможностях.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025278"
+    },
+    {
+      "english": "We can overcome this challenge.",
+      "russian": "Мы справимся с этим.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025280"
+    },
+    {
+      "english": "A good outcome is possible.",
+      "russian": "Возможен хороший исход.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025282"
+    },
+    {
+      "english": "Let's look for solutions, together.",
+      "russian": "Давай искать решения, вместе.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025285"
+    },
+    {
+      "english": "Don't lose heart, please.",
+      "russian": "Не теряй надежды, пожалуйста.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025287"
+    },
+    {
+      "english": "The future is bright, you'll see.",
+      "russian": "Будущее светлое, увидишь.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025291"
+    },
+    {
+      "english": "Stay positive, it matters.",
+      "russian": "Оставайся позитивным, это важно.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025293"
+    },
+    {
+      "english": "Good days are coming.",
+      "russian": "Хорошие дни придут.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025295"
+    },
+    {
+      "english": "Believe in a happy ending.",
+      "russian": "Верь в счастливый конец.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025297"
+    },
+    {
+      "english": "This too shall pass.",
+      "russian": "И это пройдёт.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025299"
+    },
+    {
+      "english": "Let hope guide you.",
+      "russian": "Пусть надежда ведёт тебя.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025301"
+    },
+    {
+      "english": "You've got this, I know.",
+      "russian": "Ты справишься, я знаю.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025304"
+    },
+    {
+      "english": "Keep your spirits high.",
+      "russian": "Сохраняй боевой дух.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025306"
+    },
+    {
+      "english": "There's always a way forward.",
+      "russian": "Всегда есть путь вперёд.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025308"
+    },
+    {
+      "english": "Visualize success, it works.",
+      "russian": "Визуализируй успех, это работает.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025312"
+    },
+    {
+      "english": "Stay strong, endure this.",
+      "russian": "Оставайся сильным, выдержи это.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025314"
+    },
+    {
+      "english": "Deep breaths, it's a process.",
+      "russian": "Глубокий вдох, это процесс.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025316"
+    },
+    {
+      "english": "We just need a little patience.",
+      "russian": "Нам просто нужно немного терпения.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025318"
+    },
+    {
+      "english": "Trust the unfolding, honestly.",
+      "russian": "Доверяй процессу, честно.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025323"
+    },
+    {
+      "english": "My heart feels a quiet hope.",
+      "russian": "Моё сердце чувствует тихую надежду.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025326"
+    },
+    {
+      "english": "I'm reflecting, it's important.",
+      "russian": "Я размышляю, это важно.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025328"
+    },
+    {
+      "english": "Feeling hopeful, genuinely.",
+      "russian": "Чувствую надежду, искренне.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025331"
+    },
+    {
+      "english": "Let's find peace in waiting.",
+      "russian": "Давай найдём покой в ожидании.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025333"
+    },
+    {
+      "english": "It feels right, deep down.",
+      "russian": "Ощущение правильное, глубоко внутри.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025335"
+    },
+    {
+      "english": "My soul whispers: 'keep going'.",
+      "russian": "Моя душа шепчет: «иди дальше».",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025338"
+    },
+    {
+      "english": "True feelings lead to hope.",
+      "russian": "Истинные чувства ведут к надежде.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025340"
+    },
+    {
+      "english": "This moment holds possibility.",
+      "russian": "Этот момент таит возможность.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025342"
+    },
+    {
+      "english": "I believe in this path.",
+      "russian": "Я верю в этот путь.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025344"
+    },
+    {
+      "english": "Let kindness be our guide.",
+      "russian": "Пусть доброта будет нашим ориентиром.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025347"
+    },
+    {
+      "english": "The quiet hope is growing.",
+      "russian": "Тихая надежда растёт.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025359"
+    },
+    {
+      "english": "Thinking clearly, feeling strong.",
+      "russian": "Думаю ясно, чувствую себя сильным.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025362"
+    },
+    {
+      "english": "Sincerity opens doors, always.",
+      "russian": "Искренность открывает двери, всегда.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025364"
+    },
+    {
+      "english": "My inner voice says 'wait'.",
+      "russian": "Мой внутренний голос говорит «жди».",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025367"
+    },
+    {
+      "english": "Accepting where we are now.",
+      "russian": "Принимая то, где мы сейчас.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025369"
+    },
+    {
+      "english": "Patience yields beautiful results.",
+      "russian": "Терпение приносит прекрасные результаты.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025371"
+    },
+    {
+      "english": "I feel a gentle optimism.",
+      "russian": "Я ощущаю мягкий оптимизм.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025374"
+    },
+    {
+      "english": "This requires honest reflection.",
+      "russian": "Это требует честного размышления.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025376"
+    },
+    {
+      "english": "Hope flickers, but it's there.",
+      "russian": "Надежда мерцает, но она есть.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025378"
+    },
+    {
+      "english": "Let's just breathe and trust.",
+      "russian": "Давай просто дышать и доверять.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025380"
+    },
+    {
+      "english": "My intuition is positive.",
+      "russian": "Моя интуиция позитивна.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025382"
+    },
+    {
+      "english": "It’s a slow, steady climb.",
+      "russian": "Это медленный, уверенный подъём.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025385"
+    },
+    {
+      "english": "Hoping for the best outcome.",
+      "russian": "Надеюсь на наилучший исход.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025387"
+    },
+    {
+      "english": "Let's be kind to ourselves.",
+      "russian": "Будем добры к себе.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025389"
+    },
+    {
+      "english": "Feeling gratitude in my heart.",
+      "russian": "Чувствую благодарность в сердце.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025392"
+    },
+    {
+      "english": "The quiet strength is enough.",
+      "russian": "Тихой силы достаточно.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025394"
+    },
+    {
+      "english": "We will find our way.",
+      "russian": "Мы найдём свой путь.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025396"
+    },
+    {
+      "english": "Tomorrow is a new chance, you know.",
+      "russian": "Завтра новый шанс, знаешь.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025399"
+    },
+    {
+      "english": "Small steps lead to big wins.",
+      "russian": "Маленькие шаги, большие победы.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025401"
+    },
+    {
+      "english": "What if it works out, right?",
+      "russian": "А вдруг получится, да?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025403"
+    },
+    {
+      "english": "Let's focus on what's possible.",
+      "russian": "Давай сосредоточимся на возможном.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025406"
+    },
+    {
+      "english": "Even a little hope helps a lot.",
+      "russian": "Даже малая надежда, очень помогает.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025408"
+    },
+    {
+      "english": "Keep believing, something good will happen.",
+      "russian": "Верь дальше, что-то хорошее случится.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025410"
+    },
+    {
+      "english": "Just keep going, step by step.",
+      "russian": "Просто иди вперёд, шаг за шагом.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025412"
+    },
+    {
+      "english": "Things might get better, maybe.",
+      "russian": "Может, станет лучше, кто знает.",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025415"
+    },
+    {
+      "english": "Let's try a different approach, okay?",
+      "russian": "Давай попробуем иначе, ладно?",
+      "category": "Hope",
+      "generated_at": "2026-10-26T05:51:17.025418"
     }
   ],
-  "last_updated": "2026-10-25T05:48:02.566457"
+  "last_updated": "2026-10-26T05:51:17.025420"
 }
