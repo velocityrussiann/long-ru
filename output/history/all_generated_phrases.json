@@ -12323,7 +12323,727 @@
       "russian": "Давай попробуем иначе, ладно?",
       "category": "Hope",
       "generated_at": "2026-10-26T05:51:17.025418"
+    },
+    {
+      "english": "Don't give up now, almost there!",
+      "russian": "Не сдавайся сейчас, почти у цели!",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990071"
+    },
+    {
+      "english": "You've got this, believe in yourself.",
+      "russian": "Ты сможешь, верь в себя.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990086"
+    },
+    {
+      "english": "Mistakes happen, learn and move on.",
+      "russian": "Ошибки случаются, учись и иди дальше.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990089"
+    },
+    {
+      "english": "Push your limits, you are capable.",
+      "russian": "Расширяй границы, ты способен.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990093"
+    },
+    {
+      "english": "Practice makes perfect, keep practicing!",
+      "russian": "Практика ведёт к совершенству, практикуйся!",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990098"
+    },
+    {
+      "english": "Your effort is worth it, really.",
+      "russian": "Твои усилия того стоят, правда.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990101"
+    },
+    {
+      "english": "Just breathe, and try again.",
+      "russian": "Просто дыши, и попробуй снова.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990104"
+    },
+    {
+      "english": "New day, new chance to learn.",
+      "russian": "Новый день, новый шанс учиться.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990109"
+    },
+    {
+      "english": "Focus on the goal, not the struggle.",
+      "russian": "Сосредоточься на цели, а не на борьбе.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990113"
+    },
+    {
+      "english": "Learning takes time, be patient.",
+      "russian": "Обучение требует времени, будь терпелив.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990116"
+    },
+    {
+      "english": "Embrace the challenge, grow from it.",
+      "russian": "Прими вызов, расти благодаря ему.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990120"
+    },
+    {
+      "english": "One step at a time, manageable.",
+      "russian": "Одно шаг за раз, вполне реально.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990122"
+    },
+    {
+      "english": "Your progress is visible, keep it up!",
+      "russian": "Твой прогресс виден, продолжай в том же духе!",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990125"
+    },
+    {
+      "english": "Think positive, speak positive, learn positive.",
+      "russian": "Думай позитивно, говори позитивно, учись позитивно.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990129"
+    },
+    {
+      "english": "You are making real headway, bravo!",
+      "russian": "Ты добиваешься реального прогресса, браво!",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990131"
+    },
+    {
+      "english": "Let's conquer this language together.",
+      "russian": "Давай покорим этот язык вместе.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990134"
+    },
+    {
+      "english": "Every attempt counts, seriously.",
+      "russian": "Каждая попытка засчитывается, серьёзно.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990137"
+    },
+    {
+      "english": "You're building something amazing, brick by brick.",
+      "russian": "Ты строишь что-то удивительное, кирпич за кирпичом.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990140"
+    },
+    {
+      "english": "Curiosity is your best guide, follow it.",
+      "russian": "Любопытство — твой лучший проводник, следуй ему.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990143"
+    },
+    {
+      "english": "Don't compare, just aspire.",
+      "russian": "Не сравнивай, просто стремись.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990146"
+    },
+    {
+      "english": "Embrace the journey, enjoy the ride.",
+      "russian": "Прими путешествие, наслаждайся поездкой.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990149"
+    },
+    {
+      "english": "You are capable of amazing things.",
+      "russian": "Ты способна на удивительные вещи.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990151"
+    },
+    {
+      "english": "Keep that fire burning, stay motivated!",
+      "russian": "Поддерживай этот огонь, оставайся мотивированным!",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990154"
+    },
+    {
+      "english": "You're doing so much better today.",
+      "russian": "Сегодня у тебя получается гораздо лучше.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990157"
+    },
+    {
+      "english": "What's your biggest learning challenge?",
+      "russian": "С какой самой большой трудностью ты сталкиваешься?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990160"
+    },
+    {
+      "english": "How do you stay motivated daily?",
+      "russian": "Как ты сохраняешь мотивацию каждый день?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990163"
+    },
+    {
+      "english": "What helps you when you feel stuck?",
+      "russian": "Что помогает тебе, когда чувствуешь себя в тупике?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990165"
+    },
+    {
+      "english": "Do you prefer learning alone or with others?",
+      "russian": "Ты предпочитаешь учиться один или с кем-то?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990168"
+    },
+    {
+      "english": "What's one small goal for today?",
+      "russian": "Какую одну маленькую цель ты поставишь на сегодня?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990171"
+    },
+    {
+      "english": "How can I help you learn better?",
+      "russian": "Чем я могу помочь тебе учиться лучше?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990174"
+    },
+    {
+      "english": "Tell me, what are you proud of?",
+      "russian": "Расскажи, чем ты гордишься?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990176"
+    },
+    {
+      "english": "What if we practice speaking more?",
+      "russian": "А что, если мы будем больше практиковать разговорную речь?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990179"
+    },
+    {
+      "english": "Is this phrase clear enough for you?",
+      "russian": "Эта фраза достаточно понятна для тебя?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990182"
+    },
+    {
+      "english": "What do you think about this method?",
+      "russian": "Что ты думаешь об этом методе?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990184"
+    },
+    {
+      "english": "Did you understand that new word?",
+      "russian": "Ты понял это новое слово?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990189"
+    },
+    {
+      "english": "What helps you remember vocabulary best?",
+      "russian": "Что помогает тебе лучше всего запоминать слова?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990192"
+    },
+    {
+      "english": "Can you repeat that, please?",
+      "russian": "Можешь повторить, пожалуйста?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990197"
+    },
+    {
+      "english": "What inspires your learning journey?",
+      "russian": "Что вдохновляет тебя в твоем учебном пути?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990200"
+    },
+    {
+      "english": "Are you ready for a new lesson?",
+      "russian": "Ты готов к новому уроку?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990202"
+    },
+    {
+      "english": "What's your favorite Russian phrase so far?",
+      "russian": "Какая твоя любимая русская фраза на данный момент?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990205"
+    },
+    {
+      "english": "Do you need more examples for this?",
+      "russian": "Тебе нужно больше примеров для этого?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990208"
+    },
+    {
+      "english": "What makes you smile when learning?",
+      "russian": "Что заставляет тебя улыбаться во время учебы?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990211"
+    },
+    {
+      "english": "How do we make this fun together?",
+      "russian": "Как мы можем сделать это весело вместе?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990213"
+    },
+    {
+      "english": "Should we try a different approach?",
+      "russian": "Может, попробуем другой подход?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990216"
+    },
+    {
+      "english": "What's the secret to fluency?",
+      "russian": "В чем секрет беглости речи?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990218"
+    },
+    {
+      "english": "Are you enjoying the process?",
+      "russian": "Тебе нравится процесс обучения?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990221"
+    },
+    {
+      "english": "What if you asked me a question?",
+      "russian": "А что, если бы ты сам задал мне вопрос?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990224"
+    },
+    {
+      "english": "How do you feel about your progress?",
+      "russian": "Что ты чувствуешь по поводу своего прогресса?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990226"
+    },
+    {
+      "english": "Can you explain this grammar point?",
+      "russian": "Можешь объяснить это грамматическое правило?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990229"
+    },
+    {
+      "english": "What's your motivation for learning Russian?",
+      "russian": "Какова твоя мотивация изучать русский язык?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990231"
+    },
+    {
+      "english": "What did you learn yesterday?",
+      "russian": "Что ты выучил вчера?",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990234"
+    },
+    {
+      "english": "Your efforts are truly admirable.",
+      "russian": "Твои усилия поистине восхитительны.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990236"
+    },
+    {
+      "english": "Keep pushing forward, you're almost there.",
+      "russian": "Продолжай двигаться вперёд, ты почти у цели.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990240"
+    },
+    {
+      "english": "That's a fantastic idea, let's try it.",
+      "russian": "Это отличная идея, давай попробуем.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990243"
+    },
+    {
+      "english": "You're learning so quickly, amazing!",
+      "russian": "Ты так быстро учишься, потрясающе!",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990246"
+    },
+    {
+      "english": "Don't give up, it's worth it.",
+      "russian": "Не сдавайся, это того стоит.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990250"
+    },
+    {
+      "english": "You're doing great, truly.",
+      "russian": "Ты молодец, правда.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990253"
+    },
+    {
+      "english": "Stay focused, the results will come.",
+      "russian": "Сохраняй концентрацию, результаты придут.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990256"
+    },
+    {
+      "english": "Every small win matters, celebrate it.",
+      "russian": "Каждая маленькая победа важна, отметь её.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990259"
+    },
+    {
+      "english": "You have a gift for this.",
+      "russian": "У тебя есть к этому талант.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990261"
+    },
+    {
+      "english": "Believe in your potential, it's huge.",
+      "russian": "Верь в свой потенциал, он огромен.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990264"
+    },
+    {
+      "english": "That's a smart way to learn.",
+      "russian": "Это умный способ учиться.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990267"
+    },
+    {
+      "english": "Keep that amazing energy going.",
+      "russian": "Сохраняй эту потрясающую энергию.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990270"
+    },
+    {
+      "english": "This is going to be fun.",
+      "russian": "Это будет весело.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990272"
+    },
+    {
+      "english": "Never underestimate your abilities.",
+      "russian": "Никогда не недооценивай свои способности.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990277"
+    },
+    {
+      "english": "You're building a solid foundation.",
+      "russian": "Ты строишь прочный фундамент.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990282"
+    },
+    {
+      "english": "Your progress is impressive.",
+      "russian": "Твой прогресс впечатляет.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990284"
+    },
+    {
+      "english": "Embrace the challenge, you'll grow.",
+      "russian": "Прими вызов, ты вырастешь.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990287"
+    },
+    {
+      "english": "You are creating something beautiful.",
+      "russian": "Ты создаёшь нечто прекрасное.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990290"
+    },
+    {
+      "english": "That spark in your eyes is great.",
+      "russian": "Эта искра в твоих глазах — здорово.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990293"
+    },
+    {
+      "english": "Keep that learning spirit alive.",
+      "russian": "Поддерживай этот учебный дух.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990295"
+    },
+    {
+      "english": "You're doing exactly what's needed.",
+      "russian": "Ты делаешь именно то, что нужно.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990298"
+    },
+    {
+      "english": "Your persistence will pay off.",
+      "russian": "Твоё упорство окупится.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990303"
+    },
+    {
+      "english": "You're mastering this, little by little.",
+      "russian": "Ты осваиваешь это, понемногу.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990307"
+    },
+    {
+      "english": "Let your enthusiasm lead you.",
+      "russian": "Пусть твой энтузиазм ведёт тебя.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990310"
+    },
+    {
+      "english": "Go for it, don't hesitate.",
+      "russian": "Дерзай, не сомневайся.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990313"
+    },
+    {
+      "english": "Take the bull by the horns.",
+      "russian": "Бери быка за рога.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990316"
+    },
+    {
+      "english": "Hang in there, it'll get better.",
+      "russian": "Держись, будет лучше.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990319"
+    },
+    {
+      "english": "Rome wasn't built in a day.",
+      "russian": "Москва не сразу строилась.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990322"
+    },
+    {
+      "english": "Where there's a will, there's a way.",
+      "russian": "Была бы охота, заладится любая работа.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990325"
+    },
+    {
+      "english": "Don't put all your eggs in one basket.",
+      "russian": "Не клади все яйца в одну корзину.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990328"
+    },
+    {
+      "english": "A stitch in time saves nine.",
+      "russian": "Дорога ложка к обеду.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990330"
+    },
+    {
+      "english": "You can lead a horse to water...",
+      "russian": "Насильно мил не будешь.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990333"
+    },
+    {
+      "english": "When the going gets tough, the tough get going.",
+      "russian": "Глаза боятся, а руки делают.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990336"
+    },
+    {
+      "english": "Fortune favors the bold.",
+      "russian": "Смелым удача помогает.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990339"
+    },
+    {
+      "english": "The early bird catches the worm.",
+      "russian": "Кто рано встает, тому Бог подает.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990341"
+    },
+    {
+      "english": "It's never too late to learn.",
+      "russian": "Учиться никогда не поздно.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990344"
+    },
+    {
+      "english": "Actions speak louder than words.",
+      "russian": "Не словами, а делами.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990346"
+    },
+    {
+      "english": "Look before you leap.",
+      "russian": "Семь раз отмерь, один раз отрежь.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990349"
+    },
+    {
+      "english": "When in Rome, do as the Romans do.",
+      "russian": "В чужой монастырь со своим уставом не ходят.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990352"
+    },
+    {
+      "english": "Necessity is the mother of invention.",
+      "russian": "Нужда — всему голова.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990355"
+    },
+    {
+      "english": "The grass is always greener on the other side.",
+      "russian": "Хорошо там, где нас нет.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990358"
+    },
+    {
+      "english": "A friend in need is a friend indeed.",
+      "russian": "Друг познается в беде.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990360"
+    },
+    {
+      "english": "You reap what you sow.",
+      "russian": "Что посеешь, то и пожнешь.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990363"
+    },
+    {
+      "english": "Better late than never.",
+      "russian": "Лучше поздно, чем никогда.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990365"
+    },
+    {
+      "english": "Every dog has its day.",
+      "russian": "И на нашей улице будет праздник.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990368"
+    },
+    {
+      "english": "Don't bite off more than you can chew.",
+      "russian": "Не берись за непосильное.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990371"
+    },
+    {
+      "english": "Strike while the iron is hot.",
+      "russian": "Куй железо, пока горячо.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990375"
+    },
+    {
+      "english": "You can't make an omelette without breaking eggs.",
+      "russian": "Без труда не вытащишь и рыбку из пруда.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990378"
+    },
+    {
+      "english": "When the cat's away, the mice will play.",
+      "russian": "Когда кота нет, мыши гуляют.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990381"
+    },
+    {
+      "english": "If you want something done, do it yourself.",
+      "russian": "Хочешь сделать хорошо — сделай сам.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990384"
+    },
+    {
+      "english": "The pen is mightier than the sword.",
+      "russian": "Мысль сильнее пули.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990387"
+    },
+    {
+      "english": "Try to speak, even if imperfectly.",
+      "russian": "Пробуй говорить, пусть с ошибками.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990389"
+    },
+    {
+      "english": "Don't fear mistakes, learn from them.",
+      "russian": "Не бойся ошибок, учись на них.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990392"
+    },
+    {
+      "english": "Ask locals for help, they're friendly.",
+      "russian": "Спроси местных, они помогут.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990395"
+    },
+    {
+      "english": "Listen more, understand better.",
+      "russian": "Слушай больше, поймешь лучше.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990398"
+    },
+    {
+      "english": "Every small conversation, builds confidence.",
+      "russian": "Каждый диалог, укрепляет уверенность.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990403"
+    },
+    {
+      "english": "Repeat phrases you hear often.",
+      "russian": "Повторяй услышанное часто.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990405"
+    },
+    {
+      "english": "Use gestures, they help a lot.",
+      "russian": "Используй жесты, они помогают.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990408"
+    },
+    {
+      "english": "Find a language buddy, practice together.",
+      "russian": "Найди друга по языку, тренируйтесь.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990411"
+    },
+    {
+      "english": "Stay curious, explore the language.",
+      "russian": "Будь любопытным, исследуй язык.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990414"
+    },
+    {
+      "english": "Celebrate your learning milestones.",
+      "russian": "Отмечай свои успехи в учебе.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990417"
+    },
+    {
+      "english": "Think in Russian, from today.",
+      "russian": "Думай по-русски, начиная с сегодня.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990420"
+    },
+    {
+      "english": "Don't wait for perfect, start now.",
+      "russian": "Не жди идеального, начни сейчас.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990422"
+    },
+    {
+      "english": "Record yourself, hear your voice.",
+      "russian": "Запиши себя, услышь свой голос.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990425"
+    },
+    {
+      "english": "Immerse yourself, feel the language.",
+      "russian": "Погрузись в язык, почувствуй его.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990428"
+    },
+    {
+      "english": "Your effort today, matters greatly.",
+      "russian": "Твои старания сегодня, очень важны.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990430"
+    },
+    {
+      "english": "Enjoy the process, not just the goal.",
+      "russian": "Наслаждайся процессом, не только целью.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990433"
+    },
+    {
+      "english": "Ask 'why', understand the grammar.",
+      "russian": "Спрашивай 'почему', пойми грамматику.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990436"
+    },
+    {
+      "english": "Context is key, observe situations.",
+      "russian": "Контекст важен, наблюдай ситуации.",
+      "category": "Motivation",
+      "generated_at": "2026-10-27T06:02:51.990439"
     }
   ],
-  "last_updated": "2026-10-26T05:51:17.025420"
+  "last_updated": "2026-10-27T06:02:51.990441"
 }
