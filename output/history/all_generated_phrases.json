@@ -13043,7 +13043,727 @@
       "russian": "Контекст важен, наблюдай ситуации.",
       "category": "Motivation",
       "generated_at": "2026-10-27T06:02:51.990439"
+    },
+    {
+      "english": "What's up, dude?",
+      "russian": "Здоро́во, братан!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219836"
+    },
+    {
+      "english": "Totally, man, totally.",
+      "russian": "Ага́, коне́чно, чувак.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219851"
+    },
+    {
+      "english": "No way, really?",
+      "russian": "Да ла́дно, серьёзно?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219853"
+    },
+    {
+      "english": "It's all good, relax.",
+      "russian": "Всё путём, расслабься.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219855"
+    },
+    {
+      "english": "Gotcha, I'm on it.",
+      "russian": "Поня́л, уже́ делаю.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219857"
+    },
+    {
+      "english": "What a bummer, dude.",
+      "russian": "Кака́я незада́ча, брат.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219859"
+    },
+    {
+      "english": "Don't sweat it, man.",
+      "russian": "Не па́рься, дружи́ще.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219861"
+    },
+    {
+      "english": "Seriously? That's wild!",
+      "russian": "Серьёзно? Вот э́то да!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219864"
+    },
+    {
+      "english": "Let's hang out later.",
+      "russian": "Дава́й поту́сим пото́м.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219867"
+    },
+    {
+      "english": "Spill the beans, what's up?",
+      "russian": "Выкла́дывай, что там?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219869"
+    },
+    {
+      "english": "It's no biggie, really.",
+      "russian": "Да не́чего такого́, че́стно.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219871"
+    },
+    {
+      "english": "You gotta be kidding!",
+      "russian": "Ты шу́тишь, что ли?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219872"
+    },
+    {
+      "english": "Chill out, it's fine.",
+      "russian": "Успоко́йся, всё в поря́дке.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219874"
+    },
+    {
+      "english": "What's the plan, dude?",
+      "russian": "Каки́е планы́, брати́шка?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219875"
+    },
+    {
+      "english": "Sounds like a plan.",
+      "russian": "Звучи́т как план.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219877"
+    },
+    {
+      "english": "I'm so over it, man.",
+      "russian": "Мне э́то всё осточерте́ло.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219878"
+    },
+    {
+      "english": "Just chilling, you know?",
+      "russian": "Про́сто отдыха́ю, понима́ешь?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219880"
+    },
+    {
+      "english": "That's awesome, nice one!",
+      "russian": "Кру́то, мо́лодец!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219882"
+    },
+    {
+      "english": "What happened, dude?",
+      "russian": "Что случи́лось, дру́г?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219885"
+    },
+    {
+      "english": "It's a long story, man.",
+      "russian": "До́лгая исто́рия, чува́к.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219886"
+    },
+    {
+      "english": "I'm so wiped out, dude.",
+      "russian": "Я вы́мотан по́лностью, брат.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219888"
+    },
+    {
+      "english": "Mind blown, totally!",
+      "russian": "Мозг взорва́лся, по́лностью!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219889"
+    },
+    {
+      "english": "Let's grab a bite, man.",
+      "russian": "Дава́й перекуси́м, дружи́ще.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219891"
+    },
+    {
+      "english": "I'm starving, dude.",
+      "russian": "Я у́мираю с голо́ду, брат.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219893"
+    },
+    {
+      "english": "It's all good, no worries.",
+      "russian": "Всё хорошо́, не пережива́й.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219894"
+    },
+    {
+      "english": "What's the deal, man?",
+      "russian": "В чём де́ло, чува́к?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219896"
+    },
+    {
+      "english": "Just kidding, relax dude.",
+      "russian": "Шучу́, рассла́бься, брат.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219898"
+    },
+    {
+      "english": "Can't complain, man.",
+      "russian": "Не могу́ пожа́ловаться, дру́г.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219899"
+    },
+    {
+      "english": "That's wild, no doubt.",
+      "russian": "Э́то ди́ко, без сомне́ний.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219901"
+    },
+    {
+      "english": "Tell me, what's new?",
+      "russian": "Расскажи, что новенького?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219903"
+    },
+    {
+      "english": "Any ideas, pal?",
+      "russian": "Есть идеи, приятель?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219906"
+    },
+    {
+      "english": "How's it going, mate?",
+      "russian": "Как дела, приятель?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219908"
+    },
+    {
+      "english": "What's the latest gossip?",
+      "russian": "Какие последние новости?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219910"
+    },
+    {
+      "english": "Can you help me out, please?",
+      "russian": "Можешь мне помочь, пожалуйста?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219912"
+    },
+    {
+      "english": "Are you free now, buddy?",
+      "russian": "Ты свободен сейчас, друг?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219914"
+    },
+    {
+      "english": "Mind if I join you?",
+      "russian": "Не против, если я присоединюсь?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219915"
+    },
+    {
+      "english": "What's your opinion, man?",
+      "russian": "Каково твое мнение, чувак?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219918"
+    },
+    {
+      "english": "Is everything okay, dear?",
+      "russian": "Всё в порядке, дорогая/дорогой?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219920"
+    },
+    {
+      "english": "What are your plans for tonight?",
+      "russian": "Какие у тебя планы на вечер?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219922"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "russian": "Можешь повторить, пожалуйста?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219924"
+    },
+    {
+      "english": "Do you need anything, friend?",
+      "russian": "Тебе что-нибудь нужно, друг?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219925"
+    },
+    {
+      "english": "What's on your mind, mate?",
+      "russian": "О чем ты думаешь, приятель?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219927"
+    },
+    {
+      "english": "How was your day, buddy?",
+      "russian": "Как прошел твой день, дружище?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219929"
+    },
+    {
+      "english": "What's the matter, pal?",
+      "russian": "Что случилось, приятель?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219931"
+    },
+    {
+      "english": "Can I ask you a question?",
+      "russian": "Можно задать тебе вопрос?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219934"
+    },
+    {
+      "english": "Are you sure about that?",
+      "russian": "Ты уверен в этом?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219935"
+    },
+    {
+      "english": "What's the situation, mate?",
+      "russian": "Какова ситуация, приятель?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219937"
+    },
+    {
+      "english": "Can you explain this to me?",
+      "russian": "Можешь мне это объяснить?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219938"
+    },
+    {
+      "english": "What's the buzz, buddy?",
+      "russian": "Что за движ, дружище?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219940"
+    },
+    {
+      "english": "Any news from you, pal?",
+      "russian": "Есть новости от тебя, приятель?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219941"
+    },
+    {
+      "english": "Don't give up, not yet.",
+      "russian": "Не сдавайся, ещё рано.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219943"
+    },
+    {
+      "english": "Every step counts, moving forward.",
+      "russian": "Каждый шаг важен, вперёд.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219945"
+    },
+    {
+      "english": "Focus on the positive, only.",
+      "russian": "Сосредоточься на позитиве, только.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219947"
+    },
+    {
+      "english": "You've got the potential, use it.",
+      "russian": "У тебя есть потенциал, используй.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219949"
+    },
+    {
+      "english": "Stay motivated, stay focused.",
+      "russian": "Будь мотивирован, будь собран.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219951"
+    },
+    {
+      "english": "This is a big achievement, congrats.",
+      "russian": "Это большое достижение, поздравляю.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219953"
+    },
+    {
+      "english": "Don't underestimate your progress.",
+      "russian": "Не недооценивай свой прогресс.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219954"
+    },
+    {
+      "english": "You handle pressure very well.",
+      "russian": "Ты отлично справляешься с давлением.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219956"
+    },
+    {
+      "english": "Keep that positive attitude, always.",
+      "russian": "Сохраняй этот позитивный настрой, всегда.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219958"
+    },
+    {
+      "english": "You're making a difference, truly.",
+      "russian": "Ты меняешь ситуацию, правда.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219960"
+    },
+    {
+      "english": "You're growing every single day.",
+      "russian": "Ты растешь каждый день.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219961"
+    },
+    {
+      "english": "Never doubt your abilities, really.",
+      "russian": "Никогда не сомневайся в себе.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219963"
+    },
+    {
+      "english": "You've overcome so much already.",
+      "russian": "Ты уже столько преодолел.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219966"
+    },
+    {
+      "english": "Your hard work will pay off.",
+      "russian": "Твоя тяжёлая работа окупится.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219968"
+    },
+    {
+      "english": "You have a great mindset, keep it.",
+      "russian": "У тебя отличное мышление, сохрани.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219969"
+    },
+    {
+      "english": "That's an excellent idea, brilliant!",
+      "russian": "Это отличная идея, гениально!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219971"
+    },
+    {
+      "english": "You inspire others with your spirit.",
+      "russian": "Ты вдохновляешь других своим духом.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219973"
+    },
+    {
+      "english": "You're on fire today, amazing!",
+      "russian": "Ты сегодня в ударе, потрясающе!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219975"
+    },
+    {
+      "english": "It's all about the vibes, you know?",
+      "russian": "Всё дело в атмосфере, понимаешь?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219977"
+    },
+    {
+      "english": "He's totally off his rocker.",
+      "russian": "Он совершенно сбрендил.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219979"
+    },
+    {
+      "english": "Let's just play it by ear.",
+      "russian": "Будем действовать по ситуации.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219980"
+    },
+    {
+      "english": "That's the last straw, man.",
+      "russian": "Это уже предел, чувак.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219982"
+    },
+    {
+      "english": "Don't beat around the bush.",
+      "russian": "Не ходи вокруг да около.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219984"
+    },
+    {
+      "english": "It's a piece of cake, easy.",
+      "russian": "Это проще простого, легко.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219985"
+    },
+    {
+      "english": "He's got a lot on his plate.",
+      "russian": "У него сейчас много дел.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219989"
+    },
+    {
+      "english": "That's water under the bridge.",
+      "russian": "Это уже прошлое, забыто.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219991"
+    },
+    {
+      "english": "Let's get the ball rolling.",
+      "russian": "Давай начнём действовать.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219993"
+    },
+    {
+      "english": "He's pulling your leg, don't believe him.",
+      "russian": "Он тебя разыгрывает, не верь.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219995"
+    },
+    {
+      "english": "This is a tough nut to crack.",
+      "russian": "Это трудная задача.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219996"
+    },
+    {
+      "english": "It's raining cats and dogs, watch out.",
+      "russian": "Льёт как из ведра, осторожно.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.219998"
+    },
+    {
+      "english": "I'm all ears, tell me everything.",
+      "russian": "Я весь внимание, расскажи всё.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220000"
+    },
+    {
+      "english": "That sounds fishy, something's off.",
+      "russian": "Это подозрительно, что-то не так.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220001"
+    },
+    {
+      "english": "He's really got guts, brave.",
+      "russian": "У него действительно смелость есть.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220003"
+    },
+    {
+      "english": "Let's keep our fingers crossed.",
+      "russian": "Будем надеяться на лучшее.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220005"
+    },
+    {
+      "english": "It's not rocket science, just do it.",
+      "russian": "Это не высшая математика, просто сделай.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220007"
+    },
+    {
+      "english": "He spilled the beans, accidentally.",
+      "russian": "Он проболтался, случайно.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220009"
+    },
+    {
+      "english": "That's a tall order, really hard.",
+      "russian": "Это большая просьба, очень сложно.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220010"
+    },
+    {
+      "english": "He hit the nail on the head.",
+      "russian": "Он попал точно в точку.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220012"
+    },
+    {
+      "english": "Let's call it a day, time to go.",
+      "russian": "На сегодня хватит, пора идти.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220014"
+    },
+    {
+      "english": "That's a tough pill to swallow.",
+      "russian": "Это горькая правда.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220016"
+    },
+    {
+      "english": "He's just blowing smoke, no substance.",
+      "russian": "Он просто пускает пыль в глаза.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220032"
+    },
+    {
+      "english": "Let's cut to the chase now.",
+      "russian": "Давай перейдём к делу.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220034"
+    },
+    {
+      "english": "That's a long shot, unlikely.",
+      "russian": "Это маловероятно, вряд ли.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220037"
+    },
+    {
+      "english": "He's got butterflies in his stomach.",
+      "russian": "Он сильно волнуется.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220040"
+    },
+    {
+      "english": "Let's give it a shot, why not?",
+      "russian": "Давай попробуем, почему бы нет?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220044"
+    },
+    {
+      "english": "That's the best thing since sliced bread.",
+      "russian": "Это самое лучшее изобретение.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220047"
+    },
+    {
+      "english": "He's walking on thin ice, careful.",
+      "russian": "Он ходит по краю, осторожно.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220049"
+    },
+    {
+      "english": "Just breathe, it's okay.",
+      "russian": "Просто дыши, всё нормально.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220052"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "russian": "Не торопись, успеешь.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220054"
+    },
+    {
+      "english": "I need a moment, to think.",
+      "russian": "Мне нужна минутка, чтобы подумать.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220056"
+    },
+    {
+      "english": "It hit me, like a ton of bricks.",
+      "russian": "Меня осенило, как обухом по голове.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220058"
+    },
+    {
+      "english": "I'm feeling it, deep inside.",
+      "russian": "Я это чувствую, глубоко внутри.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220060"
+    },
+    {
+      "english": "Let's be real, for a second.",
+      "russian": "Давай будем честными, на секунду.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220062"
+    },
+    {
+      "english": "It’s more complex, than it seems.",
+      "russian": "Это сложнее, чем кажется.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220064"
+    },
+    {
+      "english": "I'm trying to figure it out.",
+      "russian": "Я пытаюсь это понять.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220067"
+    },
+    {
+      "english": "It just makes you wonder, doesn't it?",
+      "russian": "Это наводит на размышления, не так ли?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220069"
+    },
+    {
+      "english": "I'm slowly getting it, you know.",
+      "russian": "Я постепенно догоняю, понимаешь.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220070"
+    },
+    {
+      "english": "It’s a tough call, honestly.",
+      "russian": "Это сложный выбор, честно говоря.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220072"
+    },
+    {
+      "english": "I’m reflecting, on everything.",
+      "russian": "Я размышляю, обо всём.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220075"
+    },
+    {
+      "english": "It’s about perspective, really.",
+      "russian": "Дело в перспективе, на самом деле.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220077"
+    },
+    {
+      "english": "Letting go, is part of it.",
+      "russian": "Отпускать – это тоже часть этого.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220079"
+    },
+    {
+      "english": "What’s the deeper meaning, here?",
+      "russian": "Какой здесь более глубокий смысл?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220081"
+    },
+    {
+      "english": "I feel a shift, happening now.",
+      "russian": "Я чувствую перемены, происходящие сейчас.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220083"
+    },
+    {
+      "english": "It requires some patience, you see.",
+      "russian": "Это требует некоторого терпения, видишь ли.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220085"
+    },
+    {
+      "english": "Just trust the process, okay?",
+      "russian": "Просто доверяй процессу, хорошо?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220086"
+    },
+    {
+      "english": "What are you truly feeling?",
+      "russian": "Что ты на самом деле чувствуешь?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220088"
+    },
+    {
+      "english": "I'm trying to be honest, with myself.",
+      "russian": "Я стараюсь быть честным, с собой.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220089"
+    },
+    {
+      "english": "Sometimes, you just gotta let go.",
+      "russian": "Иногда, нужно просто отпустить.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220091"
+    },
+    {
+      "english": "It’s all connected, in a way.",
+      "russian": "Всё связано, в некотором роде.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220093"
+    },
+    {
+      "english": "This is a tough pill to swallow, I know.",
+      "russian": "Это горькая пилюля, я знаю.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-28T06:44:41.220095"
     }
   ],
-  "last_updated": "2026-10-27T06:02:51.990441"
+  "last_updated": "2026-10-28T06:44:41.220097"
 }
