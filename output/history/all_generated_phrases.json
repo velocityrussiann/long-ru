@@ -13763,7 +13763,727 @@
       "russian": "Это горькая пилюля, я знаю.",
       "category": "Common Native Slang",
       "generated_at": "2026-10-28T06:44:41.220095"
+    },
+    {
+      "english": "What's the plan, then?",
+      "russian": "Какие планы, собственно?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193619"
+    },
+    {
+      "english": "Why are you here?",
+      "russian": "Ты зачем здесь?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193631"
+    },
+    {
+      "english": "What is this for?",
+      "russian": "Это для чего?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193635"
+    },
+    {
+      "english": "I came to help.",
+      "russian": "Я пришёл помочь.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193638"
+    },
+    {
+      "english": "We need to hurry.",
+      "russian": "Нам нужно спешить.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193640"
+    },
+    {
+      "english": "Let's get started.",
+      "russian": "Давай начнём.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193643"
+    },
+    {
+      "english": "What's the goal?",
+      "russian": "Какая цель?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193646"
+    },
+    {
+      "english": "I'm here for work.",
+      "russian": "Я здесь по работе.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193654"
+    },
+    {
+      "english": "We need to decide.",
+      "russian": "Надо решить.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193657"
+    },
+    {
+      "english": "What do you intend?",
+      "russian": "Что ты собираешься?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193660"
+    },
+    {
+      "english": "This is for you.",
+      "russian": "Это тебе.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193663"
+    },
+    {
+      "english": "Why do you ask?",
+      "russian": "Почему ты спрашиваешь?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193665"
+    },
+    {
+      "english": "It's time to go.",
+      "russian": "Пора идти.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193668"
+    },
+    {
+      "english": "What are we doing?",
+      "russian": "Что делаем?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193670"
+    },
+    {
+      "english": "I want to understand.",
+      "russian": "Хочу понять.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193673"
+    },
+    {
+      "english": "This is the reason.",
+      "russian": "Вот причина.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193675"
+    },
+    {
+      "english": "What's the purpose?",
+      "russian": "С какой целью?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193677"
+    },
+    {
+      "english": "I'm looking for something.",
+      "russian": "Я кое-что ищу.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193680"
+    },
+    {
+      "english": "We need a moment.",
+      "russian": "Нам нужна минутка.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193682"
+    },
+    {
+      "english": "I'm just observing.",
+      "russian": "Я просто наблюдаю.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193685"
+    },
+    {
+      "english": "Is this the way?",
+      "russian": "Это тот путь?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193687"
+    },
+    {
+      "english": "My intention is clear.",
+      "russian": "Моё намерение ясно.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193689"
+    },
+    {
+      "english": "What's the objective?",
+      "russian": "Какова задача?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193692"
+    },
+    {
+      "english": "I came to see.",
+      "russian": "Я пришёл посмотреть.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193694"
+    },
+    {
+      "english": "We must act now.",
+      "russian": "Мы должны действовать.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193696"
+    },
+    {
+      "english": "What's this about?",
+      "russian": "О чём это?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193699"
+    },
+    {
+      "english": "My goal is simple.",
+      "russian": "Моя цель проста.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193703"
+    },
+    {
+      "english": "Let's do this.",
+      "russian": "Сделаем это.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193705"
+    },
+    {
+      "english": "What's our main objective?",
+      "russian": "Какова наша главная цель?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193708"
+    },
+    {
+      "english": "Why did you approach me?",
+      "russian": "Почему вы ко мне обратились?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193711"
+    },
+    {
+      "english": "What are you hoping to achieve?",
+      "russian": "Чего вы надеетесь достичь?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193713"
+    },
+    {
+      "english": "Can you explain your intention?",
+      "russian": "Можете объяснить ваше намерение?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193716"
+    },
+    {
+      "english": "What brings you here today?",
+      "russian": "Что привело вас сюда сегодня?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193719"
+    },
+    {
+      "english": "What's the specific task?",
+      "russian": "Какое конкретное задание?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193721"
+    },
+    {
+      "english": "Tell me your thoughts on this.",
+      "russian": "Расскажите ваши мысли об этом.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193724"
+    },
+    {
+      "english": "What's the underlying problem?",
+      "russian": "В чём основная проблема?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193727"
+    },
+    {
+      "english": "Did you come for consultation?",
+      "russian": "Вы пришли на консультацию?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193729"
+    },
+    {
+      "english": "What outcome are we seeking?",
+      "russian": "Какого результата мы ищем?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193732"
+    },
+    {
+      "english": "What do you expect from me?",
+      "russian": "Что вы ожидаете от меня?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193740"
+    },
+    {
+      "english": "Is this the right direction?",
+      "russian": "Это правильное направление?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193742"
+    },
+    {
+      "english": "What is your role here?",
+      "russian": "Какова ваша роль здесь?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193744"
+    },
+    {
+      "english": "Why are you interested in this?",
+      "russian": "Почему вас это интересует?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193747"
+    },
+    {
+      "english": "What's the immediate action?",
+      "russian": "Какое немедленное действие?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193749"
+    },
+    {
+      "english": "Are you looking for assistance?",
+      "russian": "Вы ищете помощи?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193752"
+    },
+    {
+      "english": "What is the underlying motive?",
+      "russian": "Каков скрытый мотив?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193754"
+    },
+    {
+      "english": "What problem are we solving?",
+      "russian": "Какую проблему мы решаем?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193756"
+    },
+    {
+      "english": "Did you need something specific?",
+      "russian": "Вам нужно было что-то конкретное?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193759"
+    },
+    {
+      "english": "What is the end game?",
+      "russian": "Каков конечный результат?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193761"
+    },
+    {
+      "english": "What's the main point here?",
+      "russian": "В чём главный смысл здесь?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193764"
+    },
+    {
+      "english": "Can you elaborate further?",
+      "russian": "Можете уточнить подробнее?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193766"
+    },
+    {
+      "english": "What's the purpose of this meeting?",
+      "russian": "Какова цель этой встречи?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193769"
+    },
+    {
+      "english": "What are you aiming for?",
+      "russian": "К чему вы стремитесь?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193771"
+    },
+    {
+      "english": "What's the reason for delay?",
+      "russian": "Какова причина задержки?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193775"
+    },
+    {
+      "english": "What is the context?",
+      "russian": "Каков контекст?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193780"
+    },
+    {
+      "english": "What do you propose we do?",
+      "russian": "Что вы предлагаете нам сделать?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193782"
+    },
+    {
+      "english": "Your drive, it's inspiring.",
+      "russian": "Твой энтузиазм, он вдохновляет.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193785"
+    },
+    {
+      "english": "Stay focused on your why.",
+      "russian": "Оставайся сфокусированным на своём 'зачем'.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193788"
+    },
+    {
+      "english": "Embrace the journey, learn more.",
+      "russian": "Прими свой путь, учись большему.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193791"
+    },
+    {
+      "english": "Your potential is limitless.",
+      "russian": "Твой потенциал безграничен.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193793"
+    },
+    {
+      "english": "Great things take time, be patient.",
+      "russian": "Большие дела требуют времени, будь терпелив.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193796"
+    },
+    {
+      "english": "What drives you, tell me.",
+      "russian": "Что тебя мотивирует, скажи мне.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193798"
+    },
+    {
+      "english": "Your positive attitude shines.",
+      "russian": "Твоя позитивная настроенность сияет.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193801"
+    },
+    {
+      "english": "Keep that fire burning bright.",
+      "russian": "Пусть тот огонь горит ярко.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193803"
+    },
+    {
+      "english": "Remember your purpose, stay true.",
+      "russian": "Помни свою цель, оставайся верным.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193806"
+    },
+    {
+      "english": "This path, it's meant for you.",
+      "russian": "Этот путь, он предназначен для тебя.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193809"
+    },
+    {
+      "english": "Your determination is admirable.",
+      "russian": "Твоя решимость вызывает восхищение.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193811"
+    },
+    {
+      "english": "What is your ultimate aim?",
+      "russian": "Какова твоя конечная цель?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193814"
+    },
+    {
+      "english": "Your belief makes a difference.",
+      "russian": "Твоя вера имеет значение.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193816"
+    },
+    {
+      "english": "What makes you tick?",
+      "russian": "Что тебя заводит?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193819"
+    },
+    {
+      "english": "Don't give up on your dreams.",
+      "russian": "Не отказывайся от своих мечтаний.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193821"
+    },
+    {
+      "english": "What is the core reason?",
+      "russian": "Какова основная причина?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193825"
+    },
+    {
+      "english": "Your passion is contagious.",
+      "russian": "Твоя страсть заразительна.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193828"
+    },
+    {
+      "english": "Focus on your unique strengths.",
+      "russian": "Сконцентрируйся на своих уникальных сильных сторонах.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193830"
+    },
+    {
+      "english": "Believe you can, you will.",
+      "russian": "Верь, что можешь, и сможешь.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193833"
+    },
+    {
+      "english": "What truly matters to you?",
+      "russian": "Что для тебя действительно важно?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193835"
+    },
+    {
+      "english": "Your persistence pays off.",
+      "russian": "Твоя настойчивость окупается.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193837"
+    },
+    {
+      "english": "This endeavor, it's worth it.",
+      "russian": "Это начинание, оно того стоит.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193840"
+    },
+    {
+      "english": "What's your ultimate drive?",
+      "russian": "Какова твоя главная движущая сила?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193843"
+    },
+    {
+      "english": "Why are we doing this?",
+      "russian": "Зачем мы это делаем?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193845"
+    },
+    {
+      "english": "What's the point of it all?",
+      "russian": "В чём смысл всего этого?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193849"
+    },
+    {
+      "english": "Where is this leading?",
+      "russian": "К чему это ведёт?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193852"
+    },
+    {
+      "english": "What is this all about?",
+      "russian": "О чём вообще речь?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193854"
+    },
+    {
+      "english": "What's the underlying idea?",
+      "russian": "Какая лежит в основе идея?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193857"
+    },
+    {
+      "english": "What's the reason behind it?",
+      "russian": "Какая тому причина?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193859"
+    },
+    {
+      "english": "What are we working towards?",
+      "russian": "К чему мы стремимся?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193862"
+    },
+    {
+      "english": "What is the intended outcome?",
+      "russian": "Какой ожидается итог?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193865"
+    },
+    {
+      "english": "What are you trying to prove?",
+      "russian": "Что ты пытаешься доказать?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193867"
+    },
+    {
+      "english": "What is the desired result?",
+      "russian": "Какой желателен результат?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193869"
+    },
+    {
+      "english": "What's the intention here?",
+      "russian": "Каковы здесь намерения?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193872"
+    },
+    {
+      "english": "What problem does this solve?",
+      "russian": "Какую проблему это решает?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193874"
+    },
+    {
+      "english": "What is the final destination?",
+      "russian": "Каков конечный пункт?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193876"
+    },
+    {
+      "english": "What are we aiming to accomplish?",
+      "russian": "Что мы собираемся достичь?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193879"
+    },
+    {
+      "english": "What's the underlying motivation?",
+      "russian": "Какова скрытая мотивация?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193882"
+    },
+    {
+      "english": "Why this particular approach?",
+      "russian": "Почему именно такой подход?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193884"
+    },
+    {
+      "english": "What is the essential purpose?",
+      "russian": "Каков основной смысл?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193886"
+    },
+    {
+      "english": "What's the big picture?",
+      "russian": "Какова общая картина?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193889"
+    },
+    {
+      "english": "What is the reason for this action?",
+      "russian": "Зачем этот шаг?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193892"
+    },
+    {
+      "english": "What's the intended meaning?",
+      "russian": "Какой здесь смысл?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193894"
+    },
+    {
+      "english": "What's the key takeaway?",
+      "russian": "Что главное запомнить?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193897"
+    },
+    {
+      "english": "What is the fundamental goal?",
+      "russian": "Какова фундаментальная цель?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193899"
+    },
+    {
+      "english": "What are we aiming at?",
+      "russian": "На что мы нацелены?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193901"
+    },
+    {
+      "english": "What is the driving force?",
+      "russian": "Что движет этим?",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193904"
+    },
+    {
+      "english": "Live simply, act kindly.",
+      "russian": "Живи просто, действуй добрo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193908"
+    },
+    {
+      "english": "Always strive, for goodness sake.",
+      "russian": "Всегда стремись, ради добра.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193911"
+    },
+    {
+      "english": "Small steps, big journey.",
+      "russian": "Маленькие шаги, большое путешествие.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193913"
+    },
+    {
+      "english": "Seek truth, find peace.",
+      "russian": "Ищи истину, найди покой.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193916"
+    },
+    {
+      "english": "Learn daily, grow always.",
+      "russian": "Учись каждый день, расти всегда.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193920"
+    },
+    {
+      "english": "Help others, feel better.",
+      "russian": "Помогай другим, чувствуй себя лучше.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193923"
+    },
+    {
+      "english": "Be present, live fully.",
+      "russian": "Будь здесь и сейчас, живи полной жизнью.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193926"
+    },
+    {
+      "english": "Forgive often, love deeply.",
+      "russian": "Прощай часто, люби глубоко.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193928"
+    },
+    {
+      "english": "Share joy, spread kindness.",
+      "russian": "Делись радостью, распространяй доброту.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193931"
+    },
+    {
+      "english": "Create beauty, find meaning.",
+      "russian": "Создавай красоту, находи смысл.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193933"
+    },
+    {
+      "english": "Be grateful, for everything.",
+      "russian": "Будь благодарен, за всё.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193936"
+    },
+    {
+      "english": "Work smart, rest well.",
+      "russian": "Работай с умом, отдыхай хорошо.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193938"
+    },
+    {
+      "english": "Inspire others, through action.",
+      "russian": "Вдохновляй других, через поступки.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193967"
+    },
+    {
+      "english": "Face challenges, with courage.",
+      "russian": "Встречай трудности, с отвагой.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193973"
+    },
+    {
+      "english": "Embrace change, with open arms.",
+      "russian": "Принимай перемены, с распростёртыми объятиями.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193976"
+    },
+    {
+      "english": "Seek understanding, not judgment.",
+      "russian": "Ищи понимания, не осуждения.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193979"
+    },
+    {
+      "english": "Practice patience, cultivate calm.",
+      "russian": "Практикуй терпение, воспитывай спокойствие.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193981"
+    },
+    {
+      "english": "Choose joy, every single day.",
+      "russian": "Выбирай радость, каждый божий день.",
+      "category": "Purpose",
+      "generated_at": "2026-10-29T06:49:09.193984"
     }
   ],
-  "last_updated": "2026-10-28T06:44:41.220097"
+  "last_updated": "2026-10-29T06:49:09.193986"
 }
