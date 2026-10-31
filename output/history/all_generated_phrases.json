@@ -15203,7 +15203,727 @@
       "russian": "Признавай ошибки, учись на них.",
       "category": "Wisdom",
       "generated_at": "2026-10-30T06:53:02.593070"
+    },
+    {
+      "english": "Excuse me, where is the bus stop?",
+      "russian": "Простите, где остановка?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263007"
+    },
+    {
+      "english": "Does this bus go to the center?",
+      "russian": "Этот автобус идёт в центр?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263023"
+    },
+    {
+      "english": "What time is the next train?",
+      "russian": "Когда следующий поезд?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263026"
+    },
+    {
+      "english": "I need a ticket to...",
+      "russian": "Мне нужен билет до...",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263028"
+    },
+    {
+      "english": "How much is one ticket?",
+      "russian": "Сколько стоит один билет?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263031"
+    },
+    {
+      "english": "Where do I get off?",
+      "russian": "Где мне выходить?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263034"
+    },
+    {
+      "english": "Is this seat free?",
+      "russian": "Это место свободно?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263037"
+    },
+    {
+      "english": "Could you move, please?",
+      "russian": "Вы не могли бы подвинуться?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263041"
+    },
+    {
+      "english": "I'm a bit lost.",
+      "russian": "Я немного заблудился.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263044"
+    },
+    {
+      "english": "This is my stop.",
+      "russian": "Мне здесь выходить.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263046"
+    },
+    {
+      "english": "Sorry, I didn't hear you.",
+      "russian": "Извините, я не расслышал.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263049"
+    },
+    {
+      "english": "Is it far from here?",
+      "russian": "Это далеко отсюда?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263051"
+    },
+    {
+      "english": "Which platform is it?",
+      "russian": "С какой платформы?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263053"
+    },
+    {
+      "english": "Is there a transfer here?",
+      "russian": "Здесь есть пересадка?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263055"
+    },
+    {
+      "english": "I need to go back.",
+      "russian": "Мне нужно вернуться.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263057"
+    },
+    {
+      "english": "Are we there yet?",
+      "russian": "Мы уже приехали?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263059"
+    },
+    {
+      "english": "This is very crowded.",
+      "russian": "Здесь очень тесно.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263061"
+    },
+    {
+      "english": "Can I stand here?",
+      "russian": "Можно здесь постоять?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263064"
+    },
+    {
+      "english": "The next station is...",
+      "russian": "Следующая станция...",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263066"
+    },
+    {
+      "english": "I'm in a hurry.",
+      "russian": "Я спешу.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263068"
+    },
+    {
+      "english": "Watch your step.",
+      "russian": "Осторожно, шаг.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263070"
+    },
+    {
+      "english": "Is this the last stop?",
+      "russian": "Это конечная?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263072"
+    },
+    {
+      "english": "When does it start?",
+      "russian": "Когда это начинается?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263074"
+    },
+    {
+      "english": "Mind the gap.",
+      "russian": "Осторожно, двери.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263076"
+    },
+    {
+      "english": "Can I get a map?",
+      "russian": "Можно взять карту?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263078"
+    },
+    {
+      "english": "Could you tell me, how to get there?",
+      "russian": "Подскажите, пожалуйста, как туда добраться?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263083"
+    },
+    {
+      "english": "Which bus, should I take for the museum?",
+      "russian": "Какой автобус, идёт до музея?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263086"
+    },
+    {
+      "english": "Can I pay, with a card here?",
+      "russian": "Можно заплатить, картой здесь?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263089"
+    },
+    {
+      "english": "Where can I buy, a travel pass?",
+      "russian": "Где можно купить, проездной билет?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263091"
+    },
+    {
+      "english": "Do you know, when the last tram leaves?",
+      "russian": "Вы знаете, когда последний трамвай уезжает?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263094"
+    },
+    {
+      "english": "Is there a direct route, to the city center?",
+      "russian": "Есть прямой маршрут, в центр города?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263096"
+    },
+    {
+      "english": "How often, do the buses run?",
+      "russian": "Как часто, ходят автобусы?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263098"
+    },
+    {
+      "english": "Could you point, on the map please?",
+      "russian": "Можете показать, на карте пожалуйста?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263101"
+    },
+    {
+      "english": "Is it possible, to get a transfer ticket?",
+      "russian": "Возможно ли, взять билет с пересадкой?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263103"
+    },
+    {
+      "english": "Which platform, for the suburban train?",
+      "russian": "Какая платформа, для пригородного поезда?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263105"
+    },
+    {
+      "english": "Can I bring, a large suitcase?",
+      "russian": "Можно ли взять, большой чемодан?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263107"
+    },
+    {
+      "english": "Does this metro line, connect to others?",
+      "russian": "Эта линия метро, соединяется с другими?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263111"
+    },
+    {
+      "english": "Is there a timetable, posted nearby?",
+      "russian": "Есть расписание, вывешенное рядом?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263113"
+    },
+    {
+      "english": "What's the best way, to reach the station?",
+      "russian": "Как лучше всего, добраться до станции?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263116"
+    },
+    {
+      "english": "Do you know, if this is a single ticket?",
+      "russian": "Вы знаете, это билет на одну поездку?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263118"
+    },
+    {
+      "english": "Is there a discount, for students?",
+      "russian": "Есть скидка, для студентов?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263122"
+    },
+    {
+      "english": "Where does this route, usually end?",
+      "russian": "Где обычно, заканчивается этот маршрут?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263124"
+    },
+    {
+      "english": "Can I ask, for directions again?",
+      "russian": "Можно попросить, указать дорогу ещё раз?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263127"
+    },
+    {
+      "english": "Is the next stop, the main square?",
+      "russian": "Следующая остановка, главная площадь?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263143"
+    },
+    {
+      "english": "How much is, a day pass?",
+      "russian": "Сколько стоит, дневной проездной?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263147"
+    },
+    {
+      "english": "Can I get off, at any stop?",
+      "russian": "Можно выйти, на любой остановке?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263150"
+    },
+    {
+      "english": "Is this train, going north?",
+      "russian": "Этот поезд, идёт на север?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263152"
+    },
+    {
+      "english": "Where is the nearest, metro station?",
+      "russian": "Где ближайшая, станция метро?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263154"
+    },
+    {
+      "english": "Could you help me, find my stop?",
+      "russian": "Вы можете помочь мне, найти мою остановку?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263158"
+    },
+    {
+      "english": "Is there a connection, to the airport bus?",
+      "russian": "Есть пересадка, на автобус в аэропорт?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263160"
+    },
+    {
+      "english": "What is the fare, for this zone?",
+      "russian": "Какая стоимость проезда, для этой зоны?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263163"
+    },
+    {
+      "english": "Do I need, a special ticket?",
+      "russian": "Мне нужен, специальный билет?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263165"
+    },
+    {
+      "english": "Can you confirm, this is the right line?",
+      "russian": "Вы можете подтвердить, это правильная линия?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263167"
+    },
+    {
+      "english": "Is it faster, by tram or bus?",
+      "russian": "Быстрее ли, на трамвае или автобусе?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263169"
+    },
+    {
+      "english": "Just breathe, you've got this.",
+      "russian": "Просто дыши, ты справишься.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263172"
+    },
+    {
+      "english": "Every journey, starts with one step.",
+      "russian": "Каждое путешествие, начинается с одного шага.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263174"
+    },
+    {
+      "english": "Don't worry, it will be fine.",
+      "russian": "Не волнуйся, всё будет хорошо.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263179"
+    },
+    {
+      "english": "Think positive, stay calm.",
+      "russian": "Думай позитивно, сохраняй спокойствие.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263181"
+    },
+    {
+      "english": "You're navigating like a pro!",
+      "russian": "Ты ориентируешься как профи!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263183"
+    },
+    {
+      "english": "Awesome effort, well done!",
+      "russian": "Отличные усилия, хорошо сделано!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263185"
+    },
+    {
+      "english": "Embrace the adventure, enjoy the ride.",
+      "russian": "Принимай приключение, наслаждайся поездкой.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263187"
+    },
+    {
+      "english": "You're learning so fast!",
+      "russian": "Ты учишься так быстро!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263190"
+    },
+    {
+      "english": "Every mistake, is a lesson learned.",
+      "russian": "Каждая ошибка, это усвоенный урок.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263192"
+    },
+    {
+      "english": "That was a smart move!",
+      "russian": "Это было умное решение!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263194"
+    },
+    {
+      "english": "Keep exploring, you'll get there.",
+      "russian": "Продолжай исследовать, ты доберёшься.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263197"
+    },
+    {
+      "english": "You're handling it perfectly.",
+      "russian": "Ты прекрасно справляешься.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263199"
+    },
+    {
+      "english": "This is progress, not perfection.",
+      "russian": "Это прогресс, а не совершенство.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263202"
+    },
+    {
+      "english": "You've got the hang of it!",
+      "russian": "Ты освоился, молодец!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263204"
+    },
+    {
+      "english": "Don't be afraid, take a chance.",
+      "russian": "Не бойся, рискни.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263207"
+    },
+    {
+      "english": "You are capable, and strong.",
+      "russian": "Ты способный, и сильный.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263209"
+    },
+    {
+      "english": "Just keep trying, you'll succeed.",
+      "russian": "Просто продолжай пытаться, у тебя получится.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263213"
+    },
+    {
+      "english": "This is a challenge, you can win.",
+      "russian": "Это вызов, ты можешь победить.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263215"
+    },
+    {
+      "english": "Your confidence is growing!",
+      "russian": "Твоя уверенность растёт!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263218"
+    },
+    {
+      "english": "You're making great strides.",
+      "russian": "Ты добиваешься больших успехов.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263220"
+    },
+    {
+      "english": "Embrace the journey, learn as you go.",
+      "russian": "Прими путешествие, учись по ходу.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263222"
+    },
+    {
+      "english": "Every new route, is an opportunity.",
+      "russian": "Каждый новый маршрут, это возможность.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263224"
+    },
+    {
+      "english": "You are getting better, really.",
+      "russian": "Ты становишься лучше, правда.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263226"
+    },
+    {
+      "english": "Stay focused, you'll manage.",
+      "russian": "Оставайся сосредоточенным, ты справишься.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263229"
+    },
+    {
+      "english": "This is a fantastic achievement!",
+      "russian": "Это фантастическое достижение!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263231"
+    },
+    {
+      "english": "You are resourceful, I see.",
+      "russian": "Ты находчив, я вижу.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263233"
+    },
+    {
+      "english": "This wait feels eternal, doesn't it?",
+      "russian": "Эта поездка, кажется, вечностью, правда?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263235"
+    },
+    {
+      "english": "Sometimes, I just get lost in thought.",
+      "russian": "Иногда, я просто погружаюсь в мысли.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263237"
+    },
+    {
+      "english": "Observing people, is my favorite pastime.",
+      "russian": "Наблюдать за людьми, моё любимое занятие.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263239"
+    },
+    {
+      "english": "I find beauty, in these daily routines.",
+      "russian": "Я нахожу красоту, в этих ежедневных ритуалах.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263242"
+    },
+    {
+      "english": "This journey really calms my mind.",
+      "russian": "Эта поездка, правда успокаивает мой разум.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263244"
+    },
+    {
+      "english": "It's a good time, to reflect.",
+      "russian": "Это хорошее время, для размышлений.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263246"
+    },
+    {
+      "english": "I feel a sense of connection, here.",
+      "russian": "Я чувствую связь, здесь.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263248"
+    },
+    {
+      "english": "Let's just be patient, it's worth it.",
+      "russian": "Давай просто будем терпеливы, оно того стоит.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263251"
+    },
+    {
+      "english": "This shared space, feels strangely intimate.",
+      "russian": "Это общее пространство, кажется странно интимным.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263255"
+    },
+    {
+      "english": "I appreciate, this moment of peace.",
+      "russian": "Я ценю, этот момент спокойствия.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263257"
+    },
+    {
+      "english": "Lost in my world, for a bit.",
+      "russian": "Погружённый в свой мир, ненадолго.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263260"
+    },
+    {
+      "english": "This experience, teaches me empathy.",
+      "russian": "Этот опыт, учит меня эмпатии.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263262"
+    },
+    {
+      "english": "I'm just enjoying, the ride.",
+      "russian": "Я просто наслаждаюсь, поездкой.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263264"
+    },
+    {
+      "english": "This journey is a metaphor, for life.",
+      "russian": "Эта поездка - метафора, жизни.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263266"
+    },
+    {
+      "english": "I’m learning to be present, now.",
+      "russian": "Я учусь быть здесь, и сейчас.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263270"
+    },
+    {
+      "english": "My mind feels clearer, after this.",
+      "russian": "Мой разум чувствует себя яснее, после этого.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263272"
+    },
+    {
+      "english": "Letting go, of the day's worries.",
+      "russian": "Отпускаю, дневные заботы.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263274"
+    },
+    {
+      "english": "This solitude, is quite refreshing.",
+      "russian": "Это уединение, довольно освежает.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263277"
+    },
+    {
+      "english": "I’m grateful, for this simple comfort.",
+      "russian": "Я благодарен, за этот простой комфорт.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263280"
+    },
+    {
+      "english": "It’s a chance, to just be.",
+      "russian": "Это шанс, просто быть.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263282"
+    },
+    {
+      "english": "My perspective shifts, on the move.",
+      "russian": "Моя точка зрения меняется, в движении.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263284"
+    },
+    {
+      "english": "Feeling connected, to the city's pulse.",
+      "russian": "Чувствую связь, с пульсом города.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263287"
+    },
+    {
+      "english": "These moments, help me reset.",
+      "russian": "Эти моменты, помогают мне перезагрузиться.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263289"
+    },
+    {
+      "english": "It's a gentle reminder, to slow down.",
+      "russian": "Это мягкое напоминание, замедлиться.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263291"
+    },
+    {
+      "english": "I ponder life's big questions, here.",
+      "russian": "Я размышляю о жизненных вопросах, здесь.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263294"
+    },
+    {
+      "english": "This quiet time, is precious.",
+      "russian": "Это тихое время, драгоценно.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263296"
+    },
+    {
+      "english": "I’m finding my center, on this ride.",
+      "russian": "Я нахожу свой центр, в этой поездке.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263301"
+    },
+    {
+      "english": "Letting the rhythm, soothe my soul.",
+      "russian": "Позволяю ритму, успокоить мою душу.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263303"
+    },
+    {
+      "english": "Where is the nearest bus stop?",
+      "russian": "Где ближайшая остановка?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263306"
+    },
+    {
+      "english": "Can I buy a ticket here?",
+      "russian": "Можно купить билет здесь?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263308"
+    },
+    {
+      "english": "How much is a single ride?",
+      "russian": "Сколько стоит одна поездка?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263310"
+    },
+    {
+      "english": "I need to get off at the next stop.",
+      "russian": "Мне нужно выйти на следующей.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263312"
+    },
+    {
+      "english": "Excuse me, is this seat taken?",
+      "russian": "Извините, это место занято?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263319"
+    },
+    {
+      "english": "Could you please tell me when to get off?",
+      "russian": "Скажите, пожалуйста, когда выходить?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263321"
+    },
+    {
+      "english": "My stop is coming soon.",
+      "russian": "Скоро моя остановка.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263324"
+    },
+    {
+      "english": "Is there a transfer available?",
+      "russian": "Есть ли пересадка?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263326"
+    },
+    {
+      "english": "I missed my stop, what now?",
+      "russian": "Я пропустил остановку, что делать?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263328"
+    },
+    {
+      "english": "This is quite crowded today.",
+      "russian": "Сегодня довольно людно.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263330"
+    },
+    {
+      "english": "Where do I catch the metro?",
+      "russian": "Где здесь метро?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263333"
+    },
+    {
+      "english": "This route is a bit confusing.",
+      "russian": "Этот маршрут немного запутанный.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-31T06:44:34.263335"
     }
   ],
-  "last_updated": "2026-10-30T06:53:02.593072"
+  "last_updated": "2026-10-31T06:44:34.263338"
 }
