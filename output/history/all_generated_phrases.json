@@ -16643,7 +16643,727 @@
       "russian": "Принятие моих эмоций развивает стойкость.",
       "category": "Confidence",
       "generated_at": "2026-11-01T07:12:58.776031"
+    },
+    {
+      "english": "How do you celebrate holidays?",
+      "russian": "Как вы отмечаете праздники?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659684"
+    },
+    {
+      "english": "What's your favorite tradition?",
+      "russian": "Какая ваша любимая традиция?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659697"
+    },
+    {
+      "english": "We always gather together.",
+      "russian": "Мы всегда собираемся вместе.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659701"
+    },
+    {
+      "english": "That's a unique custom.",
+      "russian": "Это необычный обычай.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659704"
+    },
+    {
+      "english": "Tell me more, please.",
+      "russian": "Расскажите подробнее, пожалуйста.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659707"
+    },
+    {
+      "english": "It's a family ritual.",
+      "russian": "Это семейный ритуал.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659711"
+    },
+    {
+      "english": "Do you have many guests?",
+      "russian": "У вас много гостей?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659714"
+    },
+    {
+      "english": "This is very interesting.",
+      "russian": "Это очень интересно.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659719"
+    },
+    {
+      "english": "What do you eat then?",
+      "russian": "Что вы тогда едите?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659723"
+    },
+    {
+      "english": "It’s a national treasure.",
+      "russian": "Это национальное достояние.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659727"
+    },
+    {
+      "english": "Do you sing songs?",
+      "russian": "Вы поете песни?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659730"
+    },
+    {
+      "english": "This is quite special.",
+      "russian": "Это довольно особенное.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659733"
+    },
+    {
+      "english": "It's a time-honored practice.",
+      "russian": "Это проверенная временем практика.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659736"
+    },
+    {
+      "english": "We tell old stories.",
+      "russian": "Мы рассказываем старые истории.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659738"
+    },
+    {
+      "english": "What’s the meaning behind it?",
+      "russian": "В чем смысл этого?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659741"
+    },
+    {
+      "english": "It’s a cherished memory.",
+      "russian": "Это дорогое воспоминание.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659744"
+    },
+    {
+      "english": "Do people give gifts?",
+      "russian": "Люди дарят подарки?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659747"
+    },
+    {
+      "english": "This feels very traditional.",
+      "russian": "Это кажется очень традиционным.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659749"
+    },
+    {
+      "english": "We follow the old ways.",
+      "russian": "Мы следуем старым обычаям.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659751"
+    },
+    {
+      "english": "Is it a religious event?",
+      "russian": "Это религиозное событие?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659756"
+    },
+    {
+      "english": "This connects us to our roots.",
+      "russian": "Это связывает нас с корнями.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659758"
+    },
+    {
+      "english": "What are the rules?",
+      "russian": "Каковы правила?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659760"
+    },
+    {
+      "english": "It’s a beautiful ceremony.",
+      "russian": "Это красивая церемония.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659763"
+    },
+    {
+      "english": "We prepare special food.",
+      "russian": "Мы готовим особенную еду.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659766"
+    },
+    {
+      "english": "This is a key moment.",
+      "russian": "Это ключевой момент.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659768"
+    },
+    {
+      "english": "Everyone participates, of course.",
+      "russian": "Все участвуют, конечно.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659771"
+    },
+    {
+      "english": "It’s part of our heritage.",
+      "russian": "Это часть нашего наследия.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659774"
+    },
+    {
+      "english": "How long does it last?",
+      "russian": "Сколько это длится?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659776"
+    },
+    {
+      "english": "This is how we live.",
+      "russian": "Так мы живем.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659778"
+    },
+    {
+      "english": "Could you explain this custom?",
+      "russian": "Не могли бы вы объяснить этот обычай?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659781"
+    },
+    {
+      "english": "What's this ritual called?",
+      "russian": "Как называется этот ритуал?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659784"
+    },
+    {
+      "english": "Is there a specific etiquette?",
+      "russian": "Есть ли здесь определённый этикет?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659787"
+    },
+    {
+      "english": "When do you usually do this?",
+      "russian": "Когда вы обычно это делаете?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659789"
+    },
+    {
+      "english": "Who is typically involved?",
+      "russian": "Кто обычно участвует?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659792"
+    },
+    {
+      "english": "What is the significance here?",
+      "russian": "В чём здесь значение?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659794"
+    },
+    {
+      "english": "May I ask about this?",
+      "russian": "Можно спросить об этом?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659797"
+    },
+    {
+      "english": "How did this tradition start?",
+      "russian": "Как началась эта традиция?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659800"
+    },
+    {
+      "english": "Is this a common practice?",
+      "russian": "Это распространённая практика?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659804"
+    },
+    {
+      "english": "What are the key elements?",
+      "russian": "Каковы ключевые элементы?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659807"
+    },
+    {
+      "english": "Can you show me how?",
+      "russian": "Можете показать мне, как?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659809"
+    },
+    {
+      "english": "What should I know beforehand?",
+      "russian": "Что мне следует знать заранее?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659811"
+    },
+    {
+      "english": "Is participation encouraged?",
+      "russian": "Участие приветствуется?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659814"
+    },
+    {
+      "english": "What makes this unique?",
+      "russian": "Что делает это уникальным?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659816"
+    },
+    {
+      "english": "Are there any specific dates?",
+      "russian": "Есть ли какие-то конкретные даты?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659819"
+    },
+    {
+      "english": "How is it passed down?",
+      "russian": "Как это передаётся?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659823"
+    },
+    {
+      "english": "What's the story behind this?",
+      "russian": "Какая история за этим стоит?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659826"
+    },
+    {
+      "english": "Is there a special song?",
+      "russian": "Есть ли особая песня?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659828"
+    },
+    {
+      "english": "What's the historical context?",
+      "russian": "Какой исторический контекст?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659831"
+    },
+    {
+      "english": "Can we join in?",
+      "russian": "Мы можем присоединиться?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659833"
+    },
+    {
+      "english": "What is served to eat?",
+      "russian": "Что подают на стол?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659891"
+    },
+    {
+      "english": "How do locals view this?",
+      "russian": "Как местные жители это видят?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659894"
+    },
+    {
+      "english": "What's the traditional attire?",
+      "russian": "Какая традиционная одежда?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659897"
+    },
+    {
+      "english": "Is there a special greeting?",
+      "russian": "Есть ли особое приветствие?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659900"
+    },
+    {
+      "english": "How long does preparation take?",
+      "russian": "Сколько времени занимает подготовка?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659902"
+    },
+    {
+      "english": "What do people wear?",
+      "russian": "Что надевают люди?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659904"
+    },
+    {
+      "english": "Is this celebrated annually?",
+      "russian": "Это отмечается ежегодно?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659907"
+    },
+    {
+      "english": "What are the main customs?",
+      "russian": "Каковы основные обычаи?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659909"
+    },
+    {
+      "english": "Could you describe the atmosphere?",
+      "russian": "Не могли бы вы описать атмосферу?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659912"
+    },
+    {
+      "english": "What's the origin of this?",
+      "russian": "В чём происхождение этого?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659917"
+    },
+    {
+      "english": "Celebrate every small victory.",
+      "russian": "Празднуй каждую маленькую победу.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659919"
+    },
+    {
+      "english": "Think positive, achieve more.",
+      "russian": "Думай позитивно, достигай большего.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659922"
+    },
+    {
+      "english": "It’s okay to make mistakes.",
+      "russian": "Ошибаться – это нормально.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659926"
+    },
+    {
+      "english": "This tradition inspires us.",
+      "russian": "Эта традиция нас вдохновляет.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659928"
+    },
+    {
+      "english": "Feel the energy of the moment.",
+      "russian": "Почувствуй энергию момента.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659931"
+    },
+    {
+      "english": "Your participation makes it special.",
+      "russian": "Твоё участие делает это особенным.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659933"
+    },
+    {
+      "english": "Open your heart to new experiences.",
+      "russian": "Открой сердце новому опыту.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659936"
+    },
+    {
+      "english": "Wisdom comes with patience.",
+      "russian": "Мудрость приходит с терпением.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659939"
+    },
+    {
+      "english": "Let joy guide your actions.",
+      "russian": "Пусть радость ведёт твои действия.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659941"
+    },
+    {
+      "english": "We're stronger together.",
+      "russian": "Вместе мы сильнее.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659946"
+    },
+    {
+      "english": "Learn with an open mind.",
+      "russian": "Учись с открытым умом.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659949"
+    },
+    {
+      "english": "Your spirit is admirable.",
+      "russian": "Твой дух восхищает.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659951"
+    },
+    {
+      "english": "This is a moment of growth.",
+      "russian": "Это момент роста.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659954"
+    },
+    {
+      "english": "Let tradition enrich your life.",
+      "russian": "Пусть традиция обогащает твою жизнь.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659958"
+    },
+    {
+      "english": "You are learning beautifully.",
+      "russian": "Ты прекрасно учишься.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659960"
+    },
+    {
+      "english": "Embrace the good vibes.",
+      "russian": "Лови позитивные вибрации.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659963"
+    },
+    {
+      "english": "You're making us proud.",
+      "russian": "Ты вызываешь у нас гордость.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659966"
+    },
+    {
+      "english": "Old ways, new days, keep the best.",
+      "russian": "Старые обычаи, новые дни, лучшее сохраним.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659969"
+    },
+    {
+      "english": "Tradition is like a river, flowing always.",
+      "russian": "Традиция, как река, течёт всегда.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659971"
+    },
+    {
+      "english": "Pass the torch, light the future.",
+      "russian": "Передай факел, зажги будущее.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659974"
+    },
+    {
+      "english": "Roots run deep, hold them strong.",
+      "russian": "Корни глубоки, держи их крепко.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659977"
+    },
+    {
+      "english": "Echoes of ancestors, in our hearts.",
+      "russian": "Голоса предков, в наших сердцах.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659980"
+    },
+    {
+      "english": "Customs shape us, like clay.",
+      "russian": "Обычаи лепят нас, как глину.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659982"
+    },
+    {
+      "english": "Generations connect, through these rites.",
+      "russian": "Поколения связаны, через эти обряды.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659985"
+    },
+    {
+      "english": "The spirit of the past, lives on.",
+      "russian": "Дух прошлого, живёт и ныне.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659988"
+    },
+    {
+      "english": "Follow the steps, of those before.",
+      "russian": "Иди по стопам, тех, кто был раньше.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659990"
+    },
+    {
+      "english": "Heritage whispers, listen closely.",
+      "russian": "Наследие шепчет, слушай внимательно.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659993"
+    },
+    {
+      "english": "Keep the flame burning bright.",
+      "russian": "Пусть пламя горит ярко.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659996"
+    },
+    {
+      "english": "A shared memory, a stronger bond.",
+      "russian": "Общая память, крепче связь.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.659998"
+    },
+    {
+      "english": "Tradition is our anchor, in stormy seas.",
+      "russian": "Традиция – наш якорь, в шторм.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660001"
+    },
+    {
+      "english": "From age to age, the story unfolds.",
+      "russian": "От века к веку, история живёт.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660003"
+    },
+    {
+      "english": "Honor the past, embrace the now.",
+      "russian": "Чти прошлое, принимай настоящее.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660006"
+    },
+    {
+      "english": "This is how we've always done it.",
+      "russian": "Так мы делали всегда.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660009"
+    },
+    {
+      "english": "The heart of our culture, beats here.",
+      "russian": "Сердце нашей культуры, бьётся здесь.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660011"
+    },
+    {
+      "english": "Let the old ways guide you.",
+      "russian": "Пусть старые пути ведут тебя.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660014"
+    },
+    {
+      "english": "A link in the chain, of time.",
+      "russian": "Звено в цепи, времён.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660017"
+    },
+    {
+      "english": "Tradition teaches, wisdom it brings.",
+      "russian": "Традиция учит, мудрость приносит.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660019"
+    },
+    {
+      "english": "We carry the legacy forward.",
+      "russian": "Мы несём наследие дальше.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660021"
+    },
+    {
+      "english": "The thread connects us all.",
+      "russian": "Нить связывает нас всех.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660024"
+    },
+    {
+      "english": "It's a matter of pride, you see.",
+      "russian": "Это вопрос гордости, понимаешь.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660027"
+    },
+    {
+      "english": "These customs bind our community.",
+      "russian": "Эти обычаи сплачивают нас.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660029"
+    },
+    {
+      "english": "A taste of home, in tradition.",
+      "russian": "Вкус дома, в традиции.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660033"
+    },
+    {
+      "english": "Our history, in every gesture.",
+      "russian": "Наша история, в каждом жесте.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660036"
+    },
+    {
+      "english": "Keep the memory alive, always.",
+      "russian": "Храни память, всегда.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660040"
+    },
+    {
+      "english": "This is our inheritance, our treasure.",
+      "russian": "Это наше наследство, наше сокровище.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660043"
+    },
+    {
+      "english": "The circle of life, continues.",
+      "russian": "Круг жизни, продолжается.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660046"
+    },
+    {
+      "english": "Respect the old, cherish the new.",
+      "russian": "Уважай старое, цени новое.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660048"
+    },
+    {
+      "english": "Ask locals, for directions.",
+      "russian": "Спроси местных, как пройти.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660051"
+    },
+    {
+      "english": "Try a little, of everything.",
+      "russian": "Попробуй понемногу, всего.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660054"
+    },
+    {
+      "english": "Be polite, it goes a long way.",
+      "russian": "Будь вежлив, это важно.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660056"
+    },
+    {
+      "english": "Learn basic phrases, they help a lot.",
+      "russian": "Учи основы, это сильно поможет.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660059"
+    },
+    {
+      "english": "Observe, then participate.",
+      "russian": "Наблюдай, потом участвуй.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660061"
+    },
+    {
+      "english": "Don't be afraid, to ask questions.",
+      "russian": "Не бойся, задавать вопросы.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660066"
+    },
+    {
+      "english": "Accept gifts, graciously.",
+      "russian": "Принимай подарки, с благодарностью.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660069"
+    },
+    {
+      "english": "Follow the lead, of your host.",
+      "russian": "Следуй за хозяином, веди себя.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660071"
+    },
+    {
+      "english": "Understand the context, first.",
+      "russian": "Пойми контекст, сначала.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660074"
+    },
+    {
+      "english": "Share a story, they love that.",
+      "russian": "Расскажи историю, им это нравится.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660077"
+    },
+    {
+      "english": "When in doubt, ask again.",
+      "russian": "Сомневаешься, спроси ещё раз.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660079"
+    },
+    {
+      "english": "Respect personal space.",
+      "russian": "Уважай личное пространство.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660082"
+    },
+    {
+      "english": "Try the local cuisine.",
+      "russian": "Попробуй местную кухню.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660084"
+    },
+    {
+      "english": "A smile, bridges gaps.",
+      "russian": "Улыбка, помогает понять.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-02T07:26:21.660087"
     }
   ],
-  "last_updated": "2026-11-01T07:12:58.776033"
+  "last_updated": "2026-11-02T07:26:21.660089"
 }
