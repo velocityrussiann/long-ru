@@ -17363,7 +17363,727 @@
       "russian": "Улыбка, помогает понять.",
       "category": "Cultural Traditions",
       "generated_at": "2026-11-02T07:26:21.660087"
+    },
+    {
+      "english": "Hey, are you okay, everything alright?",
+      "russian": "Привет, ты в порядке, всё нормально?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192527"
+    },
+    {
+      "english": "No worries, it happens, go on.",
+      "russian": "Не переживай, бывает, давай дальше.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192535"
+    },
+    {
+      "english": "I get you, let's keep it simple.",
+      "russian": "Понимаю тебя, давай проще.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192537"
+    },
+    {
+      "english": "Wait a sec, think first, then answer.",
+      "russian": "Подожди секунду, сначала думай, потом отвечай.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192539"
+    },
+    {
+      "english": "Calm down, we can fix this fast.",
+      "russian": "Успокойся, мы быстро это исправим.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192541"
+    },
+    {
+      "english": "Easy, take it step by step, okay?",
+      "russian": "Спокойно, шаг за шагом, ладно?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192543"
+    },
+    {
+      "english": "Hold on, let's regroup for a moment.",
+      "russian": "Погоди, давай на минутку соберёмся.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192545"
+    },
+    {
+      "english": "That’s fair, you have a point, yeah.",
+      "russian": "Справедливо, ты прав, правда.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192549"
+    },
+    {
+      "english": "Good call, that sounds reasonable to me.",
+      "russian": "Отличная мысль, мне это кажется разумным.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192551"
+    },
+    {
+      "english": "Try again, don’t rush, you’ll manage.",
+      "russian": "Попробуй ещё раз, не спеши, справишься.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192554"
+    },
+    {
+      "english": "Are we good, or should we adjust?",
+      "russian": "Мы нормально, или надо подстроиться?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192556"
+    },
+    {
+      "english": "Let's not overthink it, just go.",
+      "russian": "Не накручивай, просто иди.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192559"
+    },
+    {
+      "english": "I’ll handle it, you just stay steady.",
+      "russian": "Я разберусь, ты просто держись.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192561"
+    },
+    {
+      "english": "This feels right, let’s stick with it.",
+      "russian": "Это ощущается правильно, давай оставим так.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192563"
+    },
+    {
+      "english": "Noted, I’m in, let's move forward.",
+      "russian": "Понял, я с тобой, поехали дальше.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192565"
+    },
+    {
+      "english": "Careful now, one step at a time.",
+      "russian": "Аккуратно, шаг за шагом.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192566"
+    },
+    {
+      "english": "Take your time, I’m not going anywhere.",
+      "russian": "Не спеши, я никуда не денусь.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192568"
+    },
+    {
+      "english": "All good, thanks, I appreciate it.",
+      "russian": "Всё отлично, спасибо, ценю.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192570"
+    },
+    {
+      "english": "So, what’s the plan, keep it balanced?",
+      "russian": "Итак, какой план, всё должно быть в меру?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192572"
+    },
+    {
+      "english": "Let me check, then we decide together.",
+      "russian": "Я уточню, потом решим вместе.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192573"
+    },
+    {
+      "english": "Your turn, say it calmly, please.",
+      "russian": "Твой ход, скажи спокойно, пожалуйста.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192575"
+    },
+    {
+      "english": "I hear you, let's find the middle.",
+      "russian": "Я тебя слышу, давай найдём середину.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192576"
+    },
+    {
+      "english": "Stay positive, but be realistic too.",
+      "russian": "Держись бодро, но будь реалистом.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192578"
+    },
+    {
+      "english": "That’s enough for today, let it go.",
+      "russian": "На сегодня хватит, отпускай это.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192579"
+    },
+    {
+      "english": "How did it go, better now?",
+      "russian": "Как прошло, стало лучше?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192581"
+    },
+    {
+      "english": "I’m with you, we’ll sort it out.",
+      "russian": "Я с тобой, мы всё разрулим.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192583"
+    },
+    {
+      "english": "Hold that thought, we'll come back soon.",
+      "russian": "Сохрани эту мысль, вернёмся скоро.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192586"
+    },
+    {
+      "english": "Quick question, what do you prefer?",
+      "russian": "Короткий вопрос, что тебе больше нравится?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192588"
+    },
+    {
+      "english": "Thanks, that balance feels great, seriously.",
+      "russian": "Спасибо, это так гармонично, честно.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192589"
+    },
+    {
+      "english": "What do you suggest, to stay balanced?",
+      "russian": "Что вы посоветуете, чтобы держать баланс?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192591"
+    },
+    {
+      "english": "How do you usually calm down, quickly?",
+      "russian": "Как вы обычно быстро успокаиваетесь?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192593"
+    },
+    {
+      "english": "Is this too much, or is it fine?",
+      "russian": "Это перебор, или нормально?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192595"
+    },
+    {
+      "english": "Could you repeat that, a bit slower?",
+      "russian": "Можете повторить, чуть помедленнее?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192597"
+    },
+    {
+      "english": "When should I stop, then?",
+      "russian": "Когда мне остановиться, тогда?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192600"
+    },
+    {
+      "english": "What would be a good compromise here?",
+      "russian": "Какой тут хороший компромисс?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192601"
+    },
+    {
+      "english": "Do you think this is the right approach?",
+      "russian": "Вы правда так думаете, что это правильно?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192603"
+    },
+    {
+      "english": "May I ask you one more thing?",
+      "russian": "Можно еще один вопрос?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192604"
+    },
+    {
+      "english": "What helps you keep it steady?",
+      "russian": "Что тебе помогает держаться ровно?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192606"
+    },
+    {
+      "english": "Should I adjust my schedule, or wait?",
+      "russian": "Мне поменять график, или подождать?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192607"
+    },
+    {
+      "english": "How long does it take you, usually?",
+      "russian": "Сколько времени это у тебя занимает?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192609"
+    },
+    {
+      "english": "Do we need to balance priorities today?",
+      "russian": "Надо сегодня расставить приоритеты?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192611"
+    },
+    {
+      "english": "Where do you draw the line, exactly?",
+      "russian": "Где ты проводишь границу, точно?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192612"
+    },
+    {
+      "english": "What’s your rule for work and rest?",
+      "russian": "Какая у тебя схема работы и отдыха?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192614"
+    },
+    {
+      "english": "Can we talk it through, step by step?",
+      "russian": "Давай обсудим, по шагам, спокойно.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192617"
+    },
+    {
+      "english": "Do you prefer mornings, or evenings for balance?",
+      "russian": "Тебе лучше утром, или вечером для баланса?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192618"
+    },
+    {
+      "english": "What should I do first, honestly?",
+      "russian": "Что мне сделать в первую очередь, честно?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192620"
+    },
+    {
+      "english": "How do you handle stress, without overdoing it?",
+      "russian": "Как ты справляешься со стрессом, без фанатизма?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192622"
+    },
+    {
+      "english": "Is there something you want to change?",
+      "russian": "Есть что-то, что ты хочешь поменять?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192623"
+    },
+    {
+      "english": "What did you learn from this situation?",
+      "russian": "Чему ты научился из этой ситуации?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192625"
+    },
+    {
+      "english": "Should I keep pushing, or slow down?",
+      "russian": "Мне продолжать, или притормозить?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192626"
+    },
+    {
+      "english": "Can you give me an example, please?",
+      "russian": "Можешь привести пример, пожалуйста?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192628"
+    },
+    {
+      "english": "How do we keep things fair for both?",
+      "russian": "Как нам сделать по-честному для обоих?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192631"
+    },
+    {
+      "english": "What’s the calmest way to ask for help?",
+      "russian": "Как лучше попросить помощь, спокойно?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192633"
+    },
+    {
+      "english": "Do you want the short version, or details?",
+      "russian": "Тебе коротко, или с деталями?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192634"
+    },
+    {
+      "english": "Can we agree on a balanced schedule?",
+      "russian": "Договоримся о сбалансированном графике?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192636"
+    },
+    {
+      "english": "What’s bothering you most right now?",
+      "russian": "Что тебя сейчас больше всего беспокоит?",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192638"
+    },
+    {
+      "english": "Breathe first, then speak with confidence.",
+      "russian": "Сначала вдохни, потом говори уверенно.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192639"
+    },
+    {
+      "english": "You’ve got this, one small step today.",
+      "russian": "У тебя получится, один маленький шаг сегодня.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192641"
+    },
+    {
+      "english": "Calm mind, steady voice, clear plan.",
+      "russian": "Спокойная голова, ровный голос, понятный план.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192643"
+    },
+    {
+      "english": "Reward yourself, even for tiny progress.",
+      "russian": "Поблагодари себя, даже за маленький прогресс.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192645"
+    },
+    {
+      "english": "Balance means, not perfect, just consistent.",
+      "russian": "Баланс — это не идеал, а стабильность.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192647"
+    },
+    {
+      "english": "Say it kindly, even when you’re stressed.",
+      "russian": "Говори себе мягко, даже когда ты в стрессе.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192649"
+    },
+    {
+      "english": "It’s okay to pause, you’re still moving.",
+      "russian": "Нормально остановиться, ты всё равно идёшь.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192651"
+    },
+    {
+      "english": "Focus on today, not on every detail.",
+      "russian": "Думай о сегодня, не обо всех деталях.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192653"
+    },
+    {
+      "english": "Give yourself credit, you’re doing better.",
+      "russian": "Отмечай свои успехи, у тебя получается.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192655"
+    },
+    {
+      "english": "Small wins add up, stay patient.",
+      "russian": "Маленькие победы складываются, будь терпелив.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192657"
+    },
+    {
+      "english": "Choose one priority, then breathe and go.",
+      "russian": "Выбери одну задачу, потом вдохни и вперёд.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192658"
+    },
+    {
+      "english": "Your feelings are valid, act gently.",
+      "russian": "Твои чувства важны, действуй бережно.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192660"
+    },
+    {
+      "english": "Pause, check in, adjust your pace.",
+      "russian": "Сделай паузу, проверь себя, подстрой темп.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192662"
+    },
+    {
+      "english": "Be proud of progress, not just results.",
+      "russian": "Гордись прогрессом, не только результатом.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192664"
+    },
+    {
+      "english": "Ask, then listen, your balance grows.",
+      "russian": "Спроси, потом слушай, так появляется баланс.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192665"
+    },
+    {
+      "english": "Set a boundary, it protects your energy.",
+      "russian": "Поставь границу, она бережёт твою энергию.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192667"
+    },
+    {
+      "english": "Consistency beats intensity, every single time.",
+      "russian": "Стабильность лучше всплесков, всегда.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192671"
+    },
+    {
+      "english": "You’re learning, not failing, keep going.",
+      "russian": "Ты учишься, не проваливаешься, продолжай.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192673"
+    },
+    {
+      "english": "Talk to yourself like a friend, please.",
+      "russian": "Говори с собой, как с другом, пожалуйста.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192674"
+    },
+    {
+      "english": "Slow is smooth, steady wins the day.",
+      "russian": "Тише едешь — ровнее, стабильность победит.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192677"
+    },
+    {
+      "english": "Choose peace now, you can handle later.",
+      "russian": "Выбери спокойствие сейчас, потом разберёшься.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192679"
+    },
+    {
+      "english": "When in doubt, simplify your next step.",
+      "russian": "Если сомневаешься, упростись следующий шаг.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192680"
+    },
+    {
+      "english": "Your effort counts, even if it’s messy.",
+      "russian": "Твой труд важен, даже если всё неровно.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192682"
+    },
+    {
+      "english": "Stay kind, stay clear, keep moving forward.",
+      "russian": "Будь добрым, говори ясно, двигайся дальше.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192684"
+    },
+    {
+      "english": "Trust the process, small steps work.",
+      "russian": "Доверься процессу, маленькие шаги помогают.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192686"
+    },
+    {
+      "english": "Make space for rest, you’ll return stronger.",
+      "russian": "Оставь место для отдыха, вернёшься сильнее.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192688"
+    },
+    {
+      "english": "Celebrate effort, not perfection, today.",
+      "russian": "Отмечай старания, а не идеал, сегодня.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192689"
+    },
+    {
+      "english": "Keep your focus, the moment will pass.",
+      "russian": "Держи фокус, момент пройдёт.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192691"
+    },
+    {
+      "english": "You’re allowed to want balance, too.",
+      "russian": "Тебе можно хотеть баланса, и это нормально.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192693"
+    },
+    {
+      "english": "Breathe out slowly, your thoughts settle down.",
+      "russian": "Медленно выдохни, мысли успокоятся.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192694"
+    },
+    {
+      "english": "I notice my feelings, without judging them.",
+      "russian": "Я замечаю свои чувства, не осуждая их.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192696"
+    },
+    {
+      "english": "Sometimes honesty sounds softer, not harder.",
+      "russian": "Иногда честность звучит мягче, а не жёстче.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192697"
+    },
+    {
+      "english": "I slow down, чтобы не сорваться.",
+      "russian": "Я притормаживаю, чтобы не сорваться.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192700"
+    },
+    {
+      "english": "Let it out gently, then breathe.",
+      "russian": "Выпусти это мягко, потом вдохни.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192701"
+    },
+    {
+      "english": "I’m learning, so I give myself time.",
+      "russian": "Я учусь, значит, я даю себе время.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192703"
+    },
+    {
+      "english": "My heart wants calm, not noise.",
+      "russian": "Моё сердце хочет спокойствия, не шума.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192705"
+    },
+    {
+      "english": "I choose truth, but I speak аккуратно.",
+      "russian": "Я выбираю правду, но говорю аккуратно.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192707"
+    },
+    {
+      "english": "I keep my dignity, even when I hurt.",
+      "russian": "Я сохраняю достоинство, даже когда больно.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192709"
+    },
+    {
+      "english": "I don’t rush answers, I check myself.",
+      "russian": "Я не спешу с ответами, я себя проверяю.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192712"
+    },
+    {
+      "english": "Today, I’m honest about what I need.",
+      "russian": "Сегодня я честно говорю, что мне нужно.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192714"
+    },
+    {
+      "english": "When I’m overwhelmed, I pause and listen.",
+      "russian": "Когда меня накрывает, я останавливаюсь и слушаю.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192715"
+    },
+    {
+      "english": "I allow mixed feelings, they’re still real.",
+      "russian": "Я разрешаю противоречивые чувства, они настоящие.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192717"
+    },
+    {
+      "english": "I reflect quietly, then decide with balance.",
+      "russian": "Я тихо размышляю, потом выбираю с балансом.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192719"
+    },
+    {
+      "english": "I ask myself, what’s the fair move now?",
+      "russian": "Я спрашиваю себя, что будет справедливо сейчас.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192721"
+    },
+    {
+      "english": "I let the emotion pass, like weather.",
+      "russian": "Я даю эмоции пройти, как погода.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192722"
+    },
+    {
+      "english": "My boundaries help me stay kind.",
+      "russian": "Мои границы помогают мне оставаться добрым.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192724"
+    },
+    {
+      "english": "I don’t need to win, I need clarity.",
+      "russian": "Мне не нужно победить, мне нужна ясность.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192726"
+    },
+    {
+      "english": "I’m grateful, even when things are hard.",
+      "russian": "Я благодарен, даже когда всё непросто.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192729"
+    },
+    {
+      "english": "I admit my fears, then I breathe out.",
+      "russian": "Я признаю свои страхи, потом выдыхаю.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192730"
+    },
+    {
+      "english": "I talk to myself, like a calm friend.",
+      "russian": "Я разговариваю с собой, как с спокойным другом.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192732"
+    },
+    {
+      "english": "I don’t pretend, I say how it feels.",
+      "russian": "Я не притворяюсь, я говорю, как есть.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192733"
+    },
+    {
+      "english": "I can be sensitive, and still be steady.",
+      "russian": "Я могу быть чувствительным, и всё равно спокойным.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192739"
+    },
+    {
+      "english": "I choose patience, even if I’m tired.",
+      "russian": "Я выбираю терпение, даже если устал.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192741"
+    },
+    {
+      "english": "I focus on intentions, not just outcomes.",
+      "russian": "Я думаю про намерения, а не только про результат.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192742"
+    },
+    {
+      "english": "If I’m hurt, I name it gently.",
+      "russian": "Если мне больно, я называю это мягко.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192744"
+    },
+    {
+      "english": "I repair things, not for show, but truth.",
+      "russian": "Я налаживаю, не для вида, а по-честному.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192746"
+    },
+    {
+      "english": "I stay open, but I keep control inside.",
+      "russian": "Я остаюсь открытым, но внутри держу контроль.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192747"
+    },
+    {
+      "english": "My thoughts are loud, but I guide them.",
+      "russian": "Мои мысли громкие, но я ими управляю.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192748"
+    },
+    {
+      "english": "I reflect first, then I respond.",
+      "russian": "Сначала я размышляю, потом отвечаю.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192750"
+    },
+    {
+      "english": "Balance is listening to myself, honestly.",
+      "russian": "Баланс — это слушать себя, по-честному.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192751"
+    },
+    {
+      "english": "Before meetings, I drink water, then breathe.",
+      "russian": "Перед встречей я пью воду, потом дышу.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192754"
+    },
+    {
+      "english": "If I’m late, I text, calmly explain.",
+      "russian": "Если я опаздываю, пишу, спокойно объясняю.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192756"
+    },
+    {
+      "english": "On busy days, I do one small task.",
+      "russian": "В загруженные дни я делаю одну мелочь.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192757"
+    },
+    {
+      "english": "At dinner, I thank myself for trying.",
+      "russian": "На ужин я благодарю себя за старание.",
+      "category": "Balance",
+      "generated_at": "2026-11-03T07:41:19.192759"
     }
   ],
-  "last_updated": "2026-11-02T07:26:21.660089"
+  "last_updated": "2026-11-03T07:41:19.192760"
 }
