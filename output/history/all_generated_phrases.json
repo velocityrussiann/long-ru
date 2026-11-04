@@ -18083,7 +18083,727 @@
       "russian": "На ужин я благодарю себя за старание.",
       "category": "Balance",
       "generated_at": "2026-11-03T07:41:19.192759"
+    },
+    {
+      "english": "I’ve got cash, do you have change?",
+      "russian": "У меня есть наличные, у вас есть сдача?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019096"
+    },
+    {
+      "english": "How much is it in rubles?",
+      "russian": "Сколько это стоит в рублях?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019114"
+    },
+    {
+      "english": "Do you accept contactless payments?",
+      "russian": "Вы принимаете бесконтактную оплату?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019133"
+    },
+    {
+      "english": "Wait, my card won’t work.",
+      "russian": "Подождите, карта не проходит.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019139"
+    },
+    {
+      "english": "Please, split the bill.",
+      "russian": "Разделите, пожалуйста, счёт.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019144"
+    },
+    {
+      "english": "I forgot my wallet, sorry!",
+      "russian": "Я забыл кошелёк, простите!",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019149"
+    },
+    {
+      "english": "Can I withdraw money here?",
+      "russian": "Можно снять деньги здесь?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019156"
+    },
+    {
+      "english": "Is there an ATM nearby?",
+      "russian": "Банкомат рядом есть?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019172"
+    },
+    {
+      "english": "What’s the exchange rate today?",
+      "russian": "Какой курс сегодня?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019183"
+    },
+    {
+      "english": "Does it include commission?",
+      "russian": "Это с комиссией или без?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019190"
+    },
+    {
+      "english": "Take my money, please.",
+      "russian": "Возьмите мои деньги, пожалуйста.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019197"
+    },
+    {
+      "english": "I need to check my balance.",
+      "russian": "Мне нужно проверить баланс.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019203"
+    },
+    {
+      "english": "My balance is too low.",
+      "russian": "У меня недостаточно средств.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019210"
+    },
+    {
+      "english": "Show me the receipt, please.",
+      "russian": "Покажите чек, пожалуйста.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019216"
+    },
+    {
+      "english": "Where can I pay my bill?",
+      "russian": "Где можно оплатить счёт?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019223"
+    },
+    {
+      "english": "I’ll transfer it right now.",
+      "russian": "Я переведу прямо сейчас.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019232"
+    },
+    {
+      "english": "Can you send me a link to pay?",
+      "russian": "Можете скинуть ссылку на оплату?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019239"
+    },
+    {
+      "english": "Be careful, it’s a scam.",
+      "russian": "Осторожно, это мошенники.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019248"
+    },
+    {
+      "english": "I think I got charged twice.",
+      "russian": "Похоже, меня списали дважды.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019254"
+    },
+    {
+      "english": "Let’s cancel this payment.",
+      "russian": "Давайте отменим оплату.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019263"
+    },
+    {
+      "english": "Can I get a refund?",
+      "russian": "Можно вернуть деньги?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019269"
+    },
+    {
+      "english": "When will the money arrive?",
+      "russian": "Когда деньги придут?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019275"
+    },
+    {
+      "english": "Just take it from my account.",
+      "russian": "Просто снимите с моего счёта.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019282"
+    },
+    {
+      "english": "I’ll pay later, deal?",
+      "russian": "Я заплачу позже, договорились?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019290"
+    },
+    {
+      "english": "I’m short, can I add later?",
+      "russian": "Мне не хватает, можно потом доплатить?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019297"
+    },
+    {
+      "english": "Cash back sounds great.",
+      "russian": "Кэшбэк, звучит отлично.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019304"
+    },
+    {
+      "english": "I want to save for emergencies.",
+      "russian": "Хочу откладывать на всякий случай.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019309"
+    },
+    {
+      "english": "Loans are risky sometimes.",
+      "russian": "Кредиты иногда рискованны.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019316"
+    },
+    {
+      "english": "I need budget advice, please.",
+      "russian": "Мне нужен совет по бюджету, пожалуйста.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019328"
+    },
+    {
+      "english": "Do you know, where I can open an account?",
+      "russian": "Подскажите, где можно открыть счёт?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019334"
+    },
+    {
+      "english": "Which bank is best, for everyday payments?",
+      "russian": "Какие банки удобнее, для ежедневных платежей?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019339"
+    },
+    {
+      "english": "Can you recommend, a good savings option?",
+      "russian": "Посоветуйте, куда лучше положить сбережения?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019344"
+    },
+    {
+      "english": "What documents do I need, to apply?",
+      "russian": "Какие документы нужны, чтобы подать заявку?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019348"
+    },
+    {
+      "english": "Is there a fee, for opening the account?",
+      "russian": "За открытие счёта, берут комиссию?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019353"
+    },
+    {
+      "english": "Can I set up automatic payments, here?",
+      "russian": "Можно настроить автоплатёж, в приложении?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019358"
+    },
+    {
+      "english": "How do I check, my transaction history?",
+      "russian": "Как посмотреть историю операций?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019362"
+    },
+    {
+      "english": "What’s the fastest way, to top up?",
+      "russian": "Как быстрее всего пополнить счёт?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019375"
+    },
+    {
+      "english": "Do I need cash, or can I pay by card?",
+      "russian": "Мне наличные нужны, или можно картой?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019383"
+    },
+    {
+      "english": "If it fails, what should I do?",
+      "russian": "Если не пройдёт, что делать?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019386"
+    },
+    {
+      "english": "Can you help me, find the right section?",
+      "russian": "Поможете мне, найти нужный раздел?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019391"
+    },
+    {
+      "english": "Is there a limit, on card transfers?",
+      "russian": "Есть ли лимит, на переводы с карты?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019394"
+    },
+    {
+      "english": "Where can I see my monthly expenses?",
+      "russian": "Где посмотреть мои расходы за месяц?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019397"
+    },
+    {
+      "english": "Can I block my card, right now?",
+      "russian": "Могу ли я заблокировать карту, прямо сейчас?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019400"
+    },
+    {
+      "english": "Do you have a hotline for card issues?",
+      "russian": "Есть ли горячая линия, по проблемам с картой?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019403"
+    },
+    {
+      "english": "Is it safe to share a code?",
+      "russian": "Безопасно ли сообщать код?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019405"
+    },
+    {
+      "english": "What’s the difference, between debit and credit?",
+      "russian": "В чём разница, между дебетовой и кредитной?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019410"
+    },
+    {
+      "english": "How long does a transfer usually take?",
+      "russian": "Сколько обычно идёт перевод?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019412"
+    },
+    {
+      "english": "Can I pay from savings, not salary?",
+      "russian": "Могу ли я платить, из накоплений?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019416"
+    },
+    {
+      "english": "Do banks send notifications, after payments?",
+      "russian": "Приходят ли уведомления, после оплаты?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019418"
+    },
+    {
+      "english": "What’s the interest, and when do they pay?",
+      "russian": "Какая ставка, и когда начисляют проценты?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019422"
+    },
+    {
+      "english": "Can I close the account, later?",
+      "russian": "Можно ли закрыть счёт, потом?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019425"
+    },
+    {
+      "english": "Do you need a reason, to apply for a loan?",
+      "russian": "Нужна ли причина, чтобы оформить кредит?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019427"
+    },
+    {
+      "english": "What documents do they ask for, for loans?",
+      "russian": "Какие документы обычно спрашивают, для кредита?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019430"
+    },
+    {
+      "english": "If I repay early, do I pay extra?",
+      "russian": "Если погасить раньше, будет комиссия?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019432"
+    },
+    {
+      "english": "Could you explain, what APR means here?",
+      "russian": "Можете объяснить, что значит ставка годовых?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019435"
+    },
+    {
+      "english": "Is there a discount, for using the app?",
+      "russian": "Есть ли скидка, если платить через приложение?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019437"
+    },
+    {
+      "english": "Should I keep receipts for everything?",
+      "russian": "Нужно ли сохранять чеки, после покупок?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019440"
+    },
+    {
+      "english": "What’s your advice, for avoiding fees?",
+      "russian": "Что посоветуете, чтобы не платить лишнее?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019443"
+    },
+    {
+      "english": "Small wins today, bigger money tomorrow.",
+      "russian": "Маленькие победы сегодня, большие деньги завтра.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019446"
+    },
+    {
+      "english": "Keep your focus, money follows your habits.",
+      "russian": "Держи фокус, деньги идут за твоими привычками.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019449"
+    },
+    {
+      "english": "Stay calm, banking changes fast.",
+      "russian": "Оставайся спокойным, банк меняется быстро.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019453"
+    },
+    {
+      "english": "Good job, you’re making smarter choices.",
+      "russian": "Отлично, ты делаешь более умные выборы.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019706"
+    },
+    {
+      "english": "Trust the process, you’re building momentum.",
+      "russian": "Доверься процессу, ты набираешь обороты.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019718"
+    },
+    {
+      "english": "Ask yourself, what’s the next smart move?",
+      "russian": "Спроси себя, какой следующий умный шаг?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019724"
+    },
+    {
+      "english": "Don’t stress, you can adjust anytime.",
+      "russian": "Не переживай, всё можно подправить.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019729"
+    },
+    {
+      "english": "You’re in control, keep it simple.",
+      "russian": "Ты управляешь, пусть будет проще.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019735"
+    },
+    {
+      "english": "Let your goals guide every payment.",
+      "russian": "Пусть твои цели ведут каждый платёж.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019742"
+    },
+    {
+      "english": "Celebrate progress, not just big outcomes.",
+      "russian": "Хвали прогресс, не только большие результаты.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019745"
+    },
+    {
+      "english": "Be patient, compound growth rewards you.",
+      "russian": "Наберись терпения, сложный рост тебя наградит.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019748"
+    },
+    {
+      "english": "Today you learn, tomorrow you earn more.",
+      "russian": "Сегодня ты учишься, завтра зарабатываешь больше.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019751"
+    },
+    {
+      "english": "No shame in mistakes, improve and move on.",
+      "russian": "В ошибках нет стыда, исправляй и иди дальше.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019754"
+    },
+    {
+      "english": "Make money rules, follow them daily.",
+      "russian": "Сделай денежные правила, соблюдай каждый день.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019756"
+    },
+    {
+      "english": "You’re building wealth, even quietly.",
+      "russian": "Ты копишь капитал, даже не спеша.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019760"
+    },
+    {
+      "english": "Think long-term, short-term noise fades.",
+      "russian": "Думай на перспективу, временный шум уйдёт.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019763"
+    },
+    {
+      "english": "Keep receipts in mind, you’ll thank yourself.",
+      "russian": "Держи чеки в голове, потом скажешь спасибо.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019767"
+    },
+    {
+      "english": "Confidence is currency, spend it wisely.",
+      "russian": "Уверенность — валюта, трать её разумно.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019769"
+    },
+    {
+      "english": "Every check-in makes you smarter with money.",
+      "russian": "Каждая проверка делает тебя умнее в деньгах.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019772"
+    },
+    {
+      "english": "You don’t need luck, you need a plan.",
+      "russian": "Тебе не нужна удача, нужен план.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019775"
+    },
+    {
+      "english": "Choose one goal, and stick with it.",
+      "russian": "Выбери одну цель, и держись её.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019778"
+    },
+    {
+      "english": "If it’s unclear, ask, then act.",
+      "russian": "Если не ясно, спроси, потом действуй.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019782"
+    },
+    {
+      "english": "Consistency beats intensity, especially in banking.",
+      "russian": "Постоянство важнее вспышек, особенно в банке.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019787"
+    },
+    {
+      "english": "You’re allowed to start over, anytime.",
+      "russian": "Тебе можно начинать заново, в любой момент.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019790"
+    },
+    {
+      "english": "Set limits kindly, and your budget breathes.",
+      "russian": "Поставь мягкие лимиты, и бюджет дышит.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019792"
+    },
+    {
+      "english": "Take small steps, and the system works.",
+      "russian": "Делай маленькие шаги, и система заработает.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019795"
+    },
+    {
+      "english": "Your future self will thank you.",
+      "russian": "Твоё будущее «я» скажет спасибо.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019815"
+    },
+    {
+      "english": "Stay curious, banking language becomes easy.",
+      "russian": "Оставайся любопытным, банковский язык станет простым.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019820"
+    },
+    {
+      "english": "Be proud, you’re learning money habits fast.",
+      "russian": "Гордиcся собой, ты быстро учишь финансовые привычки.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019827"
+    },
+    {
+      "english": "I’m anxious, but I’ll check the terms first.",
+      "russian": "Я волнуюсь, но сначала проверю условия.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019832"
+    },
+    {
+      "english": "Honestly, I don’t want hidden fees today.",
+      "russian": "Честно, я не хочу скрытых комиссий сегодня.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019838"
+    },
+    {
+      "english": "I needed time, the decision wasn’t rushed.",
+      "russian": "Мне нужно было время, решение не спешили.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019844"
+    },
+    {
+      "english": "I’m proud, I managed my balance calmly.",
+      "russian": "Мне приятно, я спокойно держу баланс.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019851"
+    },
+    {
+      "english": "I keep doubting, so I read everything twice.",
+      "russian": "Я сомневаюсь, поэтому читаю всё дважды.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019857"
+    },
+    {
+      "english": "This month felt tight, I adjusted gradually.",
+      "russian": "Этот месяц был туговат, я подстроился по шагам.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019867"
+    },
+    {
+      "english": "I want clarity, tell me plainly, please.",
+      "russian": "Мне нужна ясность, скажите прямо, пожалуйста.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019874"
+    },
+    {
+      "english": "I’m learning, mistakes happen, I don’t panic.",
+      "russian": "Я учусь, ошибки случаются, я не паникую.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019883"
+    },
+    {
+      "english": "When I wait, I make better money choices.",
+      "russian": "Когда я жду, я принимаю решения лучше.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019889"
+    },
+    {
+      "english": "It’s okay to slow down, don’t rush.",
+      "russian": "Можно притормозить, не надо спешить.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019896"
+    },
+    {
+      "english": "I’m not chasing hype, I’m building stability.",
+      "russian": "Я не гонюсь за хайпом, я строю стабильность.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019905"
+    },
+    {
+      "english": "I feel relieved, the payment went through smoothly.",
+      "russian": "Мне стало легче, платеж прошёл без проблем.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019912"
+    },
+    {
+      "english": "I don’t want surprises, show me the full picture.",
+      "russian": "Я не хочу сюрпризов, покажите полную картину.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019920"
+    },
+    {
+      "english": "I’m listening closely, financial decisions matter a lot.",
+      "russian": "Я внимательно слушаю, финансовые решения важны.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019929"
+    },
+    {
+      "english": "I’m trying to be patient, interest takes time.",
+      "russian": "Я стараюсь быть терпеливым, проценты растут не сразу.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019937"
+    },
+    {
+      "english": "I admit it, I overthink rates sometimes.",
+      "russian": "Признаюсь, я иногда слишком думаю про ставки.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019948"
+    },
+    {
+      "english": "I want to feel safe, so I ask questions.",
+      "russian": "Я хочу чувствовать себя спокойно, поэтому задаю вопросы.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019955"
+    },
+    {
+      "english": "Let’s not guess, I prefer exact numbers.",
+      "russian": "Давайте не гадать, мне нужны точные цифры.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019962"
+    },
+    {
+      "english": "I’m choosing honesty, no shortcuts with my money.",
+      "russian": "Я выбираю честность, с деньгами без обходных путей.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019971"
+    },
+    {
+      "english": "I felt stuck, then I started budgeting.",
+      "russian": "Я чувствовал себя в тупике, потом начал бюджет.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019977"
+    },
+    {
+      "english": "It’s okay to ask twice, I learn that way.",
+      "russian": "Ничего, если спросить дважды, так я лучше учусь.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019984"
+    },
+    {
+      "english": "I’m proud I stayed within my limit.",
+      "russian": "Мне приятно, что я уложился в лимит.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019991"
+    },
+    {
+      "english": "I don’t judge my spending, I adjust calmly.",
+      "russian": "Я не ругаю себя за траты, я просто корректирую.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.019999"
+    },
+    {
+      "english": "I want to understand the fees, not fear them.",
+      "russian": "Я хочу разобраться в комиссиях, а не бояться их.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.020005"
+    },
+    {
+      "english": "Sometimes I’m impatient, but I pause before sending.",
+      "russian": "Иногда я нетерпеливый, но я притормаживаю перед отправкой.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.020013"
+    },
+    {
+      "english": "I’m grateful for clear answers, it lowers stress.",
+      "russian": "Я благодарен за ясные ответы, так меньше тревоги.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.020020"
+    },
+    {
+      "english": "If it feels risky, I slow down again.",
+      "russian": "Если кажется рискованным, я снова замедляюсь.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.020026"
+    },
+    {
+      "english": "I’m steady today, tomorrow will be easier.",
+      "russian": "Сегодня я собранный, завтра будет легче.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.020032"
+    },
+    {
+      "english": "I’m honest with myself, I save what remains.",
+      "russian": "Я честен с собой, откладываю, что осталось.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.020037"
+    },
+    {
+      "english": "I’m building trust, one small payment at a time.",
+      "russian": "Я наращиваю доверие, по одному небольшому платежу.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.020042"
+    },
+    {
+      "english": "Before paying, I check the total amount.",
+      "russian": "Перед оплатой, я проверяю общую сумму.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.020051"
+    },
+    {
+      "english": "I ask for the receipt, right away.",
+      "russian": "Я прошу чек, сразу же.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.020056"
+    },
+    {
+      "english": "If something’s unclear, I call the bank.",
+      "russian": "Если что-то непонятно, я звоню в банк.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:19:34.020061"
     }
   ],
-  "last_updated": "2026-11-03T07:41:19.192760"
+  "last_updated": "2026-11-04T07:19:34.020065"
 }
