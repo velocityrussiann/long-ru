@@ -18803,7 +18803,727 @@
       "russian": "Если что-то непонятно, я звоню в банк.",
       "category": "Banking & Money",
       "generated_at": "2026-11-04T07:19:34.020061"
+    },
+    {
+      "english": "Excuse me, where is the check-in desk?",
+      "russian": "Извините, где стойка регистрации?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360272"
+    },
+    {
+      "english": "Hi, do I need to print my ticket?",
+      "russian": "Привет, мне нужно печатать билет?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360288"
+    },
+    {
+      "english": "Sorry, I’m lost, can you help?",
+      "russian": "Извините, я потерялся, вы можете помочь?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360291"
+    },
+    {
+      "english": "Can you speak a bit slower, please?",
+      "russian": "Можете говорить чуть медленнее, пожалуйста?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360293"
+    },
+    {
+      "english": "Great, thanks a lot, that helps!",
+      "russian": "Отлично, спасибо большое, очень помогло!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360295"
+    },
+    {
+      "english": "Where is the baggage drop counter?",
+      "russian": "Где находится стойка сдачи багажа?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360297"
+    },
+    {
+      "english": "I have only carry-on, is that okay?",
+      "russian": "У меня только ручная кладь, это нормально?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360299"
+    },
+    {
+      "english": "Is this line for international flights?",
+      "russian": "Это очередь на международные рейсы?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360303"
+    },
+    {
+      "english": "How long does security take, roughly?",
+      "russian": "Примерно, сколько занимает досмотр?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360305"
+    },
+    {
+      "english": "Do I need to take out my laptop?",
+      "russian": "Мне нужно доставать ноутбук?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360307"
+    },
+    {
+      "english": "Where’s the nearest restroom, please?",
+      "russian": "Где ближайший туалет, пожалуйста?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360309"
+    },
+    {
+      "english": "I’m boarding now, where’s gate number six?",
+      "russian": "Сейчас посадка, где выход номер шесть?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360313"
+    },
+    {
+      "english": "My flight is delayed, what’s the update?",
+      "russian": "Мой рейс задержали, что по времени?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360315"
+    },
+    {
+      "english": "Is there a transfer desk for connections?",
+      "russian": "Есть стойка для пересадки?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360317"
+    },
+    {
+      "english": "Can you check my boarding pass, please?",
+      "russian": "Проверьте, пожалуйста, мой посадочный талон.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360318"
+    },
+    {
+      "english": "Where do I pick up my suitcase?",
+      "russian": "Где я забираю чемодан?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360320"
+    },
+    {
+      "english": "My luggage didn’t arrive, what now?",
+      "russian": "Мой багаж не пришёл, что делать?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360322"
+    },
+    {
+      "english": "I think this is mine, right?",
+      "russian": "Я думаю, это мой, верно?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360324"
+    },
+    {
+      "english": "Please, I need help with customs.",
+      "russian": "Пожалуйста, мне нужна помощь с таможней.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360325"
+    },
+    {
+      "english": "Do I have to declare this?",
+      "russian": "Мне это нужно декларировать?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360327"
+    },
+    {
+      "english": "Okay, I’ll follow you, lead the way.",
+      "russian": "Хорошо, я пойду за вами, ведите.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360329"
+    },
+    {
+      "english": "Wait, my phone battery is dead.",
+      "russian": "Подождите, у меня села батарейка.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360330"
+    },
+    {
+      "english": "Sorry, I don’t understand, can repeat?",
+      "russian": "Извините, я не понимаю, повторите, пожалуйста.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360333"
+    },
+    {
+      "english": "That’s my stop, thank you so much!",
+      "russian": "Это моя остановка, большое спасибо!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360335"
+    },
+    {
+      "english": "Where can I buy a sim card?",
+      "russian": "Где можно купить сим-карту?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360336"
+    },
+    {
+      "english": "Is there Wi‑Fi in this terminal?",
+      "russian": "Здесь есть Wi‑Fi в терминале?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360338"
+    },
+    {
+      "english": "Do you accept cards, or only cash?",
+      "russian": "Вы принимаете карты, или только наличные?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360341"
+    },
+    {
+      "english": "How much is the luggage trolley?",
+      "russian": "Сколько стоит тележка для багажа?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360342"
+    },
+    {
+      "english": "I’m in a hurry, can we go faster?",
+      "russian": "Я тороплюсь, можно побыстрее?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360344"
+    },
+    {
+      "english": "Thanks, you just saved my day!",
+      "russian": "Спасибо, вы меня выручили!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360346"
+    },
+    {
+      "english": "Which documents do you need, passport or visa?",
+      "russian": "Какие документы нужны, паспорт или виза?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360348"
+    },
+    {
+      "english": "Where can I ask about baggage rules?",
+      "russian": "Где можно спросить про правила багажа?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360350"
+    },
+    {
+      "english": "Do I have to remove my belt at security?",
+      "russian": "Мне нужно снимать ремень на контроле?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360351"
+    },
+    {
+      "english": "What happens if I miss boarding time?",
+      "russian": "Что будет, если опоздаю на посадку?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360353"
+    },
+    {
+      "english": "Is there a lounge for business class passengers?",
+      "russian": "Есть ли лаунж для пассажиров бизнес-класса?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360355"
+    },
+    {
+      "english": "Can I change my seat, if needed?",
+      "russian": "Можно поменять место, если нужно?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360357"
+    },
+    {
+      "english": "Which gate number is shown on the screen?",
+      "russian": "Какой номер выхода показывает табло?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360358"
+    },
+    {
+      "english": "Do you have a checklist for transfer?",
+      "russian": "У вас есть список для пересадки?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360362"
+    },
+    {
+      "english": "How early should I arrive, usually?",
+      "russian": "Как рано обычно приезжать на регистрацию?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360364"
+    },
+    {
+      "english": "Is there a pharmacy inside this terminal?",
+      "russian": "Тут внутри есть аптека?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360365"
+    },
+    {
+      "english": "Where is the information desk, exactly?",
+      "russian": "Где именно стойка информации?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360367"
+    },
+    {
+      "english": "Can I get an aisle seat, please?",
+      "russian": "Можно мне место у прохода, пожалуйста?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360368"
+    },
+    {
+      "english": "If my flight changed, where do I look?",
+      "russian": "Если рейс поменялся, где смотреть?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360370"
+    },
+    {
+      "english": "Do I need to show tickets again?",
+      "russian": "Мне снова показывать билет нужно?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360372"
+    },
+    {
+      "english": "Is there a separate line for families?",
+      "russian": "Есть отдельная очередь для семей?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360373"
+    },
+    {
+      "english": "Can you recommend a good café nearby?",
+      "russian": "Подскажите, пожалуйста, хорошее кафе рядом.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360376"
+    },
+    {
+      "english": "How long is the walk to the gate?",
+      "russian": "Сколько идти до выхода?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360378"
+    },
+    {
+      "english": "Do you store luggage for a few hours?",
+      "russian": "Вы храните багаж на несколько часов?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360380"
+    },
+    {
+      "english": "Where do I refill my water bottle?",
+      "russian": "Где можно наполнить бутылку водой?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360381"
+    },
+    {
+      "english": "Is the last bus from the airport soon?",
+      "russian": "Последний автобус от аэропорта скоро?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360383"
+    },
+    {
+      "english": "Which payment methods do you take here?",
+      "russian": "Какие способы оплаты вы принимаете?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360385"
+    },
+    {
+      "english": "Do I need a visa for this country?",
+      "russian": "Для этой страны нужна виза?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360386"
+    },
+    {
+      "english": "Can I refill my medication at the pharmacy?",
+      "russian": "Могу ли я пополнить лекарства в аптеке?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360388"
+    },
+    {
+      "english": "Is there a desk for special assistance?",
+      "russian": "Есть ли стойка для помощи пассажирам?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360390"
+    },
+    {
+      "english": "Do I need to buy a boarding pass printout?",
+      "russian": "Мне обязательно печатать посадочный талон?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360392"
+    },
+    {
+      "english": "What’s the quickest way to arrivals?",
+      "russian": "Как быстрее добраться до прилётов?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360394"
+    },
+    {
+      "english": "Can I speak to a supervisor, please?",
+      "russian": "Могу я поговорить с руководителем?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360395"
+    },
+    {
+      "english": "Where do I stand if I have a priority tag?",
+      "russian": "Куда вставать, если у меня приоритет?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360397"
+    },
+    {
+      "english": "What should I do after immigration, next?",
+      "russian": "Что делать дальше после контроля паспортов?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360401"
+    },
+    {
+      "english": "Can I get directions to the baggage claim?",
+      "russian": "Подскажите, как пройти к выдаче багажа.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360403"
+    },
+    {
+      "english": "No stress, we’ll sort it out at check-in.",
+      "russian": "Без паники, на регистрации всё решим.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360406"
+    },
+    {
+      "english": "Where’s the fast line, if there is one?",
+      "russian": "Где здесь быстрая очередь, если она есть?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360408"
+    },
+    {
+      "english": "Take a number, please, don’t lose it.",
+      "russian": "Возьмите талон, пожалуйста, не потеряйте.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360410"
+    },
+    {
+      "english": "It’s running late, so expect delays.",
+      "russian": "Задержка, значит, могут быть опоздания.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360412"
+    },
+    {
+      "english": "This way, straight ahead, no turning back.",
+      "russian": "Сюда, прямо, назад не сворачивайте.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360414"
+    },
+    {
+      "english": "Keep your boarding pass handy, just in case.",
+      "russian": "Билет держите под рукой, на всякий случай.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360416"
+    },
+    {
+      "english": "They’ll call your group, listen carefully.",
+      "russian": "Твою группу вызовут, слушайте внимательно.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360418"
+    },
+    {
+      "english": "If something goes wrong, ask right away.",
+      "russian": "Если что-то пошло не так, сразу подходите.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360420"
+    },
+    {
+      "english": "Carry-on stays with you, don’t check it.",
+      "russian": "Ручная кладь — с вами, не сдавайте её.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360422"
+    },
+    {
+      "english": "I’ll follow the signs, they’ll guide me.",
+      "russian": "Пойду по указателям, они выведут.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360425"
+    },
+    {
+      "english": "Better late than never, so let’s hurry.",
+      "russian": "Лучше поздно, чем никогда, давайте быстрее.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360427"
+    },
+    {
+      "english": "Your bag will come, it always shows up.",
+      "russian": "Чемодан найдётся, обычно всё приезжает.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360428"
+    },
+    {
+      "english": "Mind the gap, please, watch your step.",
+      "russian": "Осторожно, не оступитесь, здесь ступеньки.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360430"
+    },
+    {
+      "english": "Take it easy, boarding starts soon.",
+      "russian": "Спокойно, посадка скоро начнётся.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360432"
+    },
+    {
+      "english": "Let’s check our gate, before it changes.",
+      "russian": "Давайте проверим выход, вдруг перенесли.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360434"
+    },
+    {
+      "english": "From here it’s a short walk, don’t rush.",
+      "russian": "Отсюда недалеко, не бегите.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360441"
+    },
+    {
+      "english": "I’m here, I’m on the move now.",
+      "russian": "Я на месте, сейчас двигаюсь.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360443"
+    },
+    {
+      "english": "When in doubt, show the staff your phone.",
+      "russian": "Если сомневаетесь, покажите им билет в телефоне.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360445"
+    },
+    {
+      "english": "No worries, delays happen, it’s normal here.",
+      "russian": "Ничего страшного, задержки бывают, это нормально.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360448"
+    },
+    {
+      "english": "Is the bus stand near departures, right?",
+      "russian": "Остановка автобуса у вылетов, верно?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360450"
+    },
+    {
+      "english": "I need to declare items, where’s the desk?",
+      "russian": "Мне нужно задекларировать, где стойка?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360452"
+    },
+    {
+      "english": "The queue moves slowly, don’t lose time.",
+      "russian": "Очередь тянется, не теряйте время.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360454"
+    },
+    {
+      "english": "I’ll wait here, you handle the paperwork.",
+      "russian": "Я подожду здесь, а вы оформляйте документы.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360456"
+    },
+    {
+      "english": "Where do we show passport again, exactly?",
+      "russian": "Где ещё раз показывать паспорт, уточните?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360458"
+    },
+    {
+      "english": "Let’s keep it simple, straight to the gate.",
+      "russian": "Давайте проще, сразу к выходу.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360461"
+    },
+    {
+      "english": "If your flight is changed, check the board.",
+      "russian": "Если рейс поменяли, смотрите табло.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360463"
+    },
+    {
+      "english": "I’ll take an earlier option, just to be safe.",
+      "russian": "Возьму вариант пораньше, на всякий случай.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360465"
+    },
+    {
+      "english": "Do I carry the documents myself, or not?",
+      "russian": "Документы при мне, или отдают куда-то?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360467"
+    },
+    {
+      "english": "We made it, thanks, now we can breathe.",
+      "russian": "Успели, спасибо, теперь можно выдохнуть.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360469"
+    },
+    {
+      "english": "My status is confirmed, I’m good to go.",
+      "russian": "Статус подтверждён, я готов к посадке.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360473"
+    },
+    {
+      "english": "I’m nervous, but I’ll stay calm, okay?",
+      "russian": "Я волнуюсь, но я останусь спокойным, ладно?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360475"
+    },
+    {
+      "english": "Traveling alone, I feel braver than before.",
+      "russian": "Путешествовать одной, я чувствую себя смелее.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360477"
+    },
+    {
+      "english": "In lines, I’m patient, even when it’s slow.",
+      "russian": "В очередях я терпеливый, даже когда медленно.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360480"
+    },
+    {
+      "english": "I just need clarity, not panic, please.",
+      "russian": "Мне нужна ясность, а не паника, пожалуйста.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360482"
+    },
+    {
+      "english": "Honestly, I forget things when I’m tired.",
+      "russian": "Честно говоря, я забываю, когда устал(а).",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360484"
+    },
+    {
+      "english": "I’m trying to be organized, but it’s hard.",
+      "russian": "Я стараюсь быть организованным(ой), но это трудно.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360486"
+    },
+    {
+      "english": "Wait, I’m thinking, then I’ll ask again.",
+      "russian": "Подожди, я думаю, потом снова спрошу.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360489"
+    },
+    {
+      "english": "I don’t like rushing, I prefer steady steps.",
+      "russian": "Мне не нравится спешка, мне спокойнее шаг за шагом.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360491"
+    },
+    {
+      "english": "I’m grateful, it helps to have a plan.",
+      "russian": "Я благодарен(а), с планом спокойнее.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360493"
+    },
+    {
+      "english": "I’m worried about my connection, not everything else.",
+      "russian": "Я переживаю за пересадку, не за остальное.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360495"
+    },
+    {
+      "english": "Let me breathe, then I’ll move forward.",
+      "russian": "Дайте мне выдохнуть, потом двинусь дальше.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360497"
+    },
+    {
+      "english": "I want to do it right, even slowly.",
+      "russian": "Я хочу сделать правильно, пусть даже медленно.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360499"
+    },
+    {
+      "english": "I feel calmer now, thank you for helping.",
+      "russian": "Сейчас мне спокойнее, спасибо, что помогли.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360501"
+    },
+    {
+      "english": "I don’t mind waiting, I just need updates.",
+      "russian": "Я не против ждать, мне важны обновления.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360503"
+    },
+    {
+      "english": "I’m trying not to overthink the announcements.",
+      "russian": "Я стараюсь не накручивать себя из-за объявлений.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360507"
+    },
+    {
+      "english": "This airport feels big, but I’ll manage.",
+      "russian": "Здесь всё большое, но я справлюсь.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360509"
+    },
+    {
+      "english": "I’m not sure, so I’ll ask kindly.",
+      "russian": "Я не уверен(а), поэтому спрошу вежливо.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360511"
+    },
+    {
+      "english": "I’m learning, mistakes happen, I’m okay with that.",
+      "russian": "Я учусь, ошибки случаются, я с этим справлюсь.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360514"
+    },
+    {
+      "english": "Right now, I need patience, not speed.",
+      "russian": "Сейчас мне нужна терпеливость, а не скорость.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360515"
+    },
+    {
+      "english": "I’m ready, but my hands are shaking a bit.",
+      "russian": "Я готов(а), но руки немного дрожат.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360518"
+    },
+    {
+      "english": "I’m proud of myself, I came prepared.",
+      "russian": "Я собой горжусь, я пришёл(ла) подготовленным(ой).",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360520"
+    },
+    {
+      "english": "I try to stay honest, I need help.",
+      "russian": "Я стараюсь быть честным(ой), мне нужна помощь.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360522"
+    },
+    {
+      "english": "Please, take your time, I’ll wait calmly.",
+      "russian": "Пожалуйста, не торопитесь, я подожду спокойно.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360524"
+    },
+    {
+      "english": "I keep checking my phone, it eases my fear.",
+      "russian": "Я всё время смотрю в телефон, так мне спокойнее.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360526"
+    },
+    {
+      "english": "I feel silly asking twice, but I must.",
+      "russian": "Мне неловко спрашивать дважды, но мне нужно.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360528"
+    },
+    {
+      "english": "Honestly, I don’t want to miss anything important.",
+      "russian": "Честно, я не хочу пропустить ничего важного.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360532"
+    },
+    {
+      "english": "I’m listening, even if my Russian is imperfect.",
+      "russian": "Я слушаю, даже если мой русский не идеальный.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360534"
+    },
+    {
+      "english": "I’ll slow down, I’d rather be careful.",
+      "russian": "Я сбавлю темп, лучше быть внимательным(ой).",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360536"
+    },
+    {
+      "english": "I’m okay with change, I just need notice.",
+      "russian": "Я нормально отношусь к изменениям, лишь бы предупредили.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360539"
+    },
+    {
+      "english": "After all this, I’ll finally feel relief.",
+      "russian": "После всего этого я наконец почувствую облегчение.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-05T07:46:32.360541"
     }
   ],
-  "last_updated": "2026-11-04T07:19:34.020065"
+  "last_updated": "2026-11-05T07:46:32.360543"
 }
