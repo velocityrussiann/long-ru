@@ -19523,7 +19523,727 @@
       "russian": "После всего этого я наконец почувствую облегчение.",
       "category": "Travel & Airport",
       "generated_at": "2026-11-05T07:46:32.360541"
+    },
+    {
+      "english": "Are you okay, do you feel better now?",
+      "russian": "Ты в порядке, тебе уже лучше?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.843968"
+    },
+    {
+      "english": "Oh no, are you hurt, where?",
+      "russian": "Ой нет, ты ранен, где болит?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.843988"
+    },
+    {
+      "english": "Hold on, breathe slowly, you’ve got this.",
+      "russian": "Подожди, дыши медленно, справишься.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.843991"
+    },
+    {
+      "english": "Call an ambulance, like, right now.",
+      "russian": "Вызови скорую, прямо сейчас, пожалуйста.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.843994"
+    },
+    {
+      "english": "Let me help, sit down, please.",
+      "russian": "Я помогу, присядь, пожалуйста.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.843996"
+    },
+    {
+      "english": "Don’t move, I’m checking your injury.",
+      "russian": "Не двигайся, я посмотрю, что там.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.843998"
+    },
+    {
+      "english": "Drink some water, take small sips.",
+      "russian": "Выпей воды, по чуть-чуть.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844001"
+    },
+    {
+      "english": "Tell me what happened, step by step.",
+      "russian": "Скажи, что случилось, по порядку.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844006"
+    },
+    {
+      "english": "Do you have medicine, what should I get?",
+      "russian": "У тебя есть лекарства, что принести?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844008"
+    },
+    {
+      "english": "That looks serious, let’s call someone.",
+      "russian": "Похоже, это серьёзно, давай позвоним.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844012"
+    },
+    {
+      "english": "What’s your temperature, is it high?",
+      "russian": "Какая у тебя температура, высокая?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844014"
+    },
+    {
+      "english": "Do you feel dizzy, sit down quickly.",
+      "russian": "Кружится голова, быстро присядь.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844016"
+    },
+    {
+      "english": "I’m not sure, but you need a doctor.",
+      "russian": "Я не уверен, но тебе к врачу надо.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844018"
+    },
+    {
+      "english": "Lie down, keep warm, don’t panic.",
+      "russian": "Ляг, укройся, не паникуй.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844020"
+    },
+    {
+      "english": "Do you have an allergy, anything I should know?",
+      "russian": "У тебя бывает аллергия, важно?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844022"
+    },
+    {
+      "english": "Stop coughing, breathe through your nose.",
+      "russian": "Перестань кашлять, дыши носом.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844024"
+    },
+    {
+      "english": "Where does it hurt, right here?",
+      "russian": "Где болит, вот здесь?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844026"
+    },
+    {
+      "english": "Bring ice, put it on gently.",
+      "russian": "Принеси лёд, приложи аккуратно.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844027"
+    },
+    {
+      "english": "Take it easy, you’ll feel better soon.",
+      "russian": "Успокойся, скоро станет легче.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844029"
+    },
+    {
+      "english": "Is the pain getting worse, or better?",
+      "russian": "Боль усиливается, или отпускает?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844031"
+    },
+    {
+      "english": "Do you need water, or a doctor?",
+      "russian": "Тебе воду или врача вызвать?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844032"
+    },
+    {
+      "english": "Okay, stay with me, don’t fall asleep.",
+      "russian": "Ладно, оставайся со мной, не засыпай.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844035"
+    },
+    {
+      "english": "I think you’ve got food poisoning, maybe.",
+      "russian": "Похоже на отравление, возможно.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844037"
+    },
+    {
+      "english": "Let’s rinse it now, it’ll help.",
+      "russian": "Промоем сейчас, станет легче.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844039"
+    },
+    {
+      "english": "That’s a bad cut, cover it fast.",
+      "russian": "Это сильный порез, закрой скорее.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844041"
+    },
+    {
+      "english": "Don’t touch it, I’ll disinfect.",
+      "russian": "Не трогай, я обработаю.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844043"
+    },
+    {
+      "english": "If you faint, I’m calling emergency.",
+      "russian": "Если упадёшь в обморок, я вызову скорую.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844045"
+    },
+    {
+      "english": "Do you have asthma, any inhaler?",
+      "russian": "У тебя есть астма, ингалятор есть?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844046"
+    },
+    {
+      "english": "Breathe, count to ten, you’re okay.",
+      "russian": "Дыши, считай до десяти, всё нормально.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844048"
+    },
+    {
+      "english": "Let’s get you home, you need rest.",
+      "russian": "Отвезём тебя домой, нужен отдых.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844050"
+    },
+    {
+      "english": "What happened, which symptom worries you most?",
+      "russian": "Что случилось, какой симптом вас больше всего тревожит?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844052"
+    },
+    {
+      "english": "Do you have chest pain, since when?",
+      "russian": "У вас боль в груди, с какого времени?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844054"
+    },
+    {
+      "english": "Can you talk normally, or it hurts?",
+      "russian": "Можете говорить нормально, или больно?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844057"
+    },
+    {
+      "english": "Any allergies, to medicines or food?",
+      "russian": "Есть аллергии, на лекарства или на еду?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844059"
+    },
+    {
+      "english": "Do you take any regular medications?",
+      "russian": "Вы принимаете какие-то лекарства постоянно?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844060"
+    },
+    {
+      "english": "Should I call someone for you, please?",
+      "russian": "Мне позвонить кому-нибудь вам, пожалуйста?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844062"
+    },
+    {
+      "english": "Is this sudden, or has it grown slowly?",
+      "russian": "Это началось резко, или постепенно усиливается?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844064"
+    },
+    {
+      "english": "Can you show where it hurts exactly?",
+      "russian": "Вы можете показать, где именно болит?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844066"
+    },
+    {
+      "english": "Did you hit your head, even a bit?",
+      "russian": "Вы ударились головой, даже немного?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844067"
+    },
+    {
+      "english": "Any nausea, vomiting, or stomach cramps?",
+      "russian": "Тошнит, была рвота, или болит живот?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844069"
+    },
+    {
+      "english": "Are you short of breath, when you talk?",
+      "russian": "Вам тяжело дышать, когда говорите?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844071"
+    },
+    {
+      "english": "Do you have a fever, or chills?",
+      "russian": "У вас температура, или озноб?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844079"
+    },
+    {
+      "english": "How long has this been going on?",
+      "russian": "Сколько это длится, как давно?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844081"
+    },
+    {
+      "english": "Did it start after food, or medication?",
+      "russian": "Это началось после еды, или после лекарства?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844082"
+    },
+    {
+      "english": "Do you feel weak, dizzy, or confused?",
+      "russian": "Вы чувствуете слабость, головокружение или спутанность?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844084"
+    },
+    {
+      "english": "Should I loosen your clothing, gently?",
+      "russian": "Мне ослабить одежду, аккуратно?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844086"
+    },
+    {
+      "english": "Is your breathing noisy, like wheezing?",
+      "russian": "Дыхание свистит, хрипит, это похоже на свист?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844161"
+    },
+    {
+      "english": "Can you take a slow breath for me?",
+      "russian": "Попробуйте вдохнуть медленно, пожалуйста.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844163"
+    },
+    {
+      "english": "Do you have diabetes, or high sugar?",
+      "russian": "У вас диабет, или повышенный сахар?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844164"
+    },
+    {
+      "english": "Have you eaten or drunk anything recently?",
+      "russian": "Вы недавно что-то ели или пили?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844166"
+    },
+    {
+      "english": "Is the pain sharp, burning, or cramping?",
+      "russian": "Боль резкая, жгучая, или тянущая?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844169"
+    },
+    {
+      "english": "Do you have an inhaler, or spacer?",
+      "russian": "У вас есть ингалятор, или спейсер?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844171"
+    },
+    {
+      "english": "What did you try already, and when?",
+      "russian": "Что вы уже пробовали, и когда?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844172"
+    },
+    {
+      "english": "Should we warm you up, or cool you?",
+      "russian": "Теплее сделать, или наоборот остудить?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844174"
+    },
+    {
+      "english": "Do you have a medical card or ID?",
+      "russian": "У вас есть медицинская карточка или документы?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844176"
+    },
+    {
+      "english": "Where are you right now, exactly?",
+      "russian": "Где вы сейчас, скажите точно, пожалуйста?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844178"
+    },
+    {
+      "english": "Is anyone with you, or are you alone?",
+      "russian": "Вы не один, или вы один/одна?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844180"
+    },
+    {
+      "english": "What do doctors know about your history?",
+      "russian": "Что врачи уже знают о вашей истории?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844182"
+    },
+    {
+      "english": "Can you rate the pain from one to ten?",
+      "russian": "Оцените боль по шкале, от одного до десяти.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844183"
+    },
+    {
+      "english": "Should I bring water, or hold off?",
+      "russian": "Принести воды, или пока не надо?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844185"
+    },
+    {
+      "english": "Hold on, I’ll help you, quick.",
+      "russian": "Потерпи, я помогу тебе, быстро.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844187"
+    },
+    {
+      "english": "Take it easy, don’t rush, okay?",
+      "russian": "Не спеши, полегче, хорошо?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844189"
+    },
+    {
+      "english": "It’s not a joke, we act now.",
+      "russian": "Тут не до шуток, действуем сейчас.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844191"
+    },
+    {
+      "english": "Let’s check, what exactly hurts, tell me.",
+      "russian": "Давай проверим, где именно болит, скажи.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844194"
+    },
+    {
+      "english": "Keep calm, you’ll get through this.",
+      "russian": "Спокойно, справишься, всё будет нормально.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844212"
+    },
+    {
+      "english": "The situation’s serious, don’t wait.",
+      "russian": "Ситуация серьёзная, не тяни.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844215"
+    },
+    {
+      "english": "I’m here, breathe normally, step by step.",
+      "russian": "Я рядом, дыши спокойно, по чуть-чуть.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844218"
+    },
+    {
+      "english": "Is it getting worse, right now, fast?",
+      "russian": "Становится хуже прямо сейчас, быстро?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844220"
+    },
+    {
+      "english": "Rinse with water, keep it clean.",
+      "russian": "Промой водой, чтобы было чисто.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844222"
+    },
+    {
+      "english": "Don’t rub it, let it heal.",
+      "russian": "Не трогай и не трись, пусть заживает.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844225"
+    },
+    {
+      "english": "Better call now, while it’s fresh.",
+      "russian": "Лучше звонить сейчас, пока не поздно.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844227"
+    },
+    {
+      "english": "You shouldn’t be alone, stay with me.",
+      "russian": "Тебе нельзя одному, будь со мной.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844229"
+    },
+    {
+      "english": "If it’s bad, don’t pretend, speak up.",
+      "russian": "Если плохо, не геройствуй, скажи.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844233"
+    },
+    {
+      "english": "We’ll cool it down, not too much.",
+      "russian": "Остудим потихоньку, без фанатизма.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844235"
+    },
+    {
+      "english": "You’re in shock, it happens, listen.",
+      "russian": "Ты в шоке, такое бывает, не пугайся.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844237"
+    },
+    {
+      "english": "Quick check, any dizziness, yes or no?",
+      "russian": "Быстро, голова кружится, да или нет?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844240"
+    },
+    {
+      "english": "Lie down, rest a bit, don’t stand.",
+      "russian": "Ляг, отдохни немного, не вставай.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844242"
+    },
+    {
+      "english": "Keep warm, your body needs it.",
+      "russian": "Держи тепло, организму надо.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844244"
+    },
+    {
+      "english": "Let’s loosen the belt, you’ll breathe easier.",
+      "russian": "Расстегни ремень, так будет легче дышать.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844246"
+    },
+    {
+      "english": "This won’t wait, go to the doctor.",
+      "russian": "Так нельзя тянуть, к врачу немедленно.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844248"
+    },
+    {
+      "english": "Keep the phone ready, we’ll call.",
+      "russian": "Телефон держи под рукой, позвоним.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844260"
+    },
+    {
+      "english": "Don’t eat yet, wait and see first.",
+      "russian": "Пока не ешь, сперва посмотрим.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844263"
+    },
+    {
+      "english": "Your skin looks pale, let me check.",
+      "russian": "Ты бледный, давай посмотрю.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844264"
+    },
+    {
+      "english": "If you feel worse, say it immediately.",
+      "russian": "Станет хуже — сразу говори.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844267"
+    },
+    {
+      "english": "It might be allergy, watch for swelling.",
+      "russian": "Похоже на аллергию, следи за отёком.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844269"
+    },
+    {
+      "english": "Better safe than sorry, call an ambulance.",
+      "russian": "Лучше перебдеть, чем недобдеть, звони в скорую.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844270"
+    },
+    {
+      "english": "You’ve got this, just focus on breathing.",
+      "russian": "Ты справишься, просто сосредоточься на дыхании.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844273"
+    },
+    {
+      "english": "No heroics, sit down, we handle it.",
+      "russian": "Без геройства, садись, мы разберёмся.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844275"
+    },
+    {
+      "english": "Let’s move you carefully, one step at time.",
+      "russian": "Переместим тебя аккуратно, шаг за шагом.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844277"
+    },
+    {
+      "english": "Tell me what you can, short answers.",
+      "russian": "Скажи, что можешь, коротко.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844281"
+    },
+    {
+      "english": "I’m nervous, but we’ll handle it calmly.",
+      "russian": "Я волнуюсь, но мы справимся спокойно.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844283"
+    },
+    {
+      "english": "Honestly, I need you to breathe slower.",
+      "russian": "Честно, тебе нужно дышать медленнее.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844285"
+    },
+    {
+      "english": "Take a moment, don’t answer in a rush.",
+      "russian": "Постой минутку, не отвечай наспех.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844287"
+    },
+    {
+      "english": "I’m listening, tell me what you feel inside.",
+      "russian": "Я слушаю, скажи, что ты чувствуешь внутри.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844289"
+    },
+    {
+      "english": "My instinct says, wait and watch closely.",
+      "russian": "У меня инстинкт: наблюдаем внимательно.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844291"
+    },
+    {
+      "english": "You can be scared, that’s normal.",
+      "russian": "Бояться можно, это нормально.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844294"
+    },
+    {
+      "english": "Let’s be patient, it takes time to settle.",
+      "russian": "Давай терпеливо, нужно время, чтобы отпустило.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844296"
+    },
+    {
+      "english": "I’m sorry you’re going through this.",
+      "russian": "Мне жаль, что ты через это проходишь.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844298"
+    },
+    {
+      "english": "We’ll keep checking, even if it eases.",
+      "russian": "Мы будем проверять, даже если отпускает.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844300"
+    },
+    {
+      "english": "Right now, just focus on your comfort.",
+      "russian": "Сейчас просто думай о твоём комфорте.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844302"
+    },
+    {
+      "english": "I can’t guess, describe the feeling plainly.",
+      "russian": "Я не могу гадать, опиши чувство простыми словами.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844304"
+    },
+    {
+      "english": "It’s okay to pause, take your time.",
+      "russian": "Ничего страшного, можно паузу, не торопись.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844307"
+    },
+    {
+      "english": "I want to understand, what changed today?",
+      "russian": "Мне нужно понять, что сегодня изменилось?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844309"
+    },
+    {
+      "english": "Please be honest, even small details matter.",
+      "russian": "Пожалуйста, будь честным, даже мелочи важны.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844311"
+    },
+    {
+      "english": "We’ll stay steady, no panic, just actions.",
+      "russian": "Мы будем действовать спокойно, без паники.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844314"
+    },
+    {
+      "english": "If you’re dizzy, tell me right away.",
+      "russian": "Если тебе кружится голова, скажи сразу.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844316"
+    },
+    {
+      "english": "I see you’re tense, it happens under stress.",
+      "russian": "Я вижу, ты напряжён, такое бывает при стрессе.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844319"
+    },
+    {
+      "english": "Let’s slow down, your body needs space.",
+      "russian": "Давай медленнее, телу нужен отдых.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844320"
+    },
+    {
+      "english": "I’m with you, but we need your focus.",
+      "russian": "Я рядом, но нам нужен твой фокус.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844322"
+    },
+    {
+      "english": "Don’t fight it, let’s go one step.",
+      "russian": "Не сопротивляйся, давай один шаг за раз.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844324"
+    },
+    {
+      "english": "I trust your signal, tell me what feels wrong.",
+      "russian": "Я верю твоему сигналу, скажи, что не так.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844326"
+    },
+    {
+      "english": "You’re not alone in this fear, okay?",
+      "russian": "Ты не один наедине со страхом, слышишь?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844328"
+    },
+    {
+      "english": "Give it a little time, we’ll reassess.",
+      "russian": "Дай немного времени, мы пересмотрим.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844332"
+    },
+    {
+      "english": "I’m staying calm, so you can too.",
+      "russian": "Я держу себя спокойно, чтобы тебе было легче.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844334"
+    },
+    {
+      "english": "If something feels off, don’t brush it off.",
+      "russian": "Если что-то кажется странным, не игнорируй.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844336"
+    },
+    {
+      "english": "I’m going to ask, answer as best you can.",
+      "russian": "Я спрошу, ответь как сможешь.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844338"
+    },
+    {
+      "english": "I’ve seen this before, but we still check.",
+      "russian": "Я такое уже видел, но мы всё равно проверим.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844340"
+    },
+    {
+      "english": "Let’s breathe together, keep your thoughts simple.",
+      "russian": "Дышим вместе, держи мысли простыми.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844342"
+    },
+    {
+      "english": "Right now, be kind to yourself, rest.",
+      "russian": "Сейчас будь к себе мягче, отдохни.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844344"
+    },
+    {
+      "english": "Call help first, then I’ll stay here.",
+      "russian": "Сначала позвони в помощь, а я останусь здесь.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-06T07:45:47.844346"
     }
   ],
-  "last_updated": "2026-11-05T07:46:32.360543"
+  "last_updated": "2026-11-06T07:45:47.844348"
 }
