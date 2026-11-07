@@ -20243,7 +20243,727 @@
       "russian": "Сначала позвони в помощь, а я останусь здесь.",
       "category": "Emergency & Health",
       "generated_at": "2026-11-06T07:45:47.844346"
+    },
+    {
+      "english": "Hold on a second, I’ll check that.",
+      "russian": "Подожди секунду, я это проверю.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699700"
+    },
+    {
+      "english": "Wait, I’m finishing this email now.",
+      "russian": "Подожди, я сейчас допишу это письмо.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699722"
+    },
+    {
+      "english": "One moment, I’m looking for the file.",
+      "russian": "Минуточку, я ищу этот файл.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699726"
+    },
+    {
+      "english": "Can you send it to my inbox?",
+      "russian": "Можешь отправить это в мой входящий?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699728"
+    },
+    {
+      "english": "I’ll be right back, don’t leave.",
+      "russian": "Я скоро вернусь, не уходи.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699731"
+    },
+    {
+      "english": "Sorry, I missed your message.",
+      "russian": "Извини, я пропустил твоё сообщение.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699733"
+    },
+    {
+      "english": "No problem, we can fix it.",
+      "russian": "Ничего страшного, мы это исправим.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699735"
+    },
+    {
+      "english": "Got it, I understand what you mean.",
+      "russian": "Понял, я понял твою мысль.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699740"
+    },
+    {
+      "english": "Let me think, give me a sec.",
+      "russian": "Дай мне подумать, секунду.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699743"
+    },
+    {
+      "english": "I’m on it, starting right now.",
+      "russian": "Я этим займусь, начну прямо сейчас.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699745"
+    },
+    {
+      "english": "Say that again, I didn’t catch it.",
+      "russian": "Повтори ещё раз, я не понял.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699748"
+    },
+    {
+      "english": "Do we have a meeting today?",
+      "russian": "У нас сегодня встреча?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699750"
+    },
+    {
+      "english": "Where is the meeting room?",
+      "russian": "Где находится переговорная?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699752"
+    },
+    {
+      "english": "I’ll bring the documents in a minute.",
+      "russian": "Я принесу документы через минуту.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699755"
+    },
+    {
+      "english": "I’ll save this for later.",
+      "russian": "Я сохраню это на потом.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699757"
+    },
+    {
+      "english": "Can I get your signature here?",
+      "russian": "Могу я здесь поставить подпись?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699759"
+    },
+    {
+      "english": "Please, confirm you received it.",
+      "russian": "Пожалуйста, подтвердите, что получили.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699762"
+    },
+    {
+      "english": "We’re running late, sorry.",
+      "russian": "Мы опаздываем, прости.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699764"
+    },
+    {
+      "english": "Let’s wrap it up, we’re done.",
+      "russian": "Давайте закроем вопрос, всё готово.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699767"
+    },
+    {
+      "english": "I’ll take notes during the call.",
+      "russian": "Я буду записывать во время звонка.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699769"
+    },
+    {
+      "english": "Don’t forget, send the report.",
+      "russian": "Не забудь, отправь отчёт.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699771"
+    },
+    {
+      "english": "That’s not what I meant.",
+      "russian": "Это не то, что я имел в виду.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699776"
+    },
+    {
+      "english": "Let me update you, quick summary.",
+      "russian": "Я быстро обновлю тебя, коротко.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699778"
+    },
+    {
+      "english": "Who should I contact for this?",
+      "russian": "Кому мне написать по этому вопросу?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699780"
+    },
+    {
+      "english": "I’m stuck, I can’t open this file.",
+      "russian": "Я застрял, не могу открыть этот файл.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699783"
+    },
+    {
+      "english": "Thanks for sorting this out.",
+      "russian": "Спасибо, что всё разрулил.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699785"
+    },
+    {
+      "english": "Great, it worked perfectly!",
+      "russian": "Отлично, всё сработало!",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699787"
+    },
+    {
+      "english": "Quick question, who’s our contact for HR?",
+      "russian": "Быстрый вопрос, кто наш контакт по HR?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699790"
+    },
+    {
+      "english": "Can you clarify, what’s the deadline here?",
+      "russian": "Можешь уточнить, какая тут дата дедлайна?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699793"
+    },
+    {
+      "english": "Do you prefer email or a call?",
+      "russian": "Тебе удобнее почта или звонок?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699797"
+    },
+    {
+      "english": "What should I prepare before the meeting?",
+      "russian": "Что мне подготовить перед встречей?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699799"
+    },
+    {
+      "english": "Could you advise me on this draft?",
+      "russian": "Можешь подсказать по этому черновику?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699801"
+    },
+    {
+      "english": "Is this format okay for the client?",
+      "russian": "Такой формат подойдет для клиента?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699803"
+    },
+    {
+      "english": "Where can I find the latest version?",
+      "russian": "Где найти самую последнюю версию?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699805"
+    },
+    {
+      "english": "Should I CC someone, or just you?",
+      "russian": "Кого мне поставить в копию, или только тебя?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699807"
+    },
+    {
+      "english": "Do we have priorities for this week?",
+      "russian": "Какие у нас приоритеты на эту неделю?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699809"
+    },
+    {
+      "english": "How urgent is this task, exactly?",
+      "russian": "Насколько срочно нужно это сделать?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699812"
+    },
+    {
+      "english": "Can we review it, before sending out?",
+      "russian": "Давай посмотрим, перед тем как отправить.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699814"
+    },
+    {
+      "english": "What’s the best way to report progress?",
+      "russian": "Как лучше отчитываться о прогрессе?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699817"
+    },
+    {
+      "english": "Who owns this project, officially?",
+      "russian": "Кто официально отвечает за этот проект?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699819"
+    },
+    {
+      "english": "Do we have budget approval already?",
+      "russian": "Бюджет уже согласовали?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699821"
+    },
+    {
+      "english": "Could you give me a quick status update?",
+      "russian": "Можешь коротко обновить статус?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699823"
+    },
+    {
+      "english": "Are there any blockers on your side?",
+      "russian": "У тебя есть какие-то блокеры?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699825"
+    },
+    {
+      "english": "Can I ask, who will sign off?",
+      "russian": "Скажи, кто будет утверждать?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699827"
+    },
+    {
+      "english": "What’s the plan, step by step?",
+      "russian": "Какой план, по шагам?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699829"
+    },
+    {
+      "english": "Should I use formal or casual tone?",
+      "russian": "Мне писать официально или проще?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699831"
+    },
+    {
+      "english": "How do you want the files named?",
+      "russian": "Как ты хочешь, чтобы файлы назывались?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699833"
+    },
+    {
+      "english": "Let’s align, what outcome do we need?",
+      "russian": "Давай сверимcя, какой результат нужен?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699836"
+    },
+    {
+      "english": "Can you point me to the instructions?",
+      "russian": "Подскажите, где инструкция для этого?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699838"
+    },
+    {
+      "english": "Is remote work allowed for this role?",
+      "russian": "Для этой должности можно работать удаленно?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699839"
+    },
+    {
+      "english": "What’s the next step after approval?",
+      "russian": "Что будет дальше после согласования?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699842"
+    },
+    {
+      "english": "Could we talk briefly, off the record?",
+      "russian": "Можем коротко обсудить, без протокола?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699844"
+    },
+    {
+      "english": "Do you need the numbers in a table?",
+      "russian": "Тебе нужны цифры в таблице?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699846"
+    },
+    {
+      "english": "If I’m late, should I message you?",
+      "russian": "Если я опоздаю, написать тебе?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699849"
+    },
+    {
+      "english": "Can we reschedule, due to delays?",
+      "russian": "Можно перенести встречу из-за задержек?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699855"
+    },
+    {
+      "english": "What do you think, is this ready?",
+      "russian": "Как думаешь, это уже готово?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699857"
+    },
+    {
+      "english": "Who’s joining, and what topics are covered?",
+      "russian": "Кто будет участвовать, и какие темы обсудим?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699860"
+    },
+    {
+      "english": "Breathe, reset your mind, then start again.",
+      "russian": "Соберись, выдохни, потом начинай заново.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699862"
+    },
+    {
+      "english": "Small steps win, focus on the next one.",
+      "russian": "Маленькими шагами, держись за следующий шаг.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699865"
+    },
+    {
+      "english": "Nice work, your effort really shows here.",
+      "russian": "Отлично, твоя работа тут реально видна.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699867"
+    },
+    {
+      "english": "Good job, keep that momentum going.",
+      "russian": "Молодец, не теряй этот темп.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699870"
+    },
+    {
+      "english": "Trust yourself, you can handle this task.",
+      "russian": "Поверь в себя, ты справишься с задачей.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699872"
+    },
+    {
+      "english": "Reset expectations, aim for steady improvement.",
+      "russian": "Снизь планку, работай на стабильный рост.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699874"
+    },
+    {
+      "english": "You’re learning fast, that’s already a win.",
+      "russian": "Ты учишься быстро, это уже победа.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699877"
+    },
+    {
+      "english": "Keep your chin up, tomorrow will be better.",
+      "russian": "Не падай духом, завтра будет лучше.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699879"
+    },
+    {
+      "english": "Start with what you can control, right now.",
+      "russian": "Начни с того, что под контролем, прямо сейчас.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699882"
+    },
+    {
+      "english": "Make it simple, one goal, one action.",
+      "russian": "Сделай проще, одна цель, одно действие.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699884"
+    },
+    {
+      "english": "Great call, that decision was spot-on.",
+      "russian": "Отличный выбор, решение было точным.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699886"
+    },
+    {
+      "english": "Don’t overthink, just draft the first version.",
+      "russian": "Не накручивай себя, набросай первую версию.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699891"
+    },
+    {
+      "english": "You’re on the right track, keep steering.",
+      "russian": "Ты на верном пути, продолжай вести.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699894"
+    },
+    {
+      "english": "Give yourself credit, you did the hard part.",
+      "russian": "Похвали себя, ты сделал самое сложное.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699896"
+    },
+    {
+      "english": "Let’s be calm, handle issues one by one.",
+      "russian": "Давайте спокойно, решаем проблемы по очереди.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699898"
+    },
+    {
+      "english": "Your attitude matters, it changes everything here.",
+      "russian": "Твой настрой решает, он меняет всё вокруг.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699903"
+    },
+    {
+      "english": "Keep it moving, even small progress counts.",
+      "russian": "Двигайся дальше, даже небольшой прогресс важен.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699906"
+    },
+    {
+      "english": "Focus on outcomes, then improve the process.",
+      "russian": "Смотри на результат, потом улучшим процесс.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699908"
+    },
+    {
+      "english": "Thanks, your help saved real time today.",
+      "russian": "Спасибо, твоя помощь реально сэкономила время.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699911"
+    },
+    {
+      "english": "You’ve done well, now we just refine.",
+      "russian": "Ты отлично справился, теперь только доводим.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699913"
+    },
+    {
+      "english": "Aim higher, but keep your steps realistic.",
+      "russian": "Планка выше, шаги делай по силам.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699915"
+    },
+    {
+      "english": "Ask for help early, don’t wait too long.",
+      "russian": "Зови на помощь заранее, не тянем слишком долго.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699918"
+    },
+    {
+      "english": "Celebrate wins quietly, then move on fast.",
+      "russian": "Празднуй победы тихо, и быстро дальше.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699920"
+    },
+    {
+      "english": "Stay focused, put the distractions aside for now.",
+      "russian": "Соберись, отвлекись потом, сейчас работаем.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699922"
+    },
+    {
+      "english": "Your effort will pay off, keep showing up.",
+      "russian": "Твои старания окупятся, просто продолжай.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699924"
+    },
+    {
+      "english": "No drama, we’ll fix it together.",
+      "russian": "Без драмы, вместе это поправим.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699927"
+    },
+    {
+      "english": "You’re improving, one day at a time.",
+      "russian": "Ты растёшь, шаг за шагом каждый день.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699930"
+    },
+    {
+      "english": "I’m a bit nervous, but I’ll manage.",
+      "russian": "Я немного нервничаю, но справлюсь.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699932"
+    },
+    {
+      "english": "Honestly, сегодня я выдохнул и стал спокойнее.",
+      "russian": "Честно, сегодня я выдохнул и стал спокойнее.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699939"
+    },
+    {
+      "english": "I need patience, the process takes time.",
+      "russian": "Мне нужна терпимость, процесс требует времени.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699941"
+    },
+    {
+      "english": "I’m learning to say no gently.",
+      "russian": "Я учусь говорить «нет» спокойно, без давления.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699952"
+    },
+    {
+      "english": "I feel relieved when things are clear.",
+      "russian": "Мне легче, когда всё становится понятным.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699954"
+    },
+    {
+      "english": "If I’m unsure, I ask questions.",
+      "russian": "Если я не уверен, я задаю вопросы.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699957"
+    },
+    {
+      "english": "I want to be honest about my limits.",
+      "russian": "Я хочу честно обозначить свои рамки.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699959"
+    },
+    {
+      "english": "Let’s slow down, I don’t want mistakes.",
+      "russian": "Давайте притормозим, я не хочу ошибок.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699961"
+    },
+    {
+      "english": "Today I’m focusing on steady progress, not speed.",
+      "russian": "Сегодня я держу курс на стабильный прогресс, не на скорость.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699964"
+    },
+    {
+      "english": "I’m frustrated, but I’ll keep it constructive.",
+      "russian": "Я злюсь, но постараюсь держать разговор конструктивным.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699967"
+    },
+    {
+      "english": "I’m worried the deadline might slip.",
+      "russian": "Боюсь, что дедлайн может съехать.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699970"
+    },
+    {
+      "english": "I’m trying to stay present, not panic.",
+      "russian": "Я стараюсь быть в моменте, а не паниковать.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699972"
+    },
+    {
+      "english": "It helps me to write things down.",
+      "russian": "Мне помогает записывать всё по пунктам.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699974"
+    },
+    {
+      "english": "I don’t want to rush this decision.",
+      "russian": "Я не хочу торопить это решение.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699977"
+    },
+    {
+      "english": "I appreciate calm feedback, it really works.",
+      "russian": "Мне очень помогает спокойная обратная связь.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699979"
+    },
+    {
+      "english": "I’m looking for clarity, not blame.",
+      "russian": "Мне нужна ясность, а не поиск виноватых.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699981"
+    },
+    {
+      "english": "I’ll take ownership, even if it’s messy.",
+      "russian": "Я возьму ответственность, даже если там хаос.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699984"
+    },
+    {
+      "english": "I’m proud of how we handled it.",
+      "russian": "Я горжусь тем, как мы это вырулили.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699986"
+    },
+    {
+      "english": "Sometimes I need a minute to think.",
+      "russian": "Иногда мне нужно минуту, чтобы собраться.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699988"
+    },
+    {
+      "english": "I’m being careful, I don’t want to mislead.",
+      "russian": "Я осторожничаю, не хочу ввести в заблуждение.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699991"
+    },
+    {
+      "english": "I want this meeting to be respectful.",
+      "russian": "Я хочу, чтобы встреча была уважительной.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699993"
+    },
+    {
+      "english": "I’m not there yet, but I’m improving.",
+      "russian": "Я пока не на месте, но уже улучшаюсь.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699995"
+    },
+    {
+      "english": "I feel better when priorities are clear.",
+      "russian": "Мне спокойнее, когда приоритеты ясны.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.699997"
+    },
+    {
+      "english": "I’m choosing honesty, even if it’s awkward.",
+      "russian": "Я выбираю честность, даже если это неловко.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.700000"
+    },
+    {
+      "english": "I’m learning to manage stress at work.",
+      "russian": "Я учусь справляться со стрессом на работе.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.700002"
+    },
+    {
+      "english": "Give me a moment, I’ll respond soon.",
+      "russian": "Дайте мне минутку, я скоро отвечу.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.700004"
+    },
+    {
+      "english": "I’d rather talk now than stew later.",
+      "russian": "Лучше обсудить сейчас, чем потом переживать.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.700006"
+    },
+    {
+      "english": "I’m okay with feedback, just be specific.",
+      "russian": "Мне окей с фидбэком, только скажите конкретно.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.700009"
+    },
+    {
+      "english": "I’m trying not to overpromise today.",
+      "russian": "Я пытаюсь сегодня не обещать лишнего.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.700013"
+    },
+    {
+      "english": "Thanks for listening, it helped me.",
+      "russian": "Спасибо, что выслушали, мне стало легче.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.700015"
+    },
+    {
+      "english": "Quick check, what’s the priority today?",
+      "russian": "Быстрый вопрос, какая сегодня приоритетная задача?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.700018"
+    },
+    {
+      "english": "Can you send it by noon, please?",
+      "russian": "Можешь отправить это к обеду, пожалуйста?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.700020"
+    },
+    {
+      "english": "Before I book it, confirm the details.",
+      "russian": "Прежде чем бронировать, уточни детали, пожалуйста.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.700022"
+    },
+    {
+      "english": "I’ll draft a plan, you review first.",
+      "russian": "Я набросаю план, ты сначала посмотришь.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.700027"
+    },
+    {
+      "english": "Let’s set boundaries, no calls after six.",
+      "russian": "Давай обозначим границы, после шести не звоним.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.700031"
+    },
+    {
+      "english": "I’ll keep the chat short, promise.",
+      "russian": "Я сделаю чат коротким, обещаю.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T06:53:57.700034"
     }
   ],
-  "last_updated": "2026-11-06T07:45:47.844348"
+  "last_updated": "2026-11-07T06:53:57.700036"
 }
