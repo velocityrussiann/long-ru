@@ -20963,7 +20963,727 @@
       "russian": "Я сделаю чат коротким, обещаю.",
       "category": "Work & Office",
       "generated_at": "2026-11-07T06:53:57.700034"
+    },
+    {
+      "english": "Ready to train, let's go, right now",
+      "russian": "Готов тренироваться, давай, прямо сейчас",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338732"
+    },
+    {
+      "english": "Quick warm-up, don't skip it, please",
+      "russian": "Быстрая разминка, не пропускай, пожалуйста",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338747"
+    },
+    {
+      "english": "Breathe, relax, keep the pace",
+      "russian": "Дыши, расслабься, держи темп",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338751"
+    },
+    {
+      "english": "No excuses, just show up, today",
+      "russian": "Без отговорок, просто приходи, сегодня",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338754"
+    },
+    {
+      "english": "How long do we rest between sets?",
+      "russian": "Сколько отдыхаем между подходами?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338757"
+    },
+    {
+      "english": "Nice burn, that feels so good",
+      "russian": "Ого, аж горит, прям кайф",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338760"
+    },
+    {
+      "english": "Again, same move, control your form",
+      "russian": "Ещё раз, то же движение, следи за техникой",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338764"
+    },
+    {
+      "english": "Careful, that's too heavy, slow down",
+      "russian": "Аккуратно, это тяжеловато, сбавь темп",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338769"
+    },
+    {
+      "english": "Hydrate now, water helps, trust me",
+      "russian": "Пей воду сейчас, она помогает, поверь",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338773"
+    },
+    {
+      "english": "I’m tired, but I’ll finish strong",
+      "russian": "Я устал, но добью нормально",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338777"
+    },
+    {
+      "english": "What’s the plan, coach, today?",
+      "russian": "Какой план, тренер, на сегодня?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338781"
+    },
+    {
+      "english": "Great job, you stayed consistent",
+      "russian": "Молодец, ты держишь регулярность",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338784"
+    },
+    {
+      "english": "Stop rushing, focus on quality reps",
+      "russian": "Хватит спешить, работай качественно",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338786"
+    },
+    {
+      "english": "That stretch is perfect, hold it",
+      "russian": "Эта растяжка супер, держи",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338789"
+    },
+    {
+      "english": "Ow, my shoulder, I need a break",
+      "russian": "Ой, плечо, надо сделать паузу",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338792"
+    },
+    {
+      "english": "Where’s the towel, I need it now",
+      "russian": "Где полотенце, оно мне сейчас нужно",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338797"
+    },
+    {
+      "english": "I can’t breathe, slow down, please",
+      "russian": "Я задыхаюсь, сбавь темп, пожалуйста",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338800"
+    },
+    {
+      "english": "Let’s cool down, stretch a little",
+      "russian": "Давай остыть, немного потянись",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338803"
+    },
+    {
+      "english": "Is this exercise safe, for me?",
+      "russian": "Это упражнение безопасно для меня?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338806"
+    },
+    {
+      "english": "That’s it, perfect, feel it",
+      "russian": "Вот так, идеально, прочувствуй",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338809"
+    },
+    {
+      "english": "I need more weight, next set",
+      "russian": "Мне нужен вес побольше, на следующем подходе",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338812"
+    },
+    {
+      "english": "No pain, no game—then warm up",
+      "russian": "Без боли нет игры, но сначала разогрейся",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338817"
+    },
+    {
+      "english": "Mind the form, not the speed",
+      "russian": "Смотри за техникой, не за скоростью",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338820"
+    },
+    {
+      "english": "My legs are shaking, but I’m in",
+      "russian": "Ноги дрожат, но я продолжаю",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338823"
+    },
+    {
+      "english": "Take a breather, then we continue",
+      "russian": "Передыши, потом продолжаем",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338826"
+    },
+    {
+      "english": "I’ll rest, then hit the next round",
+      "russian": "Я отдохну, потом за следующий раунд",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338829"
+    },
+    {
+      "english": "We’re almost done, keep the rhythm",
+      "russian": "Мы почти закончили, держи ритм",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338834"
+    },
+    {
+      "english": "After this, we’ll stretch, nice and easy",
+      "russian": "После этого потянемся, спокойно",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338838"
+    },
+    {
+      "english": "Do you have a class for beginners?",
+      "russian": "У вас есть тренировка для новичков?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338841"
+    },
+    {
+      "english": "Which workout should I do first, cardio?",
+      "russian": "С чего начать, с кардио?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338844"
+    },
+    {
+      "english": "How often do you train per week?",
+      "russian": "Сколько раз в неделю ты тренируешься?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338846"
+    },
+    {
+      "english": "What’s the best exercise for my back?",
+      "russian": "Какая тренировка лучше всего для спины?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338849"
+    },
+    {
+      "english": "Should I eat before training, or after?",
+      "russian": "Мне лучше поесть до тренировки или после?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338852"
+    },
+    {
+      "english": "What shoes are good for the gym?",
+      "russian": "Какая обувь лучше для спортзала?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338855"
+    },
+    {
+      "english": "Can I join your warm-up, please?",
+      "russian": "Можно я присоединюсь к разминке?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338857"
+    },
+    {
+      "english": "Is this weight too heavy for you?",
+      "russian": "Тебе этот вес не тяжёлый?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338860"
+    },
+    {
+      "english": "How do I adjust the machine settings?",
+      "russian": "Как настроить тренажёр правильно?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338863"
+    },
+    {
+      "english": "What should my heart rate feel like?",
+      "russian": "Какой пульс считается нормальным?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338866"
+    },
+    {
+      "english": "Any advice for avoiding sore muscles?",
+      "russian": "Как избежать сильной боли в мышцах?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338868"
+    },
+    {
+      "english": "Do I need a spotter for bench press?",
+      "russian": "Нужен ли мне страхующий для жима?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338871"
+    },
+    {
+      "english": "Can you correct my technique, please?",
+      "russian": "Можешь подсказать, как исправить технику?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338873"
+    },
+    {
+      "english": "How many reps do you recommend today?",
+      "russian": "Сколько повторений ты советуешь сегодня?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338876"
+    },
+    {
+      "english": "What’s a good rest time between sets?",
+      "russian": "Сколько отдыхать между подходами?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338879"
+    },
+    {
+      "english": "Should I train through light pain?",
+      "russian": "Тренироваться через лёгкую боль можно?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338881"
+    },
+    {
+      "english": "How do I breathe during squats?",
+      "russian": "Как дышать во время приседаний?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338884"
+    },
+    {
+      "english": "Is form more important than speed?",
+      "russian": "Правильная техника важнее скорости?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338886"
+    },
+    {
+      "english": "What should I focus on in this exercise?",
+      "russian": "На что здесь обратить внимание?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338889"
+    },
+    {
+      "english": "Do you warm up shoulders separately?",
+      "russian": "Ты разогреваешь плечи отдельно?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338893"
+    },
+    {
+      "english": "Can I get a quick plan for today?",
+      "russian": "Можешь дать короткий план на сегодня?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338896"
+    },
+    {
+      "english": "Which muscle group are we hitting now?",
+      "russian": "Мы сейчас работаем над какой группой мышц?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338900"
+    },
+    {
+      "english": "How do I know I’m progressing?",
+      "russian": "Как понять, что я прогрессирую?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338903"
+    },
+    {
+      "english": "Any stretches for tight hips, please?",
+      "russian": "Какие растяжки для тугих бёдер?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338906"
+    },
+    {
+      "english": "What’s your go-to workout for stamina?",
+      "russian": "Какой у тебя любимый тренинг на выносливость?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338909"
+    },
+    {
+      "english": "Should I cool down with light walking?",
+      "russian": "Разумно сделать лёгкую ходьбу после?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338912"
+    },
+    {
+      "english": "Is it okay to skip cardio sometimes?",
+      "russian": "Можно иногда пропускать кардио?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338914"
+    },
+    {
+      "english": "What time do you usually finish training?",
+      "russian": "Во сколько ты обычно заканчиваешь тренировку?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338917"
+    },
+    {
+      "english": "Where can I store my water bottle?",
+      "russian": "Куда положить бутылку с водой?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338919"
+    },
+    {
+      "english": "Can we swap exercises, I’m bored?",
+      "russian": "Можем поменять упражнение, мне скучно?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338922"
+    },
+    {
+      "english": "You’ve got this, one rep at a time",
+      "russian": "У тебя получится, по одному повтору",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338925"
+    },
+    {
+      "english": "Today you show up, that’s already progress",
+      "russian": "Сегодня ты пришёл, и это уже прогресс",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338929"
+    },
+    {
+      "english": "Small steps, big results, keep going",
+      "russian": "Маленькие шаги, большие результаты, не останавливайся",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338932"
+    },
+    {
+      "english": "Breathe steady, your body listens to you",
+      "russian": "Дыши ровно, тело тебя слушает",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338935"
+    },
+    {
+      "english": "Trust the process, even when it’s tough",
+      "russian": "Доверяй процессу, даже когда тяжело",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338938"
+    },
+    {
+      "english": "Give yourself credit, not just the workout",
+      "russian": "Хвали себя, не только тренировку",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338941"
+    },
+    {
+      "english": "One more set, and you prove it to yourself",
+      "russian": "Ещё один подход, и ты докажешь себе",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338944"
+    },
+    {
+      "english": "Your effort matters more than the mood",
+      "russian": "Твои усилия важнее настроения",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338946"
+    },
+    {
+      "english": "No drama, just focus, you’re building strength",
+      "russian": "Без драмы, просто фокус, ты растишь силу",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338950"
+    },
+    {
+      "english": "Focus on the win, not on the doubt",
+      "russian": "Думай о победе, а не о сомнениях",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338952"
+    },
+    {
+      "english": "You’re tougher than yesterday, believe it",
+      "russian": "Ты крепче, чем вчера, верь в это",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338956"
+    },
+    {
+      "english": "Rest is training too, don’t feel guilty",
+      "russian": "Отдых тоже тренировка, не вини себя",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338959"
+    },
+    {
+      "english": "Consistency beats intensity, stay calm and steady",
+      "russian": "Регулярность сильнее, чем рывки, держись ровно",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338964"
+    },
+    {
+      "english": "When it burns, you’re doing something right",
+      "russian": "Если жжёт, значит, ты всё делаешь правильно",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338967"
+    },
+    {
+      "english": "Make it easy to start, then it clicks",
+      "russian": "Сделай старт простым, и всё пойдёт",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338970"
+    },
+    {
+      "english": "Keep your promise, show up no matter what",
+      "russian": "Держи слово, приходи при любом настрое",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338973"
+    },
+    {
+      "english": "You don’t need perfect, you need progress",
+      "russian": "Тебе не нужна идеальность, тебе нужен прогресс",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338976"
+    },
+    {
+      "english": "Say it in your head, I can do this",
+      "russian": "Скажи себе, я могу, я справлюсь",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338979"
+    },
+    {
+      "english": "Celebrate the routine, it changes everything",
+      "russian": "Отмечай рутину, она меняет всё",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338982"
+    },
+    {
+      "english": "Form gets better when you slow down",
+      "russian": "Техника улучшается, когда замедляешься",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338984"
+    },
+    {
+      "english": "Your mind is the first muscle, train it",
+      "russian": "Твой разум — первая мышца, тренируй его",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338988"
+    },
+    {
+      "english": "Head up, shoulders back, confidence follows",
+      "russian": "Подними голову, расправь плечи, уверенность придёт",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.338992"
+    },
+    {
+      "english": "One workout can’t change you, but habits will",
+      "russian": "Одна тренировка не меняет, меняют привычки",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339006"
+    },
+    {
+      "english": "Be proud of effort, results come later",
+      "russian": "Гордись усилием, результат будет потом",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339009"
+    },
+    {
+      "english": "If you skip, restart fast, no excuses",
+      "russian": "Пропустил — быстро начинай снова, без отговорок",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339012"
+    },
+    {
+      "english": "Hydrate and your workout feels easier",
+      "russian": "Вода помогает, и тренировка идёт легче",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339014"
+    },
+    {
+      "english": "Switch the story, your body will follow",
+      "russian": "Смени историю, и тело тебя поддержит",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339017"
+    },
+    {
+      "english": "You don’t quit, you adjust, and move on",
+      "russian": "Ты не бросаешь, ты меняешь план и идёшь дальше",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339022"
+    },
+    {
+      "english": "Today’s goal is simple, show up again",
+      "russian": "Сегодня цель простая, снова прийти",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339026"
+    },
+    {
+      "english": "I’m nervous, but I’m staying present, okay?",
+      "russian": "Мне немного страшно, но я остаюсь здесь, ладно?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339029"
+    },
+    {
+      "english": "I train for peace, not for perfection, ever.",
+      "russian": "Я тренируюсь ради спокойствия, не ради идеала, никогда.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339033"
+    },
+    {
+      "english": "Tell me honestly, does this feel right?",
+      "russian": "Скажи честно, это правда ощущается нормально?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339036"
+    },
+    {
+      "english": "I’m proud of myself, even on messy days.",
+      "russian": "Я горжусь собой, даже в плохие дни.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339039"
+    },
+    {
+      "english": "Let’s go slow, I need trust today.",
+      "russian": "Давай медленнее, мне сегодня нужен доверие.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339042"
+    },
+    {
+      "english": "When I’m tired, I still move gently.",
+      "russian": "Когда я устаю, я всё равно двигаюсь мягко.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339045"
+    },
+    {
+      "english": "My body talks, I’m finally listening closely.",
+      "russian": "Моё тело говорит, я наконец слушаю внимательно.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339049"
+    },
+    {
+      "english": "I want the burn, but I respect limits.",
+      "russian": "Мне хочется жжения, но я уважаю пределы.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339052"
+    },
+    {
+      "english": "Be patient with me, I’m learning my pace.",
+      "russian": "Будь терпеливый со мной, я учусь своему темпу.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339055"
+    },
+    {
+      "english": "I’m not chasing numbers, I’m chasing balance.",
+      "russian": "Я не гонюсь за цифрами, я ищу баланс.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339058"
+    },
+    {
+      "english": "Hold me accountable, but keep it kind.",
+      "russian": "Привлекай меня к ответственности, но будь добрым.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339063"
+    },
+    {
+      "english": "I feel better after stretching my mood too.",
+      "russian": "Мне лучше после того, как я растягиваю и настроение.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339066"
+    },
+    {
+      "english": "I’m serious today, no pretending I’m okay.",
+      "russian": "Сегодня я настроена серьёзно, без притворства, что всё нормально.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339069"
+    },
+    {
+      "english": "I can’t force joy, I’ll earn it slowly.",
+      "russian": "Я не могу заставить радость, я заработаю её постепенно.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339073"
+    },
+    {
+      "english": "Let’s talk form, but also talk feelings.",
+      "russian": "Давай обсудим технику, и ещё чувства тоже.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339076"
+    },
+    {
+      "english": "I’m brave enough to rest, honestly.",
+      "russian": "Я достаточно смелая, чтобы отдыхать, честно.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339080"
+    },
+    {
+      "english": "I don’t need motivation, I need direction.",
+      "russian": "Мне не нужна мотивация, мне нужна конкретная цель.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339083"
+    },
+    {
+      "english": "Right now, I’m choosing consistency over comfort.",
+      "russian": "Сейчас я выбираю регулярность вместо комфорта.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339086"
+    },
+    {
+      "english": "Your coaching sounds strict, but it’s safe.",
+      "russian": "Твой тренерский тон строгий, но рядом спокойно.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339089"
+    },
+    {
+      "english": "I’m letting go of shame, just move.",
+      "russian": "Я отпускаю стыд, просто двигаюсь.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339092"
+    },
+    {
+      "english": "Keep it real, how should I breathe?",
+      "russian": "Говори по правде, как мне дышать?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339095"
+    },
+    {
+      "english": "Some days I’m slow, and that’s okay.",
+      "russian": "Иногда я медленная, и это нормально.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339098"
+    },
+    {
+      "english": "I trust you, so guide me gently.",
+      "russian": "Я тебе доверяю, веди меня аккуратно.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339101"
+    },
+    {
+      "english": "I’m learning to love the process, finally.",
+      "russian": "Я наконец учусь любить сам процесс.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339106"
+    },
+    {
+      "english": "Give me small wins, that keeps me.",
+      "russian": "Дай мне маленькие победы, и я держусь.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339109"
+    },
+    {
+      "english": "If I’m emotional, adjust the plan, please.",
+      "russian": "Если мне эмоционально, подстрой план, пожалуйста.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339112"
+    },
+    {
+      "english": "I’m not behind, I’m rebuilding my strength.",
+      "russian": "Я не отстаю, я заново собираю силу.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339115"
+    },
+    {
+      "english": "Let’s keep the vibe light, but focused.",
+      "russian": "Давай держать лёгкий настрой, но с фокусом.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339118"
+    },
+    {
+      "english": "I’ll be honest, today I need patience.",
+      "russian": "Скажу честно, сегодня мне нужна терпеливость.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339122"
+    },
+    {
+      "english": "After training, I feel softer inside, somehow.",
+      "russian": "После тренировки внутри мне становится мягче, как-то.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339125"
+    },
+    {
+      "english": "Warm up first, don’t rush the day.",
+      "russian": "Разогрейся сначала, не спеши в течение дня.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339128"
+    },
+    {
+      "english": "At the gym, ask for a spotter.",
+      "russian": "В зале попроси подстраховку, на всякий случай.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339133"
+    },
+    {
+      "english": "Posture matters, especially when you sit all day.",
+      "russian": "Осанка важна, особенно когда весь день сидишь.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-08T06:59:35.339136"
     }
   ],
-  "last_updated": "2026-11-07T06:53:57.700036"
+  "last_updated": "2026-11-08T06:59:35.339138"
 }
