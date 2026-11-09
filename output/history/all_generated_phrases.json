@@ -21683,7 +21683,727 @@
       "russian": "Осанка важна, особенно когда весь день сидишь.",
       "category": "Sports & Fitness",
       "generated_at": "2026-11-08T06:59:35.339136"
+    },
+    {
+      "english": "Hi, can I get a coffee to go?",
+      "russian": "Привет, можно кофе с собой?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819342"
+    },
+    {
+      "english": "Do you have oat milk, by any chance?",
+      "russian": "У вас есть овсяное молоко?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819356"
+    },
+    {
+      "english": "One espresso, please, no sugar.",
+      "russian": "Один эспрессо, пожалуйста, без сахара.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819359"
+    },
+    {
+      "english": "Can I taste it, just one sip?",
+      "russian": "Можно попробовать, буквально один глоток?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819363"
+    },
+    {
+      "english": "Wait, this smells amazing, wow!",
+      "russian": "Стоп, это так вкусно пахнет, вау!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819366"
+    },
+    {
+      "english": "Sorry, I’m late, but I’m hungry!",
+      "russian": "Извините, я опоздал, но я голодный!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819372"
+    },
+    {
+      "english": "Do you have something quick for breakfast?",
+      "russian": "Есть что-нибудь быстрое на завтрак?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819375"
+    },
+    {
+      "english": "Make it mild, please, not too strong.",
+      "russian": "Сделайте помягче, пожалуйста, не крепко.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819382"
+    },
+    {
+      "english": "How much is this pastry, please?",
+      "russian": "Сколько стоит эта выпечка?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819386"
+    },
+    {
+      "english": "That sounds perfect, I’ll take it.",
+      "russian": "Звучит идеально, я беру!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819390"
+    },
+    {
+      "english": "I’ll pay by card, okay?",
+      "russian": "Я оплачу картой, можно?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819393"
+    },
+    {
+      "english": "Can I get it without nuts, please?",
+      "russian": "Можно без орехов, пожалуйста?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819396"
+    },
+    {
+      "english": "No worries, I’ll wait a minute.",
+      "russian": "Ничего страшного, я подожду минутку.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819399"
+    },
+    {
+      "english": "Oh wow, this is so fluffy!",
+      "russian": "Ого, это такое воздушное!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819402"
+    },
+    {
+      "english": "Is this fresh today, for real?",
+      "russian": "Это сегодня свежее, правда?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819404"
+    },
+    {
+      "english": "I’ll try the classic, just like that.",
+      "russian": "Возьму классический, один в один.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819408"
+    },
+    {
+      "english": "Can I add a latte shot?",
+      "russian": "Можно добавить шот в латте?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819410"
+    },
+    {
+      "english": "This smells sweet, okay, I’m in.",
+      "russian": "Пахнет сладко, ну всё, беру!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819415"
+    },
+    {
+      "english": "Can I get extra napkins, please?",
+      "russian": "Можно ещё салфеток, пожалуйста?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819418"
+    },
+    {
+      "english": "Is it warm inside, or just cool?",
+      "russian": "Оно внутри тёплое, или просто прохладное?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819421"
+    },
+    {
+      "english": "I’ll take two, can you pack it nicely?",
+      "russian": "Возьму два, упакуйте красиво, пожалуйста.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819424"
+    },
+    {
+      "english": "Oops, I dropped it—help, please!",
+      "russian": "Ой, я уронил, помогите, пожалуйста!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819427"
+    },
+    {
+      "english": "Not too sweet, please, keep it balanced.",
+      "russian": "Не слишком сладко, пожалуйста, сделайте ровно.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819430"
+    },
+    {
+      "english": "Wait—do you have cinnamon today?",
+      "russian": "Подождите, у вас есть корица?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819433"
+    },
+    {
+      "english": "Alright, I’m ready—what’s the total?",
+      "russian": "Ладно, я готов, сколько всего?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819437"
+    },
+    {
+      "english": "Can I get a box, I’ll share.",
+      "russian": "Можно коробку, я поделюсь.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819440"
+    },
+    {
+      "english": "What do you recommend with this pastry?",
+      "russian": "Что посоветуете к этому пирожному?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819443"
+    },
+    {
+      "english": "Is today’s bread still warm from baking?",
+      "russian": "Сегодня хлеб еще тёплый, после выпечки?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819446"
+    },
+    {
+      "english": "Do you have any seasonal flavors right now?",
+      "russian": "Есть сейчас сезонные вкусы, да?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819449"
+    },
+    {
+      "english": "Which coffee beans are you using today?",
+      "russian": "Какие зёрна у вас сегодня?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819451"
+    },
+    {
+      "english": "Can I see the menu, please?",
+      "russian": "Можно меню посмотреть, пожалуйста?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819454"
+    },
+    {
+      "english": "Do you recommend it more sweet or balanced?",
+      "russian": "Подскажите, лучше послаще или сбалансированнее?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819457"
+    },
+    {
+      "english": "How long does this cake stay fresh?",
+      "russian": "Сколько этот торт хранится свежим?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819459"
+    },
+    {
+      "english": "Is this drink strong, or pretty smooth?",
+      "russian": "Он крепкий, или довольно мягкий?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819462"
+    },
+    {
+      "english": "Can I ask what’s inside, real quick?",
+      "russian": "Можно узнать, что внутри, быстро?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819465"
+    },
+    {
+      "english": "Do you have something gluten-free today?",
+      "russian": "У вас есть что-то без глютена сегодня?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819468"
+    },
+    {
+      "english": "What pairs best with espresso, honestly?",
+      "russian": "С чем эспрессо лучше всего сочетается?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819470"
+    },
+    {
+      "english": "Could I get a smaller size, please?",
+      "russian": "Можете сделать меньший размер, пожалуйста?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819476"
+    },
+    {
+      "english": "Is there a water option for my cup?",
+      "russian": "Водичку можно к заказу?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819479"
+    },
+    {
+      "english": "Do you offer tasting samples, by chance?",
+      "russian": "У вас бывают дегустации, случайно?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819481"
+    },
+    {
+      "english": "What’s your most popular bakery item?",
+      "russian": "Что у вас самое популярное из выпечки?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819484"
+    },
+    {
+      "english": "Can I switch milk, like oat or soy?",
+      "russian": "Можно заменить молоко, на овсяное или соевое?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819487"
+    },
+    {
+      "english": "Is the frosting sweet, or lightly flavored?",
+      "russian": "Глазурь сладкая, или мягкий вкус?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819490"
+    },
+    {
+      "english": "Do you have anything for someone on a diet?",
+      "russian": "Есть что-то полегче, для тех кто на диете?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819493"
+    },
+    {
+      "english": "Can I get it packed, so it won’t spill?",
+      "russian": "Можете упаковать, чтобы не пролилось?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819502"
+    },
+    {
+      "english": "What do you serve with cinnamon today?",
+      "russian": "С чем сегодня корица лучше всего идет?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819505"
+    },
+    {
+      "english": "Do you have a kid-friendly drink option?",
+      "russian": "Есть напиток, который детям подходит?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819508"
+    },
+    {
+      "english": "Is the sourdough really fermented overnight?",
+      "russian": "Закваска правда бродит всю ночь?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819510"
+    },
+    {
+      "english": "Which pastry sells out the fastest here?",
+      "russian": "Что у вас чаще всего быстро разбирают?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819513"
+    },
+    {
+      "english": "Can I get it less bitter, please?",
+      "russian": "Можно помягче, чтобы не горчило?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819515"
+    },
+    {
+      "english": "Do you have decaf, for sure?",
+      "russian": "У вас точно есть без кофеина?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819518"
+    },
+    {
+      "english": "What’s the best time to order desserts?",
+      "russian": "Когда лучше заказывать десерты?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819521"
+    },
+    {
+      "english": "Is this cake made in-house today?",
+      "russian": "Этот торт сегодня делают у вас сами?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819524"
+    },
+    {
+      "english": "Can I ask about allergens, real quick?",
+      "russian": "Можно про аллергены, быстро подскажете?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819526"
+    },
+    {
+      "english": "Do you have recommendations for first-timers?",
+      "russian": "Что посоветуете новичкам, куда начать?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819529"
+    },
+    {
+      "english": "Today, I’m treating myself, guilt-free.",
+      "russian": "Сегодня я балую себя, без чувства вины.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819532"
+    },
+    {
+      "english": "Small steps count, even with coffee.",
+      "russian": "Маленькие шаги важны, даже с кофе.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819536"
+    },
+    {
+      "english": "This is my calm moment, no stress.",
+      "russian": "Это моё спокойное мгновение, без стресса.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819538"
+    },
+    {
+      "english": "Don’t rush, breathe, enjoy the aroma.",
+      "russian": "Не спеши, вдохни, наслаждайся ароматом.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819541"
+    },
+    {
+      "english": "My mood improves with every warm sip.",
+      "russian": "Настроение растёт с каждым тёплым глотком.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819544"
+    },
+    {
+      "english": "I’m learning, one order at a time.",
+      "russian": "Я учусь, с каждым заказом понемногу.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819547"
+    },
+    {
+      "english": "Nice choice, you’re on a roll.",
+      "russian": "Отличный выбор, ты в ударе.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819550"
+    },
+    {
+      "english": "Let’s make today a little sweeter.",
+      "russian": "Давай сделаем сегодня чуть-чуть слаще.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819553"
+    },
+    {
+      "english": "Confidence tastes good, trust me.",
+      "russian": "Уверенность вкусная, поверь мне.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819556"
+    },
+    {
+      "english": "You earned this break, take it.",
+      "russian": "Ты это заслужил, бери перерыв.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819559"
+    },
+    {
+      "english": "I’ll be proud of small wins today.",
+      "russian": "Сегодня я буду гордиться малыми победами.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819562"
+    },
+    {
+      "english": "One day at a time, I’ve got this.",
+      "russian": "По одному дню за раз, справлюсь.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819565"
+    },
+    {
+      "english": "Your taste is getting better, seriously.",
+      "russian": "Твой вкус улучшается, правда.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819568"
+    },
+    {
+      "english": "No overthinking, just enjoy the moment.",
+      "russian": "Без лишних мыслей, просто наслаждайся.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819572"
+    },
+    {
+      "english": "You picked the vibe, that’s magic.",
+      "russian": "Ты выбрал настроение, это магия.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819575"
+    },
+    {
+      "english": "Today’s a fresh start, not a repeat.",
+      "russian": "Сегодня — новый старт, не повтор.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819579"
+    },
+    {
+      "english": "Nice and easy, we’re doing great.",
+      "russian": "Спокойно, без суеты, у нас всё отлично.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819582"
+    },
+    {
+      "english": "I can handle this, one cup.",
+      "russian": "Я справлюсь, с одной чашкой.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819584"
+    },
+    {
+      "english": "Thank you, you just made my day.",
+      "russian": "Спасибо, вы прямо улучшили мой день.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819587"
+    },
+    {
+      "english": "Good things take time, like perfect bake.",
+      "russian": "Хорошие вещи требуют времени, как идеальная выпечка.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819590"
+    },
+    {
+      "english": "I’m proud of myself, even today.",
+      "russian": "Я горжусь собой, даже сегодня.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819593"
+    },
+    {
+      "english": "Let’s celebrate, tiny win counts.",
+      "russian": "Давай отпразднуем, даже маленькая победа важна.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819596"
+    },
+    {
+      "english": "Keep it light, your energy matters.",
+      "russian": "Держи настрой легко, твоя энергия важна.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819599"
+    },
+    {
+      "english": "I’m in a good place, finally.",
+      "russian": "Я наконец-то в хорошем месте.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819602"
+    },
+    {
+      "english": "You don’t have to be perfect.",
+      "russian": "Тебе не нужно быть идеальным.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819606"
+    },
+    {
+      "english": "This moment is enough, really.",
+      "russian": "Этот момент уже достаточно, правда.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819609"
+    },
+    {
+      "english": "My brain can chill, coffee helps.",
+      "russian": "Мозгу можно расслабиться, кофе помогает.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819613"
+    },
+    {
+      "english": "I’m brave enough to start again.",
+      "russian": "Я достаточно смел, чтобы начать заново.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819617"
+    },
+    {
+      "english": "I’m nervous, but I’m choosing anyway.",
+      "russian": "Я волнуюсь, но всё равно выбираю.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819620"
+    },
+    {
+      "english": "Sometimes I come here to breathe, honestly.",
+      "russian": "Иногда я прихожу сюда подышать, честно.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819623"
+    },
+    {
+      "english": "Your smile, makes my coffee taste softer.",
+      "russian": "Твоя улыбка, делает мой кофе мягче.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819626"
+    },
+    {
+      "english": "I like slow mornings, no pressure.",
+      "russian": "Мне нравятся медленные утра, без спешки.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819629"
+    },
+    {
+      "english": "I’m craving comfort, and this helps.",
+      "russian": "Мне хочется уюта, и это помогает.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819632"
+    },
+    {
+      "english": "Please, let me take my time here.",
+      "russian": "Пожалуйста, дай мне спокойно выбрать.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819634"
+    },
+    {
+      "english": "I’m not over it, I just need warmth.",
+      "russian": "Я ещё не отпустила, мне нужна теплота.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819638"
+    },
+    {
+      "english": "This place feels like a quiet reset.",
+      "russian": "Здесь как будто тихий перезапуск.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819640"
+    },
+    {
+      "english": "If I linger, forgive me, I’m thinking.",
+      "russian": "Если я задерживаюсь, прости, я думаю.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819643"
+    },
+    {
+      "english": "I don’t need perfect, just something real.",
+      "russian": "Мне не нужно идеально, просто по‑настоящему.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819646"
+    },
+    {
+      "english": "Your suggestion sounded like a good idea.",
+      "russian": "Твой совет прозвучал как хорошая мысль.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819649"
+    },
+    {
+      "english": "Right now, I only want calm and sweet.",
+      "russian": "Сейчас мне нужно только спокойствие и сладость.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819652"
+    },
+    {
+      "english": "I’m trying to slow down, one bite.",
+      "russian": "Я стараюсь замедляться, с каждым кусочком.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819655"
+    },
+    {
+      "english": "I’m proud of myself, I showed up.",
+      "russian": "Я горжусь собой, я пришла.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819658"
+    },
+    {
+      "english": "Hold on, I’m choosing based on mood.",
+      "russian": "Подожди, я выбираю по настроению.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819661"
+    },
+    {
+      "english": "I like when the staff speaks gently.",
+      "russian": "Мне нравится, когда сотрудники говорят мягко.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819663"
+    },
+    {
+      "english": "Today I’m softer, so please don’t rush.",
+      "russian": "Сегодня я мягче, пожалуйста, не торопи.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819667"
+    },
+    {
+      "english": "I can feel my stress letting go.",
+      "russian": "Я чувствую, как стресс отпускает меня.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819671"
+    },
+    {
+      "english": "Take it easy, I’m in my comfort zone.",
+      "russian": "Без спешки, я в своей зоне комфорта.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819674"
+    },
+    {
+      "english": "I’m not hiding my feelings, I’m enjoying.",
+      "russian": "Я не прячу чувства, я наслаждаюсь.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819677"
+    },
+    {
+      "english": "This pastry reminds me of warm days.",
+      "russian": "Этот десерт напоминает мне тёплые дни.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819681"
+    },
+    {
+      "english": "I came for coffee, stayed for the vibe.",
+      "russian": "Я пришла за кофе, осталась за атмосферой.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819684"
+    },
+    {
+      "english": "I’m allowed to want more, right now.",
+      "russian": "Мне можно хотеть большего, прямо сейчас.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819687"
+    },
+    {
+      "english": "Tell me honestly, what’s worth trying?",
+      "russian": "Скажи честно, что правда стоит попробовать?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819690"
+    },
+    {
+      "english": "I’m feeling brave, can I just sit?",
+      "russian": "Мне сейчас храбро, можно просто посидеть?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819693"
+    },
+    {
+      "english": "I’ll wait, good things need patience.",
+      "russian": "Я подожду, хорошее требует терпения.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819696"
+    },
+    {
+      "english": "Your voice calms me down, thank you.",
+      "russian": "Твой голос меня успокаивает, спасибо.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819699"
+    },
+    {
+      "english": "I’m listening to myself, it wants sweetness.",
+      "russian": "Я слушаю себя, мне хочется сладкого.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819702"
+    },
+    {
+      "english": "Even today, small joy counts for me.",
+      "russian": "И сегодня для меня важна маленькая радость.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819705"
+    },
+    {
+      "english": "Hi, can I get a latte, please?",
+      "russian": "Привет, можно мне латте, пожалуйста?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819708"
+    },
+    {
+      "english": "Do you have something sweet, not too heavy?",
+      "russian": "У вас есть что-нибудь сладкое, не очень тяжёлое?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819711"
+    },
+    {
+      "english": "Could I take this to go, please?",
+      "russian": "Можно это с собой, пожалуйста?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819713"
+    },
+    {
+      "english": "What’s the pastry of the day, today?",
+      "russian": "Какая выпечка дня сегодня?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819716"
+    },
+    {
+      "english": "I’ll try yours, what do you recommend?",
+      "russian": "Я попробую ваше, что посоветуете?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819719"
+    },
+    {
+      "english": "This place is perfect for catching up.",
+      "russian": "Здесь идеально встречаться, чтобы поболтать.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819722"
+    },
+    {
+      "english": "Is there a quieter corner, around here?",
+      "russian": "Тут есть тихий уголок, неподалёку?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819724"
+    },
+    {
+      "english": "Can I see the menu, just quickly?",
+      "russian": "Можно меню, на минутку?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-09T07:43:57.819729"
     }
   ],
-  "last_updated": "2026-11-08T06:59:35.339138"
+  "last_updated": "2026-11-09T07:43:57.819730"
 }
