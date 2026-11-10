@@ -22403,7 +22403,727 @@
       "russian": "Можно меню, на минутку?",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-09T07:43:57.819729"
+    },
+    {
+      "english": "Come on, you can do it, now.",
+      "russian": "Давай, у тебя получится, сейчас.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751112"
+    },
+    {
+      "english": "Okay, let’s start simple, and go.",
+      "russian": "Ладно, давай начнём с простого, и дальше.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751128"
+    },
+    {
+      "english": "No worries, try again, slowly.",
+      "russian": "Ничего страшного, попробуй снова, медленно.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751130"
+    },
+    {
+      "english": "I’m listening, go on, please.",
+      "russian": "Я слушаю, продолжай, пожалуйста.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751132"
+    },
+    {
+      "english": "Nice idea, tell me more, please.",
+      "russian": "Классная идея, расскажи ещё, пожалуйста.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751134"
+    },
+    {
+      "english": "Good morning, new day, new chances.",
+      "russian": "Доброе утро, новый день, новые шансы.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751136"
+    },
+    {
+      "english": "Quick break, breathe in, then continue.",
+      "russian": "Короткая пауза, вдохни, потом продолжай.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751137"
+    },
+    {
+      "english": "That’s it, right there, you got it.",
+      "russian": "Вот оно, точно так, у тебя получилось.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751142"
+    },
+    {
+      "english": "Wait, say it again, I missed.",
+      "russian": "Подожди, повтори, я не успел.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751144"
+    },
+    {
+      "english": "Hmm, interesting, can you explain again?",
+      "russian": "Хм, интересно, можешь объяснить ещё раз?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751146"
+    },
+    {
+      "english": "Okay, I get it, thanks for clarifying.",
+      "russian": "Понял, спасибо, что объяснил.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751148"
+    },
+    {
+      "english": "Let’s do it together, step by step.",
+      "russian": "Давай сделаем вместе, шаг за шагом.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751150"
+    },
+    {
+      "english": "Right now, keep going, don’t stop.",
+      "russian": "Прямо сейчас, продолжай, не останавливайся.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751152"
+    },
+    {
+      "english": "Small talk first, then we’ll get deeper.",
+      "russian": "Сначала лёгкий разговор, потом углубимся.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751153"
+    },
+    {
+      "english": "You’re doing fine, really, keep going.",
+      "russian": "Ты справляешься, правда, продолжай.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751155"
+    },
+    {
+      "english": "Cool, that sounds right, let’s use it.",
+      "russian": "Здорово, звучит правильно, давай возьмём.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751158"
+    },
+    {
+      "english": "I’ll try, even if it’s not perfect.",
+      "russian": "Я попробую, даже если не идеально.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751160"
+    },
+    {
+      "english": "Tell me, what does this mean?",
+      "russian": "Скажи, что это значит?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751162"
+    },
+    {
+      "english": "Great, we’re on track, keep it up.",
+      "russian": "Отлично, мы идём по плану, продолжай.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751163"
+    },
+    {
+      "english": "Before you speak, think a little, breathe.",
+      "russian": "Перед тем как сказать, подумай чуть-чуть, вдохни.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751165"
+    },
+    {
+      "english": "Sometimes it’s messy, that’s normal, right?",
+      "russian": "Иногда выходит коряво, это нормально, да?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751167"
+    },
+    {
+      "english": "Let me check, one more time, please.",
+      "russian": "Давай проверим, ещё раз, пожалуйста.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751169"
+    },
+    {
+      "english": "Nice work, you remembered it, well done.",
+      "russian": "Молодец, ты вспомнил, отлично.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751171"
+    },
+    {
+      "english": "I’m proud of you, seriously, keep learning.",
+      "russian": "Я тобой горжусь, честно, учись дальше.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751172"
+    },
+    {
+      "english": "What’s next, let’s plan, not panic.",
+      "russian": "Что дальше? Давай спланируем, без паники.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751176"
+    },
+    {
+      "english": "Try one more sentence, you’ll get it.",
+      "russian": "Скажи ещё одно предложение, и получится.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751177"
+    },
+    {
+      "english": "Stay calm, speak clearly, and smile.",
+      "russian": "Спокойно, говори чётко, и улыбайся.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751179"
+    },
+    {
+      "english": "Thanks for waiting, I’m almost ready.",
+      "russian": "Спасибо, что подождал, я почти готов.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751182"
+    },
+    {
+      "english": "Let’s wrap up, save this, and move on.",
+      "russian": "Заканчиваем, сохраним это, и дальше.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751184"
+    },
+    {
+      "english": "What do you want to ask first?",
+      "russian": "О чём вы хотите спросить сначала?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751185"
+    },
+    {
+      "english": "Can you help me understand the idea?",
+      "russian": "Поможешь мне понять эту мысль?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751187"
+    },
+    {
+      "english": "Why does this work so well?",
+      "russian": "Почему это так хорошо работает?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751189"
+    },
+    {
+      "english": "When should I use this word?",
+      "russian": "Когда мне использовать это слово?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751190"
+    },
+    {
+      "english": "Who do you usually ask for feedback?",
+      "russian": "У кого ты обычно просишь обратную связь?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751192"
+    },
+    {
+      "english": "Could you repeat it more slowly, please?",
+      "russian": "Можно, повторишь помедленнее?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751194"
+    },
+    {
+      "english": "Where do you find new practice ideas?",
+      "russian": "Где ты находишь новые идеи для практики?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751195"
+    },
+    {
+      "english": "How do you stay motivated every day?",
+      "russian": "Как ты держишь мотивацию каждый день?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751197"
+    },
+    {
+      "english": "What helps you speak more confidently?",
+      "russian": "Что помогает тебе говорить увереннее?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751199"
+    },
+    {
+      "english": "Do you prefer questions or statements?",
+      "russian": "Тебе больше нравятся вопросы или фразы?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751200"
+    },
+    {
+      "english": "Can I ask one more thing?",
+      "russian": "Можно один вопрос, пожалуйста?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751202"
+    },
+    {
+      "english": "What would you do in my situation?",
+      "russian": "Что бы ты сделал на моём месте?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751204"
+    },
+    {
+      "english": "Which topic should we discuss next?",
+      "russian": "Какую тему обсудим дальше?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751205"
+    },
+    {
+      "english": "How long should I practice today?",
+      "russian": "Сколько времени мне практиковаться сегодня?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751207"
+    },
+    {
+      "english": "Can you check my sentence for errors?",
+      "russian": "Можешь проверить мою фразу на ошибки?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751208"
+    },
+    {
+      "english": "What’s the best habit for beginners?",
+      "russian": "Какая привычка лучше всего для новичков?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751210"
+    },
+    {
+      "english": "Do you want to try a short dialogue?",
+      "russian": "Хочешь попробовать короткий диалог?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751212"
+    },
+    {
+      "english": "How do you choose words quickly?",
+      "russian": "Как ты быстро выбираешь слова?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751213"
+    },
+    {
+      "english": "What’s your go-to phrase for asking politely?",
+      "russian": "Какая у тебя любимая фраза для вежливой просьбы?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751215"
+    },
+    {
+      "english": "Can we talk about your favorite Russian song?",
+      "russian": "Можем поговорить о твоей любимой русской песне?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751217"
+    },
+    {
+      "english": "Have you noticed any pattern in speech?",
+      "russian": "Ты замечал закономерности в речи?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751218"
+    },
+    {
+      "english": "What question would unlock your progress?",
+      "russian": "Какой вопрос поможет твоему прогрессу?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751219"
+    },
+    {
+      "english": "Could you give me a real example, please?",
+      "russian": "Можешь привести реальный пример, пожалуйста?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751222"
+    },
+    {
+      "english": "Do you want a challenge or a review?",
+      "russian": "Тебе нужен вызов или повторение?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751224"
+    },
+    {
+      "english": "What’s stopping you right now, honestly?",
+      "russian": "Честно, что тебя сейчас тормозит?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751226"
+    },
+    {
+      "english": "Can you turn this into a question?",
+      "russian": "Можешь превратить это в вопрос?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751227"
+    },
+    {
+      "english": "Shall we check answers together, quickly?",
+      "russian": "Проверим ответы вместе, быстро?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751230"
+    },
+    {
+      "english": "You’ve got this, slow and steady.",
+      "russian": "У тебя получится, спокойно и ровно.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751232"
+    },
+    {
+      "english": "Small steps count, every single day.",
+      "russian": "Маленькие шаги важны, каждый день.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751234"
+    },
+    {
+      "english": "Trust your ears, you’ll catch it soon.",
+      "russian": "Доверяй ушам, скоро поймаешь.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751236"
+    },
+    {
+      "english": "Say it anyway, confidence grows fast.",
+      "russian": "Скажи всё равно, уверенность растёт быстро.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751238"
+    },
+    {
+      "english": "Keep going, your brain loves reps.",
+      "russian": "Продолжай, мозг любит практику.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751239"
+    },
+    {
+      "english": "Mistakes are fuel, not a problem.",
+      "russian": "Ошибки — топливо, а не проблема.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751241"
+    },
+    {
+      "english": "Today you’re learning, that’s already progress.",
+      "russian": "Сегодня ты учишься, это уже прогресс.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751243"
+    },
+    {
+      "english": "Give yourself credit, you work hard.",
+      "russian": "Поблагодари себя, ты стараешься.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751245"
+    },
+    {
+      "english": "Focus on meaning, not perfect grammar.",
+      "russian": "Думай о смысле, а не о идеальной грамматике.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751247"
+    },
+    {
+      "english": "You’re building instincts, one conversation at a time.",
+      "russian": "Ты наращиваешь инстинкты, по одной беседе.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751249"
+    },
+    {
+      "english": "Be brave, Russian rewards your effort.",
+      "russian": "Будь смелее, русский любит твои усилия.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751251"
+    },
+    {
+      "english": "Remember, repetition makes it automatic.",
+      "russian": "Помни, повторение делает всё автоматом.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751252"
+    },
+    {
+      "english": "You don’t need to hurry, just stay consistent.",
+      "russian": "Тебе не нужно спешить, просто будь регулярным.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751255"
+    },
+    {
+      "english": "Keep it simple, you can level up later.",
+      "russian": "Держи всё просто, потом усложнишь.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751258"
+    },
+    {
+      "english": "Let curiosity lead, ask and explore.",
+      "russian": "Пусть любопытство ведёт, спрашивай и пробуй.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751260"
+    },
+    {
+      "english": "Your progress is real, even if tiny.",
+      "russian": "Твой прогресс настоящий, даже если маленький.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751262"
+    },
+    {
+      "english": "Speak with warmth, people feel it right away.",
+      "russian": "Говори с теплом, это сразу чувствуется.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751265"
+    },
+    {
+      "english": "Good job, you showed up again today.",
+      "russian": "Молодец, ты снова пришёл сегодня.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751267"
+    },
+    {
+      "english": "Don’t overthink, just start the sentence.",
+      "russian": "Не думай слишком долго, начни фразу.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751269"
+    },
+    {
+      "english": "You’re learning to think in Russian.",
+      "russian": "Ты учишься думать по-русски.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751271"
+    },
+    {
+      "english": "Stay playful, language is meant to be fun.",
+      "russian": "Будь игривым, языки созданы для радости.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751272"
+    },
+    {
+      "english": "Say it, then refine it, step by step.",
+      "russian": "Скажи, потом поправь, шаг за шагом.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751274"
+    },
+    {
+      "english": "Let the rhythm carry you, don’t fight it.",
+      "russian": "Пусть ритм ведёт тебя, не сопротивляйся.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751276"
+    },
+    {
+      "english": "Every answer teaches you something new.",
+      "russian": "Каждый ответ учит тебя новому.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751277"
+    },
+    {
+      "english": "Be proud of your effort, not perfection.",
+      "russian": "Гордись усилиями, а не идеальностью.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751279"
+    },
+    {
+      "english": "When you pause, breathe, then continue.",
+      "russian": "Если замер, вдохни, и продолжай.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751281"
+    },
+    {
+      "english": "Make it a habit, Russian will follow.",
+      "russian": "Сделай это привычкой, и русский придёт.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751283"
+    },
+    {
+      "english": "You’re not behind, you’re on your route.",
+      "russian": "Ты не отстаёшь, ты просто идёшь своей дорогой.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751285"
+    },
+    {
+      "english": "One more try, you’ll surprise yourself.",
+      "russian": "Ещё раз попробуй, и сам удивишься.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751287"
+    },
+    {
+      "english": "I’m nervous, but I speak anyway.",
+      "russian": "Мне волнительно, но я говорю.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751288"
+    },
+    {
+      "english": "Honestly, I feel proud when I try.",
+      "russian": "Честно, я горжусь, когда пробую.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751290"
+    },
+    {
+      "english": "Some days I wait, then I continue.",
+      "russian": "Иногда я подожду, потом продолжаю.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751293"
+    },
+    {
+      "english": "I don’t need speed, I need clarity.",
+      "russian": "Мне не нужна скорость, мне нужна ясность.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751295"
+    },
+    {
+      "english": "My goal is steady, not perfect.",
+      "russian": "Моя цель — ровно, не идеально.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751297"
+    },
+    {
+      "english": "I notice, and I gently fix myself.",
+      "russian": "Я замечаю, и мягко поправляю себя.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751299"
+    },
+    {
+      "english": "I’m learning to trust my own rhythm.",
+      "russian": "Я учусь доверять своему ритму.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751300"
+    },
+    {
+      "english": "If I miss, I don’t panic.",
+      "russian": "Если ошибся, я не паникую.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751302"
+    },
+    {
+      "english": "Right now, I choose calm over rush.",
+      "russian": "Сейчас я выбираю спокойствие, а не спешку.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751303"
+    },
+    {
+      "english": "I’m not afraid of blank moments.",
+      "russian": "Я не боюсь пауз, когда пусто в голове.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751305"
+    },
+    {
+      "english": "I speak from my heart, slowly.",
+      "russian": "Я говорю от души, медленно.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751307"
+    },
+    {
+      "english": "I can feel progress, even quietly.",
+      "russian": "Я чувствую прогресс, даже тихий.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751308"
+    },
+    {
+      "english": "Sometimes I repeat, because it calms me.",
+      "russian": "Иногда я повторяю, потому что мне спокойно.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751310"
+    },
+    {
+      "english": "I’m patient, my brain learns stepwise.",
+      "russian": "Я терпелив, мозг учится по шагам.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751312"
+    },
+    {
+      "english": "I don’t chase perfection, I chase meaning.",
+      "russian": "Я не гонюсь за идеалом, я ищу смысл.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751314"
+    },
+    {
+      "english": "I respect my pace, no comparison.",
+      "russian": "Я уважаю свой темп, без сравнений.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751316"
+    },
+    {
+      "english": "When I’m tired, I still show up.",
+      "russian": "Когда я устал, я всё равно прихожу.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751318"
+    },
+    {
+      "english": "I let mistakes teach me without shame.",
+      "russian": "Я позволяю ошибкам учить меня без стыда.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751320"
+    },
+    {
+      "english": "My confidence grows when I stay kind.",
+      "russian": "Уверенность растёт, когда я добрый к себе.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751321"
+    },
+    {
+      "english": "I’m brave enough to try again today.",
+      "russian": "Я достаточно смел, чтобы попробовать снова.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751323"
+    },
+    {
+      "english": "I pause, breathe, then choose the next word.",
+      "russian": "Я делаю паузу, дышу, и выбираю следующее слово.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751325"
+    },
+    {
+      "english": "I write it down, so my thoughts settle.",
+      "russian": "Я записываю, чтобы мысли улеглись.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751326"
+    },
+    {
+      "english": "I’m learning slowly, and that’s okay.",
+      "russian": "Я учусь медленно, и это нормально.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751328"
+    },
+    {
+      "english": "I listen first, then I speak a little.",
+      "russian": "Сначала слушаю, потом говорю немного.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751329"
+    },
+    {
+      "english": "I can be honest, I’m still a beginner.",
+      "russian": "Я могу быть честным, я всё ещё новичок.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751331"
+    },
+    {
+      "english": "I don’t need magic, I need practice.",
+      "russian": "Мне не нужна магия, мне нужна практика.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751333"
+    },
+    {
+      "english": "When my mind wanders, I come back.",
+      "russian": "Когда мысли убегают, я возвращаюсь.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751334"
+    },
+    {
+      "english": "I keep going, even if it feels hard.",
+      "russian": "Я продолжаю, даже когда тяжело.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751336"
+    },
+    {
+      "english": "I’m proud of my effort, not my mistakes.",
+      "russian": "Я горжусь своим трудом, а не ошибками.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751338"
+    },
+    {
+      "english": "Today I choose progress, not pressure.",
+      "russian": "Сегодня я выбираю прогресс, а не давление.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751341"
+    },
+    {
+      "english": "Before you speak, ask, «Как лучше?»",
+      "russian": "Перед тем как говорить, спроси: «Как лучше?»",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751345"
+    },
+    {
+      "english": "In shops, try: «У вас есть размер?»",
+      "russian": "В магазине попробуй: «У вас есть размер?»",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751348"
+    },
+    {
+      "english": "If you miss a word, say «перефразируйте».",
+      "russian": "Если слово пропало, скажи: «перефразируйте».",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751350"
+    },
+    {
+      "english": "Ask again politely, without sounding rude.",
+      "russian": "Переспрашивай вежливо, не звучит грубо.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751352"
+    },
+    {
+      "english": "When texting, start with, «Привет, как ты?»",
+      "russian": "Когда пишешь, начни с: «Привет, как ты?»",
+      "category": "Inspiration",
+      "generated_at": "2026-11-10T08:04:18.751359"
     }
   ],
-  "last_updated": "2026-11-09T07:43:57.819730"
+  "last_updated": "2026-11-10T08:04:18.751360"
 }
