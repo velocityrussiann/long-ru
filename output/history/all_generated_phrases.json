@@ -23123,7 +23123,727 @@
       "russian": "Когда пишешь, начни с: «Привет, как ты?»",
       "category": "Inspiration",
       "generated_at": "2026-11-10T08:04:18.751359"
+    },
+    {
+      "english": "Great, let’s do it now, okay?",
+      "russian": "Отлично, давай сделаем это сейчас, ладно?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961227"
+    },
+    {
+      "english": "Wait, I think I understand, yes?",
+      "russian": "Подожди, кажется, я понял, да?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961244"
+    },
+    {
+      "english": "Seriously, it’s not that hard, really.",
+      "russian": "Серьёзно, это не так сложно, правда.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961248"
+    },
+    {
+      "english": "Tell me, what did you say again?",
+      "russian": "Скажи, что ты сказал, ещё раз?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961250"
+    },
+    {
+      "english": "Nice, that sounds natural, keep going.",
+      "russian": "Класс, это звучит естественно, продолжай.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961253"
+    },
+    {
+      "english": "I mean it, say it step by step.",
+      "russian": "Я правда, скажи по шагам.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961256"
+    },
+    {
+      "english": "Hold on, let me explain quickly.",
+      "russian": "Стой, дай я быстро объясню.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961258"
+    },
+    {
+      "english": "Cool, repeat slowly, I’m listening.",
+      "russian": "Отлично, повтори медленно, я слушаю.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961263"
+    },
+    {
+      "english": "Oh, got it, now I see.",
+      "russian": "О, понял, теперь ясно.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961266"
+    },
+    {
+      "english": "No problem, we’ll figure it out.",
+      "russian": "Ничего страшного, мы разберёмся.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961269"
+    },
+    {
+      "english": "One more time, I promise I can.",
+      "russian": "Ещё раз, обещаю, у меня получится.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961272"
+    },
+    {
+      "english": "Right now, ask and answer, fast.",
+      "russian": "Сейчас, спрашивай и отвечай, быстро.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961275"
+    },
+    {
+      "english": "Good start, keep it simple, please.",
+      "russian": "Хорошее начало, сделай проще, пожалуйста.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961277"
+    },
+    {
+      "english": "Wait, say that again with feeling.",
+      "russian": "Погоди, скажи это ещё раз с чувством.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961279"
+    },
+    {
+      "english": "I’m trying, just give me a hint.",
+      "russian": "Я стараюсь, подскажи мне чуть-чуть.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961282"
+    },
+    {
+      "english": "Nice try, you’re close, almost there.",
+      "russian": "Хорошая попытка, ты рядом, почти.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961284"
+    },
+    {
+      "english": "Let’s chat, how was your day?",
+      "russian": "Давай поговорим, как прошёл твой день?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961286"
+    },
+    {
+      "english": "Tell me quickly, what’s the main point?",
+      "russian": "Скажи коротко, в чём суть?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961289"
+    },
+    {
+      "english": "Yes, that’s it, perfect, keep that.",
+      "russian": "Да, вот именно, отлично, так и дальше.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961292"
+    },
+    {
+      "english": "Not bad, try switching the word order.",
+      "russian": "Неплохо, попробуй поменять порядок слов.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961296"
+    },
+    {
+      "english": "Quick check, do you understand this part?",
+      "russian": "Проверим быстро, ты это понял?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961298"
+    },
+    {
+      "english": "I’ll take it, thanks, that helps a lot.",
+      "russian": "Я беру, спасибо, это очень помогает.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961301"
+    },
+    {
+      "english": "Right away, write it down, then speak.",
+      "russian": "Сразу запиши, потом проговори.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961304"
+    },
+    {
+      "english": "Nice question, I’ll answer in simple words.",
+      "russian": "Хороший вопрос, отвечу простыми словами.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961306"
+    },
+    {
+      "english": "Hold my place, I’m searching for words.",
+      "russian": "Подожди, я ищу слова.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961309"
+    },
+    {
+      "english": "Oof, it’s okay, we’ll practice again.",
+      "russian": "Уф, ничего, потренируемся ещё.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961312"
+    },
+    {
+      "english": "Calm down, breathe, and say it again.",
+      "russian": "Не нервничай, вдохни и скажи снова.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961314"
+    },
+    {
+      "english": "Amazing, you improved, tell me more.",
+      "russian": "Круто, ты стал лучше, расскажи больше.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961316"
+    },
+    {
+      "english": "Let’s meet halfway, you start, I follow.",
+      "russian": "Давай договоримся, ты начинай, я продолжу.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961319"
+    },
+    {
+      "english": "What’s the best way to say it politely?",
+      "russian": "Как лучше сказать это вежливо?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961324"
+    },
+    {
+      "english": "Where do you usually ask in Russian?",
+      "russian": "Где ты обычно спрашиваешь по-русски?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961326"
+    },
+    {
+      "english": "When should I use “пожалуйста”, exactly?",
+      "russian": "Когда мне говорить “пожалуйста”, точно?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961329"
+    },
+    {
+      "english": "Could you ask me back, one question?",
+      "russian": "Можешь задать мне встречный вопрос?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961332"
+    },
+    {
+      "english": "How do you answer, when you’re unsure?",
+      "russian": "Как отвечать, когда сомневаешься?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961334"
+    },
+    {
+      "english": "I want to sound natural, what should I change?",
+      "russian": "Хочу звучать естественно, что поменять?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961336"
+    },
+    {
+      "english": "Do you prefer short answers, or details?",
+      "russian": "Тебе больше нравятся короткие ответы, или детали?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961339"
+    },
+    {
+      "english": "What do locals say first, in this situation?",
+      "russian": "Что обычно говорят в начале, в такой ситуации?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961343"
+    },
+    {
+      "english": "Can I use this phrase here, safely?",
+      "russian": "Могу ли я сказать эту фразу здесь, безопасно?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961346"
+    },
+    {
+      "english": "How would you ask for directions, politely?",
+      "russian": "Как вежливо попросить дорогу, подскажите?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961348"
+    },
+    {
+      "english": "Which word is better, “куда” or “где”?",
+      "russian": "Какое слово лучше, “куда” или “где”?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961352"
+    },
+    {
+      "english": "Can we practice this dialogue, with examples?",
+      "russian": "Давай потренируем диалог, с примерами.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961354"
+    },
+    {
+      "english": "What’s the easiest question to start a talk?",
+      "russian": "Каким вопросом легче всего начать разговор?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961356"
+    },
+    {
+      "english": "If I get lost, what should I say?",
+      "russian": "Если я потеряюсь, что мне сказать?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961358"
+    },
+    {
+      "english": "Do you mind correcting my mistakes, please?",
+      "russian": "Ты не против, поправить мои ошибки, пожалуйста?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961361"
+    },
+    {
+      "english": "What’s your suggestion, for learning questions fast?",
+      "russian": "Какая твоя рекомендация, как учить вопросы быстрее?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961364"
+    },
+    {
+      "english": "Can you give me a short answer template?",
+      "russian": "Можешь дать короткий шаблон ответа?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961366"
+    },
+    {
+      "english": "How do you soften requests, in Russian?",
+      "russian": "Как смягчить просьбу по-русски?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961368"
+    },
+    {
+      "english": "May I ask, what does this mean exactly?",
+      "russian": "Можно спросить, что это значит именно?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961370"
+    },
+    {
+      "english": "Would you repeat the main idea, slower?",
+      "russian": "Повтори, пожалуйста, главную мысль медленнее.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961372"
+    },
+    {
+      "english": "What should I say after “Здравствуйте”?",
+      "russian": "Что говорить дальше после “Здравствуйте”?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961376"
+    },
+    {
+      "english": "Is it okay to ask directly, here?",
+      "russian": "Можно спрашивать прямо, здесь нормально?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961378"
+    },
+    {
+      "english": "Give me one follow-up question to ask.",
+      "russian": "Подскажи, какой следующий вопрос задать.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961380"
+    },
+    {
+      "english": "How do you respond, if someone helps you?",
+      "russian": "Как отвечать, если тебе помогают?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961382"
+    },
+    {
+      "english": "What’s the tone, formal or casual?",
+      "russian": "Тон какой, официальный или разговорный?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961385"
+    },
+    {
+      "english": "Can I ask for advice, not directions?",
+      "russian": "Можно спросить совета, не дорогу?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961387"
+    },
+    {
+      "english": "Where can I start, with basic questions?",
+      "russian": "С чего начать, с простых вопросов?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961389"
+    },
+    {
+      "english": "What’s your rule, for forming question words?",
+      "russian": "Какой у тебя принцип, для вопросительных слов?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961394"
+    },
+    {
+      "english": "Let’s check, does this sentence sound right?",
+      "russian": "Давай проверим, звучит ли это правильно?",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961396"
+    },
+    {
+      "english": "You’ve got this, one try, then another",
+      "russian": "У тебя получится, одна попытка, потом ещё",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961399"
+    },
+    {
+      "english": "Small steps, steady progress, you’ll notice",
+      "russian": "Маленькие шаги, стабильный прогресс, ты увидишь",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961402"
+    },
+    {
+      "english": "Mistakes are just fuel, not failure",
+      "russian": "Ошибки — это топливо, не провал",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961406"
+    },
+    {
+      "english": "Say it again, with confidence, not panic",
+      "russian": "Скажи ещё раз, уверенно, без паники",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961409"
+    },
+    {
+      "english": "Your brain learns by repeating, trust it",
+      "russian": "Мозг учится через повторение, доверься",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961411"
+    },
+    {
+      "english": "Practice a little daily, you’ll grow fast",
+      "russian": "Практикуй по чуть-чуть каждый день, быстро вырастешь",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961414"
+    },
+    {
+      "english": "Don’t overthink, just speak, and adjust",
+      "russian": "Не зацикливайся, просто говори, потом поправишь",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961417"
+    },
+    {
+      "english": "You’re building habits, and habits win",
+      "russian": "Ты строишь привычки, а привычки побеждают",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961420"
+    },
+    {
+      "english": "Give yourself credit, you’re learning for real",
+      "russian": "Похвали себя, ты реально учишься",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961422"
+    },
+    {
+      "english": "Today you’re closer, tomorrow you’ll be braver",
+      "russian": "Сегодня ты ближе, завтра будешь смелее",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961425"
+    },
+    {
+      "english": "It’s okay to be slow, slow counts",
+      "russian": "Ничего страшного, если медленно, это тоже считается",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961428"
+    },
+    {
+      "english": "Aim for progress, not perfect sentences",
+      "russian": "Стремись к прогрессу, а не к идеальным фразам",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961432"
+    },
+    {
+      "english": "Let your curiosity lead, language follows",
+      "russian": "Пусть любопытство ведёт, язык подтянется",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961434"
+    },
+    {
+      "english": "Ask, listen, repeat, and you’ll unlock it",
+      "russian": "Спрашивай, слушай, повторяй, и получится",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961437"
+    },
+    {
+      "english": "One day at a time, you’ll feel it",
+      "russian": "День за днём, и ты это почувствуешь",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961440"
+    },
+    {
+      "english": "Your accent will soften, keep showing up",
+      "russian": "Акцент станет мягче, не пропадай",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961442"
+    },
+    {
+      "english": "Celebrate small wins, they build confidence",
+      "russian": "Отмечай маленькие победы, они дают уверенность",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961444"
+    },
+    {
+      "english": "Speak first, perfect later, that’s the rule",
+      "russian": "Говори сначала, идеально потом, так и работает",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961447"
+    },
+    {
+      "english": "You’re allowed to pause, then continue",
+      "russian": "Ты можешь сделать паузу, потом продолжить",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961450"
+    },
+    {
+      "english": "Confidence grows when you show up often",
+      "russian": "Уверенность растёт, когда ты часто практикуешь",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961452"
+    },
+    {
+      "english": "Make it fun, learning will stick",
+      "russian": "Сделай это весёлым, и язык запомнится",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961454"
+    },
+    {
+      "english": "Stay curious, every new word is yours",
+      "russian": "Будь любопытным, каждое новое слово — твоё",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961458"
+    },
+    {
+      "english": "You don’t need more time, you need more reps",
+      "russian": "Тебе не нужно больше времени, тебе нужны повторы",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961460"
+    },
+    {
+      "english": "Say it your way, then refine it",
+      "russian": "Скажи по-своему, потом подправь",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961463"
+    },
+    {
+      "english": "When it’s hard, that’s where progress starts",
+      "russian": "Если сложно, значит, там и начинается рост",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961465"
+    },
+    {
+      "english": "Keep a positive vibe, language loves it",
+      "russian": "Держи позитив, язык это чувствует",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961468"
+    },
+    {
+      "english": "You’re building a future, word by word",
+      "russian": "Ты строишь будущее, слово за словом",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961471"
+    },
+    {
+      "english": "Next attempt, better timing, same courage",
+      "russian": "Следующая попытка, лучше по времени, та же смелость",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961473"
+    },
+    {
+      "english": "I feel nervous, but I’m still learning.",
+      "russian": "Мне волнительно, но я всё равно учусь.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961475"
+    },
+    {
+      "english": "Honestly, I’m proud of how far I came.",
+      "russian": "Честно, я горжусь тем, как далеко дошёл.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961478"
+    },
+    {
+      "english": "It’s okay to miss a day, restart calmly.",
+      "russian": "Ничего страшного, пропустил день — начни спокойно.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961481"
+    },
+    {
+      "english": "Sometimes I freeze, then I take one breath.",
+      "russian": "Иногда я замираю, потом делаю один вдох.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961484"
+    },
+    {
+      "english": "I notice my thoughts, then I choose patience.",
+      "russian": "Я замечаю мысли, и выбираю терпение.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961486"
+    },
+    {
+      "english": "I don’t need motivation, just a gentle routine.",
+      "russian": "Мне не нужна мотивация, мне нужна мягкая рутина.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961489"
+    },
+    {
+      "english": "When I doubt, I remind myself, keep going.",
+      "russian": "Когда сомневаюсь, я напоминаю себе: продолжай.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961494"
+    },
+    {
+      "english": "I’m not behind, my pace is honest.",
+      "russian": "Я не отстаю, мой темп честный.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961496"
+    },
+    {
+      "english": "I can be awkward, and still be improving.",
+      "russian": "Я могу быть неловким, и всё равно расти.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961499"
+    },
+    {
+      "english": "Today I listen more, understand before speaking.",
+      "russian": "Сегодня я слушаю больше, понимаю прежде слов.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961501"
+    },
+    {
+      "english": "My goal is clarity, not sounding perfect.",
+      "russian": "Моя цель — ясность, а не идеальные слова.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961503"
+    },
+    {
+      "english": "I forgive mistakes quickly, then move on.",
+      "russian": "Я быстро прощаю ошибки, и иду дальше.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961506"
+    },
+    {
+      "english": "It helps me to write what I feel.",
+      "russian": "Мне помогает писать, что я чувствую.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961508"
+    },
+    {
+      "english": "I’m learning to be brave with small talk.",
+      "russian": "Я учусь быть смелым в простых разговорах.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961511"
+    },
+    {
+      "english": "Some days slow progress is still progress.",
+      "russian": "Иногда медленный прогресс тоже прогресс.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961513"
+    },
+    {
+      "english": "I’d rather try softly than not try at all.",
+      "russian": "Лучше попробовать тихо, чем совсем не пробовать.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961516"
+    },
+    {
+      "english": "I take notes, because my brain needs proof.",
+      "russian": "Я делаю заметки, потому что мозгу нужен смысл.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961518"
+    },
+    {
+      "english": "When it’s messy, I keep my kindness.",
+      "russian": "Если всё запуталось, я держу доброту к себе.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961521"
+    },
+    {
+      "english": "I’m allowed to be a beginner, forever.",
+      "russian": "Мне позволено быть новичком, хоть и дальше.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961523"
+    },
+    {
+      "english": "I feel calmer when I slow down my questions.",
+      "russian": "Мне спокойнее, когда я задаю вопросы медленнее.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961526"
+    },
+    {
+      "english": "Sometimes I just need one honest conversation.",
+      "russian": "Иногда мне нужна одна честная беседа.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961528"
+    },
+    {
+      "english": "I respect my limits, then expand them gently.",
+      "russian": "Я уважаю свои границы, а потом расширяю их спокойно.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961530"
+    },
+    {
+      "english": "I can be emotional, language still works.",
+      "russian": "Я могу переживать, и язык всё равно работает.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961532"
+    },
+    {
+      "english": "I notice progress in tiny, quiet moments.",
+      "russian": "Я вижу прогресс в маленьких тихих моментах.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961535"
+    },
+    {
+      "english": "I don’t chase perfection, I chase understanding.",
+      "russian": "Я не гонюсь за идеалом, я ищу понимание.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961537"
+    },
+    {
+      "english": "Before bed, I reflect, what clicked today?",
+      "russian": "Перед сном я думаю, что сегодня получилось.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961540"
+    },
+    {
+      "english": "If I’m stuck, I admit it, then adjust.",
+      "russian": "Если я застрял, я честно признаю это, и меняю план.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961543"
+    },
+    {
+      "english": "Before ordering, start with a simple question.",
+      "russian": "Перед заказом, начни с простого вопроса.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961545"
+    },
+    {
+      "english": "If you miss a word, ask slowly.",
+      "russian": "Если слово пропало, попроси медленнее.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961547"
+    },
+    {
+      "english": "Practice greetings, then add one friendly detail.",
+      "russian": "Тренируй приветствия, потом добавь одну деталь.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961550"
+    },
+    {
+      "english": "At the cafe, use “могу?” to confirm.",
+      "russian": "В кафе, говори «могу?» чтобы уточнить.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961553"
+    },
+    {
+      "english": "When plans change, say it calmly first.",
+      "russian": "Когда планы меняются, скажи это спокойно сначала.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961557"
+    },
+    {
+      "english": "For small talk, ask about work or weather.",
+      "russian": "Для светской беседы, спроси про работу или погоду.",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961559"
+    },
+    {
+      "english": "If they speak fast, ask, “Повторите, пожалуйста?”",
+      "russian": "Если говорят быстро, скажи: «Повторите, пожалуйста?»",
+      "category": "Growth",
+      "generated_at": "2026-11-11T07:34:09.961566"
     }
   ],
-  "last_updated": "2026-11-10T08:04:18.751360"
+  "last_updated": "2026-11-11T07:34:09.961567"
 }
