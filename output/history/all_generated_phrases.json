@@ -23843,7 +23843,399 @@
       "russian": "Если говорят быстро, скажи: «Повторите, пожалуйста?»",
       "category": "Growth",
       "generated_at": "2026-11-11T07:34:09.961566"
+    },
+    {
+      "english": "Hi, how do you say that?",
+      "russian": "Привет, как это сказать по-русски?",
+      "transliteration": "Privet, kak eto SKAZAT po-russki?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Nice to meet you, really!",
+      "russian": "Очень приятно с вами познакомиться!",
+      "transliteration": "Ochen' PRIYATNO s vami POZNakomit'sya!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "I’m new here, can you help?",
+      "russian": "Я здесь недавно, подскажите, пожалуйста.",
+      "transliteration": "Ya zdes' nedavno, podSKAZhite, POZhaluysta.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "What’s your name, if you don’t mind?",
+      "russian": "Как вас зовут, если не секрет?",
+      "transliteration": "Kak vas ZOVut, esli ne SEKRET?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Call me Alex, it’s easy.",
+      "russian": "Зовите меня Алекс, так проще.",
+      "transliteration": "Zovite menya Aleks, tak PROShche.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Are you Russian, or from somewhere else?",
+      "russian": "Вы русские или вы откуда-то из другого места?",
+      "transliteration": "Vy RUSSkiye ili vy OTKuda-to iz drugogo MESTa?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Do you have a moment?",
+      "russian": "У вас есть минутка?",
+      "transliteration": "U vas YEST' minutka?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Thanks for taking the time today",
+      "russian": "Спасибо, что уделили мне время сегодня",
+      "transliteration": "Spasibo, chto udE/lili mne vremya segodnya",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "I really owe you one",
+      "russian": "Я вам очень благодарен",
+      "transliteration": "Ya vam ochen blagodaren",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "You made this so easy",
+      "russian": "Вы сделали это так легко",
+      "transliteration": "Vy sdElali eto tak legko",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Thanks for listening to me",
+      "russian": "Спасибо, что выслушали меня",
+      "transliteration": "Spasibo, chto vyslushali menya",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "I needed that, thank you",
+      "russian": "Мне это было важно, спасибо",
+      "transliteration": "Mne eto bylo vazhno, spasibo",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "I appreciate your quick response",
+      "russian": "Спасибо за ваш быстрый ответ",
+      "transliteration": "Spasibo za vash bystryy otvet",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Thank you for covering for me",
+      "russian": "Спасибо, что прикрыли меня",
+      "transliteration": "Spasibo, chto prikryli menya",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Hi, sorry I missed your call.",
+      "russian": "Привет, прости, что пропустил твой звонок.",
+      "transliteration": "Privet, prosti, Chto propustil tvoy zvonok.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "I’m calling you back right now.",
+      "russian": "Я перезваниваю тебе прямо сейчас.",
+      "transliteration": "Ya perezvanivayu tebe pryamO seychas.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Can you call me later today?",
+      "russian": "Можешь перезвонить мне сегодня позже?",
+      "transliteration": "Mozhesh perezvonit mne segodnya pozzhe.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Where are you, I’m waiting?",
+      "russian": "Ты где, я тебя жду.",
+      "transliteration": "Ty gde, ya tebya zhdu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "I sent the document, please check.",
+      "russian": "Я отправил документ, пожалуйста, проверь.",
+      "transliteration": "Ya otpravyl dokument, pozhAluysta, provEr.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Did you get my message?",
+      "russian": "Ты получил мое сообщение?",
+      "transliteration": "Ty poluchil moYe soobshcheniye?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Text me when you’re on your way.",
+      "russian": "Напиши мне, когда будешь в пути.",
+      "transliteration": "Napishi mne, kogdA budesh v puti.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Tonight, review one win and why.",
+      "russian": "СЕГОДНЯ ВЕЧЕРОМ, отметь одну победу и почему она случилась.",
+      "transliteration": "Segodnya vecherom, otmet' odnu pobedu i pochemu ona sluchilas'.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Set a timer, then do it.",
+      "russian": "Поставь таймер, и сделай это прямо сейчас.",
+      "transliteration": "Postav' taymer, i sdelay eto pryam segodnya.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Make it easier, then make it.",
+      "russian": "Сделай шаг легче, и оно потянется дальше.",
+      "transliteration": "Sdelay shag legche, i ono potyanetsya dalshe.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Replace excuses with one concrete action.",
+      "russian": "Замени оправдания одним конкретным шагом.",
+      "transliteration": "Zameni opravdaniya odnim konkretnym shagom.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Ask, what would I do daily?",
+      "russian": "Спроси себя, что я сделал бы каждый день.",
+      "transliteration": "Sprasi sebya, chto ya sdelal by kazhdyy den'.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Train your focus, not your mood.",
+      "russian": "Тренируй фокус, а не настроение.",
+      "transliteration": "Treniru y fokus, a ne nastroyeniye.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Choose progress over comfort today.",
+      "russian": "Выбери движение вперед, а не удобство сегодня.",
+      "transliteration": "Vyberi dvizheniye vpered, a ne udobstvo segodnya.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Can I check in early, please?",
+      "russian": "Можно заселиться пораньше, пожалуйста?",
+      "transliteration": "Mozhno zaselit'sya poран'she, pozhaluysta?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Do you have a late checkout?",
+      "russian": "У вас есть поздний выезд?",
+      "transliteration": "U vas yest' pozdniy vyyezd?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "My key card isn’t working.",
+      "russian": "Моя карточка-ключ не работает.",
+      "transliteration": "Moya kartochka-klyuch ne rabotayet.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Where is the elevator, please?",
+      "russian": "Где находится лифт, пожалуйста?",
+      "transliteration": "Gde nakhoditsya lift, pozhaluysta?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Is breakfast included in the price?",
+      "russian": "Завтрак входит в стоимость?",
+      "transliteration": "Zavtrak vkhodit v stoimost'?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "What time does breakfast start?",
+      "russian": "Во сколько начинается завтрак?",
+      "transliteration": "Vo skol'ko nachinayetsya zavtrak?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Can I get an extra blanket?",
+      "russian": "Можно мне дополнительное одеяло?",
+      "transliteration": "Mozhno mne dopolnitel'noe odeyalo?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Pause, then feel your breath arrive",
+      "russian": "Сделай паузу, и почувствуй, как приходит дыхание",
+      "transliteration": "sdelai pauzu, i pochuvstvui, kak prihodit dykhanie",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Unclench your jaw, soften your face",
+      "russian": "Расслабь челюсть, смягчи лицо",
+      "transliteration": "rasslab chелюст', smyagchi litso",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Notice your posture, tall and easy",
+      "russian": "Заметь осанку, ровно и легко",
+      "transliteration": "zamet' osanku, rovno i legko",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Feel the air on your skin",
+      "russian": "Почувствуй воздух на своей коже",
+      "transliteration": "pochuvstvui vozdukh na svoei kozhe",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Let your thoughts slow down gently",
+      "russian": "Пусть мысли замедляются мягко",
+      "transliteration": "pus't mysli zamedlyayutsya myagko",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Name the emotion, no need to fix",
+      "russian": "Назови чувство, и не надо его чинить",
+      "transliteration": "nazovi chuvstvo, i ne nado ego chinitsa",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Watch the urge, then choose calmly",
+      "russian": "Смотри на желание, и выбирай спокойно",
+      "transliteration": "smotri na zhelanie, i vybiraI spokoino",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Choose calm before you react.",
+      "russian": "Выбирай спокойствие, прежде чем реагировать.",
+      "transliteration": "Vybirai SPOKOYSTVIE, prezhde chem reаgirovat.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Make room for a softer thought.",
+      "russian": "Дай место более мягкой мысли.",
+      "transliteration": "Dai MESTO bolee MYAGKOY mysli.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Let your shoulders drop right now.",
+      "russian": "Сейчас опусти плечи.",
+      "transliteration": "Seichas opusti PLECHI.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Quiet your mind, not your life.",
+      "russian": "Утихомирь ум, не останавливай жизнь.",
+      "transliteration": "Utikhomir UM, ne ostanavlivai zhizn.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "I return to myself in silence.",
+      "russian": "Я возвращаюсь к себе в тишине.",
+      "transliteration": "Ya vozvrashchayus k SEBE v TISHINE.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Stay steady when emotions rise.",
+      "russian": "Будь устойчив, когда эмоции поднимаются.",
+      "transliteration": "Bud USTOYCHIV, kogda EMOTSII podnimayutsya.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Speak to yourself like a friend.",
+      "russian": "Говори с собой, как с другом.",
+      "transliteration": "Govori s soboy, kak s DRUGOM.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Turn confusion into clarity, fast.",
+      "russian": "ПРЕВРАЩАЙ сомнения в ясность, быстро.",
+      "transliteration": "PREVRASHCHAY somneniya v yasnost, bystro.",
+      "category": "Success",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Choose the hard thing, calmly.",
+      "russian": "ВЫБИРАЙ СЛОЖНОЕ, но делай спокойно.",
+      "transliteration": "VYBIRAY SLOZHNOE, no delay spokoyno.",
+      "category": "Success",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Small wins build real confidence.",
+      "russian": "МАЛЕНЬКИЕ ПОБЕДЫ собирают уверенность по кирпичику.",
+      "transliteration": "MALENKIE POBEDY sobirayut uverenost po kirpichiku.",
+      "category": "Success",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Send one message, start momentum.",
+      "russian": "ОТПРАВЬ ОДНО сообщение, и появится движение.",
+      "transliteration": "OTPRAV nav ODNО сообщение, i poyavitsya dvizhenie.",
+      "category": "Success",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Keep promises to yourself.",
+      "russian": "СДЕРЖИ обещание себе, и успех придёт.",
+      "transliteration": "SDERZHI obeshchanie sebe, i uspekh pridet.",
+      "category": "Success",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Your effort will compound.",
+      "russian": "ТВОЙ труд накапливается и работает на тебя.",
+      "transliteration": "TVOY trud nakaplivayetsya i rabotaet na tebya.",
+      "category": "Success",
+      "generated_at": "2026-11-12T21:56:49.342033"
+    },
+    {
+      "english": "Make a plan, then do it.",
+      "russian": "СНАЧАЛА план, потом действие, без паузы.",
+      "transliteration": "SNACHALA plan, potom deystvie, bez pauzy.",
+      "category": "Success",
+      "generated_at": "2026-11-12T21:56:49.342033"
     }
   ],
-  "last_updated": "2026-11-11T07:34:09.961567"
+  "last_updated": "2026-11-12T21:56:49.342033"
 }
