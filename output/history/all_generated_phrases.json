@@ -24627,7 +24627,399 @@
       "transliteration": "Sprosi u lyudey, poslushay istorii.",
       "category": "Creativity",
       "generated_at": "2026-11-13T21:39:40.065020"
+    },
+    {
+      "english": "Excuse me, where is the nearest metro?",
+      "russian": "Извините, где ближайшее метро?",
+      "transliteration": "izvinite, gde blizhayshee METro?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "How do I get to the station?",
+      "russian": "Как добраться до вокзала?",
+      "transliteration": "kak DOBRAT'sya do vokzala?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "What street is this, please?",
+      "russian": "Подскажите, как называется эта улица?",
+      "transliteration": "podskazhite, kak nazyvaetsya eta ULitsa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Is there a pharmacy nearby?",
+      "russian": "Здесь рядом есть аптека?",
+      "transliteration": "zdes' ryadom est' APteka?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Can you show it on the map?",
+      "russian": "Можете показать на карте?",
+      "transliteration": "mozhete pokazat' na KARte?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Which way is the museum?",
+      "russian": "Куда идти до музея?",
+      "transliteration": "kuda IDti do MUzeя?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Am I close to the river?",
+      "russian": "Я рядом с рекой?",
+      "transliteration": "ya ryadom s REkoy?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Ready for karaoke night tonight?",
+      "russian": "Ты готов к караоке сегодня вечером?",
+      "transliteration": "Ty gOTov k karOke segOdnya vechErom?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Let’s bring snacks for the potluck.",
+      "russian": "Давай принесём что-нибудь к столу на общий ужин.",
+      "transliteration": "DavAY prinesyom chto-nibud' k stolU na obshchiy uZhin.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Happy birthday, I brought flowers!",
+      "russian": "С днём рождения, я принёс цветы!",
+      "transliteration": "S dnyom rozhdeniya, ya prinoss tsvety!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Cheers, here’s to good health!",
+      "russian": "За здоровье, давай выпьем до дна!",
+      "transliteration": "Za zdorov'ye, davay vypeyom do dnA!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "The DJ is killing it tonight.",
+      "russian": "Ди-джей сегодня просто разрывает танцпол.",
+      "transliteration": "Di-dzhey segOdnya prosto razryvayet tAntspol.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Do we need tickets or just show up?",
+      "russian": "Нужны билеты, или можно просто прийти?",
+      "transliteration": "Nuzhny bilEty, ili mozhno prostO priyti?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "I’ll call you after the party ends.",
+      "russian": "Я позвоню тебе, когда вечеринка закончится.",
+      "transliteration": "Ya pozvonyu tebE, kogda vecherinka zakonchitsya.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Choose courage, then act",
+      "russian": "Vybiraĭ mukhrost, a zatem postupaĭ",
+      "transliteration": "Vybirai MUKhrost, a zatem postupaĭ",
+      "category": "Strength",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Say no, with calm strength",
+      "russian": "Skazhi net, s spokoinoi sileĭ",
+      "transliteration": "SKAZHИ NET, s spokoĭnoĭ SILEĬ",
+      "category": "Strength",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Let your boundaries protect you",
+      "russian": "Pust granitsy zashchishchaiut tebya",
+      "transliteration": "Pust GRANitsy zashchishchaiut tebya",
+      "category": "Strength",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Keep your promises, even small ones",
+      "russian": "Derzhi svoi obeshchaniia, dazhe nebolʹshie",
+      "transliteration": "DERzhi svoi obeshchaniia, DAzhe nebolʹshie",
+      "category": "Strength",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Turn setbacks into lessons",
+      "russian": "Prevrashchai porazhenii͡a v uroki",
+      "transliteration": "Prevrashchay POrazheniia v UROKI",
+      "category": "Strength",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Strength is asking for help",
+      "russian": "Sila, eto vremenno poprosit pomoshch",
+      "transliteration": "Sila, eto vremennO poprositʹ pomoshch",
+      "category": "Strength",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Relax your jaw, stay powerful",
+      "russian": "Rasslabi cheliusti, sohrani slypu͡u silu",
+      "transliteration": "RASSLabi CHEliusti, sokhrani TYskuyu SILU",
+      "category": "Strength",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "I choose progress over perfection.",
+      "russian": "Ya vybiraю progreSS vmesto perfektsii.",
+      "transliteration": "Ya vybirayu PROGRESS vmesto perfektsii.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "I talk to myself with respect.",
+      "russian": "Ya govoryu s soboy s uvazheniem, bez suda.",
+      "transliteration": "Ya govorю s soboy s UVazheniem, bez suda.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Gratitude makes my day lighter.",
+      "russian": "Blagodarnost oblegchaet moY den, srazu.",
+      "transliteration": "Blagodarnost obleghchaet MOY den, srazu.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "One honest step, then breathe.",
+      "russian": "Sdelai odin chestnyy shag, i dykhni.",
+      "transliteration": "Sdelay odIN CHESTnyy SHAG, i dyKHni.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "I celebrate effort, not just results.",
+      "russian": "Ya prazdnuю trud, dazhe esli rezultat eshche ne gotov.",
+      "transliteration": "Ya prazdnuyu TRUD, dazhe yesli rezul'tat eshche ne GOTOV.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "I set boundaries, and feel free.",
+      "russian": "Ya stavlyu granitsy, i mne stanoVitsya svobodnee.",
+      "transliteration": "Ya stavlyu GRANitsy, i mne stanovitsya SVObodnee.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "I move my body every day.",
+      "russian": "Ya dviгаyus kazhdyy den, dazhe po malo.",
+      "transliteration": "Ya dvigayus kazhdyy DEN, dazhe po malo.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "My friend always tells the truth",
+      "russian": "Мой друг всегда говорит правду.",
+      "transliteration": "MOI drug ВСЕГДА govori pravdu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "We share snacks and stories",
+      "russian": "Мы делимся вкусняшками и историями.",
+      "transliteration": "MY deliMsi vkusnyashkami i istoriyami.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "You can call, I will answer",
+      "russian": "Ты позвонишь, я сразу отвечу.",
+      "transliteration": "TY pozvonish, ya SYRAzu otvechu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Friends keep my secrets safe",
+      "russian": "Друзья хранят мои секреты в тайне.",
+      "transliteration": "DRUZ’ya khranyat moi sekrety v tayne.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "We show up for each other",
+      "russian": "Мы всегда приходим друг к другу.",
+      "transliteration": "MY vsegda prikhodim drug k drugu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Real friends celebrate your wins",
+      "russian": "Настоящие друзья искренне радуются твоим победам.",
+      "transliteration": "NAstoyashchiye druZ’ya iskrenne raduYutsya tvoym pobedam.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "We argue, then we forgive",
+      "russian": "Мы спорим, но потом миримся.",
+      "transliteration": "MY sporim, no potOM mirimSYa.",
+      "category": "Friendship",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Stay with it, not everything now.",
+      "russian": "Держись, сейчас не всё нужно сразу.",
+      "transliteration": "DerzhiS, seychAS ne vsyo nuzhno sRAzu.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Breathe, let the moment pass.",
+      "russian": "Дыши, дай моменту пройти.",
+      "transliteration": "DISHI, day momentu proyti.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "You can wait, and still act.",
+      "russian": "Ты можешь ждать, но продолжать действовать.",
+      "transliteration": "Ty MOZhesh zhaT’, no prodolzhAT’ deystvovat’.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Slow isn’t failure, it’s control.",
+      "russian": "Медленно не значит проигрыш, это контроль.",
+      "transliteration": "MEDLENNO ne znachit proigRYsh, eto KONtrol’.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Pause, then choose your next move.",
+      "russian": "Пусть будет пауза, и потом выбирай следующий шаг.",
+      "transliteration": "Pust’ buduT pauZA, i potOM vybiray sleduyushchiy SHAG.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Listen longer, react less quickly.",
+      "russian": "Слушай дольше, реагируй спокойнее.",
+      "transliteration": "SLUShay dol’she, reagiruY spoKOYnee.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Not yet. Keep your focus steady.",
+      "russian": "Ещё не сейчас, но держи фокус.",
+      "transliteration": "EshchYO ne seychAS, no derzhi FOKus.",
+      "category": "Patience",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Let small wins feel big.",
+      "russian": "Dai malenkim pobedam bit' bolshimi.",
+      "transliteration": "DAI malen'kim POByedam bit' bol'Shimi.",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Call someone just to check in.",
+      "russian": "Pozvoni prosto, chtoby proverit, kak ty.",
+      "transliteration": "pozvoNI prosto, chtoby PROverit', kak ty.",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Play your favorite song, loud.",
+      "russian": "Vklyuchай lyubimuyu pesnyu, pogromche.",
+      "transliteration": "VKLIuchai lyuBIMuyu PESNyu, poGROMche.",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Make room for wonder today.",
+      "russian": "Segodnya ostavь mesto chudu.",
+      "transliteration": "seGOdnja Ostav' meSTO chudu.",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Give yourself permission to rest.",
+      "russian": "Da' sebe razreshenie otdokhnut'.",
+      "transliteration": "da' seBE razresheniye otdokhnut'.",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Take a walk, feel the air.",
+      "russian": "Poguliai, pochuvstvui etot vozdukh.",
+      "transliteration": "poguLAI, poCHUVstvui eTOT vozDUkh.",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Find your calm in the morning.",
+      "russian": "Svoiu tiShinu nachni so utRa.",
+      "transliteration": "svoiu tiSHinu nachNI so UTRA.",
+      "category": "Happiness",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Do you have it on sale?",
+      "russian": "У вас бывает скидка на это?",
+      "transliteration": "U vas byvaet skidka na eta?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Is it cheaper in cash?",
+      "russian": "Если платить наличными, дешевле?",
+      "transliteration": "Esli platit' nalichnymi, deshevle?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "russian": "Можно оплатить картой здесь?",
+      "transliteration": "Mozhno oplatit' kartoy zdes'?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Do you have a smaller size?",
+      "russian": "У вас есть размер поменьше?",
+      "transliteration": "U vas yest' razmer pomenshe?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "This looks great, how much is it?",
+      "russian": "Мне нравится, сколько это стоит?",
+      "transliteration": "Mne nravitsya, skol'ko eto stóit?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Can I try it on, please?",
+      "russian": "Можно примерить это, пожалуйста?",
+      "transliteration": "Mozhno primerit' eto, pozhaluysta?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Do you accept returns within a week?",
+      "russian": "Можно вернуть покупку в течение недели?",
+      "transliteration": "Mozhno vernut' pokupku v techenie nedeli?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T20:06:47.040531"
     }
   ],
-  "last_updated": "2026-11-13T21:39:40.065020"
+  "last_updated": "2026-11-14T20:06:47.040531"
 }
