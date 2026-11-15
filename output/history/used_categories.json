@@ -199,7 +199,39 @@
     {
       "category": "Shopping & Prices",
       "date": "2026-11-14"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Love",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Kindness",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-15"
     }
   ],
-  "last_updated": "2026-11-14T20:06:47.056833"
+  "last_updated": "2026-11-15T20:36:08.041827"
 }

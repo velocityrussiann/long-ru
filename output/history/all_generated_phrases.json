@@ -25019,7 +25019,399 @@
       "transliteration": "Mozhno vernut' pokupku v techenie nedeli?",
       "category": "Shopping & Prices",
       "generated_at": "2026-11-14T20:06:47.040531"
+    },
+    {
+      "english": "Is this spicy, or mild?",
+      "russian": "Это острое, или не слишком?",
+      "transliteration": "Eto OSTROYE, ili ne slishkom?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I’ll take water, no ice.",
+      "russian": "Мне воду, без льда, пожалуйста.",
+      "transliteration": "Mne VODU, bez LDA, pozhaluysta.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Could we have the bill, please?",
+      "russian": "Можно счет, пожалуйста?",
+      "transliteration": "Mozhno SCHOT, pozhaluysta?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Where can I pay, cash or card?",
+      "russian": "Как оплачивать, наличными или картой?",
+      "transliteration": "Kak oplachivat, nalichnymi ili KARToy?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Do you offer takeout for this?",
+      "russian": "Можно это на вынос?",
+      "transliteration": "Mozhno ETO na VYNOS?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I need it without nuts, please.",
+      "russian": "Мне без орехов, пожалуйста.",
+      "transliteration": "Mne bez OREKhOV, pozhaluysta.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Can I change the side dish?",
+      "russian": "Можно заменить гарнир?",
+      "transliteration": "Mozhno zamENIT gARnir?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I keep showing up, anyway.",
+      "russian": "Я все равно продолжаю приходить снова.",
+      "transliteration": "Ya vse ravno prodolzhayu prihodit snova.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Small steps, big persistence.",
+      "russian": "Маленькие шаги, и упрямство работает.",
+      "transliteration": "Malenkiye shagi, i upyamstvo rabotaet.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I miss nothing, I just adjust.",
+      "russian": "Я не сдаюсь, я просто подстраиваюсь.",
+      "transliteration": "Ya ne sdayus, ya prosto podstraivayus.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I can try again, right now.",
+      "russian": "Я могу попробовать снова, прямо сейчас.",
+      "transliteration": "Ya mogu poprobovat snova, pryam Seichas.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Let it take time, I stay.",
+      "russian": "Пусть занимает время, я не ухожу.",
+      "transliteration": "Pust zanimayet vremya, ya ne ukhozhu.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I finish what I started.",
+      "russian": "Я довожу дело до конца.",
+      "transliteration": "Ya dovozhu delo do kontsa.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "One more attempt, then I rest.",
+      "russian": "Сделаю еще одну попытку, потом отдохну.",
+      "transliteration": "Sdelayu eshche odnu popytku, potom otdokhnу.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I feel suddenly overwhelmed right now.",
+      "russian": "Меня прямо сейчас накрывает волной.",
+      "transliteration": "Menya pryam segodnya nakryvaet volnoy.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I get defensive when I feel judged.",
+      "russian": "Я начинаю защищаться, когда меня судят.",
+      "transliteration": "Ya nachinayu zashchishchatsya, kogda menya sudyat.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I’m excited, but I’m also nervous.",
+      "russian": "Я радуюсь, и одновременно волнуюсь.",
+      "transliteration": "Ya raduyus, i odnovremenno volnuyus.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I can’t stop replaying that moment.",
+      "russian": "Я не могу перестать прокручивать тот миг.",
+      "transliteration": "Ya ne mogu perestat prokruchivat tot mig.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "That news made me gasp, honestly.",
+      "russian": "От этой новости у меня даже дыхание перехватило.",
+      "transliteration": "Ot etoy novosti u menya dazhe dykhanie perekhlopilo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I feel angry, and I hate it.",
+      "russian": "Я злюсь, и мне это неприятно.",
+      "transliteration": "Ya zlyus, i mne eto nepriyatno.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I’m quietly relieved it’s over.",
+      "russian": "Меня тихо отпускает, что всё закончилось.",
+      "transliteration": "Menya tikho otpuskayet, chto vse zakonchilos.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I want to be close to you",
+      "russian": "Я хочу быть рядом с тобой.",
+      "transliteration": "Ya KHOCHU byt' ryadom s toboy.",
+      "category": "Love",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Your smile stays in my mind",
+      "russian": "Твоя улыбка не выходит у меня из головы.",
+      "transliteration": "TVOYA ulybka ne vyhodit u menya iz golovy.",
+      "category": "Love",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Let’s take this slow, together",
+      "russian": "Давай будем идти медленно, вместе.",
+      "transliteration": "Davay budem idti MEDlenno, vmeste.",
+      "category": "Love",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Hold me, just for tonight",
+      "russian": "Обними меня, пожалуйста, только на сегодня.",
+      "transliteration": "Obnimi menya, pozhaluysta, tol'ko na segodnya.",
+      "category": "Love",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I love how you make room for me",
+      "russian": "Мне так нравится, как ты находишь место для меня.",
+      "transliteration": "Mne tak nravitsya, kak TY nakhodish' mesto dlya menya.",
+      "category": "Love",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "You make my worries fade",
+      "russian": "С тобой мои тревоги как будто уходят.",
+      "transliteration": "S toboy moi trevogi kak budto uhodyat.",
+      "category": "Love",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I want your honest yes",
+      "russian": "Мне важен твой честный ответ, да или нет.",
+      "transliteration": "Mne vazhen tvoy chestnyy otvet, da ili net.",
+      "category": "Love",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I notice your effort, really",
+      "russian": "Я замечаю твои усилия, правда.",
+      "transliteration": "Ya zametayu Tvoi usiliya, pravda.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Do you want a kind check-in?",
+      "russian": "Тебе нужно теплое общение, как проверка?",
+      "transliteration": "Tebe nuzhno teploye obshcheniye, kak proverka?",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Here, take your time, please",
+      "russian": "Вот, возьми время, пожалуйста.",
+      "transliteration": "Vot, voz'mi VREMYA, pozhaluysta.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Let’s make space for your needs",
+      "russian": "Давай сделаем место под твои нужды.",
+      "transliteration": "Davay sdelaem MESTO pod Tvoi nuzhdy.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "You don’t have to explain everything",
+      "russian": "Тебе не обязательно всё объяснять.",
+      "transliteration": "Tebe ne obyazatel'no VSYO ob'yasnyat'.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I’ll walk with you through this",
+      "russian": "Я пройду с тобой через это.",
+      "transliteration": "Ya PROYDU s toboy cherez eto.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Small help counts more than you think",
+      "russian": "Маленькая помощь многое значит.",
+      "transliteration": "Malen'kaya POMOSH' mnogo znachit.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I forgive you, but I need time.",
+      "russian": "Я прощаю тебя, но мне нужно время.",
+      "transliteration": "Ya PROshchayu tebya, no mne NUZHno VREmya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I can let this go now.",
+      "russian": "Я могу отпустить это сейчас.",
+      "transliteration": "Ya mogU OTPustit eto seychas.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Let’s talk, I want to mend.",
+      "russian": "Давай поговорим, я хочу наладить.",
+      "transliteration": "DavAY pogovorim, ya khochu nalADit.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I’m choosing forgiveness over revenge.",
+      "russian": "Я выбираю прощение, а не месть.",
+      "transliteration": "Ya vybIRayU proshcheniye, a ne mest'.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "It’s okay, I don’t hold onto it.",
+      "russian": "Все в порядке, я больше не держу это.",
+      "transliteration": "Vsyo v poryadke, ya bol'she ne DERzhu eto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I hear you, and I’ll forgive.",
+      "russian": "Я слышу тебя, и я прощу.",
+      "transliteration": "Ya SLYshu tebya, i ya PROshchu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Let me reset, I’m not fine yet.",
+      "russian": "Мне нужно перезагрузиться, я еще не в порядке.",
+      "transliteration": "Mne nUzhno perezagruzitsya, ya yeshche ne v poryadke.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I agree, let’s move forward.",
+      "russian": "Я согласен, давай двигаться дальше.",
+      "transliteration": "Ya soglasen, davai dvigatsya dalshe.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Yes, that’s exactly what I think.",
+      "russian": "Да, это ровно то, что я думаю.",
+      "transliteration": "Da, eto rovno to, chto ya dumayu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "That makes sense to me.",
+      "russian": "Мне это логично.",
+      "transliteration": "Mne eto logichno.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "You convinced me, I’m in.",
+      "russian": "Ты меня убедил, я согласен.",
+      "transliteration": "Ty menya ubedil, ya soglasen.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Totally agreed, no question.",
+      "russian": "Полностью согласен, без вариантов.",
+      "transliteration": "Polnostyu soglasen, bez variantov.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I’m not on board with that.",
+      "russian": "Я не поддерживаю эту идею.",
+      "transliteration": "Ya ne podderzhivayu etu ideyu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I disagree, and here’s why.",
+      "russian": "Не согласен, и вот почему.",
+      "transliteration": "Ne soglasen, i vot pochemu.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I need to see a doctor today.",
+      "russian": "Мне нужно сегодня попасть к врачу.",
+      "transliteration": "Mne NUZHno segodnya popAST k vrAchu.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "My symptoms started last night.",
+      "russian": "Мои симптомы начались прошлой ночью.",
+      "transliteration": "Moi SIMPTomy nachALIS proSHLOy nochyu.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "I brought my discharge papers.",
+      "russian": "Я принесла выписку из больницы.",
+      "transliteration": "Ya prineslA vypISku iz bolnitsy.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Do I need a referral?",
+      "russian": "Мне нужен талон или направление?",
+      "transliteration": "Mne nUZhen talon ili napravLENiye?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Is it safe to drive now?",
+      "russian": "Можно ли мне сейчас водить машину?",
+      "transliteration": "MOZhno li mne seychAS vodit mashINU?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Can I take it with food?",
+      "russian": "Можно ли принимать это с едой?",
+      "transliteration": "MOZhno li priNIMat eto s yeDOy?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "How long will this treatment take?",
+      "russian": "Сколько обычно длится это лечение?",
+      "transliteration": "SKOLko obyCHno dlitsya eto leCHENiye?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T20:36:08.025020"
     }
   ],
-  "last_updated": "2026-11-14T20:06:47.040531"
+  "last_updated": "2026-11-15T20:36:08.025020"
 }
