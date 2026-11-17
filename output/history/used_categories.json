@@ -263,7 +263,39 @@
     {
       "category": "Confidence",
       "date": "2026-11-16"
+    },
+    {
+      "category": "Cultural Traditions",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-17"
     }
   ],
-  "last_updated": "2026-11-16T23:53:10.040521"
+  "last_updated": "2026-11-17T23:11:44.931956"
 }

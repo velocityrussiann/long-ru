@@ -25803,7 +25803,399 @@
       "transliteration": "Ya mogu nachat’ zaNOvo, i stat’ sil’nee",
       "category": "Confidence",
       "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Let local elders explain the meaning.",
+      "russian": "Пусть местные старшие объяснят смысл.",
+      "transliteration": "Pust mestnye STARShie obyasnyat smysl.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Join the toast, then listen quietly.",
+      "russian": "Поддержи тост, а потом слушай внимательно.",
+      "transliteration": "Podderzhi tost, a potomoslushay vnimatelno.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "At feasts, everyone helps without being asked.",
+      "russian": "На празднике все помогают, без просьб.",
+      "transliteration": "Na prazdnike vse pomogayut, bez prosb.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Bring flowers, it shows real respect.",
+      "russian": "Принеси цветы, это знак уважения.",
+      "transliteration": "Prinési Tsvety, eto znak UVazheniya.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Watch how greetings work, then mirror them.",
+      "russian": "Смотри, как здороваются, и повторяй.",
+      "transliteration": "Smotri, kak zdorovayutsya, i povtoryay.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "People bargain kindly, keep your voice calm.",
+      "russian": "Торг здесь доброжелательный, говори спокойно.",
+      "transliteration": "Torg zdes drozheLATELnyy, govori SPokoyno.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Learn the table rules before your first meal.",
+      "russian": "Сначала узнай правила за столом.",
+      "transliteration": "Snachala UZnay pravila za stolom.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I slow my answers, not my life.",
+      "russian": "Я замедляю ответы, а не жизнь.",
+      "transliteration": "Ya ZAMEDLYayu otvety, a ne zhizn'.",
+      "category": "Balance",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I check my body before my mind.",
+      "russian": "Я сначала проверяю тело, потом ум.",
+      "transliteration": "Ya snachala PROveryayu telo, potom um.",
+      "category": "Balance",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "One pause keeps me from spiraling.",
+      "russian": "Одна пауза удерживает меня от накрутки.",
+      "transliteration": "Odna pauza UDERzhivaet menya ot nakrutki.",
+      "category": "Balance",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I let silence do part of the work.",
+      "russian": "Я даю тишине сделать часть работы.",
+      "transliteration": "Ya dayu TISHINE sdelat' chast' raboty.",
+      "category": "Balance",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I choose calm, even if I feel anger.",
+      "russian": "Я выбираю спокойствие, даже когда злюсь.",
+      "transliteration": "Ya vybiraю SPOKOYSTVIE, dazhe kogda zlyus'.",
+      "category": "Balance",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I name the need, then act kindly.",
+      "russian": "Я называю потребность, и только потом действую.",
+      "transliteration": "Ya nazyvayu potrEBNOST', i tol'ko potom deystvuyu.",
+      "category": "Balance",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I breathe in, I soften my grip.",
+      "russian": "Я вдыхаю и смягчаю хватку.",
+      "transliteration": "Ya VDykhayu i myagchayu khvatku.",
+      "category": "Balance",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Is there a monthly service fee?",
+      "russian": "Esť s eže mesyachnaya komissiya?",
+      "transliteration": "Estʹ li eže mesyachnaya KOMISSIYA?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I want to set spending alerts.",
+      "russian": "Ya hochu nastroitʹ opoveshcheniya o rashodakh.",
+      "transliteration": "Ya hochu nastroitʹ opoveSHCHENIYA o rashoDAKH.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I need cash withdrawal limits explained.",
+      "russian": "Mne nuzhny limity na snyatie nalichnykh.",
+      "transliteration": "Mne nuzhny LIMITY na snyatie naLIchnyh.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I paid, but the status is pending.",
+      "russian": "Ya oplatil, no status poka v obrabотке.",
+      "transliteration": "Ya oplatil, no status poka v obrABOTKE.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "How do chargebacks work here?",
+      "russian": "Kak rabotaet vozvrat deneg po pretenzii?",
+      "transliteration": "Kak raboTAet vozVRAT DENEG po preTENZII?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Is it better to pay now or later?",
+      "russian": "Luchshe oplachivatʹ seichas ili pozdneye?",
+      "transliteration": "LUCHshe oplachivatʹ seychAS ili pozdNEE?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Can you resend the payment confirmation?",
+      "russian": "Mozhete pereslatʹ podtverzhdenie platezha?",
+      "transliteration": "MOzhete pereslatʹ podTVErzhdenie platezha?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Where is the boarding gate for flight?",
+      "russian": "Где посадочный выход на мой рейс?",
+      "transliteration": "Gde POSADOChnyy VYKHOD na moy reys?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Excuse me, where is passport control?",
+      "russian": "Извините, где паспортный контроль?",
+      "transliteration": "Izvinite, gde pasPORTnyy KONtrol?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Is there a faster security line?",
+      "russian": "Есть ли быстрее очередь на досмотр?",
+      "transliteration": "Yest li BYSTREE ochered na DOSMOTR?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I need to recheck my baggage weight.",
+      "russian": "Мне нужно ещё раз проверить вес багажа.",
+      "transliteration": "Mne NUZHno eshchyo raz PROverit ves BAGAZHA.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Can you help me with my boarding pass?",
+      "russian": "Вы можете помочь мне с посадочным талоном?",
+      "transliteration": "Vy mozhete pomoch mne s posADOchnym TALOnom?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "My gate changed, where should I go?",
+      "russian": "Мой выход изменился, куда идти?",
+      "transliteration": "Moy VYKHOD izmenilsya, KUda idti?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Does my ticket include baggage drop-off?",
+      "russian": "Мой билет включает сдачу багажа?",
+      "transliteration": "Moy BILET vklyuchaet SDACHU bagazha?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Stay with me, keep talking to me.",
+      "russian": "Не уходи от меня, говори со мной.",
+      "transliteration": "Ne uHodi ot menya, govori so mnoi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Tell me, are you short of breath?",
+      "russian": "Скажи, тебе не хватает воздуха?",
+      "transliteration": "Skazhi, tebe ne khvatayet vozdukha?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "If you faint, lie down right now.",
+      "russian": "Если теряешь сознание, ляг прямо сейчас.",
+      "transliteration": "Esli tryayesh soznaniye, lyag pryamO seichas.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Check your chest, any pain or tightness?",
+      "russian": "Проверь грудь, есть боль или сдавливание?",
+      "transliteration": "Provery grud, yest bol ili sdavlivaniye?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I’m calling emergency now, stay on line.",
+      "russian": "Я сейчас звоню в скорую, не отключайся.",
+      "transliteration": "Ya seichas zvonYu v skorUyU, ne otklyuchAisya.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Loosen tight clothes, breathe through your nose.",
+      "russian": "Расстегни тесную одежду, дыши через нос.",
+      "transliteration": "Rasstegni tesnuyu odezhdu, dyshi cherez nos.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Sip water only if you can swallow.",
+      "russian": "Пей воду маленькими глотками, только если можешь глотать.",
+      "transliteration": "Pye vodu malen'kimi glOtkaMi, tol'ko yesli mozhesh glotat'.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I can take the lead on this.",
+      "russian": "Я могу взять на себя руководство.",
+      "transliteration": "Ya mogu vzyat na sebya rukovodstvo.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Can we align on priorities today?",
+      "russian": "Давайте согласуем приоритеты на сегодня.",
+      "transliteration": "Davajte soglasuem prioritety na segodnya.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I’ll send a summary after lunch.",
+      "russian": "Я пришлю краткий итог после обеда.",
+      "transliteration": "Ya prishlyu kratkiy itog posle obeda.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Let’s confirm the meeting agenda.",
+      "russian": "Давайте уточним повестку встречи.",
+      "transliteration": "Davajte utochnim povestku vstrechi.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Please put it in writing.",
+      "russian": "Пожалуйста, оформите это письменно.",
+      "transliteration": "Pozhaluysta, oformite eto pis'menno.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I need clarification on the task scope.",
+      "russian": "Мне нужно уточнить рамки задачи.",
+      "transliteration": "Mne nuzhno utochnit ramki zadachi.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Can you share the latest document?",
+      "russian": "Можешь прислать самую свежую версию документа?",
+      "transliteration": "Mozhesh prislat samuyu svezhuyu versiyu dokumenta?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I stretch and breathe, then move.",
+      "russian": "Я тянусь и дышу, а потом двигаюсь.",
+      "transliteration": "Ya TYanus' i DYShu, a potom dVIGayus'.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Water first, then my workout starts.",
+      "russian": "Сначала вода, потом я начинаю тренировку.",
+      "transliteration": "Snachala VAda, potOm ya nachinaYu trenirovKu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I’m warming up my joints slowly.",
+      "russian": "Я медленно разогреваю суставы.",
+      "transliteration": "Ya miDlenno razogreVAyu sustaVY.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Coach, check my form, please.",
+      "russian": "Тренер, проверь мою технику, пожалуйста.",
+      "transliteration": "TrenyOR, provEr' moyu tekhNIKU, pozhaluYsta.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I slow down on the reps.",
+      "russian": "Я замедляюсь на каждом повторе.",
+      "transliteration": "Ya zamEDlyayus' na kazhdom povTORe.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I keep my core tight, always.",
+      "russian": "Я держу кор активным, всегда.",
+      "transliteration": "Ya derzhu kor AKtivnym, vsegda.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Today I train cardio, steady pace.",
+      "russian": "Сегодня я тренирую кардио, ровным темпом.",
+      "transliteration": "Segodnya ya treniruyu KARdio, roVnym tempom.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Can I get oat milk instead?",
+      "russian": "Можно мне вместо молока овсяное?",
+      "transliteration": "Mozhno mnE vmesto molokA ovsianoe?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "What pastries are best-sellers today?",
+      "russian": "Какие у вас сегодня самые популярные пирожные?",
+      "transliteration": "Kakie u vas segodnya samye populyarnye pirozhnyye?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Is the cinnamon roll fresh right now?",
+      "russian": "Булочка с корицей свежая сейчас?",
+      "transliteration": "Bulochka s koritsei svezhaya seychas?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "I’ll sit by the window, please.",
+      "russian": "Я бы посидел у окна, пожалуйста.",
+      "transliteration": "Ya by posidel u okna, pozhaluysta.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Could I get two cappuccinos?",
+      "russian": "Можно два капучино, пожалуйста?",
+      "transliteration": "Mozhno dva kapuchinno, pozhaluysta?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "Do you bake on site here?",
+      "russian": "Вы тут печете прямо на месте?",
+      "transliteration": "Vy tut pechete priamo na meste?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:11:44.909731"
+    },
+    {
+      "english": "What’s the signature coffee today?",
+      "russian": "Какой у вас фирменный кофе сегодня?",
+      "transliteration": "Kakoy u vas firmennyy kofe segodnya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T23:11:44.909731"
     }
   ],
-  "last_updated": "2026-11-16T23:53:10.018311"
+  "last_updated": "2026-11-17T23:11:44.909731"
 }
