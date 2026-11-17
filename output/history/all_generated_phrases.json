@@ -25411,7 +25411,399 @@
       "transliteration": "SKOLko obyCHno dlitsya eto leCHENiye?",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-11-15T20:36:08.025020"
+    },
+    {
+      "english": "Let s set a clear deadline.",
+      "russian": "Давай установим чёткий дедлайн.",
+      "transliteration": "Davay ustanovim CHYOTkiy dEADlayn.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "What s the simplest next step?",
+      "russian": "Какой самый простой следующий шаг?",
+      "transliteration": "Kakoy SAMyy prostoy sleDUYushchiy shag?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Can we agree on priorities first?",
+      "russian": "Можем сначала согласовать приоритеты?",
+      "transliteration": "Mozhem snachala soglasovAt prioritEty?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I can handle the booking, you?",
+      "russian": "Я возьму на себя бронирование, а ты?",
+      "transliteration": "Ya vozmu na sebya broniroVaniye, a ty?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Let s write it down, right now.",
+      "russian": "Давай запишем это прямо сейчас.",
+      "transliteration": "Davay zapishEm eto pryamo seychAs.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Which day works best for you?",
+      "russian": "Какой день тебе лучше подходит?",
+      "transliteration": "Kakoy DEN tebe luchshe podkhodit?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "We should plan for backup options.",
+      "russian": "Нужно продумать запасные варианты.",
+      "transliteration": "Nuzhno produmat zapAsnyye variAnty.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I can hope without forcing it",
+      "russian": "Я могу надеяться, не давя на себя.",
+      "transliteration": "Ya mogu nadeyatsya, ne davyа na sebya.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Hope feels like a warm light",
+      "russian": "Надежда греет, как тёплый свет.",
+      "transliteration": "Nadyezhda gреет, kak tyoplyy svet.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I keep room for good news",
+      "russian": "Я оставляю место для хороших новостей.",
+      "transliteration": "Ya ostavlyayu mesto dlya khoroshikh novostey.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Even today, I choose hope",
+      "russian": "Даже сегодня я выбираю надежду.",
+      "transliteration": "Даzhe segodnya ya vybirayu nadyezhdu.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I trust tomorrow will bring answers",
+      "russian": "Я верю, завтра даст ответы.",
+      "transliteration": "Ya veryu, zavtra dаst otvety.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Hope helps me breathe through it",
+      "russian": "Надежда помогает мне дышать легче.",
+      "transliteration": "Nadyezhda pomogayet mne dyshat legche.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I talk myself into hope softly",
+      "russian": "Я тихо уговариваю себя: всё наладится.",
+      "transliteration": "Ya tikho uговариваю sebya: vsyo nalадitsya.",
+      "category": "Hope",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Start small, show up daily",
+      "russian": "Начни с малого, приходи каждый день",
+      "transliteration": "Nachni s malogo, prihoDI kazhdy den'",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Your future self needs this",
+      "russian": "Твоя будущая версия тебя благодарит",
+      "transliteration": "Tvoya budushchaya VERsiya tebya blagodarit",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "One lesson tonight beats procrastination",
+      "russian": "Один урок сегодня вечером побеждает прокрастинацию",
+      "transliteration": "Odin UROK segodnya vecherom pobezhdaet proKRAS tинацию",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Make it fun, then keep going",
+      "russian": "Сделай это приятным, и продолжай дальше",
+      "transliteration": "Sdelay eto priyatnym, i prodOLzhay dalshe",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Pick one goal for this week",
+      "russian": "Выбери одну цель на эту неделю",
+      "transliteration": "Vyberi odnu tSEL' na etu NEdelu",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Reward yourself after each practice",
+      "russian": "Побалуй себя после каждой тренировки, и ты захочешь снова",
+      "transliteration": "Pobaluy sebya POSle kazhdoy trenirovki, i ty zahochesh' SNOVA",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Say it out loud, even softly",
+      "russian": "Говори вслух, даже тихо, и станет легче",
+      "transliteration": "GovoRI vsLUKh, dazhe TIkho, i stanet leGche",
+      "category": "Motivation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I m low-key stressed right now",
+      "russian": "Я сейчас немного на взводе, по-тихому нервничаю",
+      "transliteration": "Ya сейchas nemnogo na vzvode, po-tiHo mu nervnichayu",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Don t ghost me, please",
+      "russian": "Не пропадай, пожалуйста, не исчезай",
+      "transliteration": "Ne propodai, pozhaluysta, ne ischezai",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "That s cap, you know it",
+      "russian": "Это отстой, ты сам знаешь",
+      "transliteration": "Eto otstoy, ty sam znayesh",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "No worries, I got you",
+      "russian": "Да не парься, я тебя выручу",
+      "transliteration": "Da ne par si a, ya tebya vyrych u",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Mind your business, honestly",
+      "russian": "Занимайся своим делом, честно",
+      "transliteration": "Zanimay sya svoim delom, chestno",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Let it slide, it happens",
+      "russian": "Да отпусти ты это, бывает",
+      "transliteration": "Da otpusti ty et o, byvaet",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I m totally done with this",
+      "russian": "Я сыт по горло этим, всё",
+      "transliteration": "Ya sy t po gorlo etim, vse",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I need a clear target today.",
+      "russian": "Мне нужен ясный ориентир на сегодня.",
+      "transliteration": "Mne nuzhen YASNY i orIENTIR na segodnya.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Let’s set the goal together.",
+      "russian": "Давай согласуем цель вместе.",
+      "transliteration": "DAVAi soglasUEm tsEL vmeste.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Help me focus on what matters.",
+      "russian": "Помоги мне сосредоточиться на главном.",
+      "transliteration": "PomOGi mne sosredotochITsya na glAVnom.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I want progress, not perfection.",
+      "russian": "Я хочу движение вперёд, не идеальность.",
+      "transliteration": "Ya khochu dvizhenie vPERyod, ne IDEALnost.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "My purpose is to serve people.",
+      "russian": "Моё призвание помогать людям.",
+      "transliteration": "MOye prizVANie pomogat lyuDYAM.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I’m choosing this for a reason.",
+      "russian": "Я выбираю это не просто так.",
+      "transliteration": "Ya vibIrayu ehto ne proSTO tak.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Make it doable, step by step.",
+      "russian": "Цель должна быть выполнимой по шагам.",
+      "transliteration": "TsEL dolzhna byt vy polnImoy po SHAGam.",
+      "category": "Purpose",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Choose values over quick wins.",
+      "russian": "Выбирай ценности, а не быстрые победы.",
+      "transliteration": "Vybiray TSENNOSTI, a ne bystrye pobedy.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Pause before you judge.",
+      "russian": "Сначала остановись, потом оцени.",
+      "transliteration": "Snachala ostanovis', potom otseni.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Learn the lesson, then move on.",
+      "russian": "Поймай смысл, и иди дальше.",
+      "transliteration": "Poymay SMYSL, i иди dalshe.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Simplicity saves your energy.",
+      "russian": "Простота бережет силы.",
+      "transliteration": "PROSTOTA berezhYOt sily.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Your habits shape your destiny.",
+      "russian": "Твои привычки строят будущее.",
+      "transliteration": "TVOI privychki stroyat budushcheye.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Be a student of life.",
+      "russian": "Ставься к жизни как к уроку.",
+      "transliteration": "Stavy'sya k zhizni kak k uroku.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Let reality correct your plans.",
+      "russian": "Пусть реальность поправляет планы.",
+      "transliteration": "Pust' REAL'nost' popravlyayet plany.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Which line goes to the center?",
+      "russian": "Какая ветка едет в центр?",
+      "transliteration": "Kakaya VETka eDYot v TSentr?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Is the tram running on time?",
+      "russian": "Трамвай ходит по расписанию?",
+      "transliteration": "Tramvay KHODit po raspISAniyu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Do I tap my card here?",
+      "russian": "Тут прикладывать карту к турникету?",
+      "transliteration": "Tut priklaDYvat' kartu k TURNiketu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I need a day pass, please.",
+      "russian": "Мне, пожалуйста, дневной проездной.",
+      "transliteration": "Mne, poZHALuysta, DNEVNOy proYeZdnoy.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Is there an elevator for wheelchairs?",
+      "russian": "Есть ли лифт для колясок?",
+      "transliteration": "Yest' li LIft dlya kOLyasok?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "Where is the platform entrance?",
+      "russian": "Где вход на платформу?",
+      "transliteration": "Gde VHOD na plATf3rmu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "How long is the wait, roughly?",
+      "russian": "Примерно сколько ждать?",
+      "transliteration": "PRIMERno skol'ko ZHDAT'?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I trust my instincts before doubting",
+      "russian": "Я доверяю своим инстинктам, прежде чем сомневаться",
+      "transliteration": "Ya doveryayu svoim instinktAM, prezhde chem soMnevatsya",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I say yes, and mean it",
+      "russian": "Я говорю да, и я это имею в виду",
+      "transliteration": "Ya govoryu da, i ya eto imeyu v vidu",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I set boundaries, calmly and clearly",
+      "russian": "Я ставлю границы спокойно и ясно",
+      "transliteration": "Ya stavlyayu granitsy spokoYno i yasno",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "My pace is enough for me",
+      "russian": "Мой темп для меня достаточно",
+      "transliteration": "Moi temp dlya menya dostatoCHno",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I handle rejection, then move forward",
+      "russian": "Я справляюсь с отказом, и иду дальше",
+      "transliteration": "Ya spravlyayus s otkAZom, i idu dal’she",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I ask for what I need",
+      "russian": "Я прошу то, что мне нужно",
+      "transliteration": "Ya proshu to, chto mne nuZHno",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T23:53:10.018311"
+    },
+    {
+      "english": "I can start again, stronger",
+      "russian": "Я могу начать заново, и стать сильнее",
+      "transliteration": "Ya mogu nachat’ zaNOvo, i stat’ sil’nee",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T23:53:10.018311"
     }
   ],
-  "last_updated": "2026-11-15T20:36:08.025020"
+  "last_updated": "2026-11-16T23:53:10.018311"
 }
