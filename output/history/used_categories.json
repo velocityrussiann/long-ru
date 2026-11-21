@@ -391,7 +391,39 @@
     {
       "category": "Strength",
       "date": "2026-11-20"
+    },
+    {
+      "category": "Friendship",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Celebrations & Parties",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Love",
+      "date": "2026-11-21"
     }
   ],
-  "last_updated": "2026-11-20T22:23:10.000800"
+  "last_updated": "2026-11-21T21:10:22.506729"
 }

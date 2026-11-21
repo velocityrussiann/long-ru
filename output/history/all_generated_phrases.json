@@ -27371,7 +27371,399 @@
       "transliteration": "BEREgi svoYE vnimaniye, segodnYA eto VAzhno",
       "category": "Strength",
       "generated_at": "2026-11-20T22:23:09.979412"
+    },
+    {
+      "english": "Friendship means texting back quickly",
+      "russian": "Дружба это быстро отвечать на сообщения.",
+      "transliteration": "Druzhba eto BYSTRO otvechat' na soobshcheniya.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "We fix problems, not each other",
+      "russian": "Мы решаем проблемы, а не друг друга.",
+      "transliteration": "My reshaem PROBLEMY, a ne drug druga.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "You make silence feel easy",
+      "russian": "С тобой молчать легко, по-настоящему.",
+      "transliteration": "S toboy MOLCHAT' legko, po-nastoyashchemu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Good friends tell you the hard truth",
+      "russian": "Хороший друг скажет правду в глаза, даже трудную.",
+      "transliteration": "Khoroshiy DRUG skazhet PRAVDU v glaza, dazhe TRUDNuyu.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "We go first, then we laugh",
+      "russian": "Мы сначала разберемся, потом смеемся вместе.",
+      "transliteration": "My SNACHALA razberemsya, potOM smeemsya VMESTE.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Call me, I’ll come help fast",
+      "russian": "Позвони, я приеду и помогу прямо сейчас.",
+      "transliteration": "POZVONI, ya priyedu i pomoGu prYamo seychas.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "We protect each other’s peace",
+      "russian": "Мы бережем спокойствие друг друга.",
+      "transliteration": "My berezhem spOKoystvie drug druga.",
+      "category": "Friendship",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Party starts at eight, don’t be late",
+      "russian": "Вечеринка начинается в восемь, не опаздывай.",
+      "transliteration": "VechERinka nachinayetsya v voSEm, ne opazdyvAY.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I brought sparkling water, hope you like it",
+      "russian": "Я принесла газировку, надеюсь, тебе понравится.",
+      "transliteration": "Ya prineslA gazirovku, nadeyus', tebe ponravitsya.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "We should cheers to new beginnings tonight",
+      "russian": "Давай сегодня выпьем за новые начинания.",
+      "transliteration": "DavAY segodnya vyp'yem za nyevyye nachInaniya.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Can I help with the decorations?",
+      "russian": "Я могу помочь с украшениями?",
+      "transliteration": "Ya mOGu pomoch s ukrashEniyami?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Your outfit looks amazing, seriously",
+      "russian": "Твой образ выглядит потрясающе, правда.",
+      "transliteration": "Tvoy obraZ vyglyadit potRYasayushche, pravdA.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Let’s play cards while the music rests",
+      "russian": "Давай сыграем в карты, пока музыка отдыхает.",
+      "transliteration": "DavAY sygrayem v kArty, poka muzYka otdykhAyet.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Who’s bringing dessert, I’m ready",
+      "russian": "Кто принесет десерт, я уже готов.",
+      "transliteration": "KtO prinesyot desert, ya uzhe gotOV.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I hear you, but I disagree.",
+      "russian": "Я тебя понимаю, но я не согласен.",
+      "transliteration": "Ya tebya ponimayu, no ya ne soglasen.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "That works for me, seriously.",
+      "russian": "Это мне подходит, правда.",
+      "transliteration": "Eto mne podhodit, pravda.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I’m on board with your plan.",
+      "russian": "Я поддерживаю твой план.",
+      "transliteration": "Ya podderzhivayu tvoy plan.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Let’s be honest, I’m doubtful.",
+      "russian": "Давай честно, я сомневаюсь.",
+      "transliteration": "Davay chestno, ya somnevayus'.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I get it, but not this time.",
+      "russian": "Я понял, но в этот раз нет.",
+      "transliteration": "Ya ponyal, no v etot raz net.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Sounds reasonable, I’m willing to try.",
+      "russian": "Звучит разумно, я готов попробовать.",
+      "transliteration": "Zuchit razumno, ya gotov poprobovat'.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I agree in principle, though.",
+      "russian": "В целом согласен, но есть нюансы.",
+      "transliteration": "V tselom soglasen, no est' nyuansy.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "What are today’s specials?",
+      "russian": "Какие у вас сегодня фирменные блюда?",
+      "transliteration": "KaKIE u vas segodNya FIRmennye BLYuda?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Is this dish gluten-free?",
+      "russian": "Это блюдо без глютена?",
+      "transliteration": "Eto BLYudo bez glyuTEna?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Can I get it less salty?",
+      "russian": "Можно, пожалуйста, менее солёное?",
+      "transliteration": "Mozhno, poZhaluysta, MENее soLYOnoe?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Can I add extra cheese?",
+      "russian": "Можно добавить ещё сыра, пожалуйста?",
+      "transliteration": "Mozhno doBAvit' yeshchyo SYra, poZhaluysta?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I’ll start with appetizers.",
+      "russian": "Я начну с закусок.",
+      "transliteration": "Ya nachNU s zaKUSok.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Could I get a table by the window?",
+      "russian": "Можно столик у окна, пожалуйста?",
+      "transliteration": "Mozhno stoLIK u okNA, poZhaluysta?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Do you have free refills on drinks?",
+      "russian": "У вас есть бесплатные повторные напитки?",
+      "transliteration": "U vas yest' besPLATnye povtornye napITki?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I can forgive, but I need boundaries.",
+      "russian": "Я могу простить, но мне нужны границы.",
+      "transliteration": "Ya mogu PROSTIT’, no mne nuzhny GRANitsy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I’m not excusing it, just releasing it.",
+      "russian": "Я это не оправдываю, я отпускаю.",
+      "transliteration": "Ya eto ne OPRAvdyvayu, ya OTPUSKayu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Help me stop replaying this in my head.",
+      "russian": "Помоги мне перестать прокручивать это в голове.",
+      "transliteration": "Pomogi mne perestat’ PROKRuchivat’ eto v GOLOVE.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I forgive you, yet I’ll go slow.",
+      "russian": "Я прощаю тебя, но буду идти медленно.",
+      "transliteration": "Ya PROshchayu tebya, no budu IDTI MEDLENno.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I choose compassion, not silence.",
+      "russian": "Я выбираю сострадание, а не молчание.",
+      "transliteration": "Ya vybirayu soctrADAniye, a ne MOLchanie.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Let’s repair things, step by step.",
+      "russian": "Давай чинить это вместе, шаг за шагом.",
+      "transliteration": "Day vay CHINIT’ eto vmeste, shag za SHAGom.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I won’t punish you with my resentment.",
+      "russian": "Я не буду наказывать тебя моим resentment’ом.",
+      "transliteration": "Ya ne budu nakazyvat’ tebya moim resentMENTom.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I feel tense right now, honestly.",
+      "russian": "Mne Seichas ochen NAPRYAZHENNO.",
+      "transliteration": "Mne Seichas ochen NAPRYAZHENNO.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Something feels off, and I notice it.",
+      "russian": "Mne KAZhetsya, chto ne tak srazu.",
+      "transliteration": "Mne KAZhetsya, chto ne tak srazu.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I m calm outside, but not inside.",
+      "russian": "SnaruZhi ya spokoyen, a vnutri net.",
+      "transliteration": "SnaruZhi ya spokoyen, a vnutri net.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I m anxious about the next step.",
+      "russian": "YA volnuyus pered sleduyushchim shagom.",
+      "transliteration": "YA volnuyus pered sleduyushchim shagom.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I m scared, but I ll try.",
+      "russian": "Mne STRASNO, no ya poprobuyu.",
+      "transliteration": "Mne STRASNO, no ya poprobuyu.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I m chasing relief, not perfection.",
+      "russian": "Ya hochu OBLegcheniya, ne idealov.",
+      "transliteration": "Ya hochu OBLegcheniya, ne idealov.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "That compliment made me blush, really.",
+      "russian": "Ot togo komplimenta ya pokrasnel.",
+      "transliteration": "Ot togo komplimenta ya pokrasnel.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I stay with it through discomfort.",
+      "russian": "Я остаюсь с этим, даже когда неприятно.",
+      "transliteration": "Ya ostayus s etim, dazhe kogda nepriyatno.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Today I practice again, slower.",
+      "russian": "Сегодня я тренируюсь снова, только медленнее.",
+      "transliteration": "Segodnya ya treniruyus snova, tolko medlennee.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I can be tired and still continue.",
+      "russian": "Я могу быть уставшим и всё равно продолжать.",
+      "transliteration": "Ya mogu byt ustavshim i vsyo ravno prodolzhat.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I ask, what’s the next useful thing?",
+      "russian": "Я спрашиваю себя, что будет следующим полезным шагом.",
+      "transliteration": "Ya sprashivayu sebya, chto budet sleduyushchim poleznym shagom.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I don’t quit, I change the method.",
+      "russian": "Я не сдаюсь, я меняю подход.",
+      "transliteration": "Ya ne sdaysya, ya menyayu podhod.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Even setbacks don’t get the last word.",
+      "russian": "Даже неудачи не ставят точку.",
+      "transliteration": "Dazhe neudachi ne stavyat tochku.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I keep my focus on effort, not outcomes.",
+      "russian": "Я держу фокус на усилиях, а не на результате.",
+      "transliteration": "Ya derzhu fokus na usiliyakh, a ne na rezultate.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I want us to laugh more.",
+      "russian": "Ya khochu, chtoby my smeyalis bolshe vmeste.",
+      "transliteration": "Ya khochu, chtoby my smeYalis bolsHe vmeste.",
+      "category": "Love",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Kiss me, I need that now.",
+      "russian": "Po celuyu menya, mne eto nuzhno priamo seychas.",
+      "transliteration": "Po tseluyu menya, mne eto nuzhno pryaMO seychas.",
+      "category": "Love",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I trust your choices, always.",
+      "russian": "Ya dorozhu tvoimi vyborami, ya im veryu.",
+      "transliteration": "Ya dorezhu tvoimi vyboraMI, ya im veryu.",
+      "category": "Love",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "Let me know when you feel distant.",
+      "russian": "Skazhi mne, kogda ty stanoshsya dalshe, ya uslyshu.",
+      "transliteration": "Skazhi mne, kogda ty stanoViTsya dalShe, ya uslyshu.",
+      "category": "Love",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I love your calm strength.",
+      "russian": "Mne nravitsya tvoja spokoynaya sila.",
+      "transliteration": "Mne nravitsya tvoYa spokoYnaYa sila.",
+      "category": "Love",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "I want to build our home.",
+      "russian": "Ya khochu stroIt nash dom, shag za shagom.",
+      "transliteration": "Ya khochu stroit nash dom, shag za shaGom.",
+      "category": "Love",
+      "generated_at": "2026-11-21T21:10:22.488482"
+    },
+    {
+      "english": "When we touch, time slows down.",
+      "russian": "Kogda my kasayemsya, vremya kak budto zamiraet.",
+      "transliteration": "Kogda my kasaeMsyA, vReMya kak budto zamiRaet.",
+      "category": "Love",
+      "generated_at": "2026-11-21T21:10:22.488482"
     }
   ],
-  "last_updated": "2026-11-20T22:23:09.979412"
+  "last_updated": "2026-11-21T21:10:22.488482"
 }
