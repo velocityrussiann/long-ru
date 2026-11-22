@@ -423,7 +423,39 @@
     {
       "category": "Love",
       "date": "2026-11-21"
+    },
+    {
+      "category": "Kindness",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Motivation",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-22"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-22"
     }
   ],
-  "last_updated": "2026-11-21T21:10:22.506729"
+  "last_updated": "2026-11-22T21:17:34.192106"
 }
