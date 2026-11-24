@@ -455,7 +455,39 @@
     {
       "category": "Common Native Slang",
       "date": "2026-11-22"
+    },
+    {
+      "category": "Hope",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Purpose",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2026-11-24"
     }
   ],
-  "last_updated": "2026-11-22T21:17:34.192106"
+  "last_updated": "2026-11-24T03:06:00.351103"
 }

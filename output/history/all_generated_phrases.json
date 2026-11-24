@@ -28155,7 +28155,399 @@
       "transliteration": "Eto po-tikhomu zhest kakaya-to",
       "category": "Common Native Slang",
       "generated_at": "2026-11-22T21:17:34.167771"
+    },
+    {
+      "english": "Hope says, try again today",
+      "russian": "Надежда шепчет, давай попробуем снова сегодня.",
+      "transliteration": "Nadezhda SHEPchet, davay poprobuem snova segodnya.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I let hope ride with me",
+      "russian": "Я беру надежду с собой, в дорогу.",
+      "transliteration": "Ya beru nadezhdu so soboy, v dorogu.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Hope makes room for surprises",
+      "russian": "Надежда оставляет место для приятных сюрпризов.",
+      "transliteration": "Nadezhda ostavlyaet mesto dlya PRIyatnykh syurprizov.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I don't quit, I keep hoping",
+      "russian": "Я не сдаюсь, я продолжаю надеяться.",
+      "transliteration": "Ya ne sdayuS', ya prodolzhayu nadeyAT'sya.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Hope helps me wait without panic",
+      "russian": "Надежда учит ждать спокойно, без паники.",
+      "transliteration": "Nadezhda uchit zHdat' spokoyno, bez paNIKI.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Even hard days have hope",
+      "russian": "И в тяжелые дни надежда не исчезает.",
+      "transliteration": "I v tyazhelye DNYA nadezhda ne ischezayet.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I trust small signs, hope follows",
+      "russian": "Я верю маленьким знакам, и надежда рядом.",
+      "transliteration": "Ya veryu malo my signs? nah. Yа VERYU malen'kim ZNAkam, i nadezhda ryadom.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I know what I’m doing today.",
+      "russian": "Я точно знаю, что делаю сегодня.",
+      "transliteration": "Ya TOCHno znayu, chto delayu segodnya.",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "My aim is simple, but real.",
+      "russian": "Моя цель простая, но настоящая.",
+      "transliteration": "Moya TSEL PROStaya, no nastoyashchaya.",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I’m doing this to move forward.",
+      "russian": "Я делаю это, чтобы двигаться вперёд.",
+      "transliteration": "Ya delayu ETO, chtoby dvigatsya vpyorёd.",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Let’s turn the idea into action.",
+      "russian": "Давай превратим идею в действие.",
+      "transliteration": "Day vay prEvrat im ideyu v DEystviye.",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "My goal is to feel steady.",
+      "russian": "Моя цель, чтобы мне было спокойно и ровно.",
+      "transliteration": "Moya tsel, chtoby mne bylo SPoKoYno i rovno.",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I set a deadline I can keep.",
+      "russian": "Я ставлю срок, который реально выдержу.",
+      "transliteration": "Ya stavlyu srok, kotorый real'no vyderzhu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I choose what matters most right now.",
+      "russian": "Я выбираю то, что сейчас важнее всего.",
+      "transliteration": "Ya vybira yu TO, chto seychas vazhnee vsego.",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Are you having chest pressure right now?",
+      "russian": "У вас сейчас давление или тяжесть в груди?",
+      "transliteration": "U vas сейchas davlenie ili tyazhest v grudi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Any new weakness in an arm?",
+      "russian": "Появилась внезапная слабость в руке?",
+      "transliteration": "Poyavilas vnezapnaya slabost v ruke?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Can you speak a full sentence?",
+      "russian": "Вы можете сказать целое предложение?",
+      "transliteration": "Vy mozhete skazat tseleye predlozheniye?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Look at your face, is it drooping?",
+      "russian": "Лицо перекосилось, один уголок опустился?",
+      "transliteration": "Litso perekosilos, odin ugolok opushtilsya?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Is your breathing noisy or wheezy?",
+      "russian": "Дыхание свистит или хрипит?",
+      "transliteration": "Dykhanie svistit ili khipit?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Do you feel faint or about to pass out?",
+      "russian": "Сейчас темнеет в глазах, не теряете сознание?",
+      "transliteration": "Seichas temneet v glazakh, ne teryaete soznaniye?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Check your temperature if you can.",
+      "russian": "Если можете, измерьте температуру.",
+      "transliteration": "Yesli mozhete, izmer'te temperaturu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I choose fairness, not friction.",
+      "russian": "Я выбираю честность, а не конфликт.",
+      "transliteration": "ya vybirayu CHESНOST, a ne konFLIKT",
+      "category": "Balance",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I slow down, then speak clearly.",
+      "russian": "Я замедляюсь, и говорю яснее.",
+      "transliteration": "ya zaMEdlyayus', i goVoryu yasNEe",
+      "category": "Balance",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I pause before I defend myself.",
+      "russian": "Я делаю паузу, прежде чем защищаться.",
+      "transliteration": "ya deLAYu pauzu, preZHde chem zashCHishchatsya",
+      "category": "Balance",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I let rest be part of success.",
+      "russian": "Я разрешаю себе отдых как часть успеха.",
+      "transliteration": "ya razREShayu sebe oTDYKH kak CHAST' usPEkha",
+      "category": "Balance",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I keep my voice steady, kind.",
+      "russian": "Я держу голос спокойным и добрым.",
+      "transliteration": "ya derzhu GOLOS spOKOynym i DOBRYM",
+      "category": "Balance",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I check my pace, not just plans.",
+      "russian": "Я проверяю темп, а не только планы.",
+      "transliteration": "ya proveryayu TEMP, a ne tol'ko PLANy",
+      "category": "Balance",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I answer with facts, not panic.",
+      "russian": "Я отвечаю фактами, а не паникой.",
+      "transliteration": "ya otvechayu FAKTami, a ne paNIKoy",
+      "category": "Balance",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Show me the interest rate, please.",
+      "russian": "Покажите, пожалуйста, процентную ставку.",
+      "transliteration": "Pokazhite, POZHALUYSTA, protsentnuyu STAVKU.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Can you explain overdraft fees clearly?",
+      "russian": "Вы можете объяснить комиссии за овердрафт?",
+      "transliteration": "Vy MOZHETE obyasnit KOMISSII za OVERDRAFT?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I need to know the exchange rate.",
+      "russian": "Мне нужно знать курс обмена.",
+      "transliteration": "Mne NUZHNО znat KURS obmena.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I want to lock in a fixed rate.",
+      "russian": "Хочу зафиксировать ставку надолго.",
+      "transliteration": "Khochu ZAFIKSirovat STAVKU nadolgo.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Please tell me how long processing takes.",
+      "russian": "Скажите, сколько обычно идет обработка.",
+      "transliteration": "SkazhiTE, skolko OBYCHNO idet obrabotka.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Where can I see my account statement?",
+      "russian": "Где посмотреть выписку по счету?",
+      "transliteration": "GDE posmotret VYPISKU po SCHYOTU?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I think this charge is wrong.",
+      "russian": "Мне кажется, этот платеж ошибочный.",
+      "transliteration": "Mne kazhetsya, etot PLATEZH oshibochnyy.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Can I get a small slice?",
+      "russian": "Можно маленький кусочек этого пирога?",
+      "transliteration": "Mozhno malEnkiy kusochek etogo piroGA?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "What flavors are you topping today?",
+      "russian": "Какие начинки у вас сегодня?",
+      "transliteration": "Kakie nachInki u vas sevodnya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I’ll take the bread if it’s fresh.",
+      "russian": "Возьму хлеб, если он свежий.",
+      "transliteration": "VOzmu khleb, yesli on SVEzhiy.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Can I get it warmed up?",
+      "russian": "Можно разогреть, пожалуйста?",
+      "transliteration": "Mozhno razogREt', pozhaluysta?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I’ll do a pastry sampler, please.",
+      "russian": "Хочу попробовать набор сладостей, пожалуйста.",
+      "transliteration": "KHOchu poproboVat' nabor sladostEy, pozhaluysta.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Is there real fruit in this tart?",
+      "russian": "А в этом тартe есть настоящий фрукт?",
+      "transliteration": "A v etom tarte yest nastoyashchiy FRUKT?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Could you recommend a tea with honey?",
+      "russian": "Посоветуйте чай с мёдом, пожалуйста.",
+      "transliteration": "Posovetuyte chAy s MYodom, pozhaluysta.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Where do I pick up my luggage?",
+      "russian": "Где получить мой багаж?",
+      "transliteration": "Gde poluchit' moy bagazh?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Can I use this self-check machine?",
+      "russian": "Можно здесь сделать самостоятельную регистрацию?",
+      "transliteration": "Mozhno zdes' sdelat' samostoyatel'nuyu registratsiyu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "What time does the next flight board?",
+      "russian": "Во сколько объявят посадку на следующий рейс?",
+      "transliteration": "Vo skol'ko obyavyat posadku na sleduyushchiy reys?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Is there a currency exchange nearby?",
+      "russian": "Тут рядом есть обмен валюты?",
+      "transliteration": "Tut ryadom est' obmen valyuty?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I need to charge my phone, please.",
+      "russian": "Мне, пожалуйста, нужно зарядить телефон.",
+      "transliteration": "Mne, pozhaluysta, nuzhno zaryadit' telefon.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Do I need to clear customs here?",
+      "russian": "Мне нужно пройти таможню здесь?",
+      "transliteration": "Mne nuzhno proyti tamozhnyu zdes'?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "How do I get to my hotel?",
+      "russian": "Как добраться до моего отеля?",
+      "transliteration": "Kak dobrat'sya do moyego otelya?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I need a clear next step, please.",
+      "russian": "Мне нужен четкий следующий шаг, пожалуйста.",
+      "transliteration": "Mne nuzhen chekiy sleduyushchiy shAG, pozhaluysta.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Let’s confirm who owns this task.",
+      "russian": "Давайте уточним, кто отвечает за эту задачу.",
+      "transliteration": "Davaite utochnim, kto otvechает za etu zaDAchu.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Can you explain the goal in plain words?",
+      "russian": "Можешь объяснить цель простыми словами?",
+      "transliteration": "Mozhesh obyasnit tsEL prostyMi slovami?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I’m catching up on emails right now.",
+      "russian": "Я сейчас разгребаю письма.",
+      "transliteration": "Ya сейchas razgrebayu pISma.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "I will send the updated file shortly.",
+      "russian": "Я скоро отправлю обновленный файл.",
+      "transliteration": "Ya skOrо otpravyu obnovlennyy fail.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Let’s keep this conversation focused.",
+      "russian": "Давайте сохраним этот разговор по делу.",
+      "transliteration": "Davaite sohranim etot razgovor po deLU.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T03:06:00.332435"
+    },
+    {
+      "english": "Can we meet for fifteen minutes only?",
+      "russian": "Можем встретиться всего на пятнадцать минут?",
+      "transliteration": "Mozhem vstrechatsya vsego na pYatnadtsat minUT.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T03:06:00.332435"
     }
   ],
-  "last_updated": "2026-11-22T21:17:34.167771"
+  "last_updated": "2026-11-24T03:06:00.332435"
 }
