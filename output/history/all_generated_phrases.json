@@ -28939,7 +28939,399 @@
       "transliteration": "Ne mogu govorit, napishi mne.",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-11-25T00:09:07.644204"
+    },
+    {
+      "english": "I breathe, and I settle",
+      "russian": "Я дышу, и мне спокойно",
+      "transliteration": "Ya dyshu, i mne spokoyno",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I slow down, without fighting",
+      "russian": "Я замедляюсь, не борясь с собой",
+      "transliteration": "Ya zamedlyayus, ne boryas s soboy",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Peace begins with my next choice",
+      "russian": "Внутренний покой начинается с моего следующего выбора",
+      "transliteration": "Vnutrenniy pOKoy nachinaetsya s moego sleduyushchego vybora",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "My body knows how to rest",
+      "russian": "Тело помнит, как отдыхать",
+      "transliteration": "Telo pomnit, kak otdykhat",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I stop chasing what I can’t control",
+      "russian": "Я перестаю гнаться за тем, что не в моей власти",
+      "transliteration": "Ya perestayu gnatsya za tem, chto ne v moey vlasti",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Let my heart have space",
+      "russian": "Пусть моему сердцу будет место",
+      "transliteration": "Pust moyemu serdtsu budet mesto",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I come back to quiet breathing",
+      "russian": "Я возвращаюсь к тихому дыханию",
+      "transliteration": "Ya vozvrashchayus k tikhomu dykhaniu",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Hi, how’s it going today?",
+      "russian": "Привет, как дела сегодня?",
+      "transliteration": "PrivET, kak deLA segodnya?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Where are you from, exactly?",
+      "russian": "Откуда ты, если не секрет?",
+      "transliteration": "OtkUDA ty, esli ne sekret?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Do you speak English, by any chance?",
+      "russian": "Ты говоришь по-английски, случайно?",
+      "transliteration": "Ty govoriSh' po-angliISki, sluchayno?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Can we exchange contact details?",
+      "russian": "Можно обменяться контактами?",
+      "transliteration": "Mozhno obmenyat'sya kontakTAmi?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I’m from the team upstairs.",
+      "russian": "Я из команды на втором этаже.",
+      "transliteration": "Ya iz komANdy na vtoROM etaZhe.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "What’s your job, in simple terms?",
+      "russian": "Кем ты работаешь, если коротко?",
+      "transliteration": "Kem ty raboTAesh', esli korotko?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Let me introduce myself, please.",
+      "russian": "Разрешите представиться, пожалуйста.",
+      "transliteration": "Razreshite predstavit'sya, poZhaluysta.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "How do I get my room number?",
+      "russian": "Как узнать номер моей комнаты, пожалуйста?",
+      "transliteration": "Kak uznat nomer moeY komnaty, pozhaluysta?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Can I change rooms today?",
+      "russian": "Можно ли сегодня переселить меня в другой номер?",
+      "transliteration": "Mozhno li segodnya pereselit menya v drugoy nomer?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Do you offer airport pickup?",
+      "russian": "Вы организуете трансфер до аэропорта?",
+      "transliteration": "Vy organizuete transfer do aeroporta?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "What’s the address for taxis?",
+      "russian": "Какой у вас адрес для такси?",
+      "transliteration": "Kakoy u vas adres dlya taksi?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Is there a late night shop nearby?",
+      "russian": "Рядом есть круглосуточный магазин?",
+      "transliteration": "Ryadom est kruglosutochnyy magazin?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I need help with the shower.",
+      "russian": "Подскажите, пожалуйста, как настроить душ.",
+      "transliteration": "Podskazhite, pozhaluysta, kak nastroit dush.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Could I have an iron, please?",
+      "russian": "Можно утюг, пожалуйста, и доску?",
+      "transliteration": "Mozhno utyug, pozhaluysta, i dosku?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I brew coffee while my kettle warms.",
+      "russian": "Я варю кофе, пока чайник греется.",
+      "transliteration": "Ya VARYu KOFE, poka CHAYnik GREetsya.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I put on socks, then shoes.",
+      "russian": "Я надеваю носки, потом обувь.",
+      "transliteration": "Ya NADevayu NOSKI, potom OBuv'.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I water my plants when I wake.",
+      "russian": "Я поливаю растения, когда просыпаюсь.",
+      "transliteration": "Ya POLivayu RASTeniya, kogda PROsyapayus'.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I check the stove is off.",
+      "russian": "Я проверяю, что плита выключена.",
+      "transliteration": "Ya PROveryayu, chto PLIta vyklyuchena.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I hear the news on my walk.",
+      "russian": "Я слушаю новости по дороге.",
+      "transliteration": "Ya SLushayu NOVosti po Doroge.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I grab fruit before my meeting.",
+      "russian": "Я беру фрукты перед встречей.",
+      "transliteration": "Ya beru FRUKty pered vstrechey.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I eat lunch at my desk.",
+      "russian": "Я обедаю прямо за столом.",
+      "transliteration": "Ya obedayu PRyamo za sto-lom.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I m tidying the living room now",
+      "russian": "Я сейчас навожу порядок в гостиной.",
+      "transliteration": "Ya сейчаС навожу поряДок в гостиНой.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Who is coming over for dinner?",
+      "russian": "Кто к нам сегодня придет на ужин?",
+      "transliteration": "Кто к нам сегОдня придет на ужИн?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Let me check the stove, please",
+      "russian": "Давай я проверю плиту, пожалуйста.",
+      "transliteration": "ДавАй я проверЮ плитУ, пожаЛУйста.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "We need more plates for guests",
+      "russian": "Нам нужно еще тарелок для гостей.",
+      "transliteration": "Нам нуЖно еще тарЕлок для гостей.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "My dad is fixing the door hinge",
+      "russian": "Папа чинит петлю на двери.",
+      "transliteration": "Папа чИнит пЕтлю на двеРИ.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "The kids made a fort with blankets",
+      "russian": "Дети сделали шалаш из пледов.",
+      "transliteration": "Дети сделаЛи шалаШ из пледОв.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Can we put shoes by the door?",
+      "russian": "Можно поставить обувь у двери?",
+      "transliteration": "МоЖно постаВить обУвь у двеРИ?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Good news, my worry is gone.",
+      "russian": "Отличные новости, тревоги как не бывало.",
+      "transliteration": "Otlichnye novosti, trevoGi kak ne byvalo.",
+      "category": "Joy",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "My laughter surprises even me.",
+      "russian": "Смех вырывается, и мне самой смешно.",
+      "transliteration": "Smekh vyrivaetsya, i mne samoy smeshno.",
+      "category": "Joy",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I’m proud I didn’t quit.",
+      "russian": "Я горжусь собой, что не сдался.",
+      "transliteration": "Ya gorzhus soboy, chto ne sdalsya.",
+      "category": "Joy",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "That call made my day instantly.",
+      "russian": "Этот звонок сразу сделал мне день.",
+      "transliteration": "Etot zvonok srazu sdelal mne den'.",
+      "category": "Joy",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I found my lost keys, yay!",
+      "russian": "Я нашёл потерянные ключи, ура!",
+      "transliteration": "Ya naydyol poteryannye klyuchi, ura!",
+      "category": "Joy",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "A warm shower, pure happiness.",
+      "russian": "Тёплый душ, и на душе радость.",
+      "transliteration": "Tyoplyy dush, i na dushe radost'.",
+      "category": "Joy",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I got a free upgrade, wow!",
+      "russian": "Мне дали бесплатное повышение, здорово!",
+      "transliteration": "Mne dali besplatnoe povyshenie, zdorovo!",
+      "category": "Joy",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Relax your eyes, soften your look",
+      "russian": "Расслабь глаза, смягчи взгляд",
+      "transliteration": "RASSLAb glaza, SMYAChI vzglyad",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Inhale through the nose, exhale slowly",
+      "russian": "Вдох носом, выдох медленно",
+      "transliteration": "VDOKh NOSom, VYdokh MEDlennO",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Feel your hands, right where they are",
+      "russian": "Почувствуй ладони, прямо сейчас",
+      "transliteration": "POCHUVstvuI lAdoni, pryAmo seichAS",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Hear the room, not just your thoughts",
+      "russian": "Услышь комнату, не только мысли",
+      "transliteration": "USLYsh komnATU, ne tolko mYSLi",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Let curiosity replace judgment",
+      "russian": "Замени осуждение любопытством",
+      "transliteration": "zAMENi osUZhdenie lyubopyTSTvom",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Sip water, notice every sensation",
+      "russian": "Сделай глоток воды, почувствуй вкус",
+      "transliteration": "SDelai GLOtok vody, POCHUVstvuy vkus",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Notice what your body is asking",
+      "russian": "Заметь, чего просит тело",
+      "transliteration": "zameT, CHEgo prosiT Telo",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I’m learning to bake bread.",
+      "russian": "Я учусь печь хлеб.",
+      "transliteration": "Ya UCHUS' pect' khleb.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I sketch in my notebook on weekends.",
+      "russian": "Я рисую скетчи в блокноте по выходным.",
+      "transliteration": "Ya RISUYu skETchi v BLOKnote po vykhodnym.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I’ve joined a local language meetup.",
+      "russian": "Я присоединился к языковой встрече в городе.",
+      "transliteration": "Ya prisOEdinilsya k yazykovoy VSTReche v gorode.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I play badminton after lunch sometimes.",
+      "russian": "Иногда я играю в бадминтон после обеда.",
+      "transliteration": "Inogda ya IGRayu v BADminton posle OBeda.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I fix small things instead of buying new.",
+      "russian": "Я чиню мелочи, а не покупаю новое.",
+      "transliteration": "Ya CHinyu MElochи, a ne pokupayu NOVoe.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I cook with podcasts in the background.",
+      "russian": "Я готовлю под подкасты.",
+      "transliteration": "Ya GOTovlyu pod PODkasty.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "I go to swim laps after work.",
+      "russian": "Я хожу плавать кругами после работы.",
+      "transliteration": "Ya KHozhu plavat' KRugami posle raboty.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T23:48:56.175298"
     }
   ],
-  "last_updated": "2026-11-25T00:09:07.644204"
+  "last_updated": "2026-11-25T23:48:56.175298"
 }
