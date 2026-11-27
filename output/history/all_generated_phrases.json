@@ -29331,7 +29331,399 @@
       "transliteration": "Ya KHozhu plavat' KRugami posle raboty.",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-11-25T23:48:56.175298"
+    },
+    {
+      "english": "Make it strange, make it yours.",
+      "russian": "Сделай странно, сделай по-своему.",
+      "transliteration": "SdELay strAnno, sdELay po-sVOemu.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Switch mediums, keep the feeling.",
+      "russian": "Смени формат, сохрани ощущение.",
+      "transliteration": "SMeni formaT, sokhraní oschuschEnie.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Steal a question, chase it.",
+      "russian": "Укради вопрос, и догоняй его.",
+      "transliteration": "UkRAdi voproS, i dogONyay ego.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Answer in sound, not words.",
+      "russian": "Ответь звуком, не словами.",
+      "transliteration": "otvETy zvukOM, ne slovAmi.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Let silence edit your idea.",
+      "russian": "Пусть тишина редактирует идею.",
+      "transliteration": "pusT tishinA redAktiruyet ideYU.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Change the ending, today.",
+      "russian": "Поменяй концовку, прямо сегодня.",
+      "transliteration": "PomenyAy konTSovku, pryAmO segOdnya.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Draw from life, then exaggerate.",
+      "russian": "Рисуй из жизни, потом преувеличь.",
+      "transliteration": "RisuY iz zhiznI, potOm preuVELich.",
+      "category": "Creativity",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Let’s meet somewhere cozy and quiet.",
+      "russian": "Давай встретимся в уютном месте, где тихо.",
+      "transliteration": "Davay vstretyomsya v uyutnom meste, gde TIho.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "What’s your ideal first date?",
+      "russian": "А какой у тебя идеальный первый свидание?",
+      "transliteration": "A kakoy u tebya idealnyy pervyy SVIDAnye?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "I’m smiling because of you.",
+      "russian": "Я улыбаюсь только из-за тебя.",
+      "transliteration": "Ya ulybayus tolko iz-za tebya.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Tell me, what are you into?",
+      "russian": "Скажи, что тебе правда нравится?",
+      "transliteration": "Skazhi, chto tebe pravda nravitsya?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Your voice is really calming.",
+      "russian": "Твой голос меня успокаивает.",
+      "transliteration": "Tvoy golos menya uspokaivayet.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Can I buy you dessert?",
+      "russian": "Можно я угощу тебя десертом?",
+      "transliteration": "Mozhno ya UGOShu tebya desertom?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "I love the way you talk.",
+      "russian": "Мне нравится, как ты говоришь.",
+      "transliteration": "Mne nravitsya, kak ty govorysh.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "What sizes are left right now?",
+      "russian": "Какие размеры остались сейчас?",
+      "transliteration": "Kakie razmery ostalis' сейchas?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Do you have price reductions today?",
+      "russian": "Сегодня бывают распродажи, да?",
+      "transliteration": "Segodnya byvayut rasprodazhi, da?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Can I see the final price?",
+      "russian": "Можно посмотреть окончательную цену?",
+      "transliteration": "Mozhno posmotret' okonchatel'nuyu tsenu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Is the price per piece or set?",
+      "russian": "Цена за штуку или за набор?",
+      "transliteration": "Tsena za shtuku ili za nabor?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Does this come with free delivery?",
+      "russian": "С доставкой можно, и доставка бесплатная?",
+      "transliteration": "S dostavkoy mozhno, i dostavka besplatnaya?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "How much is delivery to me?",
+      "russian": "Сколько будет доставка до меня?",
+      "transliteration": "Skol'ko budet dostavka do menya?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Do you have gift wrapping available?",
+      "russian": "Вы делаете подарочную упаковку?",
+      "transliteration": "Vy delayete podarochnuyu upakovku?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Lovely morning, isn’t it?",
+      "russian": "Прекрасное утро, правда?",
+      "transliteration": "PREKrasnoe uTro, pravda?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Is it foggy by you right now?",
+      "russian": "У вас сейчас туманно?",
+      "transliteration": "U vas сейчаS TUMAшno?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "The wind is pushing the trees.",
+      "russian": "Ветер прямо гонит деревья.",
+      "transliteration": "VEter pryamо gonit derev’ya",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Feels like a perfect walking day.",
+      "russian": "Похоже, день для прогулки идеальный.",
+      "transliteration": "POkhozhe, den’ dlya progulki ideal’nyy",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Did you hear that thunder?",
+      "russian": "Ты слышал гром?",
+      "transliteration": "Ty slyshal grom?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Any idea when the rain stops?",
+      "russian": "Как думаешь, когда дождь закончится?",
+      "transliteration": "KAK dumaesh’, kogda dozhd’ zakonchitsya?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "It’s bright out, wow.",
+      "russian": "Светло как-то необычно, правда?",
+      "transliteration": "SVETlo kak-to neobychnо, pravda?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Today, I speak to myself gently.",
+      "russian": "СЕГОДНЯ я говорю с собой бережно.",
+      "transliteration": "SEGODNYA ya govoryu s soboy berezhno.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "I celebrate effort, then rest.",
+      "russian": "Я отмечаю старания, потом отдыхаю.",
+      "transliteration": "YA otmechayu staraniya, potom otdykhayu.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "I stop comparing and come back to me.",
+      "russian": "Я перестаю сравнивать и возвращаюсь к себе.",
+      "transliteration": "YA perestayu sravnivay i vozvrashchayus k sebe.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Small routines make me feel safe.",
+      "russian": "Мои простые РИТУАЛЫ дают мне ощущение безопасности.",
+      "transliteration": "Moi prostye RITUALY dayut mne oshchushchenie bezopasnosti.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "I choose honesty over quick explanations.",
+      "russian": "Я выбираю честность вместо быстрых оправданий.",
+      "transliteration": "YA vybiraю chestnost vmesto bystrykh opravdaniy.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "I ask, listen, and try again.",
+      "russian": "Я спрашиваю, слушаю, и пробую снова.",
+      "transliteration": "YA sprashivayu, slushayu, i probyuyu snova.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "My home is my reset button.",
+      "russian": "Мой дом помогает мне ПерЕЗАГРУЗИТЬСЯ.",
+      "transliteration": "Moy dom pomogaet mne pEREZAGRUZIT'SYA.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Let it land before you respond.",
+      "russian": "Дай этому осесть, прежде чем ответить.",
+      "transliteration": "Day etomu oset', prezhde chem otvetit'",
+      "category": "Patience",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Slow replies, clear thoughts, calm you.",
+      "russian": "Спокойный тон и медленный ответ, чтобы не сорваться.",
+      "transliteration": "Spokoynyy ton i medlennyy otvet, chtoby ne sorvat'sya",
+      "category": "Patience",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Stay kind, even when it takes.",
+      "russian": "Будь мягче, даже если всё тянется.",
+      "transliteration": "Bud' myagche, dazhe esli vsyo tyanetsya",
+      "category": "Patience",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Keep your pace, not your panic.",
+      "russian": "Держи ритм, а не панику.",
+      "transliteration": "Derzhi ritm, a ne paniku",
+      "category": "Patience",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "You can pause without quitting.",
+      "russian": "Можно сделать паузу, но не уходить.",
+      "transliteration": "Mozhno sdelat' pauzu, no ne ukhodyt'",
+      "category": "Patience",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Let time do the persuading.",
+      "russian": "Пусть время убедит вместо тебя.",
+      "transliteration": "Pust' vremya ubedit vmesto tebya",
+      "category": "Patience",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Trust the process, not instant results.",
+      "russian": "Верь процессу, а не мгновенному результату.",
+      "transliteration": "Ver' protsessu, a ne mgnovennomu rezul'tatu",
+      "category": "Patience",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Strength starts with how you talk to yourself",
+      "russian": "Сила начинается с того, как ты с собой говоришь.",
+      "transliteration": "SIL-a nachinaetsya s togo, kak ty s soboy govorish.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "I can do this, one hard minute",
+      "russian": "Я могу это, всего один трудный минута.",
+      "transliteration": "Ya mogu eto, vsogo odin TRUD-nyi MINU-ta.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Hold on, then take the next step",
+      "russian": "Терпи, а потом сделай следующий шаг.",
+      "transliteration": "TER-pi, a POTOM sdelay sle-duyushchiy SHAG.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Set a boundary, then keep your pace",
+      "russian": "Поставь границу, и держи свой темп.",
+      "transliteration": "POS-tav granitsu, i derzhi svoy TEMP.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Let your body lead, not your panic",
+      "russian": "Пусть тело ведет, а не паника.",
+      "transliteration": "Pust te-blo ve-det, a ne pa-NI-ka.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Strong voice, slow breath, clear words",
+      "russian": "Сильный голос, медленное дыхание, ясные слова.",
+      "transliteration": "SIL-nyi GO-LOS, MED-len-noe dy-ha-nie, YAS-nyye slo-va.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "When I shake, I still show up",
+      "russian": "Когда меня трясет, я все равно прихожу.",
+      "transliteration": "Kog-da me-nya TRYaset, ya vse rav-no pri-ho-zhu.",
+      "category": "Strength",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Keep your heart open today",
+      "russian": "Держи сердце открытым сегодня.",
+      "transliteration": "Derzhi SERdtse otkrytym segodnya.",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Happiness is choosing to notice",
+      "russian": "Счастье в том, чтобы замечать.",
+      "transliteration": "Schastye v tom, chtoby zamechat'.",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Let compliments land, not bounce off",
+      "russian": "Позволь комплиментам доходить до тебя.",
+      "transliteration": "Pozvol' komplimentam dokhodit' do tebya.",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Fix one thing, then breathe",
+      "russian": "Почини одно дело, потом вдохни свободно.",
+      "transliteration": "Pochini odno delo, potom vdhni svobodno.",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Make space for play, even now",
+      "russian": "Оставь место для игры, даже сейчас.",
+      "transliteration": "Ostav' mesto dlya igry, dazhe sejchas.",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Choose water over worries",
+      "russian": "Выбирай воду вместо тревог.",
+      "transliteration": "Vybiraj vodo vmesto trevog.",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:02:10.507384"
+    },
+    {
+      "english": "Say спасибо for the small things",
+      "russian": "Говори спасибо за мелочи.",
+      "transliteration": "Govori SPASibo za MElochi.",
+      "category": "Happiness",
+      "generated_at": "2026-11-27T00:02:10.507384"
     }
   ],
-  "last_updated": "2026-11-25T23:48:56.175298"
+  "last_updated": "2026-11-27T00:02:10.507384"
 }
